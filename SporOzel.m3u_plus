@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
+http://4kplus.org:80/live/rocky42/rM6thgucV9/63597.ts
+#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
+http://c56595d7.ottrast.com:80/iptv/VX4SGAU766E3V7/6939/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
+http://audi.mochaiptv.xyz:8000/live/digiciemanuel/digiciXYZ10/86232.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
+http://21929815.rossteleccom.net:80/iptv/VX4SGAU766E3V7/6781/index.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
+http://sssxxx.tk:8080/live/stremlocal1047/ER7UVVyGzwtdGra/4648.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
+http://live-tv.uk:8080/live/Genip_Iptv/BRO_Skype_5826274682946/583.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED1
+http://81duzceiptv.com:4512/live/tropicalkopru/dP9CHaYGIQ/40759.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
+http://sssxxx.tk:8080/live/stremlocal1047/ER7UVVyGzwtdGra/4650.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv
+http://srvccc.story71328block.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports UHD 2
+http://sssxxx.tk:8080/live/stremlocal1047/ER7UVVyGzwtdGra/4651.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
+http://c56595d7.ottrast.com:80/iptv/VX4SGAU766E3V7/6819/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports UHD 3
+http://sssxxx.tk:8080/live/stremlocal1047/ER7UVVyGzwtdGra/4653.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports FHD 3
+http://21929815.rossteleccom.net:80/iptv/VX4SGAU766E3V7/6821/index.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports UHD 4
+http://sssxxx.tk:8080/live/stremlocal1047/ER7UVVyGzwtdGra/4655.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports FHD 4
+http://21929815.rossteleccom.net:80/iptv/VX4SGAU766E3V7/6823/index.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="SPOR KANALI",BeIN Spor UHD 5
+http://audi.mochaiptv.xyz:8000/live/digiciemanuel/digiciXYZ10/132294.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="SPOR KANALI",BeIN Spor FHD 5
+http://sssxxx.tk:8080/live/stremlocal1047/ER7UVVyGzwtdGra/27608.m3u8
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 HD
+http://sssxxx.tk:8080/live/stremlocal1047/ER7UVVyGzwtdGra/4657.m3u8
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 HD
+http://sssxxx.tk:8080/live/stremlocal1047/ER7UVVyGzwtdGra/4659.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001222/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPO_TiETZ6gzmgSLCw%3D%3D&tertcomzli.main000000000000000000000000000000000000000000000000000000000000000001222D
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001223/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPO_TiETZ6gzmgSLCw%3D%3D&tertcomzlivezli.ma10&virtcomflag=5&vir
+
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 1
+http://local.liveline.nu:2085/play/a01h
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 2
+http://local.liveline.nu:2085/play/a0dr
+
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 1
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001265/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPO_iETZ6gzmgSLCw%3D%3D&terminaleintehlif1.ma1&virtcommflag=5&virr
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001273/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&tertcomzlivezli.ma10&virtcomflag=5&vir
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI", Tivibu Spor 3
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001291/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminaleintehlif1.ma1&virtcomflag=5&vir
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 HD" tvg-logo="http://logo.apk-red.com/cdn/pluspanel/spor/tivibu%20spor%204. png" group-title="SPOR KANALI",Tivibu Spor 4 HD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001266/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&tertcomintehl 0000000000000000000000000000000000000000000001266/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 5 HD" tvg-logo="http://logo.apk-red.com/cdn/pluspanel/spor/tivibu%20spor%204. png" group-title="SPOR KANALI",Tivibu Spor 5 HD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001841/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPO_iETZ6gzmgSLCw%3D%3D&ternet.000000&virtcom.m3D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001164/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPO_iETZ6gzmgSLCw%3D%3D&tertcomzlivezli.ma10&virtcomflag=5&vir
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR UHD
+http://195.175.224.219:6610/001/2/ch00000090990000001019/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001162&virtualDomain=001.live_hls.zte.com&ispcode =75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
+https://doksan.futbol:443/live/mytvzeus/Kg9p1uM7b8/38.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
+https://doksan.futbol:443/live/mytvzeus/Kg9p1uM7b8/39.ts
+#EXTINF:-1 TRT SPOR 3 group-title="SPOR KANALI", TRT SPOR 3
+http://bit.ly/3AQvd05
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Spor TV HD
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
