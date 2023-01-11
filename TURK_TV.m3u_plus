@@ -3,6 +3,20 @@
 http://audi.mochaiptv.xyz:8000/live/digiciemanuel/digiciXYZ10/1231.ts
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
 http://4kplus.org:80/live/rocky42/rM6thgucV9/63597.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="| VIP | X Feed 1 4K HiGH BiTRATE" tvg-logo="http://XFEEDip.tv:8080/images/36-uXdfmHq-5Jcl62rZuVX4QseBlfq9im6Sx6vslksoOoX83hCtCWKNMijWx6lsJBvEhPoGRhFogQ96getTfKA.png" group-title="SPOR KANALI",| VIP | X Feed 1 4K HiGH BiTRATE
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168560.ts
+#EXTINF:-1 tvg-id="" tvg-name="| VIP | X Feed 1 4K LOW BiTRATE" tvg-logo="http://XFEEDip.tv:8080/images/36-uXdfmHq-5Jcl62rZuVX4QseBlfq9im6Sx6vslksoOoX83hCtCWKNMijWx6lsJBvEhPoGRhFogQ96getTfKA.png" group-title="SPOR KANALI",| VIP | X Feed 1 4K LOW BiTRATE
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168561.ts
+#EXTINF:-1 tvg-id="" tvg-name="| VIP | X Feed 1 FHD" tvg-logo="http://XFEEDip.tv:8080/images/36-uXdfmHq-5Jcl62rZuVX4QseBlfq9im6Sx6vslksoOoX83hCtCWKNMijWx6lsJBvEhPoGRhFogQ96getTfKA.png" group-title="SPOR KANALI",| VIP | X Feed 1 FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168562.ts
+#EXTINF:-1 tvg-id="" tvg-name="| VIP | X Feed 1 HD" tvg-logo="http://XFEEDip.tv:8080/images/36-uXdfmHq-5Jcl62rZuVX4QseBlfq9im6Sx6vslksoOoX83hCtCWKNMijWx6lsJBvEhPoGRhFogQ96getTfKA.png" group-title="SPOR KANALI",| VIP | X Feed 1 HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168563.ts
+#EXTINF:-1 tvg-id="" tvg-name="| VIP | X Feed 2 FHD" tvg-logo="http://XFEEDip.tv:8080/images/36-uXdfmHq-5Jcl62rZuVX4QseBlfq9im6Sx6vslksoOoX83hCtCWKNMijWx6lsJBvEhPoGRhFogQ96getTfKA.png" group-title="SPOR KANALI",| VIP | X Feed 2 FHD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168564.ts
+#EXTINF:-1 tvg-id="" tvg-name="| VIP | X Feed 2 HD" tvg-logo="http://XFEEDip.tv:8080/images/36-uXdfmHq-5Jcl62rZuVX4QseBlfq9im6Sx6vslksoOoX83hCtCWKNMijWx6lsJBvEhPoGRhFogQ96getTfKA.png" group-title="SPOR KANALI",| VIP | X Feed 2 HD
+http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168565.ts
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
 http://budurtivi.co:8080/live/ipturk/1wnDZsdfuUYJ9sdfsfs/48719.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
