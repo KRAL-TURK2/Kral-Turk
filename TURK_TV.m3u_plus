@@ -427,47 +427,212 @@ http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 http://159.89.20.0/satontv3_hdtv/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/Visnwr4.png" group-title="ÇOCUK KANALI", TRT Çocuk
-https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/Visnwr4.png" group-title="ÇOCUK KANALI" , TRT Çocuk
-https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI", Minika Çocuk
-http://213.172.73.172:8081/nimble_live/2046_minika_COCUK/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI" , Minika Çocuk
-http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Minika Go" tvg-logo="https://i.imgur.com/1SaT0la.png" group-title="ÇOCUK KANALI" , Minika Go
-http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Minika Go" tvg-logo="https://i.imgur.com/1SaT0la.png" group-title="ÇOCUK KANALI" , Minika Go
-http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/Vw6hE9i.png" group-title="ÇOCUK KANALI" , Cartoon Network
-http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartoon.Network.tr" tvg-name="TR: CARTOON NETWORK" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05 /cn-loho.png" group-title="ÇOCUK KANALI",CARTOON NETWORK
-http://195.175.224.218:6610/001/2/ch00000090990000001202/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001202&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 tvg-id="Disney.Channel.tr" tvg-name="TR: DISNEY CHANNEL" tvg-logo="https://www.superkabonet.com/yukleme/download/130.png" group -title="ÇOCUK KANALI",DISNEY CHANNEL
-http://ip.spybox.xyz:8000/live/jqxmg200522QSC/jqxmg200522QSC/936.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://bit.ly/3wYQbHZ
-#EXTINF:-1,DA VINCI
-http://195.175.224.219:6610/001/2/ch00000090990000001042/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001042&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 tvg-id="BOOMERANG.HD.tr" tvg-name="TR: BOOMERANG TV" tvg-logo="https://www.fashionluxury.info/wp-content/uploads/2019/09 /217.png" group-title="ÇOCUK KANALI",BOOMERANG TV
-http://195.175.224.219:6610/001/2/ch00000090990000001179/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001179&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 tvg-id="Baby.TV.tr" tvg-name="TR: BABY TV" tvg-logo="https://www.superkablonet.com/yukleme/download/278.png" grubu -title="ÇOCUK KANALI",BEBEK TV
-http://195.175.224.218:6610/001/2/ch00000090990000001130/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001130&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1,DUCK TV
-http://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,NICKTOONS
-http://195.175.224.218:6610/001/2/ch00000090990000001214/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001214&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 tvg-id="" tvg-name="EBA TV İlkokul" tvg-logo="https://i.imgur.com/O8KPQ9J.png" group-title="ÇOCUK KANALI" , EBA TV İlkokul
-https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EBA TV Ortaokul" tvg-logo="https://i.imgur.com/G6Vo5OH.png" group-title="ÇOCUK KANALI" , EBA TV Ortaokul
-https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EBA TV Lise" tvg-logo="https://i.imgur.com/U7sTha8.png" group-title="ÇOCUK KANALI" , EBA TV Lise
-https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
-
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR: TRT COCUK HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/trtcocukhd.png" group-title="TR ➾ COCUK",TR: TRT COCUK HD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/2031
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR: TRT COCUK FHD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/trtcocukfhd.png" group-title="TR ➾ COCUK",TR: TRT COCUK FHD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/94251
+#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV FHD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/babytvhd.png" group-title="TR ➾ COCUK",TR: BABY TV FHD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/2040
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="TR: NICKELODEON HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/nickelodeonhd.png" group-title="TR ➾ COCUK",TR: NICKELODEON HD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/2032
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICK JR HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/nickjrhd.png" group-title="TR ➾ COCUK",TR: NICK JR HD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/2033
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICKTOONS" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/nictoonshd.png" group-title="TR ➾ COCUK",TR: NICKTOONS
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/103066
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY JR HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/disneyjrhd.png" group-title="TR ➾ COCUK",TR: DISNEY JR HD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/2036
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENGLISH CLUB" tvg-logo="https://i.imgur.com/MYzuvLM.png" group-title="TR ➾ COCUK",TR: ENGLISH CLUB
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/360049
+#EXTINF:-1 tvg-id="" tvg-name="TR: CBEEBiES" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/cbeebieshd.png" group-title="TR ➾ COCUK",TR: CBEEBiES
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/2038
+#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCi KIDS HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/davincikids.png" group-title="TR ➾ COCUK",TR: DA VINCi KIDS HD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/2039
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/boomeranghd.png" group-title="TR ➾ COCUK",TR: BOOMERANG HD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/94255
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG FHD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/boomerangfhd.png" group-title="TR ➾ COCUK",TR: BOOMERANG FHD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/2041
+#EXTINF:-1 tvg-id="" tvg-name="TR: COCUK SMART" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/cocuk.png" group-title="TR ➾ COCUK",TR: COCUK SMART
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/26000
+#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/cartoonnetworkhd.png" group-title="TR ➾ COCUK",TR: CARTOON NETWORK HD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/2042
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: MINIKA COCUK HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/minikacocukhd.png" group-title="TR ➾ COCUK",TR: MINIKA COCUK HD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/2044
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="TR: Minika GO" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/minikagohd.png" group-title="TR ➾ COCUK",TR: Minika GO
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/34302
+#EXTINF:-1 tvg-id="" tvg-name="TR: PUBG 7/24" tvg-logo="https://i.imgur.com/jF0gmEI.png" group-title="TR ➾ COCUK",TR: PUBG 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/184469
+#EXTINF:-1 tvg-id="" tvg-name="TR: Canım Kardeşim 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/canimkardesimcocuk1.png" group-title="TR ➾ COCUK",TR: Canım Kardeşim 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328219
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cocomelon TV" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/cocomeloncocuk.png" group-title="TR ➾ COCUK",TR: Cocomelon TV
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328241
+#EXTINF:-1 tvg-id="" tvg-name="TR: Booba ToonsTV FHD" tvg-logo="https://i.imgur.com/RXZRecR.png" group-title="TR ➾ COCUK",TR: Booba ToonsTV FHD
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/183541
+#EXTINF:-1 tvg-id="" tvg-name="TR: Adisebaba Masalları 7/24 - 1" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/created.channels/trcocuk/veracocuk.png" group-title="TR ➾ COCUK",TR: Adisebaba Masalları 7/24 - 1
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/363852
+#EXTINF:-1 tvg-id="" tvg-name="TR: Adisebaba Masalları 7/24 - 2" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/created.channels/trcocuk/veracocuk.png" group-title="TR ➾ COCUK",TR: Adisebaba Masalları 7/24 - 2
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/363853
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bibercik" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/biberciktv.png" group-title="TR ➾ COCUK",TR: Bibercik
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/200030
+#EXTINF:-1 tvg-id="" tvg-name="TR: Hop Hop Baykuş 7/24" tvg-logo="https://i.imgur.com/aQTas4T.png" group-title="TR ➾ COCUK",TR: Hop Hop Baykuş 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/200048
+#EXTINF:-1 tvg-id="" tvg-name="TR: Harika Kanatlar 7/24" tvg-logo="https://i.imgur.com/lrWArJN.png" group-title="TR ➾ COCUK",TR: Harika Kanatlar 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/342796
+#EXTINF:-1 tvg-id="" tvg-name="TR: Antiks 7/24" tvg-logo="https://i.imgur.com/kESz4uh.png" group-title="TR ➾ COCUK",TR: Antiks 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/330723
+#EXTINF:-1 tvg-id="" tvg-name="TR: DreamWorks Dragons 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/dreamworksdragonscocuk.png" group-title="TR ➾ COCUK",TR: DreamWorks Dragons 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328247
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ejderhalar Prensi 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/ejderhalarprensicocuk.png" group-title="TR ➾ COCUK",TR: Ejderhalar Prensi 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328302
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gigantosaurus 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/gigantosauruscocuk.png" group-title="TR ➾ COCUK",TR: Gigantosaurus 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328319
+#EXTINF:-1 tvg-id="" tvg-name="TR: Casper 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/caspercocuk.png" group-title="TR ➾ COCUK",TR: Casper 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328226
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cadılar Okulu 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/cadilarokulucocuk.png" group-title="TR ➾ COCUK",TR: Cadılar Okulu 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328218
+#EXTINF:-1 tvg-id="" tvg-name="TR: Paw Patrol" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/paw.patrol.tr.png" group-title="TR ➾ COCUK",TR: Paw Patrol
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/199962
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ben 10 - 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/ben10cocuk.png" group-title="TR ➾ COCUK",TR: Ben 10 - 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328214
+#EXTINF:-1 tvg-id="" tvg-name="TR: Beyblade 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/beybladecocuk.png" group-title="TR ➾ COCUK",TR: Beyblade 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328216
+#EXTINF:-1 tvg-id="" tvg-name="TR: Angry Birds 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/angrybirdscocuk.png" group-title="TR ➾ COCUK",TR: Angry Birds 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328212
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arı Maya 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/arimayacocuk.png" group-title="TR ➾ COCUK",TR: Arı Maya 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/327824
+#EXTINF:-1 tvg-id="" tvg-name="TR: Elif ve Arkadaşları 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/elifvearkadaslari.png" group-title="TR ➾ COCUK",TR: Elif ve Arkadaşları 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328316
+#EXTINF:-1 tvg-id="" tvg-name="TR: Elifin Düşleri 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/elifvearkadaslari.png" group-title="TR ➾ COCUK",TR: Elifin Düşleri 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328317
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gabbynin Hayal Evi 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/gabbyninhayalevicocuk.png" group-title="TR ➾ COCUK",TR: Gabbynin Hayal Evi 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328318
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ege ile Gaga 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/egeilegaga.png" group-title="TR ➾ COCUK",TR: Ege ile Gaga 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328248
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bulut Bebekler 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/bulutbebeklercocuk.png" group-title="TR ➾ COCUK",TR: Bulut Bebekler 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328217
+#EXTINF:-1 tvg-id="" tvg-name="TR: Z Takımı 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/ztakimicocuk.png" group-title="TR ➾ COCUK",TR: Z Takımı 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/327849
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yıldız Kız 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/yildizkizcocuk.png" group-title="TR ➾ COCUK",TR: Yıldız Kız 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/327850
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sevimli Dostlar 1" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/sevimlidostlarlogo.png" group-title="TR ➾ COCUK",TR: Sevimli Dostlar 1
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/199964
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nikita ve Vlad 1" tvg-logo="https://i.imgur.com/EbzWWO3.png" group-title="TR ➾ COCUK",TR: Nikita ve Vlad 1
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365024
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nikita ve Vlad 2" tvg-logo="https://i.imgur.com/EbzWWO3.png" group-title="TR ➾ COCUK",TR: Nikita ve Vlad 2
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365025
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nikita ve Vlad 3" tvg-logo="https://i.imgur.com/EbzWWO3.png" group-title="TR ➾ COCUK",TR: Nikita ve Vlad 3
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365026
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nikita ve Vlad 4" tvg-logo="https://i.imgur.com/EbzWWO3.png" group-title="TR ➾ COCUK",TR: Nikita ve Vlad 4
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365027
+#EXTINF:-1 tvg-id="" tvg-name="TR: KELOGLAN 7/24 - 1 " tvg-logo="https://i.imgur.com/lhNJl2Q.png" group-title="TR ➾ COCUK",TR: KELOGLAN 7/24 - 1 
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/364272
+#EXTINF:-1 tvg-id="" tvg-name="TR: KELOGLAN 7/24 - 2" tvg-logo="https://i.imgur.com/lhNJl2Q.png" group-title="TR ➾ COCUK",TR: KELOGLAN 7/24 - 2
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/364273
+#EXTINF:-1 tvg-id="" tvg-name="TR: KUKULİ 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/kukuli.png" group-title="TR ➾ COCUK",TR: KUKULİ 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/357823
+#EXTINF:-1 tvg-id="" tvg-name="TR: PEPEE TV 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/pepe-tv.png" group-title="TR ➾ COCUK",TR: PEPEE TV 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/362998
+#EXTINF:-1 tvg-id="" tvg-name="TR: Maşa ile Koca Ayı 1" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/masailekocaayihd.png" group-title="TR ➾ COCUK",TR: Maşa ile Koca Ayı 1
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/102625
+#EXTINF:-1 tvg-id="" tvg-name="TR: Maşa ile Koca Ayı 2" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/masailekocaayihd.png" group-title="TR ➾ COCUK",TR: Maşa ile Koca Ayı 2
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/146834
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dijital Tayfa 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/dijitaltayfacocuk.png" group-title="TR ➾ COCUK",TR: Dijital Tayfa 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328246
+#EXTINF:-1 tvg-id="" tvg-name="TR: Niloya 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/niloya-tv.png" group-title="TR ➾ COCUK",TR: Niloya 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/140479
+#EXTINF:-1 tvg-id="" tvg-name="TR: Niloya Karışık" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/niloya-tv.png" group-title="TR ➾ COCUK",TR: Niloya Karışık
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/140480
+#EXTINF:-1 tvg-id="" tvg-name="TR: VERAKIDS Kral Şakir 1" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/kralsakirhd.png" group-title="TR ➾ COCUK",TR: VERAKIDS Kral Şakir 1
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/102053
+#EXTINF:-1 tvg-id="" tvg-name="TR: VERAKIDS Kral Şakir 2" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/kralsakirhd.png" group-title="TR ➾ COCUK",TR: VERAKIDS Kral Şakir 2
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/102219
+#EXTINF:-1 tvg-id="" tvg-name="TR: VERAKIDS Kral Şakir 3" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/kralsakirhd.png" group-title="TR ➾ COCUK",TR: VERAKIDS Kral Şakir 3
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/102605
+#EXTINF:-1 tvg-id="" tvg-name="TR: VERAKIDS Kral Şakir 4" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/kralsakirhd.png" group-title="TR ➾ COCUK",TR: VERAKIDS Kral Şakir 4
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/102606
+#EXTINF:-1 tvg-id="" tvg-name="TR: Heidi 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/heidicocuk.png" group-title="TR ➾ COCUK",TR: Heidi 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328325
+#EXTINF:-1 tvg-id="" tvg-name="TR: Limon ile Zeytin 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/limonilezeytincocuk.png" group-title="TR ➾ COCUK",TR: Limon ile Zeytin 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/362352
+#EXTINF:-1 tvg-id="" tvg-name="TR: Şirinler 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/sirinlercocuk.png" group-title="TR ➾ COCUK",TR: Şirinler 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/362353
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tenten ve Maceraları 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/tentenmaceralaricocuk.png" group-title="TR ➾ COCUK",TR: Tenten ve Maceraları 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/362354
+#EXTINF:-1 tvg-id="" tvg-name="TR: Peppa Pig 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/peppapigcocuk.png" group-title="TR ➾ COCUK",TR: Peppa Pig 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/362355
+#EXTINF:-1 tvg-id="" tvg-name="TR: Konuşan Tom 7/24" tvg-logo="https://i.imgur.com/MJ326ph.png" group-title="TR ➾ COCUK",TR: Konuşan Tom 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/362356
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kukuli 1 - 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/kukulicocuk.png" group-title="TR ➾ COCUK",TR: Kukuli 1 - 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/362357
+#EXTINF:-1 tvg-id="" tvg-name="TR: Baby Alive TV" tvg-logo="" group-title="TR ➾ COCUK",TR: Baby Alive TV
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/200046
+#EXTINF:-1 tvg-id="" tvg-name="TR: KızVızVız" tvg-logo="" group-title="TR ➾ COCUK",TR: KızVızVız
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/200049
+#EXTINF:-1 tvg-id="" tvg-name="TR: Barbie Oyunları TV" tvg-logo="" group-title="TR ➾ COCUK",TR: Barbie Oyunları TV
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/200050
+#EXTINF:-1 tvg-id="" tvg-name="TR: Pijamaskeliler TV" tvg-logo="" group-title="TR ➾ COCUK",TR: Pijamaskeliler TV
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/200052
+#EXTINF:-1 tvg-id="" tvg-name="TR: Oyna Hadi" tvg-logo="" group-title="TR ➾ COCUK",TR: Oyna Hadi
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/200123
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yardımcı Arabalar" tvg-logo="" group-title="TR ➾ COCUK",TR: Yardımcı Arabalar
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/200126
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gürültü Ailesi 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/gurultuailesicocuk.png" group-title="TR ➾ COCUK",TR: Gürültü Ailesi 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328323
+#EXTINF:-1 tvg-id="" tvg-name="TR: He-Man 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/hemancocuk.png" group-title="TR ➾ COCUK",TR: He-Man 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/328324
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yenilmezler 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/yenilmezlercocuk.png" group-title="TR ➾ COCUK",TR: Yenilmezler 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365028
+#EXTINF:-1 tvg-id="" tvg-name="TR: Word Party 1 - 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/worldpartycocuk.png" group-title="TR ➾ COCUK",TR: Word Party 1 - 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365030
+#EXTINF:-1 tvg-id="" tvg-name="TR: Word Party 2 - 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/worldpartycocuk.png" group-title="TR ➾ COCUK",TR: Word Party 2 - 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365031
+#EXTINF:-1 tvg-id="" tvg-name="TR: True ve Gökkuşağı Krallığı 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/truevegokkusagicocuk.png" group-title="TR ➾ COCUK",TR: True ve Gökkuşağı Krallığı 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365032
+#EXTINF:-1 tvg-id="" tvg-name="TR: She Ra 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/sheracocuk.png" group-title="TR ➾ COCUK",TR: She Ra 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365033
+#EXTINF:-1 tvg-id="" tvg-name="TR: Şeker Hoca 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/sekerhocacocuk.png" group-title="TR ➾ COCUK",TR: Şeker Hoca 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365060
+#EXTINF:-1 tvg-id="" tvg-name="TR: Robocar Poli 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/robocarpolicocuk.png" group-title="TR ➾ COCUK",TR: Robocar Poli 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365061
+#EXTINF:-1 tvg-id="" tvg-name="TR: Red Kit 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/redkitcocuk.png" group-title="TR ➾ COCUK",TR: Red Kit 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365062
+#EXTINF:-1 tvg-id="" tvg-name="TR: Red Kit 2 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/redkitcocuk.png" group-title="TR ➾ COCUK",TR: Red Kit 2 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365065
+#EXTINF:-1 tvg-id="" tvg-name="TR: Red Kit 3 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/redkitcocuk.png" group-title="TR ➾ COCUK",TR: Red Kit 3 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365066
+#EXTINF:-1 tvg-id="" tvg-name="TR: Pırıl 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/pirilcocuk.png" group-title="TR ➾ COCUK",TR: Pırıl 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365067
+#EXTINF:-1 tvg-id="" tvg-name="TR: Pembe Panter 1 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/pembepantercocuk.png" group-title="TR ➾ COCUK",TR: Pembe Panter 1 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365068
+#EXTINF:-1 tvg-id="" tvg-name="TR: Pembe Panter 2 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/pembepantercocuk.png" group-title="TR ➾ COCUK",TR: Pembe Panter 2 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365070
+#EXTINF:-1 tvg-id="" tvg-name="TR: Paw Patrol 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/pawpatrolcocuk.png" group-title="TR ➾ COCUK",TR: Paw Patrol 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365071
+#EXTINF:-1 tvg-id="" tvg-name="TR: Patron Bebek 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/patronbebekcocuk.png" group-title="TR ➾ COCUK",TR: Patron Bebek 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365072
+#EXTINF:-1 tvg-id="" tvg-name="TR: Müfettiş Gadget 2 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/mufettisgadgetcocuk.png" group-title="TR ➾ COCUK",TR: Müfettiş Gadget 2 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365073
+#EXTINF:-1 tvg-id="" tvg-name="TR: Maysa ve Bulut 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/maysavebulutcocuk.png" group-title="TR ➾ COCUK",TR: Maysa ve Bulut 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365074
+#EXTINF:-1 tvg-id="" tvg-name="TR: Louie 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/louiecocuk.png" group-title="TR ➾ COCUK",TR: Louie 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365075
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral Julien 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/kraljulien.png" group-title="TR ➾ COCUK",TR: Kral Julien 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365076
+#EXTINF:-1 tvg-id="" tvg-name="TR: Koyun Shaun 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/koyunshauncocuk.png" group-title="TR ➾ COCUK",TR: Koyun Shaun 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365077
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kedi Pete 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/kedipetecocuk.png" group-title="TR ➾ COCUK",TR: Kedi Pete 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365078
+#EXTINF:-1 tvg-id="" tvg-name="TR: Jetgiller 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/jetgillercocuk.png" group-title="TR ➾ COCUK",TR: Jetgiller 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365079
+#EXTINF:-1 tvg-id="" tvg-name="TR: İtfaiyeci Sam 1 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/itfaiyecisamcocuk.png" group-title="TR ➾ COCUK",TR: İtfaiyeci Sam 1 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365080
+#EXTINF:-1 tvg-id="" tvg-name="TR: İtfaiyeci Sam 2 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/itfaiyecisamcocuk.png" group-title="TR ➾ COCUK",TR: İtfaiyeci Sam 2 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365082
+#EXTINF:-1 tvg-id="" tvg-name="TR: İbi 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/ibicocuk.png" group-title="TR ➾ COCUK",TR: İbi 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365083
+#EXTINF:-1 tvg-id="" tvg-name="TR: Hilda 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/hildacocuk.png" group-title="TR ➾ COCUK",TR: Hilda 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365084
+#EXTINF:-1 tvg-id="" tvg-name="TR: Hello Ninja 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/helloninjacocuk.png" group-title="TR ➾ COCUK",TR: Hello Ninja 7/24
+http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365085
 
 #EXTM3U
 #EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",TRT BELGESEL HD
