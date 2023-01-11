@@ -635,45 +635,56 @@ http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365084
 http://budurtivi.co:8080/ipturk/1wnDZsdfuUYJ9sdfsfs/365085
 
 #EXTM3U
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",TRT BELGESEL HD
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",DMAX HD
-http://195.175.224.219:6610/001/2/ch00000090990000001139/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001139&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",TLC HD
-http://195.175.224.218:6610/001/2/ch00000090990000001246/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001246&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",YABAN TV HD
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="TR: BELGESEL",YABAN TV HD
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",TGRT BELGESEL HD
+#EXTINF:-1 tvg-logo=""tvg-id="" group-title="TR: BELGESEL",TGRT BELGESEL HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
 
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",NATIONAL GEOGRAPHIC HD
-http://195.175.224.219:6610/001/2/ch00000090990000001195/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001195&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",NAT GEO WILD HD
-http://195.175.224.218:6610/001/2/ch00000090990000001213/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001213&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY CHANNEL HD
-http://195.175.224.219:6610/001/2/ch00000090990000001355/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001355&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY SCIENCE HD
-http://195.175.224.219:6610/001/2/ch00000090990000001136/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001136&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=SVErhruR3EWtSfvIEa3e-m2DvUNBzid0uSZLiXg?ext=.ts
-
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY ID HD
-http://195.175.224.219:6610/001/2/ch00000090990000001205/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001205&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",BBC EARTH HD
-http://195.175.224.219:6610/001/2/ch00000090990000001352/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001352&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",HISTORY HD
-http://195.175.224.219:6610/001/2/ch00000090990000001173/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001173&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",Viasat HISTORY HD
-http://195.175.224.219:6610/001/2/ch00000090990000001771/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001771&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",BEIN GURME HD
-http://21929815.rossteleccom.net:80/iptv/ZA9N4BRQTKCS9V/6804/index.ts
-#EXTINF:-1 tvg-logo=""tvg-id="" group-title="BELGESEL",BEIN İZ HD
-http://rastawxo.biz:9198/live/emraH9Inan/o7CXDRFhJA/1237.m3u8
-#EXTINF:-1,NTD BELGESEL
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN IZ HD" tvg-logo="" group-title="TR: BELGESEL",TR: beIN IZ HD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2512
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN GURME HD" tvg-logo="" group-title="TR: BELGESEL",TR: beIN GURME HD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/7281
+#EXTINF:-1 tvg-id="" tvg-name="TR: HİSTORY HD" tvg-logo="" group-title="TR: BELGESEL",TR: HİSTORY HD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2495
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel HD" tvg-logo="" group-title="TR: BELGESEL",TR: TRT Belgesel HD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2498
+#EXTINF:-1 tvg-id="" tvg-name="TR: History Channel HD" tvg-logo="" group-title="TR: BELGESEL",TR: History Channel HD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2504
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo HD" tvg-logo="" group-title="TR: BELGESEL",TR: Nat Geo HD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2505
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo Wild HD" tvg-logo="" group-title="TR: BELGESEL",TR: Nat Geo Wild HD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2507
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery IDX" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery IDX
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2496
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery Channel
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2501
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery IDX HD" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery IDX HD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2502
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL" tvg-logo="" group-title="TR: BELGESEL",TR: DISCOVERY CHANNEL
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2516
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE FHD" tvg-logo="" group-title="TR: BELGESEL",TR: DISCOVERY SCIENCE FHD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/7282
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Turbo Extra HD" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery Turbo Extra HD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/15387
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="" group-title="TR: BELGESEL",TR: TLC
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2499
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yaban TV" tvg-logo="" group-title="TR: BELGESEL",TR: Yaban TV
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2508
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX" tvg-logo="" group-title="TR: BELGESEL",TR: DMAX
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2509
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH" tvg-logo="" group-title="TR: BELGESEL",TR: BBC EARTH
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/15386
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fox Crime FHD" tvg-logo="" group-title="TR: BELGESEL",TR: Fox Crime FHD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2511
+#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci Learning HD" tvg-logo="" group-title="TR: BELGESEL",TR: Da Vinci Learning HD
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2514
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY" tvg-logo="" group-title="TR: BELGESEL",TR: VIASAT HISTORY
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/6620
+#EXTINF:-1 tvg-id="" tvg-name="TR: WOMAN KADIN TV" tvg-logo="" group-title="TR: BELGESEL",TR: WOMAN KADIN TV
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/2500
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tarih TV" tvg-logo="" group-title="TR: BELGESEL",TR: Tarih TV
+http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/27607
+#EXTINF:-1 group-title="TR: BELGESEL" ,NTD BELGESEL
 https://tv.ntnhd.com:3189/multi_web/play_1080.m3u8
 
 #EXTM3U
