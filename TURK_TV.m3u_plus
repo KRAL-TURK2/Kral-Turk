@@ -681,41 +681,10 @@ https://tv.ntnhd.com:3189/multi_web/play_1080.m3u8
 https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SİNEMA KANALLARI",PLAY 2
 https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
-#EXTINF:-1,group-title="SİNEMA KANALLARI", FX
-http://bit.ly/38XSbZ5
-#EXTINF:-1,group-title="SİNEMA KANALLARI", FOXSUÇ
-http://bit.ly/3wZPHTv
-#EXTINF:-1,group-title="SİNEMA KANALLARI, SINEMA TV 1
-http://bit.ly/3GytGyk
-#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV 2
-http://bit.ly/3GwxVu7
-#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV AKSIYON
-http://bit.ly/3a93XjP
-#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV AKSIYON 2
-http://bit.ly/3wXhGTL
-#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV YERLİ 1
-http://bit.ly/3N3z7Yk
-#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV YERLİ 2
-http://bit.ly/3LXuptR
-#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV KOMEDİ 1
-http://bit.ly/3N2PnbW
-#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV KOMEDİ 2
-http://bit.ly/3PR0I0A
-#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV AİLE 2
-http://bit.ly/3N1fKiq
-#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV AİLE 2
-http://bit.ly/38uoJdb
-#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV 1001
-http://bit.ly/3lWMTjI
-#EXTINF:-1,group-title="SİNEMA KANALLARI", SINEMA TV 1002
-http://bit.ly/3a7nIYL
 #EXTINF:-1, NTD YESILCAM SİNEMA 
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 
-#EXTINF:-1 group-title="SİNEMA KANALLARI" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiXtvnB2Y-EpgRhg7-lrPLW63bO4eu6e55hpEUY6enrPZhDjIAUx_ZPq6njr_Zjp0_BG6xFMNsMP6CuCC7B8GTZwvpZQKSwwURT6aI5-B0jyFu9V2T5yDihQriPO-CX5ObpQUccQty2iLdLwQ0k9utaqnFdgUFpGjGYrKQVZ05wyb9lkeFoSpwmrHlMQ /w200-h33/AFYONTV.PNG", AFYON TÜRK HD
-http://161.35.68.14/afyonturktvtr/index.m3u8
-#EXTINF:-1 group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-m8DVrO62bLs/X0Dv4yXwCPI/AAAAAAAAOaQ/OHZMsPXfYtcTK52mc9JaEUNATQmp_ 25C4%25B0FTV.png", AKTİF TV HD
-http://aktif2830.ozelip.com:30124/aktif/aktif/chunklist.m3u8
+
 #EXTINF:-1 group-title="SİNEMA KANALLARI" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhz4sYYIvpzNUFxVd3__kQlEVO5aS3yr59GuzEGTsB3HzYOi3_1E9RPPackJHE5QOnfuuCrjrY26N7Q3LFcgXKRsARuoEv1VHLWLWM6h9tghF0TMq75eIBo1oRpoKml4dmfNrRdWuz-h7sOtYKfKVfRMa9JyjAJS_2Wn3fYehIlGGIcN6yfJHULn5KNcQ=w147-h40", BEYAZ DiZi HD
 http://cdn-beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SİNEMA KANALLARI" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhz4sYYIvpzNUFxVd3__kQlEVO5aS3yr59GuzEGTsB3HzYOi3_1E9RPPackJHE5QOnfuuCrjrY26N7Q3LFcgXKRsARuoEv1VHLWLWM6h9tghF0TMq75eIBo1oRpoKml4dmfNrRdWuz-h7sOtYKfKVfRMa9JyjAJS_2Wn3fYehIlGGIcN6yfJHULn5KNcQ=w147-h40", BEYAZ YESiLCAM HD
