@@ -187,7 +187,7 @@ https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL 7 UHD
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL 7 FHD
-http://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+http://31.177.62.182:8010/play/s18
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV UHD
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV FHD
@@ -339,7 +339,7 @@ https://tv.ensonhaber.com:443/tv/tr/ntv/index.m3u8
 #EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
 http://213.172.73.133:8081/nimble_live/9107_CNN_Turk_HD/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
-https://cnnturk.blutv.com/blutv_cnnturk_live/live.m3u8
+http://31.223.85.34:9999/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="HABER KANALI",HABERTÜRK
 https://tv.ensonhaber.com:443/tv/tr/haberturk/index.m3u8
