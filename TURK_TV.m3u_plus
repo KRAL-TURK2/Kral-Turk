@@ -22,7 +22,7 @@ http://solo-v7.sytes.net:2082/live/servertonilesliallcoutry/2YXYvQXFMD/1273.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports UHD 2
 http://sssxxx.tk:8080/live/stremlocal1047/ER7UVVyGzwtdGra/4651.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
-http://21929815.rossteleccom.net:80/iptv/ZA9N4BRQTKCS9V/6819/index.ts
+http://21929815.rossteleccom.net:80/iptv/HGXBCC57Z6PERM/6819/index.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports UHD 3
 http://budurtivi.co:8080/live/ipturk/1wnDZsdfuUYJ9sdfsfs/48722.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports FHD 3
@@ -148,7 +148,7 @@ https://tv8-live.daioncdn.net:443/tv8/tv8_720p.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
 http://budurtivi.co:8080/live/ipturk/1wnDZsdfuUYJ9sdfsfs/1854.ts
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 FHD
-http://21929815.rossteleccom.net:80/iptv/FADWAKHW5DZ5XW/2318/index.ts
+http://21929815.rossteleccom.net:80/iptv/HGXBCC57Z6PERM/2318/index.ts
 
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 UHD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
@@ -165,7 +165,7 @@ https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
 http://ac.traveliptv.nl:80/live/ibrahimturk/v7Nv6vNvdk/34.ts
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6897/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6897/index.m3u8
 #EXTINF:-1 TGRT EU group-title="ULUSAL-UHD", TGRT EU
 http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
@@ -208,7 +208,7 @@ http://sssxxx.tk:8080/live/stremlocal1047/ER7UVVyGzwtdGra/20918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
 http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168646.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
-http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/19077/index.m3u8
+http://ig8npqfb.rostelekom.xyz/iptv/HGXBCC57Z6PERM/19077/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 2
 http://sssxxx.tk:8080/live/stremlocal1047/ER7UVVyGzwtdGra/20755.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 2
@@ -699,99 +699,99 @@ http://195.175.224.218:6610/001/2/ch00000090990000001209/sec-f4-v1-a1.m3u8?t=l&J
 #EXTINF:-1 group-title="YEREL KANALLAR",BENGÜTÜRK
 http://195.175.224.219:6610/001/2/ch00000090990000001176/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001176&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="2615" tvg-logo="http://epg.it999.ru/img/2615.png",24 TV HD
-http://21929815.rossteleccom.net:80/iptv/ZA9N4BRQTKCS9V/2319/index.ts
+http://21929815.rossteleccom.net:80/iptv/HGXBCC57Z6PERM/2319/index.ts
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="2617" tvg-logo="http://epg.it999.ru/img/2617.png",TV 4 HD
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/2321/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/2321/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3815" tvg-logo="http://epg.it999.ru/img/3815.png",ARTI 1
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6748/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6748/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3816" tvg-logo="http://epg.it999.ru/img/3816.png",Uzay Haber
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6749/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6749/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3817" tvg-logo="http://epg.it999.ru/img/3817.png",TV 5
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6751/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6751/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3818" tvg-logo="http://epg.it999.ru/img/3818.png",TV 41
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6752/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6752/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3819" tvg-logo="http://epg.it999.ru/img/3819.png",TV 4
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6753/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6753/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3821" tvg-logo="http://epg.it999.ru/img/3821.png",Mavi Karadeniz
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6758/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6758/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3822" tvg-logo="http://epg.it999.ru/img/3822.png",Line TV Bursa
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6759/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6759/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3823" tvg-logo="http://epg.it999.ru/img/3823.png",Koy TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6761/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6761/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3824" tvg-logo="http://epg.it999.ru/img/3824.png",Kibris Genc TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6762/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6762/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3825" tvg-logo="http://epg.it999.ru/img/3825.png",Kardelen TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6763/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6763/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3827" tvg-logo="http://epg.it999.ru/img/3827.png",Kanal T
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6765/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6765/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3828" tvg-logo="http://epg.it999.ru/img/3828.png",Kanal Avrupa
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6766/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6766/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3829" tvg-logo="http://epg.it999.ru/img/3829.png",ER TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6768/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6768/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3830" tvg-logo="http://epg.it999.ru/img/3830.png",DRT Denizli
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6769/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6769/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3831" tvg-logo="http://epg.it999.ru/img/3831.png",Deha TV Denizli
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6771/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6771/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3832" tvg-logo="http://epg.it999.ru/img/3832.png",Ciftci TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6772/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6772/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3833" tvg-logo="http://epg.it999.ru/img/3833.png",BRT 3 TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6774/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6774/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3834" tvg-logo="http://epg.it999.ru/img/3834.png",BRT 2 TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6775/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6775/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3835" tvg-logo="http://epg.it999.ru/img/3835.png",BRT 1 TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6776/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6776/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3836" tvg-logo="http://epg.it999.ru/img/3836.png",AS TV Bursa
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6777/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6777/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3837" tvg-logo="http://epg.it999.ru/img/3837.png",Anadolu Dernek
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6778/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6778/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3838" tvg-logo="http://epg.it999.ru/img/3838.png",Anadolu TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6779/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6779/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3839" tvg-logo="http://epg.it999.ru/img/3839.png",Akit TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6780/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6780/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="5093" tvg-logo="http://epg.it999.ru/img2/5093.png",Turk Karadeniz
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6782/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6782/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3842" tvg-logo="http://epg.it999.ru/img/3842.png",Ada TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6783/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6783/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3843" tvg-logo="http://epg.it999.ru/img/3843.png",Vatan TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6784/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6784/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3844" tvg-logo="http://epg.it999.ru/img/3844.png",Ucankus
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6785/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6785/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3845" tvg-logo="http://epg.it999.ru/img/3845.png",TV Kayseri
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6786/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6786/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3846" tvg-logo="http://epg.it999.ru/img/3846.png",Yaban HD
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6787/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6787/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3848" tvg-logo="http://epg.it999.ru/img/3848.png",FM TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6789/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6789/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3849" tvg-logo="http://epg.it999.ru/img/3849.png" ,Lalegul TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6790/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6790/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3850" tvg-logo="http://epg.it999.ru/img/3850.png",TV 2000
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6791/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6791/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3851" tvg-logo="http://epg.it999.ru/img/3851.png",Meltem TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6792/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6792/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3852" tvg-logo="http://epg.it999.ru/img/3852.png",Dost TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6793/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6793/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3853" tvg-logo="http://epg.it999.ru/img/3853.png",TRT Diyanet
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6794/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6794/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3854" tvg-logo="http://epg.it999.ru/img/3854.png",TRT Diyanet HD
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6795/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6795/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="2951" tvg-logo="http://epg.it999.ru/img/2951.png",TRT Turk
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6798/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6798/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3858" tvg-logo="http://epg.it999.ru/img/3858.png",TRT Avaz
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6799/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6799/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3987" tvg-logo="http://epg.it999.ru/img/3987.png",TV Net
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/6936/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6936/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="5969" tvg-logo="http://epg.it999.ru/img2/5969.png",Kanal V
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/15252/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/15252/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="5970" tvg-logo="http://epg.it999.ru/img2/5970.png",Kocaeli TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/15253/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/15253/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="5971" tvg-logo="http://epg.it999.ru/img2/5971.png",Ege TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/15254/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/15254/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="5972" tvg-logo="http://epg.it999.ru/img2/5972.png",KRT
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/15255/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/15255/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="5973" tvg-logo="http://epg.it999.ru/img2/5973.png",Rumeli TV
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/15256/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/15256/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="5974" tvg-logo="http://epg.it999.ru/img2/5974.png",Kanal Cay
-http://he11o.akadatel.com/iptv/7KZZ255PQHQGNZ/15257/index.m3u8
+http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/15257/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="YEREL KANALLAR" logo="https://radyoangaratv.kecioren.bel.tr/img/footer-logo.png", ANGARA TV HD
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
