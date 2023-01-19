@@ -81,8 +81,6 @@ http://21929815.rossteleccom.net:80/iptv/HGXBCC57Z6PERM/2256/index.ts
 http://kululuplay.ch:8080/live/fHm4LNnt8X/fGFni5mIK1/7840.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
 http://kululuplay.ch:8080/live/fHm4LNnt8X/fGFni5mIK1/36872.ts
-#EXTINF:-1 TRT SPOR 3 group-title="SPOR KANALI", TRT SPOR 3
-http://bit.ly/3AQvd05
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
@@ -195,9 +193,6 @@ http://4kplus.org:80/live/rocky42/rM6thgucV9/59873.ts
 http://4kplus.org:80/live/rocky42/rM6thgucV9/59871.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",TOLGA SHOW
 http://4kplus.org:80/live/rocky42/rM6thgucV9/59874.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",LEYLA MECNUN TV
-http://ortak4440.xyz:8080/live/Saksuka93/2teQ86Z3ay/309288.m3u8
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
