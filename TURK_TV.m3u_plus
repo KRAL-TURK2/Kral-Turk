@@ -940,513 +940,1272 @@ https://helga.iptv2022.com/vizyon_58/tracks-v1a1/mono.m3u8
 http://yerelmedya.tv:1935/yesilyurttv/_definst_/bant1/chunklist_w1070867965.m3u8
 
  #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DE: ARD HD" tvg-logo="http://logo.apk-red.com/cdn/alman/daserstehd.png" group-title="► DE Regional",DE: ARD HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202308
-#EXTINF:-1 tvg-id="" tvg-name="DE: ARD FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/daserstehd.png" group-title="► DE Regional",DE: ARD FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202309
-#EXTINF:-1 tvg-id="" tvg-name="DE: Ard Alpha HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/daserstehd.png" group-title="► DE Regional",DE: Ard Alpha HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202310
-#EXTINF:-1 tvg-id="" tvg-name="DE: ARD-alpha HD" tvg-logo="http://logo.apk-red.com/cdn/alman/daserstehd.png" group-title="► DE Regional",DE: ARD-alpha HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202311
-#EXTINF:-1 tvg-id="ard.de" tvg-name="DE: Das Erste HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/daserstehd.png" group-title="► DE Regional",DE: Das Erste HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202312
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE: ZDF HD" tvg-logo="http://logo.apk-red.com/cdn/alman/zdfhd.png" group-title="► DE Regional",DE: ZDF HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202313
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE: ZDF FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/zdfhd.png" group-title="► DE Regional",DE: ZDF FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202314
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE: Zdf info HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/zdfinfohd.png" group-title="► DE Regional",DE: Zdf info HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202315
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE: ZDF Info HD" tvg-logo="http://logo.apk-red.com/cdn/alman/zdfinfohd.png" group-title="► DE Regional",DE: ZDF Info HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202316
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE: ZDF Info FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/zdfinfohd.png" group-title="► DE Regional",DE: ZDF Info FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202317
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE: Zdf Neo HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/zdfhd.png" group-title="► DE Regional",DE: Zdf Neo HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202318
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE: ZDF Neo" tvg-logo="http://logo.apk-red.com/cdn/alman/zdfhd.png" group-title="► DE Regional",DE: ZDF Neo
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202319
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE: ZDF Neo FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/zdfhd.png" group-title="► DE Regional",DE: ZDF Neo FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202320
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: SAT1 HD" tvg-logo="http://logo.apk-red.com/cdn/alman/sat1hd_2.png" group-title="► DE Regional",DE: SAT1 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202321
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: SAT1 FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/sat1hd_2.png" group-title="► DE Regional",DE: SAT1 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202322
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: Sat 1 A HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/sat1hd_2.png" group-title="► DE Regional",DE: Sat 1 A HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202323
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: Sat 1 Gold HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/sat1goldhd_2.png" group-title="► DE Regional",DE: Sat 1 Gold HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202324
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT1 Gold HD" tvg-logo="http://logo.apk-red.com/cdn/alman/sat1goldhd_2.png" group-title="► DE Regional",DE: SAT1 Gold HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202325
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 Gold FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/sat1goldhd_2.png" group-title="► DE Regional",DE: SAT 1 Gold FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202326
-#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="DE: SAT1 Emotion" tvg-logo="http://logo.apk-red.com/cdn/alman/sat1hd_2.png" group-title="► DE Regional",DE: SAT1 Emotion
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202327
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: ProSieben HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/pro7hd_2.png" group-title="► DE Regional",DE: ProSieben HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202328
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: PRO 7 HD" tvg-logo="http://logo.apk-red.com/cdn/alman/pro7hd_2.png" group-title="► DE Regional",DE: PRO 7 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202329
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: Pro 7 FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/pro7hd_2.png" group-title="► DE Regional",DE: Pro 7 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202330
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: Pro7 Maxx SD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/pro7maxxhd_2.png" group-title="► DE Regional",DE: Pro7 Maxx SD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202331
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: PRO 7 Maxx HD" tvg-logo="http://logo.apk-red.com/cdn/alman/pro7maxxhd_2.png" group-title="► DE Regional",DE: PRO 7 Maxx HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202332
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: PRO 7 Maxx FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/pro7maxxhd_2.png" group-title="► DE Regional",DE: PRO 7 Maxx FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202333
-#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="DE: PRO 7 Fun HD" tvg-logo="http://logo.apk-red.com/cdn/alman/pro7hd_2.png" group-title="► DE Regional",DE: PRO 7 Fun HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202334
-#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="DE: PRO 7 Fun FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/pro7hd_2.png" group-title="► DE Regional",DE: PRO 7 Fun FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202335
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE: Rtl HB NDS HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlhd_2.png" group-title="► DE Regional",DE: Rtl HB NDS HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202336
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE: RTL HD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlhd_2.png" group-title="► DE Regional",DE: RTL HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202337
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE: RTL FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlhd_2.png" group-title="► DE Regional",DE: RTL FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202338
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL 2 HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/rtl2hd_2.png" group-title="► DE Regional",DE: RTL 2 HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202339
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL 2 HD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtl2hd_2.png" group-title="► DE Regional",DE: RTL 2 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202340
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL 2 FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtl2hd_2.png" group-title="► DE Regional",DE: RTL 2 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202341
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: RTL Nitro HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlnitro.png" group-title="► DE Regional",DE: RTL Nitro HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202342
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: RTL Nitro HD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlnitro.png" group-title="► DE Regional",DE: RTL Nitro HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202343
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: RTL Nitro FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlnitro.png" group-title="► DE Regional",DE: RTL Nitro FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202344
-#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="DE: RTL Living HD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlhd_2.png" group-title="► DE Regional",DE: RTL Living HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202345
-#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="DE: RTL Living FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlhd_2.png" group-title="► DE Regional",DE: RTL Living FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202346
-#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="DE: Luxe TV" tvg-logo="" group-title="► DE Music",DE: Luxe TV
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202347
-#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="DE: RTL Passion FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlhd_2.png" group-title="► DE Regional",DE: RTL Passion FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202348
-#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE: RTL Crime HD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlhd_2.png" group-title="► DE Regional",DE: RTL Crime HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202349
-#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE: RTL Crime FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlhd_2.png" group-title="► DE Regional",DE: RTL Crime FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202350
-#EXTINF:-1 tvg-id="superrtl.de" tvg-name="DE: Super Rtl HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/superrtlhd.png" group-title="► DE Regional",DE: Super Rtl HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202351
-#EXTINF:-1 tvg-id="superrtl.de" tvg-name="DE: Super RTL HD" tvg-logo="http://logo.apk-red.com/cdn/alman/superrtlhd.png" group-title="► DE Regional",DE: Super RTL HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202352
-#EXTINF:-1 tvg-id="superrtl.de" tvg-name="DE: Super RTL FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/superrtlhd.png" group-title="► DE Regional",DE: Super RTL FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202353
-#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="DE: RTL plus HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlplus.png" group-title="► DE Regional",DE: RTL plus HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202354
-#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="DE: RTLplus HD" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlplus.png" group-title="► DE Regional",DE: RTLplus HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202355
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Television HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/rtlhd_2.png" group-title="► DE Regional",DE: RTL Television HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202356
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 HD" tvg-logo="http://logo.apk-red.com/cdn/alman/kabel1hd_2.png" group-title="► DE Regional",DE: Kabel 1 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202357
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: Kabel 1 FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/kabel1hd_2.png" group-title="► DE Regional",DE: Kabel 1 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202358
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="DE: Kabel Eins Classics HD" tvg-logo="http://logo.apk-red.com/cdn/alman/kabel1hd_2.png" group-title="► DE Regional",DE: Kabel Eins Classics HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202359
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="DE: Kabel Eins Classic FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/kabel1hd_2.png" group-title="► DE Regional",DE: Kabel Eins Classic FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202360
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="DE: Kabel 1 Doku" tvg-logo="http://logo.apk-red.com/cdn/alman/kabel1hd_2.png" group-title="► DE Regional",DE: Kabel 1 Doku
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202363
-#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX SD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/voxhd.png" group-title="► DE Regional",DE: VOX SD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202365
-#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX HD" tvg-logo="http://logo.apk-red.com/cdn/alman/voxhd.png" group-title="► DE Regional",DE: VOX HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202366
-#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/voxhd.png" group-title="► DE Regional",DE: VOX FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202367
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD" tvg-logo="" group-title="► DE Regional",DE: WDR HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202368
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: N-TV HD" tvg-logo="http://logo.apk-red.com/cdn/alman/n-tv_2.png" group-title="► DE Regional",DE: N-TV HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202370
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: N-TV FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/n-tv_2.png" group-title="► DE Regional",DE: N-TV FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202371
-#EXTINF:-1 tvg-id="" tvg-name="DE: Welt HD" tvg-logo="" group-title="► DE Regional",DE: Welt HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202372
-#EXTINF:-1 tvg-id="" tvg-name="DE: Welt FullHD" tvg-logo="" group-title="► DE Regional",DE: Welt FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202373
-#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE: Phoenix HD" tvg-logo="http://logo.apk-red.com/cdn/alman/phoenixhd_2.png" group-title="► DE Regional",DE: Phoenix HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202374
-#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE: Phoenix FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/phoenixhd_2.png" group-title="► DE Regional",DE: Phoenix FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202375
-#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: Arte HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/artehd_2.png" group-title="► DE Regional",DE: Arte HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202376
-#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: Arte HD" tvg-logo="http://logo.apk-red.com/cdn/alman/artehd_2.png" group-title="► DE Regional",DE: Arte HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202377
-#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: Arte FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/artehd_2.png" group-title="► DE Regional",DE: Arte FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202378
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: Sixx HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/sixxhd.png" group-title="► DE Regional",DE: Sixx HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202379
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: Sixx HD" tvg-logo="http://logo.apk-red.com/cdn/alman/sixxhd.png" group-title="► DE Regional",DE: Sixx HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202380
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: Sixx FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/sixxhd.png" group-title="► DE Regional",DE: Sixx FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202381
-#EXTINF:-1 tvg-id="" tvg-name="DE: Welt der Wunder" tvg-logo="" group-title="► DE Regional",DE: Welt der Wunder
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202382
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: 3sat HD" tvg-logo="http://logo.apk-red.com/cdn/alman/3sathd.png" group-title="► DE Regional",DE: 3sat HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202383
-#EXTINF:-1 tvg-id="anixe.de" tvg-name="DE: Anixe Serie FullHD" tvg-logo="http://logo.apk-red.com/cdn/alman/anixehd_2.png" group-title="► DE Regional",DE: Anixe Serie FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202384
-#EXTINF:-1 tvg-id="" tvg-name="DE: Silverline" tvg-logo="" group-title="► DE Regional",DE: Silverline
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202385
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOXup" tvg-logo="http://logo.apk-red.com/cdn/alman/voxhd.png" group-title="► DE Regional",DE: VOXup
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202386
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD Dortmund" tvg-logo="" group-title="► DE Regional",DE: WDR HD Dortmund
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202387
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR Aachen" tvg-logo="" group-title="► DE Regional",DE: WDR Aachen
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202388
-#EXTINF:-1 tvg-id="" tvg-name="DE: SR Fernsehen" tvg-logo="" group-title="► DE Regional",DE: SR Fernsehen
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202389
-#EXTINF:-1 tvg-id="" tvg-name="DE: SWR HD" tvg-logo="" group-title="► DE Regional",DE: SWR HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202390
-#EXTINF:-1 tvg-id="" tvg-name="DE: Swr Bw HD (L)" tvg-logo="" group-title="► DE Regional",DE: Swr Bw HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202391
-#EXTINF:-1 tvg-id="" tvg-name="DE: Swr Rp HD (L)" tvg-logo="" group-title="► DE Regional",DE: Swr Rp HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202392
-#EXTINF:-1 tvg-id="" tvg-name="DE: Art One HD (L)" tvg-logo="" group-title="► DE Regional",DE: Art One HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202393
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: Eurosport 1 Deutschland HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/eurosport-1_hd_2.png" group-title="► DE Regional",DE: Eurosport 1 Deutschland HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202394
-#EXTINF:-1 tvg-id="" tvg-name="DE: Tlc HD (L)" tvg-logo="" group-title="► DE Regional",DE: Tlc HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202395
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE: Disney Channel HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/disneychannel.png" group-title="► DE Regional",DE: Disney Channel HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202396
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: Dmax (L)" tvg-logo="http://logo.apk-red.com/cdn/haber/dmaxhd_2.png" group-title="► DE Regional",DE: Dmax (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202397
-#EXTINF:-1 tvg-id="" tvg-name="DE: BR Fernsehen Nord HD" tvg-logo="" group-title="► DE Regional",DE: BR Fernsehen Nord HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202398
-#EXTINF:-1 tvg-id="" tvg-name="DE: MDR HD" tvg-logo="" group-title="► DE Regional",DE: MDR HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202399
-#EXTINF:-1 tvg-id="" tvg-name="DE: NDR Hamburg HD" tvg-logo="http://logo.apk-red.com/cdn/alman/ndrnedersachsenhd.png" group-title="► DE Regional",DE: NDR Hamburg HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202400
-#EXTINF:-1 tvg-id="" tvg-name="DE: Rbb Berlin HD" tvg-logo="" group-title="► DE Regional",DE: Rbb Berlin HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202401
-#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE: TELE 5" tvg-logo="http://logo.apk-red.com/cdn/alman/tele5hd.png" group-title="► DE Regional",DE: TELE 5
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202402
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR.BONN" tvg-logo="" group-title="► DE Regional",DE: WDR.BONN
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202403
-#EXTINF:-1 tvg-id="" tvg-name="DE: SonnenKlar TV FullHD" tvg-logo="" group-title="► DE Regional",DE: SonnenKlar TV FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202404
-#EXTINF:-1 tvg-id="kika.de" tvg-name="DE: Kika HD (L)" tvg-logo="http://logo.apk-red.com/cdn/alman/kikahd.png" group-title="► DE Kinder",DE: Kika HD (L)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202405
-#EXTINF:-1 tvg-id="" tvg-name="DE: 13th Street HD" tvg-logo="" group-title="► DE Regional",DE: 13th Street HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202406
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 Full HD" tvg-logo="" group-title="► DE Sport",DE: Sport 1 Full HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202271
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN Bar 1 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/dzn1_2.png" group-title="► DE Sport",DE: DAZN Bar 1 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202272
-#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN Bar 2 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/dzn2_2.png" group-title="► DE Sport",DE: DAZN Bar 2 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202273
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsport1hd_2.png" group-title="► DE Sport",DE: Sky Sport 1 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202274
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: Sky Sport 2 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsport2hd_2.png" group-title="► DE Sport",DE: Sky Sport 2 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202275
-#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="DE: Sky Sport 3 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsport3hd.png" group-title="► DE Sport",DE: Sky Sport 3 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202276
-#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: Sky Sport 4 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsport4hd.png" group-title="► DE Sport",DE: Sky Sport 4 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202277
-#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: Sky Sport 5 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsport5hd_2.png" group-title="► DE Sport",DE: Sky Sport 5 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202278
-#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: Sky Sport 6 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsport6hd.png" group-title="► DE Sport",DE: Sky Sport 6 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202279
-#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: Sky Sport 7 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsport7hd.png" group-title="► DE Sport",DE: Sky Sport 7 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202280
-#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DE: Sky Sport 8 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsport8hd.png" group-title="► DE Sport",DE: Sky Sport 8 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202281
-#EXTINF:-1 tvg-id="skysport9.de" tvg-name="DE: Sky Sport 9 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsport9hd.png" group-title="► DE Sport",DE: Sky Sport 9 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202282
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 10 FHD" tvg-logo="" group-title="► DE Sport",DE: Sky Sport 10 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202283
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Bundesliga 1 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga1hd.png" group-title="► DE Sport",DE: Bundesliga 1 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202284
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: Bundesliga 2 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga2hd_2.png" group-title="► DE Sport",DE: Bundesliga 2 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202285
-#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: Bundesliga 3 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga3hd.png" group-title="► DE Sport",DE: Bundesliga 3 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202286
-#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: Bundesliga 4 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga4hd.png" group-title="► DE Sport",DE: Bundesliga 4 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202287
-#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: Bundesliga 5 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga5hd_2.png" group-title="► DE Sport",DE: Bundesliga 5 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202288
-#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: Bundesliga 6 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga6hd.png" group-title="► DE Sport",DE: Bundesliga 6 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202289
-#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: Bundesliga 7 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga7hd.png" group-title="► DE Sport",DE: Bundesliga 7 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202290
-#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: Bundesliga 8 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga8hd.png" group-title="► DE Sport",DE: Bundesliga 8 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202291
-#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: Bundesliga 9 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga9hd.png" group-title="► DE Sport",DE: Bundesliga 9 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202292
-#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: Bundesliga 10 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga10hd.png" group-title="► DE Sport",DE: Bundesliga 10 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202293
-#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: Sky Sport F1 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vip.f1.png" group-title="► DE Sport",DE: Sky Sport F1 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202294
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="DE: Sky Sport News FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsportnewshd.png" group-title="► DE Sport",DE: Sky Sport News FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202295
-#EXTINF:-1 tvg-id="" tvg-name="DE: ESports 1 FHD" tvg-logo="" group-title="► DE Sport",DE: ESports 1 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202296
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: EUROSPORT 1 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/eurosport-1_hd_2.png" group-title="► DE Sport",DE: EUROSPORT 1 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202298
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: EUROSPORT 2 FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/eurosport2hd_2.png" group-title="► DE Sport",DE: EUROSPORT 2 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202299
-#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE: Motorvision TV HD" tvg-logo="http://logo.apk-red.com/cdn/alman/motorvision.png" group-title="► DE Docu",DE: Motorvision TV HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202301
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN Bar 1 HD+" tvg-logo="http://logo.apk-red.com/cdn/alman/dzn1_2.png" group-title="► DE Sport",DE: DAZN Bar 1 HD+
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202302
-#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN Bar 2 HD+" tvg-logo="http://logo.apk-red.com/cdn/alman/dzn2_2.png" group-title="► DE Sport",DE: DAZN Bar 2 HD+
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202303
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: Sky Sport 1 HD+" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsport1hd_2.png" group-title="► DE Sport",DE: Sky Sport 1 HD+
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202304
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: Sky Sport 2 HD+" tvg-logo="http://logo.apk-red.com/cdn/alman/vipsport2hd_2.png" group-title="► DE Sport",DE: Sky Sport 2 HD+
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202305
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Bundesliga 1 HD+" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga1hd.png" group-title="► DE Sport",DE: Bundesliga 1 HD+
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202306
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: Bundesliga 2 HD+" tvg-logo="http://logo.apk-red.com/cdn/alman/b.liga2hd_2.png" group-title="► DE Sport",DE: Bundesliga 2 HD+
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202307
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 3" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 3
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224691
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 4" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 4
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224692
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 5" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 5
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224693
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 6" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 6
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224694
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 7" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 7
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224695
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 8" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 8
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224696
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 9" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 9
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224697
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 10" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 10
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224698
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 11" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 11
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224699
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 12" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 12
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224700
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 13" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 13
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224701
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 14" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 14
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224702
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 15" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 15
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224703
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 16" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 16
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224704
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Event 17" tvg-logo="" group-title="► DE Sport",DE: DAZN Event 17
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224705
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL EVENT 1 HD+ (RTL+)" tvg-logo="" group-title="► DE Sport",DE: RTL EVENT 1 HD+ (RTL+)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224706
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL EVENT 2 HD+ (RTL+)" tvg-logo="" group-title="► DE Sport",DE: RTL EVENT 2 HD+ (RTL+)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224707
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL EVENT 3 HD+ (RTL+)" tvg-logo="" group-title="► DE Sport",DE: RTL EVENT 3 HD+ (RTL+)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224708
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL EVENT 4 HD+ (RTL+)" tvg-logo="" group-title="► DE Sport",DE: RTL EVENT 4 HD+ (RTL+)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224709
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL EVENT 5 HD+ (RTL+)" tvg-logo="" group-title="► DE Sport",DE: RTL EVENT 5 HD+ (RTL+)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224710
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL EVENT 6 HD+ (RTL+)" tvg-logo="" group-title="► DE Sport",DE: RTL EVENT 6 HD+ (RTL+)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224711
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL EVENT 7 HD+ (RTL+)" tvg-logo="" group-title="► DE Sport",DE: RTL EVENT 7 HD+ (RTL+)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224712
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL EVENT 8 HD+ (RTL+)" tvg-logo="" group-title="► DE Sport",DE: RTL EVENT 8 HD+ (RTL+)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224713
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL EVENT 9 HD+ (RTL+)" tvg-logo="" group-title="► DE Sport",DE: RTL EVENT 9 HD+ (RTL+)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224714
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL EVENT 10 HD+ (RTL+)" tvg-logo="" group-title="► DE Sport",DE: RTL EVENT 10 HD+ (RTL+)
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224715
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 1 FHD" tvg-logo="" group-title="► DE Kino",DE: NETFLIX 1 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224716
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 2 FHD" tvg-logo="" group-title="► DE Kino",DE: NETFLIX 2 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224717
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 3 FHD" tvg-logo="" group-title="► DE Kino",DE: NETFLIX 3 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224718
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 4 FHD" tvg-logo="" group-title="► DE Kino",DE: NETFLIX 4 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224719
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 5 FHD" tvg-logo="" group-title="► DE Kino",DE: NETFLIX 5 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224720
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 6 FHD" tvg-logo="" group-title="► DE Kino",DE: NETFLIX 6 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224721
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 7 FHD" tvg-logo="" group-title="► DE Kino",DE: NETFLIX 7 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224722
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 8 FHD" tvg-logo="" group-title="► DE Kino",DE: NETFLIX 8 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224723
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 9 FHD" tvg-logo="" group-title="► DE Kino",DE: NETFLIX 9 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224724
-#EXTINF:-1 tvg-id="" tvg-name="DE: NETFLIX 10 FHD" tvg-logo="" group-title="► DE Kino",DE: NETFLIX 10 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/224725
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kinowelt TV FHD" tvg-logo="" group-title="► DE Kino",DE: Kinowelt TV FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202499
-#EXTINF:-1 tvg-id="" tvg-name="DE: Romance TV FHD" tvg-logo="" group-title="► DE Kino",DE: Romance TV FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202500
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sony AXN FHD" tvg-logo="" group-title="► DE Kino",DE: Sony AXN FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202501
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sony Channel HD" tvg-logo="" group-title="► DE Kino",DE: Sony Channel HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202502
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1 HD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 1 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202503
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1 FullHD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 1 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202504
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 HD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 2 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202505
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 FullHD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 2 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202506
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 HD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 3 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202507
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 FullHD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 3 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202508
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 HD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 4 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202509
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 FullHD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 4 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202510
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 HD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 5 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202511
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 FullHD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 5 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202512
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 6 HD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 6 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202513
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 6 FullHD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 6 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202514
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 7 HD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 7 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202515
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 7 FullHD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 7 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202516
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8 HD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 8 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202517
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8 FullHD" tvg-logo="" group-title="► DE Kino",DE: Sky Select 8 FullHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202518
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky 1 FHD" tvg-logo="" group-title="► DE Kino",DE: Sky 1 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202519
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Arts FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Arts FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202520
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Atlantic FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Atlantic FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202521
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema +1 FHD" tvg-logo="https://filbox.b-cdn.net/alman/vipcinema+1hd.png" group-title="► DE Kino",DE: Sky Cinema +1 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202522
-#EXTINF:-1 tvg-id="skycinemaplus24.de" tvg-name="DE: Sky Cinema +24 FHD" tvg-logo="https://filbox.b-cdn.net/alman/vipcinema+24.png" group-title="► DE Kino",DE: Sky Cinema +24 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202523
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 1 FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema 1 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202524
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 24 FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema 24 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202525
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: Sky Cinema Action FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/vipcinemaactionhd.png" group-title="► DE Kino",DE: Sky Cinema Action FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202526
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Alien HD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Alien HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202527
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Best Of FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Best Of FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202528
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Classics HD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Classics HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202529
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Comedy HD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Comedy HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202530
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Emotion HD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Emotion HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202531
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Family FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Family FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202532
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Fun HD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Fun HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202533
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Hits FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Hits FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202534
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Nostalgie FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Nostalgie FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202535
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Premieren FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202536
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren +24 FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Premieren +24 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202537
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren 24 FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Premieren 24 FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202538
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Special FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Special FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202539
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Thriller FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Cinema Thriller FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202540
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Krimi FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Krimi FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202541
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Replay Action FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Replay Action FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202545
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Serien & Shows FHD" tvg-logo="" group-title="► DE Kino",DE: Sky Serien & Shows FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202577
-#EXTINF:-1 tvg-id="" tvg-name="DE: Comedy Central FHD" tvg-logo="" group-title="► DE Kino",DE: Comedy Central FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202742
-#EXTINF:-1 tvg-id="babytv.de" tvg-name="DE Baby TV HD" tvg-logo="http://logo.apk-red.com/cdn/alman/babytv.png" group-title="► DE Kinder",DE Baby TV HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202744
-#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="DE Cartoon Network HD" tvg-logo="http://logo.apk-red.com/cdn/alman/cartoonnetworkhd.png" group-title="► DE Kinder",DE Cartoon Network HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202746
-#EXTINF:-1 tvg-id="boomerang.de" tvg-name="DE: Boomerang HD" tvg-logo="http://logo.apk-red.com/cdn/alman/boomerang.png" group-title="► DE Kinder",DE: Boomerang HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202747
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE: Disney Channel HD" tvg-logo="http://logo.apk-red.com/cdn/alman/disneychannel.png" group-title="► DE Kinder",DE: Disney Channel HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202748
-#EXTINF:-1 tvg-id="" tvg-name="DE Disney Channel FHD" tvg-logo="" group-title="► DE Kinder",DE Disney Channel FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202749
-#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="DE: Disney Junior HD" tvg-logo="http://logo.apk-red.com/cdn/alman/disneyjunior.png" group-title="► DE Kinder",DE: Disney Junior HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202750
-#EXTINF:-1 tvg-id="" tvg-name="DE: Disney XD HD" tvg-logo="" group-title="► DE Kinder",DE: Disney XD HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202752
-#EXTINF:-1 tvg-id="" tvg-name="DE: Junior HD" tvg-logo="" group-title="► DE Kinder",DE: Junior HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202759
-#EXTINF:-1 tvg-id="kika.de" tvg-name="DE: KIKA FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/kikahd.png" group-title="► DE Kinder",DE: KIKA FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202761
-#EXTINF:-1 tvg-id="" tvg-name="DE: MR Bean HD" tvg-logo="" group-title="► DE Kinder",DE: MR Bean HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202777
-#EXTINF:-1 tvg-id="" tvg-name="DE Nick Junior HD" tvg-logo="" group-title="► DE Kinder",DE Nick Junior HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202779
-#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="DE: nickelodeon HD" tvg-logo="http://logo.apk-red.com/cdn/alman/nickelodeonhd.png" group-title="► DE Kinder",DE: nickelodeon HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202780
-#EXTINF:-1 tvg-id="" tvg-name="DE Nicktoons HD" tvg-logo="" group-title="► DE Kinder",DE Nicktoons HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202783
-#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="DE: Toggo Plus HD" tvg-logo="http://logo.apk-red.com/cdn/alman/toggoplus.png" group-title="► DE Kinder",DE: Toggo Plus HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202785
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX HD" tvg-logo="http://logo.apk-red.com/cdn/haber/dmaxhd_2.png" group-title="► DE Docu",DE: DMAX HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202787
-#EXTINF:-1 tvg-id="" tvg-name="DE DMAX FHD" tvg-logo="http://logo.apk-red.com/cdn/haber/dmaxhd_2.png" group-title="► DE Docu",DE DMAX FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202788
-#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="DE: ANIMAL PLANET HD" tvg-logo="http://logo.apk-red.com/cdn/alman/animalplanet.png" group-title="► DE Docu",DE: ANIMAL PLANET HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202789
-#EXTINF:-1 tvg-id="" tvg-name="DE: Crime+ Investigation HD" tvg-logo="" group-title="► DE Docu",DE: Crime+ Investigation HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202791
-#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery World FHD" tvg-logo="" group-title="► DE Docu",DE: Discovery World FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202793
-#EXTINF:-1 tvg-id="history.de" tvg-name="DE: History HD" tvg-logo="http://logo.apk-red.com/cdn/alman/historyhd.png" group-title="► DE Docu",DE: History HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202795
-#EXTINF:-1 tvg-id="" tvg-name="DE History FHD" tvg-logo="" group-title="► DE Docu",DE History FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202796
-#EXTINF:-1 tvg-id="" tvg-name="DE: HGTV HD" tvg-logo="" group-title="► DE Docu",DE: HGTV HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202797
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kultur MD FHD" tvg-logo="" group-title="► DE Docu",DE: Kultur MD FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202799
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NAT GEO FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/natgeohd.png" group-title="► DE Docu",DE: NAT GEO FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202800
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NAT GEO Wild FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/natgeowildhd.png" group-title="► DE Docu",DE: NAT GEO Wild FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202802
-#EXTINF:-1 tvg-id="" tvg-name="DE Deluxe Music HD" tvg-logo="" group-title="► DE Music",DE Deluxe Music HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202805
-#EXTINF:-1 tvg-id="" tvg-name="DE: Jukebox FHD" tvg-logo="" group-title="► DE Music",DE: Jukebox FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202812
-#EXTINF:-1 tvg-id="" tvg-name="DE: Krone TV HD" tvg-logo="" group-title="► DE Music",DE: Krone TV HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202813
-#EXTINF:-1 tvg-id="" tvg-name="DE: Melodie TV HD" tvg-logo="" group-title="► DE Music",DE: Melodie TV HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202814
-#EXTINF:-1 tvg-id="" tvg-name="DE MTV Classic HD" tvg-logo="" group-title="► DE Music",DE MTV Classic HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202817
-#EXTINF:-1 tvg-id="" tvg-name="DE: MTV HD" tvg-logo="" group-title="► DE Music",DE: MTV HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202818
-#EXTINF:-1 tvg-id="" tvg-name="DE: Munchen TV FHD" tvg-logo="" group-title="► DE Music",DE: Munchen TV FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202821
-#EXTINF:-1 tvg-id="" tvg-name="DE: Music Top HD" tvg-logo="" group-title="► DE Music",DE: Music Top HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202822
-#EXTINF:-1 tvg-id="" tvg-name="DE: DW FHD" tvg-logo="" group-title="► DE News",DE: DW FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202828
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: N TV FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/n-tv_2.png" group-title="► DE News",DE: N TV FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202829
-#EXTINF:-1 tvg-id="" tvg-name="DE: Tagesschau 24 HD" tvg-logo="" group-title="► DE News",DE: Tagesschau 24 HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/202830
-#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE: Spiegel Geschichte FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/spiegelgeschichtehd.png" group-title="► DE Regional",DE: Spiegel Geschichte FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/204560
-#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="DE: Spiegel TV Wissen FHD" tvg-logo="http://logo.apk-red.com/cdn/alman/spiegeltvwissenhd.png" group-title="► DE Regional",DE: Spiegel TV Wissen FHD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/204561
-#EXTINF:-1 tvg-id="" tvg-name="DE: Heimat kanal HD" tvg-logo="" group-title="► DE Regional",DE: Heimat kanal HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/204562
-#EXTINF:-1 tvg-id="" tvg-name="DE: Stingray Classica" tvg-logo="" group-title="► DE Music",DE: Stingray Classica
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/221170
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Syfy HD" tvg-logo="" group-title="► DE Kino",DE: Sky Syfy HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/222032
-#EXTINF:-1 tvg-id="" tvg-name="DE: Warner Film HD" tvg-logo="" group-title="► DE Kino",DE: Warner Film HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/222033
-#EXTINF:-1 tvg-id="" tvg-name="DE: Warner Serie HD" tvg-logo="" group-title="► DE Kino",DE: Warner Serie HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/222034
-#EXTINF:-1 tvg-id="" tvg-name="DE: Warner Comedy HD" tvg-logo="" group-title="► DE Kino",DE: Warner Comedy HD
-http://box45.info:8080/Germany@Ulusal/PgjhFHpn6A/222035
+#EXTINF:-1 tvg-id="VoxGermany.de" tvg-name="DE: VOX FHD" tvg-logo="http://germany.bestipbox.com:8000/images/70c2e089b6da2193baceafc2d14bf1e2.png" group-title="GERMANY CHANNELS",DE: VOX FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/76
+#EXTINF:-1 tvg-id="KabelEinsGermany.de" tvg-name="DE: KABEL 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/150px-Kabel_eins_Logo_2015.svg.png" group-title="GERMANY CHANNELS",DE: KABEL 1 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/78
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: PRO 7 FHD" tvg-logo="http://germany.bestipbox.com:8000/images/0e435f0a7b47c9207fb21f5c842a9ec8.png" group-title="GERMANY CHANNELS",DE: PRO 7 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/79
+#EXTINF:-1 tvg-id="FoxGermany.us" tvg-name="DE: FOX TV FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/b244a2c9c6a725c5e4f3cfa938ea796d.jpg" group-title="GERMANY CHANNELS",DE: FOX TV FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/91
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE: 13TH  STREET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/13th_street_logo_uk_master_rgb_black.png/200px-13th_street_logo_uk_master_rgb_black.png" group-title="GERMANY CHANNELS",DE: 13TH  STREET FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/93
+#EXTINF:-1 tvg-id="RTLZweiGermany.de" tvg-name="DE: RTL 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/150px-RTLZWEI_Logo_2019.svg.png" group-title="GERMANY CHANNELS",DE: RTL 2 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/143
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SYFY FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/db8b11f904c57b2457772b2aa116b0ca.png" group-title="GERMANY CHANNELS",DE: SYFY FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/145
+#EXTINF:-1 tvg-id="ARDAlpha.de" tvg-name="DE: ARD FHD" tvg-logo="http://iptv.bestipbox.com:8000/images/5041d434eac33685890b32c8d537d518.png" group-title="GERMANY CHANNELS",DE: ARD FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/147
+#EXTINF:-1 tvg-id="ORF 1-DE" tvg-name="DE_ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/200px-ORF_1_2019.svg.png" group-title="GERMANY CHANNELS",DE_ORF 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/439
+#EXTINF:-1 tvg-id="ORF 2-DE" tvg-name="DE_ORF 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/200px-ORF2_logo_n.svg.png" group-title="GERMANY CHANNELS",DE_ORF 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/440
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE: ZDF FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/0ab04e370efad90e52932ce5e2988f48.png" group-title="GERMANY CHANNELS",DE: ZDF FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/441
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="DE_SAT 1 GOLD" tvg-logo="" group-title="GERMANY CHANNELS",DE_SAT 1 GOLD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/458
+#EXTINF:-1 tvg-id="SixxGermany.de" tvg-name="DE_ SIXX" tvg-logo="" group-title="GERMANY CHANNELS",DE_ SIXX
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/768
+#EXTINF:-1 tvg-id="ProSiebenMaxxGermany.de" tvg-name="DE_ PRO 7 MAXX" tvg-logo="" group-title="GERMANY CHANNELS",DE_ PRO 7 MAXX
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/769
+#EXTINF:-1 tvg-id="RTLGermany.de" tvg-name="DE: RTL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RTL_Logo_ab_dem_1._September_2017.png/250px-RTL_Logo_ab_dem_1._September_2017.png" group-title="GERMANY CHANNELS",DE: RTL FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/771
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="DE_SAT 1  HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_SAT 1  HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/772
+#EXTINF:-1 tvg-id="" tvg-name="DE_CLASSICA" tvg-logo="" group-title="GERMANY CHANNELS",DE_CLASSICA
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/818
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="DE_ RTL NITRO" tvg-logo="" group-title="GERMANY CHANNELS",DE_ RTL NITRO
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/819
+#EXTINF:-1 tvg-id="Kinowelt.tv-DE" tvg-name="DE_KINOWELT" tvg-logo="" group-title="GERMANY CHANNELS",DE_KINOWELT
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/894
+#EXTINF:-1 tvg-id="" tvg-name="DE_ATV" tvg-logo="" group-title="GERMANY CHANNELS",DE_ATV
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/921
+#EXTINF:-1 tvg-id="" tvg-name="DE_ATV 2" tvg-logo="" group-title="GERMANY CHANNELS",DE_ATV 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/922
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE_3 SAT" tvg-logo="" group-title="GERMANY CHANNELS",DE_3 SAT
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/945
+#EXTINF:-1 tvg-id="" tvg-name="DE_NDR" tvg-logo="" group-title="GERMANY CHANNELS",DE_NDR
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/951
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="DE_RTL Crime" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL Crime
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/954
+#EXTINF:-1 tvg-id="" tvg-name="DE_ARD ALPHA HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_ARD ALPHA HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/956
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="DE_RTL LIVING" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL LIVING
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/960
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="DE_RTL PASSION" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL PASSION
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/961
+#EXTINF:-1 tvg-id="" tvg-name="DE_WDR" tvg-logo="" group-title="GERMANY CHANNELS",DE_WDR
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/962
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="DE_RTL PLUS" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL PLUS
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1027
+#EXTINF:-1 tvg-id="" tvg-name="DE_Deluxe Music HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_Deluxe Music HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1029
+#EXTINF:-1 tvg-id="" tvg-name="DE_SRF 2" tvg-logo="" group-title="GERMANY CHANNELS",DE_SRF 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1230
+#EXTINF:-1 tvg-id="" tvg-name="DE_TELE 5" tvg-logo="" group-title="GERMANY CHANNELS",DE_TELE 5
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1232
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="DE_KABEL EINS CLASSIC" tvg-logo="" group-title="GERMANY CHANNELS",DE_KABEL EINS CLASSIC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1300
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="DE_PRO7 Fun HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_PRO7 Fun HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1303
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="DE_ZDF NEO" tvg-logo="" group-title="GERMANY CHANNELS",DE_ZDF NEO
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1305
+#EXTINF:-1 tvg-id="" tvg-name="DE_VIVA Comedy HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_VIVA Comedy HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1306
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE: RTL HD" tvg-logo="http://sweden.bestipbox.com:8000/images/37871b04420fb3a6da6cd26091bc8c89.png" group-title="GERMANY CHANNELS",DE: RTL HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2181
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="DE: RTL II  HD" tvg-logo="http://germany.bestipbox.com:8000/images/85c950ef7f467b0870c89fbed08c207e.png" group-title="GERMANY CHANNELS",DE: RTL II  HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2182
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE: ZDF HD" tvg-logo="http://57tv.bestipbox.com:8000/images/0ab04e370efad90e52932ce5e2988f48.png" group-title="GERMANY CHANNELS",DE: ZDF HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2183
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE: ARD HD" tvg-logo="http://sweden.bestipbox.com:8000/images/5041d434eac33685890b32c8d537d518.png" group-title="GERMANY CHANNELS",DE: ARD HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2184
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="DE_RTL PASSION HD Y" tvg-logo="" group-title="GERMANY CHANNELS",DE_RTL PASSION HD Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2185
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="DE: RTL CRIME HD" tvg-logo="" group-title="GERMANY CHANNELS",DE: RTL CRIME HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2186
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="DE: VOX HD" tvg-logo="http://sweden.bestipbox.com:8000/images/70c2e089b6da2193baceafc2d14bf1e2.png" group-title="GERMANY CHANNELS",DE: VOX HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2190
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="DE: PRO 7 HD" tvg-logo="http://germany.bestipbox.com:8000/images/0e435f0a7b47c9207fb21f5c842a9ec8.png" group-title="GERMANY CHANNELS",DE: PRO 7 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2191
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="DE_PRO 7 MAXX HD Y" tvg-logo="" group-title="GERMANY CHANNELS",DE_PRO 7 MAXX HD Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2192
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE: 13TH STREET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/13th_street_logo_uk_master_rgb_black.png/200px-13th_street_logo_uk_master_rgb_black.png" group-title="GERMANY CHANNELS",DE: 13TH STREET HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2193
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="DE_FOX HD Y" tvg-logo="http://germany.bestipbox.com:8000/images/b244a2c9c6a725c5e4f3cfa938ea796d.jpg" group-title="GERMANY CHANNELS",DE_FOX HD Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2194
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="DE: KABEL 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/150px-Kabel_eins_Logo_2015.svg.png" group-title="GERMANY CHANNELS",DE: KABEL 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2195
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE: SYFY HD" tvg-logo="http://germany.bestipbox.com:8000/images/db8b11f904c57b2457772b2aa116b0ca.png" group-title="GERMANY CHANNELS",DE: SYFY HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2203
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="DE_A&E HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_A&E HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2657
+#EXTINF:-1 tvg-id="" tvg-name="DE: Muenchen TV HD" tvg-logo="" group-title="GERMANY CHANNELS",DE: Muenchen TV HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2659
+#EXTINF:-1 tvg-id="" tvg-name="DE_JUKEBOX HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_JUKEBOX HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2661
+#EXTINF:-1 tvg-id="" tvg-name="DE_MTV HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_MTV HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2662
+#EXTINF:-1 tvg-id="" tvg-name="DE_ORF 3 HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_ORF 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2663
+#EXTINF:-1 tvg-id="" tvg-name="DE_SAT 1 EMOTIONS HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_SAT 1 EMOTIONS HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2664
+#EXTINF:-1 tvg-id="" tvg-name="DE_PHOENIX HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_PHOENIX HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2665
+#EXTINF:-1 tvg-id="" tvg-name="DE_ONE HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_ONE HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2666
+#EXTINF:-1 tvg-id="" tvg-name="DE_NITRO HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_NITRO HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2667
+#EXTINF:-1 tvg-id="" tvg-name="DE_XITE HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_XITE HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2669
+#EXTINF:-1 tvg-id="" tvg-name="DE_HR HD" tvg-logo="" group-title="GERMANY CHANNELS",DE_HR HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2672
+#EXTINF:-1 tvg-id="" tvg-name="DE : RBB HD " tvg-logo="" group-title="GERMANY CHANNELS",DE : RBB HD 
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3764
+#EXTINF:-1 tvg-id="" tvg-name="DE : QVC HD" tvg-logo="" group-title="GERMANY CHANNELS",DE : QVC HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3925
+#EXTINF:-1 tvg-id="" tvg-name="DE : QVC Beauty & Style HD" tvg-logo="" group-title="GERMANY CHANNELS",DE : QVC Beauty & Style HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3926
+#EXTINF:-1 tvg-id="" tvg-name="DE : WWE HD" tvg-logo="" group-title="GERMANY CHANNELS",DE : WWE HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3927
+#EXTINF:-1 tvg-id="" tvg-name="DE : Bibel TV Impuls HD" tvg-logo="" group-title="GERMANY CHANNELS",DE : Bibel TV Impuls HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3928
+#EXTINF:-1 tvg-id="" tvg-name="DE : Bibel TV MusikHD" tvg-logo="" group-title="GERMANY CHANNELS",DE : Bibel TV MusikHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3929
+#EXTINF:-1 tvg-id="" tvg-name="DE : Kingdom HD" tvg-logo="" group-title="GERMANY CHANNELS",DE : Kingdom HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3930
+#EXTINF:-1 tvg-id="" tvg-name="DE : Doxx HD" tvg-logo="" group-title="GERMANY CHANNELS",DE : Doxx HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3931
+#EXTINF:-1 tvg-id="" tvg-name="DE : Bon Gusto HD" tvg-logo="" group-title="GERMANY CHANNELS",DE : Bon Gusto HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3932
+#EXTINF:-1 tvg-id="" tvg-name="DE : Die Neue Zeit TV" tvg-logo="" group-title="GERMANY CHANNELS",DE : Die Neue Zeit TV
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3933
+#EXTINF:-1 tvg-id="" tvg-name="DE : Mainfranken Würzburg TV HD" tvg-logo="" group-title="GERMANY CHANNELS",DE : Mainfranken Würzburg TV HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3934
+#EXTINF:-1 tvg-id="" tvg-name="DE: Waidwerk HD+" tvg-logo="" group-title="GERMANY CHANNELS",DE: Waidwerk HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3935
+#EXTINF:-1 tvg-id="" tvg-name="DAS ERSTE HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",DAS ERSTE HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156813
+#EXTINF:-1 tvg-id="" tvg-name="ZDF HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",ZDF HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156814
+#EXTINF:-1 tvg-id="" tvg-name="SAT 1 HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SAT 1 HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156815
+#EXTINF:-1 tvg-id="" tvg-name="PRO 7 HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",PRO 7 HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156816
+#EXTINF:-1 tvg-id="" tvg-name="PRO 7 MAXX HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",PRO 7 MAXX HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156817
+#EXTINF:-1 tvg-id="" tvg-name="RTL HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",RTL HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156818
+#EXTINF:-1 tvg-id="" tvg-name="RTL II HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",RTL II HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156819
+#EXTINF:-1 tvg-id="" tvg-name="KABEL 1 HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",KABEL 1 HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156820
+#EXTINF:-1 tvg-id="" tvg-name="VOX HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",VOX HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156821
+#EXTINF:-1 tvg-id="" tvg-name="SIXX HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SIXX HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156822
+#EXTINF:-1 tvg-id="" tvg-name="SUPER RTL TOGGO HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SUPER RTL TOGGO HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156823
+#EXTINF:-1 tvg-id="" tvg-name="KABEL 1 DOCU HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",KABEL 1 DOCU HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156824
+#EXTINF:-1 tvg-id="" tvg-name="13TH STREET HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",13TH STREET HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156825
+#EXTINF:-1 tvg-id="" tvg-name="TLC HEVC+" tvg-logo="" group-title="GERMANY 4K CHANNELS",TLC HEVC+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156826
+#EXTINF:-1 tvg-id="" tvg-name="WARNER SERIE HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",WARNER SERIE HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156827
+#EXTINF:-1 tvg-id="" tvg-name="WARNER FILM HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",WARNER FILM HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156828
+#EXTINF:-1 tvg-id="" tvg-name="WARNER COMEDY HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",WARNER COMEDY HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156829
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA PREMIEREN HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY CINEMA PREMIEREN HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156830
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA THRILLER HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY CINEMA THRILLER HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156831
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA PREMIEREN +24 HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY CINEMA PREMIEREN +24 HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156832
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY CINEMA ACTION HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156833
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY CINEMA FAMILY HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156834
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA BEST OF HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY CINEMA BEST OF HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156835
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SPECIAL HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY CINEMA SPECIAL HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156836
+#EXTINF:-1 tvg-id="" tvg-name="SKY ATLANTIC HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY ATLANTIC HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156837
+#EXTINF:-1 tvg-id="" tvg-name="SKY KRIMI HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY KRIMI HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156838
+#EXTINF:-1 tvg-id="" tvg-name="SkY ONE HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SkY ONE HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156839
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 1 HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",DAZN BAR 1 HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156840
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 2 HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",DAZN BAR 2 HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156841
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NEWS HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY SPORT NEWS HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156842
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TOP EVENT HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY SPORT TOP EVENT HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156843
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TENNIS HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY SPORT TENNIS HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156844
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 1 HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY BUNDESLIGA 1 HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156845
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 2 HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",SKY BUNDESLIGA 2 HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156846
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",DMAX HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156847
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",DISCOVERY HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156848
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",HISTORY HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156849
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HEVC+" tvg-logo="" group-title="GERMANY 4K CHANNELS",NAT GEO WILD HEVC+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156850
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HEVC" tvg-logo="" group-title="GERMANY 4K CHANNELS",NAT GEO HEVC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/156851
+
+#EXTINF:-1 tvg-id="" tvg-name="DE_Super RTL" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Super RTL
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/146
+#EXTINF:-1 tvg-id="" tvg-name="DE_Disney Cinemagic" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Disney Cinemagic
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/422
+#EXTINF:-1 tvg-id="" tvg-name="DE_Disney CHANEL" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Disney CHANEL
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/423
+#EXTINF:-1 tvg-id="" tvg-name="DE_Boomerang" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_Boomerang
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/424
+#EXTINF:-1 tvg-id="" tvg-name="DE_CARTOON NETWORK" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_CARTOON NETWORK
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/425
+#EXTINF:-1 tvg-id="" tvg-name="DE_KIKA HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_KIKA HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/949
+#EXTINF:-1 tvg-id="" tvg-name="DE_DISNEY Jr." tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_DISNEY Jr.
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1298
+#EXTINF:-1 tvg-id="" tvg-name="DE_NICK Jr." tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE_NICK Jr.
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1301
+#EXTINF:-1 tvg-id="" tvg-name="DE : Disney Plus Film HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE : Disney Plus Film HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3846
+#EXTINF:-1 tvg-id="" tvg-name="DE : Baby TV" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE : Baby TV
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3847
+#EXTINF:-1 tvg-id="" tvg-name="DE : Nick HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE : Nick HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3848
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tom und Jerry Classic" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Tom und Jerry Classic
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17246
+#EXTINF:-1 tvg-id="" tvg-name="DE: Mr.Bean" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Mr.Bean
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17247
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Spongebob" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Cine Gold Spongebob
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17248
+#EXTINF:-1 tvg-id="" tvg-name="DE: PAW Patrol" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: PAW Patrol
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17249
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kindermärchen 2" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Kindermärchen 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17250
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kindermärchen 1" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Kindermärchen 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17251
+#EXTINF:-1 tvg-id="" tvg-name="DE: Feuerwehrmann Sam" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Feuerwehrmann Sam
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17252
+#EXTINF:-1 tvg-id="" tvg-name="DE: PJ Masks" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: PJ Masks
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17253
+#EXTINF:-1 tvg-id="" tvg-name="DE: Heidi Klassik" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: Heidi Klassik
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17254
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_TNT FILM" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_TNT FILM
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/61
+#EXTINF:-1 tvg-id="Sky Cinema Family-DE" tvg-name="DE_Sky Cinema Family" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Sky Cinema Family
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/63
+#EXTINF:-1 tvg-id="Sky Krimi-DE" tvg-name="DE_SKY KRIMI" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY KRIMI
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/64
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Showcase HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Showcase HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/65
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Serien & Shows HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Serien & Shows HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/66
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Cinema +24" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Sky Cinema +24
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/67
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Cinema Comedy" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Sky Cinema Comedy
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/68
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Cinema Action" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_Sky Cinema Action
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/69
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY ATLANTIC" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY ATLANTIC
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/70
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Best Of HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Cinema Best Of HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/71
+#EXTINF:-1 tvg-id="" tvg-name="DE_ROMANCE TV" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_ROMANCE TV
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/75
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY TNT SERIE" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY TNT SERIE
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/94
+#EXTINF:-1 tvg-id="" tvg-name="DE_SONY TV" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SONY TV
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/377
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Fun" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Cinema Fun
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/448
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Comedy HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: TNT Comedy HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/451
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Classics" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Cinema Classics
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/770
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/782
+#EXTINF:-1 tvg-id="" tvg-name="DE_UNIVERSAL HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_UNIVERSAL HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/948
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA 1+" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA 1+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/957
+#EXTINF:-1 tvg-id="" tvg-name="DE_TELECLUB CINEMA FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_TELECLUB CINEMA FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1251
+#EXTINF:-1 tvg-id="" tvg-name="DE_HEIMATKANAL" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_HEIMATKANAL
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1299
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Best Of" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Cinema Best Of
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1516
+#EXTINF:-1 tvg-id="" tvg-name="DE_TNT COMEDY HD Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_TNT COMEDY HD Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2187
+#EXTINF:-1 tvg-id="" tvg-name="DE_TNT FILM HD Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_TNT FILM HD Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2188
+#EXTINF:-1 tvg-id="" tvg-name="DE_TNT SERIE HD Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_TNT SERIE HD Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2189
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA ACTION Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA ACTION Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2196
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA ATLANTIC Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA ATLANTIC Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2197
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA  Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA  Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2198
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA  24 Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA  24 Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2199
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY CINEMA  COMEDY Y" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_SKY CINEMA  COMEDY Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2200
+#EXTINF:-1 tvg-id="" tvg-name="DE: WarnerBros Comedy FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: WarnerBros Comedy FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2201
+#EXTINF:-1 tvg-id="" tvg-name="DE: Warner Bros FILM HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Warner Bros FILM HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2202
+#EXTINF:-1 tvg-id="" tvg-name="DE_ZDF NOE HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_ZDF NOE HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2655
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: SKY REPLAY
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2660
+#EXTINF:-1 tvg-id="" tvg-name="DE : Eagle Cinema Premiere HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE : Eagle Cinema Premiere HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3571
+#EXTINF:-1 tvg-id="" tvg-name="DE : Eagle Cinema Aktion HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE : Eagle Cinema Aktion HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3572
+#EXTINF:-1 tvg-id="" tvg-name="DE : Eagle Cinema Komodie HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE : Eagle Cinema Komodie HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3573
+#EXTINF:-1 tvg-id="" tvg-name="DE : Eagle Cinema Abenteuer HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE : Eagle Cinema Abenteuer HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3574
+#EXTINF:-1 tvg-id="" tvg-name="DE : Eagle Cinema Animation HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE : Eagle Cinema Animation HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3575
+#EXTINF:-1 tvg-id="" tvg-name="DE : Eagle Cinema Thriller HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE : Eagle Cinema Thriller HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3576
+#EXTINF:-1 tvg-id="" tvg-name="DE : Eagle Cinema Romantisch HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE : Eagle Cinema Romantisch HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3577
+#EXTINF:-1 tvg-id="" tvg-name="DE : Eagle Cinema Horror HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE : Eagle Cinema Horror HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3578
+#EXTINF:-1 tvg-id="" tvg-name="DE : Eagle Cinema Drama HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE : Eagle Cinema Drama HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3580
+#EXTINF:-1 tvg-id="" tvg-name="DE : Eagle Cinema Sci-Fi HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE : Eagle Cinema Sci-Fi HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3581
+#EXTINF:-1 tvg-id="" tvg-name="DE : Eagle Cinema Lächeln HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE : Eagle Cinema Lächeln HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/3582
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold History" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold History
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17256
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Bollywood" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Bollywood
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17257
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Anime" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Anime
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17258
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Romance" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Romance
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17259
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cind Max Star Wars" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cind Max Star Wars
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17260
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max James Bond" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Max James Bond
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17261
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max Jurassic Park" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Max Jurassic Park
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17262
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max MARVEL" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Max MARVEL
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17263
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max Disney" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Max Disney
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17264
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max Harry Potter" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Max Harry Potter
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17265
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max IMDB" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Max IMDB
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17266
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Katastrophen" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Katastrophen
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17267
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold War" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold War
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17268
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Western" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Western
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17269
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Sci-Fi" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Sci-Fi
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17270
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Horror" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Horror
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17271
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Fantasy" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Fantasy
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17272
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Family" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Family
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17273
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Drama" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Drama
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17274
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Crime" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Crime
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17275
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Comedy" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Comedy
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17276
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Biography" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Biography
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17277
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Animation" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Animation
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17278
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Gold Adventure" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Gold Adventure
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17279
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Max Fast and Furious" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cine Max Fast and Furious
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/17281
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: SKY CINEMA PREMIEREN HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25484
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN 24 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: SKY CINEMA PREMIEREN 24 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25485
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25525
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25527
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 6 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 6 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25529
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 8 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 8 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25531
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 9 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 9 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25532
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 10 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: KiNOBOX 10 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25533
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 1 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25550
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 2 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25551
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 3 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25552
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 4 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25553
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 5 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25554
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 6 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 6 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25555
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 7 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 7 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25556
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 8 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25557
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 9 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 9 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25558
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 10 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Sky Select 10 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25559
+#EXTINF:-1 tvg-id="" tvg-name="DE_MaGicBoX Kino2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE_MaGicBoX Kino2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1568
+#EXTINF:-1 tvg-id="DE-N24 Doku" tvg-name="DE_N24 DOKU" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_N24 DOKU
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/144
+#EXTINF:-1 tvg-id="" tvg-name="DE_National Geographic" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_National Geographic
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/452
+#EXTINF:-1 tvg-id="" tvg-name="DE_Spiegel TV Geschichte HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Spiegel TV Geschichte HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/455
+#EXTINF:-1 tvg-id="" tvg-name="DE_HISTORY HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_HISTORY HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/456
+#EXTINF:-1 tvg-id="" tvg-name="DE_N24 DOKU HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_N24 DOKU HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/892
+#EXTINF:-1 tvg-id="" tvg-name="DE_ARTE HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_ARTE HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/893
+#EXTINF:-1 tvg-id="" tvg-name="DE_N-TV HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_N-TV HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/946
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: TLC HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/947
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPIEGEL TV WISSEN UHD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: SPIEGEL TV WISSEN UHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/952
+#EXTINF:-1 tvg-id="" tvg-name="DE_D MAX" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_D MAX
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/955
+#EXTINF:-1 tvg-id="" tvg-name="DE_Welt der Wunder HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Welt der Wunder HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/958
+#EXTINF:-1 tvg-id="" tvg-name="DE_ZDF INFO" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_ZDF INFO
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/959
+#EXTINF:-1 tvg-id="" tvg-name="DE_E !" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_E !
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1302
+#EXTINF:-1 tvg-id="" tvg-name="DE_Kabel 1 Doku HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Kabel 1 Doku HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1304
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: Discovery HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2652
+#EXTINF:-1 tvg-id="" tvg-name="DE_ANIMAL PLANET" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_ANIMAL PLANET
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2653
+#EXTINF:-1 tvg-id="" tvg-name="DE: Welt HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE: Welt HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2658
+#EXTINF:-1 tvg-id="" tvg-name="DE_EURONEWS HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_EURONEWS HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2668
+#EXTINF:-1 tvg-id="" tvg-name="DE_Nat Geo Wild HD" tvg-logo="" group-title="GERMANY DOKU / NEWS / KULTUR CHANNELS",DE_Nat Geo Wild HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2671
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Sport 1 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/80
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT 1 HD Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT 1 HD Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2206
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Sport 2 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/81
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT 2 HD Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT 2 HD Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2207
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Bundesliga 1 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/82
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY BUNDESLIGA HD 1 Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY BUNDESLIGA HD 1 Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2204
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE_Sky Bundesliga 2 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/373
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY BUNDESLIGA HD 2 Y" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY BUNDESLIGA HD 2 Y
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2205
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 3-DE" tvg-name="DE_Sky Bundesliga 3 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/374
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 4 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/375
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 5 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/376
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Top Event HD+" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Top Event HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2133
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Top Event HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Top Event HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2134
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Premier League HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Premier League HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/953
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky  Sport Premier League HD+" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky  Sport Premier League HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/963
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Mix HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Mix HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25868
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Mix HD+" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Mix HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/25869
+#EXTINF:-1 tvg-id="" tvg-name="DE_ORF SPORT  HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_ORF SPORT  HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1028
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT AUSTRIA" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT AUSTRIA
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1262
+#EXTINF:-1 tvg-id="DE-Sky Sport 3 HD" tvg-name="DE_Sky Sport 3 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1962
+#EXTINF:-1 tvg-id="DE-Sky Sport 4 HD" tvg-name="DE_Sky Sport 4 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1963
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 5 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1964
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 6 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 6 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1965
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 7 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 7 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1966
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 8 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 8 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1967
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 9 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 9 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1968
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Sport 10 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Sport 10 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1969
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 6 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 6 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1970
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 7 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 7 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1971
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 8 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 8 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1972
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 9 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 9 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1973
+#EXTINF:-1 tvg-id="" tvg-name="DE_Sky Bundesliga 10 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_Sky Bundesliga 10 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/1974
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT NEWS" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT NEWS
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2648
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Tennis HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Tennis HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125677
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Tennis HD+" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Tennis HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125678
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Golf HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125679
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf HD+" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Golf HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125680
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC Bayern TV HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: FC Bayern TV HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125681
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport News FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sport News FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125682
+#EXTINF:-1 tvg-id="" tvg-name="DE: Motorvision TV HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Motorvision TV HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125683
+#EXTINF:-1 tvg-id="" tvg-name="DE: Auto Motor HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Auto Motor HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125684
+#EXTINF:-1 tvg-id="" tvg-name="DE: Digital HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Digital HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125685
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Bar 1 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Bar 1 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132210
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Bar 1 HD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Bar 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132211
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Bar 2 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Bar 2 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132212
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Bar 2 HD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Bar 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132213
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 1 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 1 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132214
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 2 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 2 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132215
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 3 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 3 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132216
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 4 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 4 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132217
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 5 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 5 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132218
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 6 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 6 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132219
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 7 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 7 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132220
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 8 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 8 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132221
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 9 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 9 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132222
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 10 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 10 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132223
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 11 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 11 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132224
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 12 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 12 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132225
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 13 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 13 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132226
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 14 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 14 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132227
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 15 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 15 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132228
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 16 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 16 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132229
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Dazn Event 17 FHD" tvg-logo="" group-title="GERMANY DAZN SPORT PAKET",[DE] Dazn Event 17 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132230
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport 1 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport 1 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132231
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport 1 HD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132232
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport 1 SD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport 1 SD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132233
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport 2 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport 2 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132234
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport 2 HD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132235
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport 2 SD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport 2 SD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132236
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport360 1 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport360 1 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132237
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport360 2 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport360 2 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132238
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport360 3 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport360 3 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132239
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport360 4 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport360 4 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132240
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport360 5 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport360 5 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132241
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport360 6 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport360 6 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132242
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport360 7 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport360 7 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132243
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport360 8 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport360 8 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132244
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Eurosport360 9 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Eurosport360 9 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132245
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sport 1 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Sport 1 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132246
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sport 1 HD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Sport 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132247
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sport 1+ FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Sport 1+ FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132248
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sport 1 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125695
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport1 + HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sport1 + HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125696
+#EXTINF:-1 tvg-id="" tvg-name="[DE] eSports 1 FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] eSports 1 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132249
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Sportdigital HD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Sportdigital HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132250
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Motorvision TV HD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Motorvision TV HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132251
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Auto Motor Sport HD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Auto Motor Sport HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132252
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Edge Sport FHD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Edge Sport FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132253
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Pdctv 1 HD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Pdctv 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132254
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Pdctv 2 HD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Pdctv 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132255
+#EXTINF:-1 tvg-id="" tvg-name="[DE] Pdctv 3 HD" tvg-logo="" group-title="GERMANY EUROSPORT PAKET",[DE] Pdctv 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132256
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 1 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132193
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 2 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132194
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 3 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132195
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 4 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132196
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 5 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132197
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 6 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 6 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132198
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 7 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 7 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132199
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 8 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 8 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132200
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 9 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 9 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132201
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 10 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 10 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132202
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 11 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 11 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132203
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 12 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 12 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132204
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 13 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 13 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132205
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 14 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 14 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132206
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 15 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 15 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132207
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 16 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 16 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132208
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 17 HD" tvg-logo="" group-title="GERMANY TELEKOM SPORT PAKET",DE: Magenta Sport 17 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132209
+#EXTINF:-1 tvg-id="" tvg-name="DE : BUNDESLIGA 3.LIGA - 1 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE : BUNDESLIGA 3.LIGA - 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2918
+#EXTINF:-1 tvg-id="" tvg-name="DE : BUNDESLIGA 3.LIGA - 2 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE : BUNDESLIGA 3.LIGA - 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2919
+#EXTINF:-1 tvg-id="" tvg-name="DE : BUNDESLIGA 3.LIGA - 3 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE : BUNDESLIGA 3.LIGA - 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2920
+#EXTINF:-1 tvg-id="" tvg-name="DE : BUNDESLIGA 3.LIGA - 4 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE : BUNDESLIGA 3.LIGA - 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2921
+#EXTINF:-1 tvg-id="" tvg-name="DE : BUNDESLIGA 3.LIGA - 5 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE : BUNDESLIGA 3.LIGA - 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2922
+#EXTINF:-1 tvg-id="" tvg-name="DE : BUNDESLIGA 3.LIGA - 6 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE : BUNDESLIGA 3.LIGA - 6 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2923
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 1 FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Austria 1 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125686
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 2 FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Austria 2 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125687
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 3 FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Austria 3 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125688
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 4 FHD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Austria 4 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125689
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 5 HD+" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Austria 5 HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125690
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 5 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Austria 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125691
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 6 HD+" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Austria 6 HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125692
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 6 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Austria 6 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125693
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 7 HD" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: Sky Sport Austria 7 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125694
+#EXTINF:-1 tvg-id="" tvg-name="DE_SKY SPORT AUSTRIA 1" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE_SKY SPORT AUSTRIA 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/2649
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 AUSTRIA FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SKY SPORT 2 AUSTRIA FHD (ONLY ON MATCHDAY)
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/81481
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 AUSTRIA FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SKY SPORT 3 AUSTRIA FHD (ONLY ON MATCHDAY)
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/81482
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 AUSTRIA FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMANY SKY SPORT PAKET",DE: SKY SPORT 4 AUSTRIA FHD (ONLY ON MATCHDAY)
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/81483
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP BoJack Horseman" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP BoJack Horseman
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86282
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Bruce Willis" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Bruce Willis
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86283
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Bud Spencer & Terence Hill" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Bud Spencer & Terence Hill
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86284
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Cinema Max 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Cinema Max 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86285
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Cinema Max 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Cinema Max 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86286
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Cinema Max 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Cinema Max 3
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86287
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Cinema Max 4" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Cinema Max 4
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86288
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Cinematic 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Cinematic 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86289
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Cinematic 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Cinematic 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86290
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Cinematic 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Cinematic 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86291
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Cinematic 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Cinematic 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86292
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Cinematic 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Cinematic 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86293
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Denzel Washington" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Denzel Washington
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86294
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Detektiv Conan" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Detektiv Conan
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86295
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Die Simpsons" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Die Simpsons
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86296
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Disney & Pixar 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Disney & Pixar 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86297
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Disney & Pixar 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Disney & Pixar 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86298
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Disney & Pixar 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Disney & Pixar 3
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86299
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Disney & Pixar 4" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Disney & Pixar 4
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86300
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Dokumantation HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Dokumantation HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86301
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP DuckTales HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP DuckTales HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86302
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP DW.Johnson" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP DW.Johnson
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86303
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Family Guy" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Family Guy
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86304
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Fast & Furious HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Fast & Furious HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86305
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Futurama" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Futurama
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86306
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP J.C Van Damme" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP J.C Van Damme
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86307
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Jackie Chan" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Jackie Chan
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86308
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP James Bond 007" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP James Bond 007
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86309
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Jason Statham" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Jason Statham
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86310
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Keanu Reevs" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Keanu Reevs
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86311
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Kinder Netflix HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Kinder Netflix HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86312
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Kino 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Kino 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86313
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Kino 1 2021" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Kino 1 2021
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86314
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Kino 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Kino 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86315
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Kino 2 2021" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Kino 2 2021
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86316
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Kino 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Kino 3
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86317
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Knight Rider" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Knight Rider
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86318
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Marvel Cinema" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Marvel Cinema
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86319
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Mascha und der Bär" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Mascha und der Bär
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86320
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Max Cinema 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Max Cinema 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86321
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Mel Gibson" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Mel Gibson
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86322
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Micky Maus" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Micky Maus
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86323
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Musik Mix" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Musik Mix
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86324
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Netflix 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Netflix 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86325
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Netflix 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Netflix 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86326
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Netflix 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Netflix 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86327
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Netflix 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Netflix 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86328
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Netflix 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Netflix 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86329
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Netflix Action" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Netflix Action
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86330
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Netflix Dokumantation" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Netflix Dokumantation
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86331
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Netflix Komödie" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Netflix Komödie
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86332
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Peppa Wutz" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Peppa Wutz
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86333
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Popcorn 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Popcorn 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86334
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Popcorn 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Popcorn 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86335
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Popcorn 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Popcorn 3
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86336
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Premium Cinema 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Premium Cinema 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86337
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Premium Cinema 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Premium Cinema 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86338
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Premium Cinema 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Premium Cinema 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86339
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Premium Cinema 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Premium Cinema 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86340
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Rambo" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Rambo
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86341
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Rick and Morty" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Rick and Morty
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86342
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Samuel L Jackson" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Samuel L Jackson
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86343
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select 2020 Kino 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select 2020 Kino 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86344
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select 2020 KINO 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select 2020 KINO 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86345
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select 2020 Kino 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select 2020 Kino 3
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86346
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select 2020 Kino 4" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select 2020 Kino 4
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86347
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select 2020 Kino 5" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select 2020 Kino 5
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86348
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Action 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Action 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86349
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Action 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Action 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86350
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Action 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Action 3
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86351
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Action 4" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Action 4
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86352
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Action 5" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Action 5
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86353
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Avontuur 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Avontuur 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86354
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Avontuur 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Avontuur 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86355
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Classic 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Classic 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86356
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Classic 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Classic 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86357
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Classic 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Classic 3
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86358
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Classic 4" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Classic 4
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86359
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Classic 5" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Classic 5
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86360
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Classic 6" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Classic 6
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86361
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Drama 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Drama 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86362
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Drama 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Drama 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86363
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Drama 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Drama 3
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86364
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Drama 4" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Drama 4
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86365
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Family 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Family 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86366
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Family 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Family 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86367
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Family 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Family 3
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86368
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Horror 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Horror 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86369
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Horror 2" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Horror 2
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86370
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Horror 3" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Horror 3
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86371
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Kinder" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Kinder
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86372
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Komödie 1" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Komödie 1
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86373
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Märchen HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Märchen HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86374
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Select Stand Up Comedy" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Select Stand Up Comedy
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86375
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Star Cinema 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Star Cinema 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86376
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Star Cinema 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Star Cinema 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86377
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Star Cinema 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Star Cinema 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86378
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Star Cinema 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Star Cinema 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86379
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Star Cinema 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Star Cinema 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86380
+#EXTINF:-1 tvg-id="" tvg-name="(DE) XP Star Wars HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",(DE) XP Star Wars HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/86381
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS ABC KINDER TV" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: HS ABC KINDER TV
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125665
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS MASCHA UND DER BÄR" tvg-logo="" group-title="GERMANY KINDER CHANNELS",DE: HS MASCHA UND DER BÄR
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125666
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Event 1 FHD" tvg-logo="" group-title=" GERMANY RTL + CHANNELS",DE: RTL Event 1 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125667
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Event 2 FHD" tvg-logo="" group-title=" GERMANY RTL + CHANNELS",DE: RTL Event 2 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125668
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Event 3 FHD" tvg-logo="" group-title=" GERMANY RTL + CHANNELS",DE: RTL Event 3 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125669
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Event 4 FHD" tvg-logo="" group-title=" GERMANY RTL + CHANNELS",DE: RTL Event 4 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125670
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Event 5 FHD" tvg-logo="" group-title=" GERMANY RTL + CHANNELS",DE: RTL Event 5 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125671
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Event 6 FHD" tvg-logo="" group-title=" GERMANY RTL + CHANNELS",DE: RTL Event 6 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125672
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Event 7 FHD" tvg-logo="" group-title=" GERMANY RTL + CHANNELS",DE: RTL Event 7 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125673
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Event 8 FHD" tvg-logo="" group-title=" GERMANY RTL + CHANNELS",DE: RTL Event 8 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125674
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Event 9 FHD" tvg-logo="" group-title=" GERMANY RTL + CHANNELS",DE: RTL Event 9 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125675
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Event 10 FHD" tvg-logo="" group-title=" GERMANY RTL + CHANNELS",DE: RTL Event 10 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/125676
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Film Premium Info HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Film Premium Info HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127122
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Film Premium 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Film Premium 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127123
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Film Premium 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Film Premium 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127124
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Film Premium 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Film Premium 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127125
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Film Premium 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Film Premium 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127126
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Film Premium 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Film Premium 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127127
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Action" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Action
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127128
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Komödie" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Komödie
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127129
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Thriller" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Thriller
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127130
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Horror" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Horror
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127131
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Animation" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Animation
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127132
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema X-Man Collection" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema X-Man Collection
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127133
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Jason Statham Collection" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Jason Statham Collection
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127134
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Batman" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Batman
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127135
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema 90er Filme" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema 90er Filme
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127136
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinemas Christmas Filme" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinemas Christmas Filme
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127137
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Twilight Collection" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Twilight Collection
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127138
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Turtles Collection" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Turtles Collection
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127139
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Spider Man Collection" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Spider Man Collection
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127140
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Police Academy" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Police Academy
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127141
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Bruce Lee" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Bruce Lee
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127142
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Arnold Schwarzenegger" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Arnold Schwarzenegger
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127143
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Jean Claude van Damme" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Jean Claude van Damme
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127144
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Dwayne Johnson" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Dwayne Johnson
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127145
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Sylvester Stallone" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Sylvester Stallone
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127146
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Jackie Chan" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Jackie Chan
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127147
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Jet Li" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Jet Li
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127148
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema James Bond" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema James Bond
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127149
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Marvel Filme" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Marvel Filme
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127150
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Terminator" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Terminator
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127151
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Fast & Furious" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Fast & Furious
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127152
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Transformers" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Transformers
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127153
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Resident Evil" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Resident Evil
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127154
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Mission Impossible" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Mission Impossible
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127155
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Freitag der 13 Collection" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Freitag der 13 Collection
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127156
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Helloween" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Helloween
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127157
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Final Destination" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Final Destination
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127158
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cineman IP Man" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cineman IP Man
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127159
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Indiana Jones" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Indiana Jones
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127160
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Bud Spencer" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Bud Spencer
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127161
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Religion" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Religion
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127162
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Barbie Collection" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: HS Cinema Barbie Collection
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127163
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Select info ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Select info ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127164
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Select 1 ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Select 1 ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127165
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Select 2 ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Select 2 ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127166
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Select 3 ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Select 3 ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127167
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Select 4 ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Select 4 ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127168
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Select 5 ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Select 5 ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127169
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Select 6 ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Select 6 ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127170
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Extra ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Extra ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127171
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Disney+ ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Disney+ ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127172
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Netflix ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Netflix ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127173
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Best Of ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Best Of ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127174
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Collection ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Collection ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127175
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Aktion ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Aktion ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127176
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Aktion+1 ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Aktion+1 ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127177
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Komödie ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Komödie ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127178
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Horror ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Horror ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127179
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Familie ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Familie ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127180
+#EXTINF:-1 tvg-id="" tvg-name="DE◈ OnePlay Romantisch ᴴᴰ" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE◈ OnePlay Romantisch ᴴᴰ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127181
+#EXTINF:-1 tvg-id="" tvg-name="DE: Star Fix Action HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Star Fix Action HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127182
+#EXTINF:-1 tvg-id="" tvg-name="DE: Star Fix Action HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Star Fix Action HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127183
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO COLLECTION" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX KINO COLLECTION
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127184
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX Select 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127185
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX Select 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127186
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX Select 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127187
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX Select 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127188
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX Select 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127189
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 6 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX Select 6 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127190
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 7 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX Select 7 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127191
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Plus HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX Plus HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127192
+#EXTINF:-1 tvg-id="" tvg-name="DE:  Max Select 4K" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE:  Max Select 4K
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127193
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 2 4K" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Select 2 4K
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127194
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 3 4k" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Select 3 4k
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127195
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 4 4k" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Select 4 4k
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127196
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX STAR WARS HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX STAR WARS HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127197
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX 007 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX 007 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127198
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Kino 2 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Kino 2 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127199
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Kino 3 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Kino 3 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127200
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Kino 4 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Kino 4 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127201
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Kino 5 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Kino 5 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127202
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Kino Collection FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Kino Collection FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127203
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Kino Premiere FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Kino Premiere FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127204
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 3 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Select 3 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127205
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 4 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Select 4 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127206
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 5 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Select 5 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127207
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 6 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: MAX Select 6 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127208
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 7 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Max Select 7 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127209
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dark Select 1 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Dark Select 1 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127210
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dark Select 2 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Dark Select 2 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127211
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dark Select 3 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Dark Select 3 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127212
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dark Select 4 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Dark Select 4 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127213
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dark Select 5 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Dark Select 5 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127214
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dark Select 6 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Dark Select 6 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127215
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dark Select 7 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Dark Select 7 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127216
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dark Select 8 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Dark Select 8 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127217
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dark Select 9 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Dark Select 9 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127218
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dark Select 10 HD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Dark Select 10 HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127219
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Bollywood HD+" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Bollywood HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127220
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Bollywood 2 HD+" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Bollywood 2 HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127221
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Jackie Chan HD+" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Jackie Chan HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127222
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome DCMovies HD+" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome DCMovies HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127223
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Action FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Action FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127224
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome 007 HD+" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome 007 HD+
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127225
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Animation FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Animation FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127226
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Arnold Schwarzenegger FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Arnold Schwarzenegger FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127227
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Bollywood 2 FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Bollywood 2 FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127228
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Bollywood FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Bollywood FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127229
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Bruce Willis FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Bruce Willis FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127230
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Cinema FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Cinema FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127231
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Comedy FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Comedy FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127232
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Denzel Washington FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Denzel Washington FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127233
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Family FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Family FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127234
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Harry Potter FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Harry Potter FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127235
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Hits FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Hits FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127236
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Horror FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Horror FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127237
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Jason Statham FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Jason Statham FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127238
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Jean Claude van Damme FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Jean Claude van Damme FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127239
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Kurt Russell FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Kurt Russell FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127240
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Leonardo DiCaprio FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Leonardo DiCaprio FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127241
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Marvel FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Marvel FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127242
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Mittelerde FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Mittelerde FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127243
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Star Wars FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Star Wars FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127244
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Sylvester Stallone FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Sylvester Stallone FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127245
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax The Fast & the Furious FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax The Fast & the Furious FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127246
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Tom Cruise FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Tom Cruise FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127247
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Tommy Lee Jones FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Tommy Lee Jones FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127248
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinedome Filmax Will Smith FHD" tvg-logo="" group-title="GERMANY FILME - SERIEN CHANNELS",DE: Cinedome Filmax Will Smith FHD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/127249
+#EXTINF:-1 tvg-id="" tvg-name="7/24 TuTiTu" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 TuTiTu
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132616
+#EXTINF:-1 tvg-id="" tvg-name="7/24 TROTRO" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 TROTRO
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132617
+#EXTINF:-1 tvg-id="" tvg-name="7/24 TOM & JERRY" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 TOM & JERRY
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132618
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SCOOBY-DOO!" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 SCOOBY-DOO!
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132619
+#EXTINF:-1 tvg-id="" tvg-name="7/24 LOONEY TUNES" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 LOONEY TUNES
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132620
+#EXTINF:-1 tvg-id="" tvg-name="7/24 GARFIELD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 GARFIELD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132621
+#EXTINF:-1 tvg-id="" tvg-name="7/24 HEIDI" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 HEIDI
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132622
+#EXTINF:-1 tvg-id="" tvg-name="7/24 MASHA UND DER BÄR" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 MASHA UND DER BÄR
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132623
+#EXTINF:-1 tvg-id="" tvg-name="7/24 YAKARI" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 YAKARI
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132624
+#EXTINF:-1 tvg-id="" tvg-name="7/24 THE BOSS BABY" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 THE BOSS BABY
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132625
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPONGE BOB" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 SPONGE BOB
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132626
+#EXTINF:-1 tvg-id="" tvg-name="7/24 BARBIE" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 BARBIE
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132627
+#EXTINF:-1 tvg-id="" tvg-name="7/24 PEPPA WUTZ" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 PEPPA WUTZ
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132628
+#EXTINF:-1 tvg-id="" tvg-name="7/24 PAW PATROL" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 PAW PATROL
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132629
+#EXTINF:-1 tvg-id="" tvg-name="7/24 PAW PATROL HD" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 PAW PATROL HD
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132630
+#EXTINF:-1 tvg-id="" tvg-name="7/24 INSECTIBLES" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 INSECTIBLES
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132631
+#EXTINF:-1 tvg-id="" tvg-name="7/24 POKEMON" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 POKEMON
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132632
+#EXTINF:-1 tvg-id="" tvg-name="7/24 POWER NINJA" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 POWER NINJA
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132633
+#EXTINF:-1 tvg-id="" tvg-name="7/24 MIRACULOUS" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 MIRACULOUS
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132634
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SAM & CAT" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 SAM & CAT
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132635
+#EXTINF:-1 tvg-id="" tvg-name="7/24 TRANSFORMERS PRIME" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 TRANSFORMERS PRIME
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132636
+#EXTINF:-1 tvg-id="" tvg-name="7/24 LEGO" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 LEGO
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132637
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SKY LANDERS" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 SKY LANDERS
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132638
+#EXTINF:-1 tvg-id="" tvg-name="7/24 SPY KIDS" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 SPY KIDS
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132639
+#EXTINF:-1 tvg-id="" tvg-name="7/24 TROLLJAGER" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 TROLLJAGER
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132640
+#EXTINF:-1 tvg-id="" tvg-name="7/24 BEYBLADE BURST" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 BEYBLADE BURST
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132641
+#EXTINF:-1 tvg-id="" tvg-name="7/24 ODDBODS" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 ODDBODS
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132642
+#EXTINF:-1 tvg-id="" tvg-name="7/24 PJ MASKS" tvg-logo="" group-title="GERMANY KINDER CHANNELS",7/24 PJ MASKS
+http://sweczland.mochaiptv.xyz:8000/rocky1971_1/cxgdthfgn56645hgf/132643
