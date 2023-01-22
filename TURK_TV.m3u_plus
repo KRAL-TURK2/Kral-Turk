@@ -86,8 +86,6 @@ http://185.205.201.105:8035/play/a025
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTM3U
-#EXTINF:-1 xui-id="146818" tvg-id="" tvg-name="•●★---  FEED Spor Yayınları  ----★●•" tvg-logo="https://i.imgur.com/0FOPGDT.png" group-title="TR ► b**N SPORTS FEED",•●★---  FEED Spor Yayınları  ----★●•
-http://tr.iptvistanbul.xyz:8080/play/wybGKGIoE7epP4UOc6ksmA89bGzAPmmZA16iCWwRBy0
 #EXTINF:-1 xui-id="125813" tvg-id="beinsports1.tr" tvg-name="TR: Titan Sports 1 FHD" tvg-logo="https://i.imgur.com/YZCimtT.png" group-title="TR ► beIN SPORTS FEED",TR: Titan Sports 1 FHD
 http://tr.iptvistanbul.xyz:8080/play/wybGKGIoE7epP4UOc6ksmMI8PQoe_s9x7DIydT4oB0U
 #EXTINF:-1 xui-id="253292" tvg-id="" tvg-name="TR: Titan Sports 1 HD" tvg-logo="https://i.imgur.com/YZCimtT.png" group-title="TR ► beIN SPORTS FEED",TR: Titan Sports 1 HD
