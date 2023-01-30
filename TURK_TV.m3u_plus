@@ -1,4 +1,4 @@
-#EXTM3U
+1#EXTM3U
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
 http://audi.mochaiptv.xyz:8000/live/digiciemanuel/digiciXYZ10/1231.ts
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
@@ -6,7 +6,7 @@ http://4kplus.org:80/live/rocky42/rM6thgucV9/63597.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
 http://budurtivi.co:8080/live/ipturk/1wnDZsdfuUYJ9sdfsfs/48719.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
-http://33.kskmtc.xyz:8080/live/TMZLIVE/bXfZpZRC9KHJ333/75.ts
+http://vt.protoniumtv.net:1997/live/iptvtree2021/50DSG3JnyyLK0iaj/64189.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
 http://31.42.184.237:25461/live/SPORTSPACK/PFtHszNZzX7w/5848.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
