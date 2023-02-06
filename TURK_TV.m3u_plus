@@ -127,7 +127,7 @@ http://budurtivi.co:8080/live/ipturk/1wnDZsdfuUYJ9sdfsfs/1842.ts
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
 http://budurtivi.co:8080/live/ipturk/1wnDZsdfuUYJ9sdfsfs/46857.ts
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV HD
-http://cms.arisiktv.xyz:8080/live/3btv3/HWgQwaQeXD/2891.ts
+https://edge02.smart.az/o8/atv/playlist.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV UHD
 http://budurtivi.co:8080/live/ipturk/1wnDZsdfuUYJ9sdfsfs/46860.ts
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV FHD
@@ -140,7 +140,7 @@ http://budurtivi.co:8080/live/ipturk/1wnDZsdfuUYJ9sdfsfs/46859.ts
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D FHD
 https://demiroren-live.daioncdn.net:443/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D HD
-http://31.223.85.34:9999/play/a06f/index.m3u8
+http://135.125.234.9:8081/kanald/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV UHD
 http://budurtivi.co:8080/live/ipturk/1wnDZsdfuUYJ9sdfsfs/46858.ts
@@ -171,7 +171,7 @@ http://21929815.rossteleccom.net:80/iptv/HGXBCC57Z6PERM/2318/index.ts
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 UHD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 FHD
-http://ac.traveliptv.nl:80/live/ibrahimturk/v7Nv6vNvdk/47620.ts
+http://135.125.234.9:8081/teve2/index.m3u8
 #EXTINF:-1 group-title="ULUSAL-UHD", A2 UHD
 http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/680.ts
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa 
@@ -181,7 +181,7 @@ https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TÜRK UHD
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
-http://ac.traveliptv.nl:80/live/ibrahimturk/v7Nv6vNvdk/34.ts
+http://135.125.234.9:8081/eurod/index.m3u8
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
 http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6897/index.m3u8
 #EXTINF:-1 TGRT EU group-title="ULUSAL-UHD", TGRT EU
@@ -193,7 +193,7 @@ https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL 7 UHD
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL 7 FHD
-http://31.177.62.182:8010/play/s18
+http://135.125.234.9:8081/kanal7/index.m3u8
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV UHD
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV FHD
