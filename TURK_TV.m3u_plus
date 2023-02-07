@@ -255,7 +255,7 @@ https://tv.ensonhaber.com:443/tv/tr/ntv/index.m3u8
 #EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
 https://59c7ea6bec1c6.streamlock.net/filboxlive/foxtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
-http://135.125.234.9:8081/tgrteu/index.m3u8
+http://135.125.234.9:8081/cnnturk/index.m3u8
 
 #EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="HABER KANALI",HABERTÜRK
 https://tv.ensonhaber.com:443/tv/tr/haberturk/index.m3u8
