@@ -4,7 +4,7 @@ http://audi.mochaiptv.xyz:8000/live/digiciemanuel/digiciXYZ10/1231.ts
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
 http://ip237.ip-51-89-85.eu:2086/live/9B6WxDVOke/cx7RfT7Yb9/8493.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
-http://budurtivi.co:8080/live/ipturk/1wnDZsdfuUYJ9sdfsfs/48719.ts
+http://vip.lotusnet.digital:19051/live/RedirectedChannels/SrvComune6023/21783.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
 http://vt.protoniumtv.net:1997/live/iptvtree2021/50DSG3JnyyLK0iaj/64189.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
@@ -40,7 +40,7 @@ http://stream.detr.xyz:8080/live/bossskype/dGwNI81DW/260.ts
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 UHD
 http://ip237.ip-51-89-85.eu:2086/live/9B6WxDVOke/cx7RfT7Yb9/6132.ts
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 FHD
-http://stream.detr.xyz:8080/live/bossskype/dGwNI81DW/259.ts
+http://vip.lotusnet.digital:19051/live/RedirectedChannels/SrvComune6023/21790.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
 http://white45.click:2086/live/mario2009/fsdfgfdsxdf/80249.ts
