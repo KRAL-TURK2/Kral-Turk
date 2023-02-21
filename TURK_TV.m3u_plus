@@ -270,7 +270,7 @@ https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
 https://tv.ensonhaber.com:443/tv/tr/24tv/index.m3u8
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
-https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
+https://canli.haber365.com.tr/tr/24tv/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_haber.png"tvg-id="" group-title="HABER KANALI",TRT HABER
 https://tv-trthaber.medya.trt.com.tr:443/master_720.m3u8
