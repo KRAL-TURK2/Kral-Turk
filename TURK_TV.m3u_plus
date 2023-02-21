@@ -288,7 +288,7 @@ http://31.177.62.182:8010/play/s19
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
-http://31.223.85.34:9999/play/a07r/index.m3u8
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 
