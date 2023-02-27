@@ -183,7 +183,7 @@ https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
 http://135.125.234.9:8081/eurod/index.m3u8
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
-http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6897/index.m3u8
+http://95.0.226.197:8000/play/a037
 #EXTINF:-1 TGRT EU group-title="ULUSAL-UHD", TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
@@ -199,7 +199,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV FHD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="ULUSAL-UHD",SHOW MAX UHD
-https://bit.ly/3P7NnBm?/chunklist.m3u8
+http://95.0.226.197:8000/play/a014
 #EXTINF:-1 TRT 2 group-title="ULUSAL-UHD" ,TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 TRT TÜRK group-title="ULUSAL-UHD" ,TRT TÜRK
@@ -248,12 +248,12 @@ http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168655.ts
 
 #EXTM3U
 #EXTINF:-1 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title="HABER KANALI",NTV HABER
-http://213.172.73.133:8081/nimble_live/9066_NTV_HD/playlist.m3u8
+http://95.0.226.197:8000/play/a00p
 #EXTINF:-1 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title="HABER KANALI",NTV HABER
 https://tv.ensonhaber.com:443/tv/tr/ntv/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
-https://59c7ea6bec1c6.streamlock.net/filboxlive/cnnturk.stream/playlist.m3u8
+http://95.0.226.197:8000/play/a017
 #EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
 http://135.125.234.9:8081/cnnturk/index.m3u8
 
@@ -283,7 +283,7 @@ https://b01c02nl.mediatriple.net:443/videoonlylive/mtsxxkzwwuqtglive/broadcast_5
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
-http://31.177.62.182:8010/play/s19
+http://95.0.226.197:8000/play/a00z
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 
