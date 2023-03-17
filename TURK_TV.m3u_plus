@@ -752,22 +752,18 @@ http://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-
 http://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" logo="", TEBER 4
 http://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="YEREL KANALLAR",KON TV
-http://195.175.224.218:6610/001/2/ch00000090990000001209/sec-f4-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001209&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="YEREL KANALLAR",BENGÜTÜRK
-http://195.175.224.219:6610/001/2/ch00000090990000001176/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001176&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="2615" tvg-logo="http://epg.it999.ru/img/2615.png",24 TV HD
-http://21929815.rossteleccom.net:80/iptv/HGXBCC57Z6PERM/2319/index.ts
+http://21929815.rossteleccom.net:80/iptv/GNCPU3XQDZA3L4/2319/index.ts
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="2617" tvg-logo="http://epg.it999.ru/img/2617.png",TV 4 HD
-http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/2321/index.m3u8
+http://he11o.akadatel.com/iptv/GNCPU3XQDZA3L4/2321/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3815" tvg-logo="http://epg.it999.ru/img/3815.png",ARTI 1
-http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6748/index.m3u8
+http://he11o.akadatel.com/iptv/GNCPU3XQDZA3L4/6748/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3816" tvg-logo="http://epg.it999.ru/img/3816.png",Uzay Haber
-http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6749/index.m3u8
+http://he11o.akadatel.com/iptv/GNCPU3XQDZA3L4/6749/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3817" tvg-logo="http://epg.it999.ru/img/3817.png",TV 5
-http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6751/index.m3u8
+http://he11o.akadatel.com/iptv/GNCPU3XQDZA3L4/6751/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3818" tvg-logo="http://epg.it999.ru/img/3818.png",TV 41
-http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6752/index.m3u8
+http://he11o.akadatel.com/iptv/GNCPU3XQDZA3L4/6752/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3819" tvg-logo="http://epg.it999.ru/img/3819.png",TV 4
 http://he11o.akadatel.com/iptv/HGXBCC57Z6PERM/6753/index.m3u8
 #EXTINF:-1 group-title="YEREL KANALLAR" tvg-id="3821" tvg-logo="http://epg.it999.ru/img/3821.png",Mavi Karadeniz
