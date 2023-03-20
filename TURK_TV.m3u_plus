@@ -357,76 +357,54 @@ http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 http://159.89.20.0/satontv3_hdtv/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="-------------- | COCUK HD | --------------" tvg-logo="https://kanallogo2.com/images/cocuk/cocuk.png" group-title="Cocuk",-------------- | COCUK HD | --------------
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/6513.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Animasyon HD" tvg-logo="" group-title="Cocuk",Vip Channel Animasyon HD
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/198713.ts
-#EXTINF:-1 tvg-id="babytv.tr" tvg-name="Baby TV HD" tvg-logo="https://kanallogo2.com/images/cocuk/baby-tv.png" group-title="Cocuk",Baby TV HD
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/19115.ts
-#EXTINF:-1 tvg-id="minikago.tr" tvg-name="Minika Go Hd" tvg-logo="https://kanallogo2.com/images/cocuk/minika-go.png" group-title="Cocuk",Minika Go Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/44.ts
-#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="Minika Cocuk Hd" tvg-logo="https://kanallogo2.com/images/cocuk/minika-cocuk.png" group-title="Cocuk",Minika Cocuk Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/211.ts
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang Cocuk Hd" tvg-logo="https://kanallogo2.com/images/cocuk/boomerang-hd.png" group-title="Cocuk",Boomerang Cocuk Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/2064.ts
-#EXTINF:-1 tvg-id="" tvg-name="Smart Cocuk Hd" tvg-logo="https://kanallogo2.com/images/cocuk/Smart-cocuk.png" group-title="Cocuk",Smart Cocuk Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/2067.ts
-#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TRT Cocuk Hd" tvg-logo="https://kanallogo2.com/images/cocuk/trt-cocuk.png" group-title="Cocuk",TRT Cocuk Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/2110.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior Hd" tvg-logo="https://kanallogo2.com/images/cocuk/disney-junior.png" group-title="Cocuk",Disney Junior Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/99089.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick jr Hd" tvg-logo="https://kanallogo2.com/images/cocuk/nick-jr.png" group-title="Cocuk",Nick jr Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/99090.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBeebies BBC" tvg-logo="https://kanallogo2.com/images/cocuk/cbeebies.png" group-title="Cocuk",CBeebies BBC
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/99092.ts
-#EXTINF:-1 tvg-id="" tvg-name="Baby First Tv Hd" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4efc3a6d1898e531c086c8b58fdb0efd.png" group-title="Cocuk",Baby First Tv Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/19876.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="Cartoon Network Hd" tvg-logo="https://kanallogo2.com/images/cocuk/cartoon-network.png" group-title="Cocuk",Cartoon Network Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/7559.ts
-#EXTINF:-1 tvg-id="" tvg-name="Duck Tv Hd" tvg-logo="https://kanallogo2.com/images/cocuk/duck-tv.png" group-title="Cocuk",Duck Tv Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/123302.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mini Anime Tv Hd" tvg-logo="https://kanallogo2.com/images/cocuk/mini-anime.png" group-title="Cocuk",Mini Anime Tv Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/67960.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sevimli Dostlar Tv Hd" tvg-logo="https://kanallogo2.com/images/cocuk/Sevimli-Dostlar-Tv.png" group-title="Cocuk",Sevimli Dostlar Tv Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/67949.ts
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="Kanal 7 Cocuk Tv Hd" tvg-logo="https://kanallogo2.com/images/cocuk/kanal-7-cocuk.png" group-title="Cocuk",Kanal 7 Cocuk Tv Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/67950.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pepe Tv Hd" tvg-logo="https://kanallogo2.com/images/cocuk/pepe-tv.png" group-title="Cocuk",Pepe Tv Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/67958.ts
-#EXTINF:-1 tvg-id="" tvg-name="Masa ile Koca Ayi Hd" tvg-logo="https://kanallogo2.com/images/cocuk/masa-ile-koca-ayi.png" group-title="Cocuk",Masa ile Koca Ayi Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/67959.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kayu Cocuk Hd" tvg-logo="https://kanallogo2.com/images/cocuk/caillou.png" group-title="Cocuk",Kayu Cocuk Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/123207.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nickeledeon Hd" tvg-logo="https://kanallogo2.com/images/cocuk/nickelodeon-hd.png" group-title="Cocuk",Nickeledeon Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/121111.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rafadan Tayfa Hd" tvg-logo="https://kanallogo2.com/images/cocuk/Rafadan-tayfa.png" group-title="Cocuk",Rafadan Tayfa Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/121112.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jetgiller Cocuk" tvg-logo="https://kanallogo2.com/images/cocuk/jetgiller.png" group-title="Cocuk",Jetgiller Cocuk
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/122881.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sirinler Sd" tvg-logo="https://kanallogo2.com/images/cocuk/sirinler.png" group-title="Cocuk",Sirinler Sd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/121113.ts
-#EXTINF:-1 tvg-id="" tvg-name="Oddbods Tv Hd" tvg-logo="https://kanallogo2.com/images/cocuk/oddbods-tv.png" group-title="Cocuk",Oddbods Tv Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/121174.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry" tvg-logo="https://kanallogo2.com/images/cocuk/tom-ve-jerry.png" group-title="Cocuk",Tom and Jerry
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/121304.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kral Sakir Hd" tvg-logo="https://kanallogo2.com/images/cocuk/kral-sakir.png" group-title="Cocuk",Kral Sakir Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/122573.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kral Sakir 23 Nisan" tvg-logo="https://kanallogo2.com/images/cocuk/kral-sakir.png" group-title="Cocuk",Kral Sakir 23 Nisan
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/123279.ts
-#EXTINF:-1 tvg-id="" tvg-name="Niloya Tv Hd" tvg-logo="https://kanallogo2.com/images/cocuk/Niloya.png" group-title="Cocuk",Niloya Tv Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/66100.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kukuli Tv Hd" tvg-logo="https://kanallogo2.com/images/cocuk/kukuli-tv.png" group-title="Cocuk",Kukuli Tv Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/66101.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yumucak Tv Hd" tvg-logo="https://kanallogo2.com/images/cocuk/yumucak-tv.png" group-title="Cocuk",Yumucak Tv Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/123208.ts
-#EXTINF:-1 tvg-id="" tvg-name="Raos Animasyon Cocuk 1 Hd" tvg-logo="https://kanallogo2.com/images/cocuk/nox-animasyon.png" group-title="Cocuk",Raos Animasyon Cocuk 1 Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/8173.ts
-#EXTINF:-1 tvg-id="" tvg-name="Raos Animasyon Cocuk 3 Hd" tvg-logo="https://kanallogo2.com/images/cocuk/nox-animasyon.png" group-title="Cocuk",Raos Animasyon Cocuk 3 Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/8171.ts
-#EXTINF:-1 tvg-id="" tvg-name="Raos Animasyon Cocuk 2 Hd" tvg-logo="https://kanallogo2.com/images/cocuk/nox-animasyon.png" group-title="Cocuk",Raos Animasyon Cocuk 2 Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/8172.ts
-#EXTINF:-1 tvg-id="" tvg-name="Raos Animasyon Cocuk 4 Hd" tvg-logo="https://kanallogo2.com/images/cocuk/nox-animasyon.png" group-title="Cocuk",Raos Animasyon Cocuk 4 Hd
-http://55.rsvip12.xyz:80/live/almandagitim/Fesr6un8Yjcz/123260.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRC |  DISNEY XD" tvg-logo="" group-title="TURK COCUK",TRC |  DISNEY XD
+http://white45.click:2086/mario2009/fsdfgfdsxdf/3570
+#EXTINF:-1 tvg-id="" tvg-name="TRC |  MOVIESMART COCUK HD" tvg-logo="" group-title="TURK COCUK",TRC |  MOVIESMART COCUK HD
+http://white45.click:2086/mario2009/fsdfgfdsxdf/3571
+#EXTINF:-1 tvg-id="" tvg-name="TRC |  DISNEY JR HD" tvg-logo="" group-title="TURK COCUK",TRC |  DISNEY JR HD
+http://white45.click:2086/mario2009/fsdfgfdsxdf/3572
+#EXTINF:-1 tvg-id="" tvg-name="TRC |  BOOMERANG HD" tvg-logo="" group-title="TURK COCUK",TRC |  BOOMERANG HD
+http://white45.click:2086/mario2009/fsdfgfdsxdf/3574
+#EXTINF:-1 tvg-id="" tvg-name="TRC |  BABYTV HD" tvg-logo="" group-title="TURK COCUK",TRC |  BABYTV HD
+http://white45.click:2086/mario2009/fsdfgfdsxdf/3575
+#EXTINF:-1 tvg-id="" tvg-name="TRC |  CARTOON NETWORK" tvg-logo="" group-title="TURK COCUK",TRC |  CARTOON NETWORK
+http://white45.click:2086/mario2009/fsdfgfdsxdf/3576
+#EXTINF:-1 tvg-id="" tvg-name="TRC |  TRT COCUK" tvg-logo="" group-title="TURK COCUK",TRC |  TRT COCUK
+http://white45.click:2086/mario2009/fsdfgfdsxdf/3578
+#EXTINF:-1 tvg-id="" tvg-name="TRC |  TRT COCUK SD" tvg-logo="" group-title="TURK COCUK",TRC |  TRT COCUK SD
+http://white45.click:2086/mario2009/fsdfgfdsxdf/3579
+#EXTINF:-1 tvg-id="" tvg-name="TRC |  minikaCOCUK" tvg-logo="" group-title="TURK COCUK",TRC |  minikaCOCUK
+http://white45.click:2086/mario2009/fsdfgfdsxdf/3580
+#EXTINF:-1 tvg-id="" tvg-name="TRC |  minikaGO" tvg-logo="" group-title="TURK COCUK",TRC |  minikaGO
+http://white45.click:2086/mario2009/fsdfgfdsxdf/3581
+#EXTINF:-1 tvg-id="" tvg-name="TR| NICK TOONS" tvg-logo="" group-title="TURK COCUK",TR| NICK TOONS
+http://white45.click:2086/mario2009/fsdfgfdsxdf/11012
+#EXTINF:-1 tvg-id="" tvg-name="TR -- Nickelodeon TR HD" tvg-logo="" group-title="TURK COCUK",TR -- Nickelodeon TR HD
+http://white45.click:2086/mario2009/fsdfgfdsxdf/22075
+#EXTINF:-1 tvg-id="" tvg-name="TR -- TR -- SMART COCUK HD" tvg-logo="" group-title="TURK COCUK",TR -- TR -- SMART COCUK HD
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78646
+#EXTINF:-1 tvg-id="" tvg-name="TR -- TRT COCUK HD (720P)" tvg-logo="" group-title="TURK COCUK",TR -- TRT COCUK HD (720P)
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78647
+#EXTINF:-1 tvg-id="" tvg-name="TR -- NICKELODEON HD (720P)" tvg-logo="" group-title="TURK COCUK",TR -- NICKELODEON HD (720P)
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78648
+#EXTINF:-1 tvg-id="" tvg-name="TR -- NICK JR HD (720P)" tvg-logo="" group-title="TURK COCUK",TR -- NICK JR HD (720P)
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78649
+#EXTINF:-1 tvg-id="" tvg-name="TR -- CARTOON NETWORK HD (720P)" tvg-logo="" group-title="TURK COCUK",TR -- CARTOON NETWORK HD (720P)
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78650
+#EXTINF:-1 tvg-id="" tvg-name="TR -- BOOMERANG HD (720P)" tvg-logo="" group-title="TURK COCUK",TR -- BOOMERANG HD (720P)
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78651
+#EXTINF:-1 tvg-id="" tvg-name="TR -- MINIKA COCUK HD (720P)" tvg-logo="" group-title="TURK COCUK",TR -- MINIKA COCUK HD (720P)
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78652
+#EXTINF:-1 tvg-id="" tvg-name="TR -- MINICA GO HD (720P)" tvg-logo="" group-title="TURK COCUK",TR -- MINICA GO HD (720P)
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78653
+#EXTINF:-1 tvg-id="" tvg-name="TR -- DISNEY JR HD (720P)" tvg-logo="" group-title="TURK COCUK",TR -- DISNEY JR HD (720P)
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78654
+#EXTINF:-1 tvg-id="" tvg-name="TR -- BABY TV HD (720P)" tvg-logo="" group-title="TURK COCUK",TR -- BABY TV HD (720P)
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78655
+#EXTINF:-1 tvg-id="" tvg-name="TR -- DA VINCI KIDS HD (720P)" tvg-logo="" group-title="TURK COCUK",TR -- DA VINCI KIDS HD (720P)
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78656
+#EXTINF:-1 tvg-id="" tvg-name="TR -- CBEEBiES (720P)" tvg-logo="" group-title="TURK COCUK",TR -- CBEEBiES (720P)
+http://white45.click:2086/mario2009/fsdfgfdsxdf/78657
 
 #EXTM3U
 #EXTINF:-1 tvg-logo=""tvg-id="" group-title="Belgesel - TR",YABAN TV HD
