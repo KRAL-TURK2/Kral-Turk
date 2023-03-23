@@ -1,6 +1,6 @@
 1#EXTM3U
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
-http://formule.link:80/live/ZainTV01/oYChnp7cuX34/15497.ts
+http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/13635
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
 http://ip237.ip-51-89-85.eu:2086/live/9B6WxDVOke/cx7RfT7Yb9/8493.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
@@ -73,7 +73,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
 http://white45.click:2086/live/mario2009/fsdfgfdsxdf/80266.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR UHD
-http://vip.lotusnet.digital:19051/live/RedirectedChannels/SrvComune6023/21781.ts
+http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR FHD
 http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
@@ -114,7 +114,7 @@ http://aleminkrali.kralsmart.xyz:2086/live/@Chopo31/GubzV0lBj61s4/10207.ts
 http://hyqzethr.megatv.fun/iptv/XKUCY8VBNVLNB7/4001/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
-http://formule.link:80/live/ZainTV01/oYChnp7cuX34/14668.ts
+http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14693
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 HD
@@ -123,7 +123,7 @@ https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 http://add8c547.amazzin.pw:80/iptv/HGXBCC57Z6PERM/2293/index.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV UHD
-http://formule.link:80/live/ZainTV01/oYChnp7cuX34/14669.ts
+http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14078
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
 http://gizlimizli2424.ddns.net:8080/live/Pro_Bestabi/AX6UWsMKgg/32452.ts
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV HD
