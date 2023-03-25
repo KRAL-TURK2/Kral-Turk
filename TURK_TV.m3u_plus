@@ -620,6 +620,369 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:-1 group-title="TURK SINEMA KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOYItx72T-kbNJeIqWcQ7KEQMQNJXZP7fAHGIjB7WWoghPQvxRP-tn27k05hCGSBlZV7FuZAzQz625bVXcRsqDdlDLs7Lm0stqqVp-bwDNDUUvDtkUyra-TKZ7LH_sCUA6qC_O1N7D9To1_DenuiExmHJlpIDBkXPf_LPwrjyLrB-tPOhFYLRUUlhw =s320", CRI TÜRK HD
 https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="#### TURK SİNEMA ####" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",#### TURK SİNEMA ####
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/248729
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: TV 100 HD" tvg-logo="https://imagizer.imageshack.com/img924/8071/pqk29Z.png" group-title="TR Ⓒ ULUSAL ",TR: TV 100 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/248819
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOSS YESILCAM" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR Ⓒ YESILCAM SINEMA",TR: BOSS YESILCAM
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/324648
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX SENER SEN" tvg-logo="https://i.imgur.com/aTs860O.png" group-title="TR Ⓒ YESILCAM SINEMA",TR: FILMBOX SENER SEN
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/324728
+#EXTINF:-1 tvg-id="" tvg-name="TR:  MAX Aksiyon HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR:  MAX Aksiyon HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350845
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Aksiyon 2 HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX Aksiyon 2 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350846
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Premier HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX Premier HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350847
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX Orjinal HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350848
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Western HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX Western HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350849
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Hint Filimleri" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX Hint Filimleri
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350850
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX Vizyon HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350851
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX Vizyon 2 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350852
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX Vizyon 3 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350853
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 4 HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX Vizyon 4 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350854
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX 007 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350855
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX STAR WARS HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350856
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX TURK HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350857
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PLUS HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX PLUS HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350858
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: MAX GOLD HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350859
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX PREMIERE" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR Ⓒ SINEMA & EGLENCE",TR: REDBOX PREMIERE
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350940
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX VIZYON 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR Ⓒ SINEMA & EGLENCE",TR: REDBOX VIZYON 1 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350941
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX VIZYON 2  HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR Ⓒ SINEMA & EGLENCE",TR: REDBOX VIZYON 2  HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350942
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX SINEMA TURK 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR Ⓒ SINEMA & EGLENCE",TR: REDBOX SINEMA TURK 1 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350943
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX SINEMA TURK  2 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR Ⓒ SINEMA & EGLENCE",TR: REDBOX SINEMA TURK  2 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350944
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX ACTIE 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR Ⓒ SINEMA & EGLENCE",TR: REDBOX ACTIE 1 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350945
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX BILIMKURGU 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR Ⓒ SINEMA & EGLENCE",TR: REDBOX BILIMKURGU 1 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350946
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX HORROR 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR Ⓒ SINEMA & EGLENCE",TR: REDBOX HORROR 1 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350947
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX MIX 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR Ⓒ SINEMA & EGLENCE",TR: REDBOX MIX 1 HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350948
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX DRAMA HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR Ⓒ SINEMA & EGLENCE",TR: REDBOX DRAMA HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350949
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX Türk HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR:  FILMAX Türk HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350950
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GOLD HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: FILMAX GOLD HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350951
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX FANTASTIK HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR:  FILMAX FANTASTIK HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350952
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Korku HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: FILMAX Korku HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350953
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Action HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: FILMAX Action HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350954
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX COMEDY HD" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR:  FILMAX COMEDY HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350955
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam" tvg-logo="" group-title="TR Ⓒ YESILCAM SINEMA",TR: FILMAX Yesilcam
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350956
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kemal Sunal" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: FILMAX Kemal Sunal
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350957
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmax Drama" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: Filmax Drama
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350958
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Sinema HD" tvg-logo="https://www.rizedeyiz.com/Arsiv/Icerik/2011/07/12/Resim_1310480030.jpg" group-title="TR Ⓒ YESILCAM SINEMA",TR: Yesilcam Sinema HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350959
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal TV" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: Kemal Sunal TV
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350960
+#EXTINF:-1 tvg-id="" tvg-name="TR: YESILCAM ZEKMET TV" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: YESILCAM ZEKMET TV
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350962
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX AILE" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: FILMAX AILE
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350964
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX BILIM KURGU" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: FILMAX BILIM KURGU
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350965
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GERILIM" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: FILMAX GERILIM
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350966
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ROMANTIK" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: FILMAX ROMANTIK
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350967
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SAVAS" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: FILMAX SAVAS
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350968
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX IMDB TOP" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: FILMAX IMDB TOP
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350969
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX DISNEY" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: FILMAX DISNEY
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350970
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX LIFE" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DOCUAX LIFE
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350971
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX EARTH" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DOCUAX EARTH
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350972
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX WAR" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DOCUAX WAR
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350973
+#EXTINF:-1 tvg-id="" tvg-name="TR : FILMAX KOMEDI" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR : FILMAX KOMEDI
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350974
+#EXTINF:-1 tvg-id="" tvg-name="TR : FILMAX TURK" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR : FILMAX TURK
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350975
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN ERSAN KUNTERI" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: EXXEN ERSAN KUNTERI
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350976
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SAKARYA FIRAT" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX SAKARYA FIRAT
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350989
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CAMDAKİ KIZ" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX CAMDAKİ KIZ
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350990
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KARDESLERIM" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX KARDESLERIM
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350991
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BEN BU CIHANA SIGMAM" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX BEN BU CIHANA SIGMAM
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350992
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX UC KIZ KARDES" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX UC KIZ KARDES
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350993
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX UC KURUS" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX UC KURUS
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350994
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ICERDE" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX ICERDE
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350995
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX HATIRLA SEVGILI" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX HATIRLA SEVGILI
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350996
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX GUZEL KOYLU" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX GUZEL KOYLU
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350997
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ELVEDA RUMELI" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX ELVEDA RUMELI
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350998
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX COCUK" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX COCUK
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/350999
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BENIM ADIM MELEK" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX BENIM ADIM MELEK
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/351000
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX AVLU" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX AVLU
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/351001
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAC ANNE" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAC ANNE
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/351002
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALEV ALEV" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX ALEV ALEV
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/351003
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX AKREP" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR: DIZIAX AKREP
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/351004
+#EXTINF:-1 tvg-id="" tvg-name="TR : DIZIAX AYNEN AYNEN" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR : DIZIAX AYNEN AYNEN
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/351005
+#EXTINF:-1 tvg-id="" tvg-name="TR : DIZIAX CEKIC VE GUL" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR : DIZIAX CEKIC VE GUL
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/351006
+#EXTINF:-1 tvg-id="" tvg-name="TR : DIZIAX AYAK ISLERI" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",TR : DIZIAX AYAK ISLERI
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/351007
+#EXTINF:-1 tvg-id="" tvg-name="TR: Çukur ʜᴅ" tvg-logo="https://i.ibb.co/dJf0bNQ/bluetv.png" group-title="TR Ⓒ 7/24",TR: Çukur ʜᴅ
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/259479
+#EXTINF:-1 tvg-id="" tvg-name="✪ TR | 24 /7 FILMLER ✪" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/BAYRAK.png" group-title="TR Ⓒ 7/24",✪ TR | 24 /7 FILMLER ✪
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/287350
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ask Memnu HD" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Ask Memnu HD
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293232
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Kurtlar Vadisi" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Kurtlar Vadisi
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293233
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuklar Duymasin" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Cocuklar Duymasin
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293234
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Game of Thrones" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Game of Thrones
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293235
+#EXTINF:-1 tvg-id="" tvg-name="TR: DİZİAX Atiye" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DİZİAX Atiye
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293236
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Hercai" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Hercai
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293237
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cicek Taxi" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Cicek Taxi
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293238
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Bin Bir Gece" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Bin Bir Gece
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293239
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ezel" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Ezel
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293240
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Masumlar Apartmani" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Masumlar Apartmani
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293241
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Kirmizi Oda" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Kirmizi Oda
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293242
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX S1F1R B1R ADANA" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX S1F1R B1R ADANA
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293243
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Sokagin Cocuklari" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Sokagin Cocuklari
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293244
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Suskunlar" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Suskunlar
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293245
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Yilan Hikayesi" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Yilan Hikayesi
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293246
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Sadakatsiz" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Sadakatsiz
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293247
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Muhtesem yuzyil" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Muhtesem yuzyil
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293248
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Behzat Ç" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Behzat Ç
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293249
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Alemin Kralı" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Alemin Kralı
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293250
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Jet Sosyete" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Jet Sosyete
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293251
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ramo" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Ramo
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293252
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Diriliş Ertuğrul" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX Diriliş Ertuğrul
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293253
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KONUSANLAR" tvg-logo="" group-title="TR Ⓒ 7/24",TR: DIZIAX KONUSANLAR
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293254
+#EXTINF:-1 tvg-id="" tvg-name="TR◇YEŞİLÇAM KARIŞIK" tvg-logo="" group-title="TR Ⓒ YESILCAM SINEMA",TR◇YEŞİLÇAM KARIŞIK
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/321286
+#EXTINF:-1 tvg-id="" tvg-name="TR◇KEMAL SUNAL" tvg-logo="" group-title="TR Ⓒ YESILCAM SINEMA",TR◇KEMAL SUNAL
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/321287
+#EXTINF:-1 tvg-id="" tvg-name="TR◇KARTAL TİBET" tvg-logo="" group-title="TR Ⓒ YESILCAM SINEMA",TR◇KARTAL TİBET
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/321288
+#EXTINF:-1 tvg-id="" tvg-name="TR◇HABABAM SINIFI" tvg-logo="" group-title="TR Ⓒ YESILCAM SINEMA",TR◇HABABAM SINIFI
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/321289
+#EXTINF:-1 tvg-id="" tvg-name="TR◇GÜLŞEN BİBİKOĞLU" tvg-logo="" group-title="TR Ⓒ YESILCAM SINEMA",TR◇GÜLŞEN BİBİKOĞLU
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/321290
+#EXTINF:-1 tvg-id="" tvg-name="TR◇FİLİZ AKIN" tvg-logo="" group-title="TR Ⓒ YESILCAM SINEMA",TR◇FİLİZ AKIN
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/321291
+#EXTINF:-1 tvg-id="" tvg-name="TR◇CÜNEYT ARKIN" tvg-logo="" group-title="TR Ⓒ YESILCAM SINEMA",TR◇CÜNEYT ARKIN
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/321292
+#EXTINF:-1 tvg-id="" tvg-name="TR◇YABANCI FİLM-1" tvg-logo="http://meowtv.online:80/images/22d2638f01dcb712c8865d658dccb313.png" group-title="TR Ⓒ SINEMA & EGLENCE",TR◇YABANCI FİLM-1
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/321293
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352545
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 3" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 3
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352546
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 2
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352547
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 4" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 4
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352548
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 5" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 5
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352549
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 6" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 6
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352550
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 7" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 7
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352551
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 9" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 9
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352552
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 8" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 8
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352553
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 10" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 10
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352554
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 12" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 12
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352555
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 11" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 11
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352556
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 14" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 14
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352557
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 13" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 13
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352558
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 15" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO ViZYON 15
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352559
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO TURK 2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO TURK 2
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352560
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO TURK" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO TURK
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352561
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 1" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENOFLIX 1
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352562
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENOFLIX 2
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352563
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO NETFLIX 1" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO NETFLIX 1
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352564
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO NETFLIX 2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO NETFLIX 2
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352565
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO NETFLIX 3" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO NETFLIX 3
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352566
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO MACERA 1" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO MACERA 1
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352567
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO MACERA 3" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO MACERA 3
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352568
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO WESTERN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] ENO WESTERN
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352569
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 1" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 1
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352570
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 2
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352571
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 3" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 3
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352572
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 4" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 4
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352573
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 6" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 6
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352574
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 5" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 5
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352575
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 7" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 7
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352576
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 10" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 10
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352577
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 8" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 8
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352578
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 9" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 9
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352579
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 11" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 11
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352580
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 12" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 12
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352581
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 13" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 13
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352582
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 14" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 14
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352583
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 15" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 15
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352584
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 16" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 16
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352585
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 18" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 18
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352586
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 17" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 17
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352587
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 19" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 19
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352588
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 20" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON 20
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352589
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 1" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON TURK 1
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352590
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON TURK 2
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352591
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 3" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON TURK 3
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352592
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 4" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON TURK 4
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352593
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 5" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON TURK 5
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352594
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 6" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON TURK 6
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352595
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 7" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON TURK 7
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352596
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 8" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON TURK 8
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352597
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 9" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON TURK 9
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352598
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 10" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] SINEVIZYON TURK 10
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352599
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 1" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 1
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352600
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 2
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352601
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 3" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 3
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352602
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 4" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 4
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352603
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 5" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 5
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352604
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 6" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 6
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352605
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 7" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 7
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352606
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 8" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 8
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352607
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 9" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 9
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352608
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 10" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 10
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352609
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 11" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 11
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352610
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 12" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 12
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352611
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 13" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 13
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352612
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 14" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 14
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352613
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 15" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 15
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352614
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 16" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 16
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352615
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 17" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 17
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352616
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 18" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 18
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352617
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 19" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 19
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352618
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 20" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR Ⓒ SINEMA & EGLENCE",[TR] MULTIVIZYON 20
+http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/352619
 
 
 
