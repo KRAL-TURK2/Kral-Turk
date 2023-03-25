@@ -623,8 +623,6 @@ https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="#### TURK SİNEMA ####" tvg-logo="" group-title="TR Ⓒ SINEMA & EGLENCE",#### TURK SİNEMA ####
 http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/248729
-#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: TV 100 HD" tvg-logo="https://imagizer.imageshack.com/img924/8071/pqk29Z.png" group-title="TR Ⓒ ULUSAL ",TR: TV 100 HD
-http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/248819
 #EXTINF:-1 tvg-id="" tvg-name="TR: BOSS YESILCAM" tvg-logo="https://i.imgur.com/iRfVwiU.png" group-title="TR Ⓒ YESILCAM SINEMA",TR: BOSS YESILCAM
 http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/324648
 #EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX SENER SEN" tvg-logo="https://i.imgur.com/aTs860O.png" group-title="TR Ⓒ YESILCAM SINEMA",TR: FILMBOX SENER SEN
