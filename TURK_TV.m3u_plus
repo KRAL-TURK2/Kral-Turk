@@ -1353,3 +1353,241 @@ https://helga.iptv2022.com/vizyon_58/tracks-v1a1/mono.m3u8
 http://yerelmedya.tv:1935/yesilyurttv/_definst_/bant1/chunklist_w1070867965.m3u8
 
  #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: DAZN 1 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134845.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: DAZN 2 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134846.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT PREMIER LEAGUE FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136165.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 1 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: EUROSPORT 1 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134852.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: EUROSPORT 2 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134853.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT NEWS FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134850.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY TENNIS" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY TENNIS
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/135762.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TOP EVENT" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT TOP EVENT
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136161.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT DIGITAL FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SPORT DIGITAL FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134851.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT F1 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134849.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT GOLF
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134847.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT MIX
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136160.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE:  FC BAYERN TV" tvg-logo="" group-title="DE=SKY SPORTS ",DE:  FC BAYERN TV
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136162.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SPORT 1
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136163.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1 +" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SPORT 1 +
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136164.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 1 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134848.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 2 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134854.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 3 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134855.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 4 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134856.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 5 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134857.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 6 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134858.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 7 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134859.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 8 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 8 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134860.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 9 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 9 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134861.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 10 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 10 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134862.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 11 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 11 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134863.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | BOOMERANG" tvg-logo="" group-title="DE=KiNDER",DE | BOOMERANG
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136201.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | CARTOON NETWORK" tvg-logo="" group-title="DE=KiNDER",DE | CARTOON NETWORK
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136202.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | COMEDY CENTRAL HD" tvg-logo="" group-title="DE=KiNDER",DE | COMEDY CENTRAL HD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136208.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | DİSNEY CHANNEL" tvg-logo="" group-title="DE=KiNDER",DE | DİSNEY CHANNEL
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136211.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | NICKTOONS" tvg-logo="" group-title="DE=KiNDER",DE | NICKTOONS
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136213.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | KIKA HD" tvg-logo="" group-title="DE=KiNDER",DE | KIKA HD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136214.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | SUPER RTL HD" tvg-logo="" group-title="DE=KiNDER",DE | SUPER RTL HD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136216.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | DİSNEY CİNEMAGİC" tvg-logo="" group-title="DE=KiNDER",DE | DİSNEY CİNEMAGİC
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136218.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | KiKA FHD" tvg-logo="" group-title="DE=KiNDER",DE | KiKA FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136219.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | CARTOON NETWORK FHD" tvg-logo="" group-title="DE=KiNDER",DE | CARTOON NETWORK FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136224.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | DISNEY JR FHD" tvg-logo="" group-title="DE=KiNDER",DE | DISNEY JR FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136227.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | DISNEY JR HD" tvg-logo="" group-title="DE=KiNDER",DE | DISNEY JR HD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136228.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | DISNEY JR SD" tvg-logo="" group-title="DE=KiNDER",DE | DISNEY JR SD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136229.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | D1" tvg-logo="" group-title="DE=KiNDER",DE | D1
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136230.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | D2" tvg-logo="" group-title="DE=KiNDER",DE | D2
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136231.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | D3" tvg-logo="" group-title="DE=KiNDER",DE | D3
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136232.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | D4" tvg-logo="" group-title="DE=KiNDER",DE | D4
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136233.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | D03" tvg-logo="" group-title="DE=KiNDER",DE | D03
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136234.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | D04" tvg-logo="" group-title="DE=KiNDER",DE | D04
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136235.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ZDF FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134793.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ZDF NEO FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134791.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF INFO FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ZDF INFO FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134792.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ANIXE FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ANIXE FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134776.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARTE FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ARTE FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134777.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: 3SAT FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: 3SAT FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134778.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONE FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ONE FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134779.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel EINS FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: Kabel EINS FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134780.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 GOLD FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: SAT 1 GOLD FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134781.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: SAT 1 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134782.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOXUP HD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: VOXUP HD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134783.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: VOX FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134784.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO7 MAXX FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: PRO7 MAXX FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134785.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SUPER RTL FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: SUPER RTL FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134786.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PROSIEBEN FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: PROSIEBEN FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134787.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL NITRO FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: RTL NITRO FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134788.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL ZWEI FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: RTL ZWEI FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134789.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: RTL FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134790.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD ALPHA FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ARD ALPHA FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134794.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: DAS ERSTE FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134795.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: WELT FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: WELT FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134796.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TAGESSCHAU 24 FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: TAGESSCHAU 24 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134797.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: N-TV FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: N-TV FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134798.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SWR BW FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: SWR BW FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134771.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MDR FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: MDR FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134772.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RBB BERLIN FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: RBB BERLIN FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134773.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SR FERNSEHEN FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: SR FERNSEHEN FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134774.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: HR-FERNSEHEN FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: HR-FERNSEHEN FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134775.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL EINS CLASSICS HD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: KABEL EINS CLASSICS HD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134823.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: E! ENTERTAINMENT FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: E! ENTERTAINMENT FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134824.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: 13TH STREET FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: 13TH STREET FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134825.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 1 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134835.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 2 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134836.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 3 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134837.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 4 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134838.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 5 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134839.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 6 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134840.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 7 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134841.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 8 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134842.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 9 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134843.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 10 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 10 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134844.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ONE FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY ONE FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134808.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CRIME HD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CRIME HD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134809.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY KRIMI FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY KRIMI FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134810.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CRIME FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CRIME FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134811.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY COMEDY FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY COMEDY FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134812.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA SPECIAL HD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA SPECIAL HD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134813.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="" group-title="DE=CINEMA",DE: SKY ATLANTIC HD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134814.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ATLANTIC FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY ATLANTIC FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134822.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA THRILLER FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA THRILLER FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134815.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA SPECIAL FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA SPECIAL FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134816.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA PREMIEREN FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134817.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN 24 FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA PREMIEREN 24 FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134818.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA FAMILY FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134819.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA BEST OF FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA BEST OF FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134820.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA ACTION FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA ACTION FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134821.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY HD" tvg-logo="" group-title="DE=CINEMA",DE: SYFY HD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134804.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY FHD" tvg-logo="" group-title="DE=CINEMA",DE: SYFY FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134805.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SHOWCASE FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY SHOWCASE FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134806.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY REPLAY FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134807.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV SERIE FHD" tvg-logo="" group-title="DE=CINEMA",DE: WARNER TV SERIE FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134799.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV FILM FHD" tvg-logo="" group-title="DE=CINEMA",DE: WARNER TV FILM FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134800.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV COMEDY FHD" tvg-logo="" group-title="DE=CINEMA",DE: WARNER TV COMEDY FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134801.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: UNIVERSAL TV HD" tvg-logo="" group-title="DE=CINEMA",DE: UNIVERSAL TV HD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134802.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: UNIVERSAL TV FHD" tvg-logo="" group-title="DE=CINEMA",DE: UNIVERSAL TV FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134803.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC FHD" tvg-logo="" group-title="DE=DOKU ",DE: TLC FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134826.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPIEGEL GESCHICHTE FHD" tvg-logo="" group-title="DE=DOKU ",DE: SPIEGEL GESCHICHTE FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134827.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY NATURE FHD" tvg-logo="" group-title="DE=DOKU ",DE: SKY NATURE FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134828.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY DOCUMENTARIES FHD" tvg-logo="" group-title="DE=DOKU ",DE: SKY DOCUMENTARIES FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134829.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="DE=DOKU ",DE: NATIONAL GEOGRAPHIC FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134830.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD FHD" tvg-logo="" group-title="DE=DOKU ",DE: NAT GEO WILD FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134831.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL EINS DOKU FHD" tvg-logo="" group-title="DE=DOKU ",DE: KABEL EINS DOKU FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134832.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: HISTORY CHANNEL FHD" tvg-logo="" group-title="DE=DOKU ",DE: HISTORY CHANNEL FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134833.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="DE=DOKU ",DE: DISCOVERY CHANNEL FHD
+http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134834.ts
