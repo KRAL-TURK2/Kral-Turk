@@ -197,11 +197,11 @@ http://memotv.xyz:8080/LWU8udntBawv/mWGryj5uMQ8b/293254
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
-http://newpanel.smartv.me:8000/live:notivi_1/NBGqNfwvXGTa/82102.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 1
-http://newpanel.smartv.me:8000/live:notivi_1/NBGqNfwvXGTa/82102.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
 http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168646.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 1
+http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/20918.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
+http://memotv.xyz:8080/fixserver48292738263826383822/iso12qz6VD4737trTR372828kNjFdCB1iso/256703
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
 http://hyqzethr.megatv.fun/iptv/XKUCY8VBNVLNB7/19077/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 2
