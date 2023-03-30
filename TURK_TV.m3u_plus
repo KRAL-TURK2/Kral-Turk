@@ -6,7 +6,7 @@ http://ip237.ip-51-89-85.eu:2086/live/9B6WxDVOke/cx7RfT7Yb9/8493.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
 http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/5367.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
-http://eaglecinema.xyz:88/live/00Il@StanleyLaurelslI/YX6RaNAgnAQajemFFzcB/51323.ts
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1274.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
 http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168567.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
@@ -84,26 +84,6 @@ http://kululuplay.ch:8080/live/fHm4LNnt8X/fGFni5mIK1/36872.ts
 http://185.205.201.105:8035/play/a025
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
-
-#EXTM3U
-#EXTINF:-1 xui-id="125813" tvg-id="beinsports1.tr" tvg-name="TR: Titan Sports 1 FHD" tvg-logo="https://i.imgur.com/YZCimtT.png" group-title="TR ► beIN SPORTS FEED",TR: Titan Sports 1 FHD
-http://tr.iptvistanbul.xyz:8080/play/wybGKGIoE7epP4UOc6ksmMI8PQoe_s9x7DIydT4oB0U
-#EXTINF:-1 xui-id="253292" tvg-id="" tvg-name="TR: Titan Sports 1 HD" tvg-logo="https://i.imgur.com/YZCimtT.png" group-title="TR ► beIN SPORTS FEED",TR: Titan Sports 1 HD
-http://tr.iptvistanbul.xyz:8080/play/wybGKGIoE7epP4UOc6ksmGm8rLvwMtezzincVAsRvpg
-#EXTINF:-1 xui-id="125818" tvg-id="" tvg-name="TR: Titan Sports 2 FHD" tvg-logo="https://i.imgur.com/51h2LCS.png" group-title="TR ► beIN SPORTS FEED",TR: Titan Sports 2 FHD
-http://tr.iptvistanbul.xyz:8080/play/wybGKGIoE7epP4UOc6ksmOMKbqbKPKgruU6E8dU9S9A
-#EXTINF:-1 xui-id="253291" tvg-id="" tvg-name="TR: Titan Sports 2 HD" tvg-logo="https://i.imgur.com/51h2LCS.png" group-title="TR ► beIN SPORTS FEED",TR: Titan Sports 2 HD
-http://tr.iptvistanbul.xyz:8080/play/wybGKGIoE7epP4UOc6ksmDLrjAs1L0fdvl9wt9Gyfac
-#EXTINF:-1 xui-id="194569" tvg-id="" tvg-name="TR: FX+ SPORTS FEED" tvg-logo="https://i.imgur.com/GIVGqSv.png" group-title="TR ► beIN SPORTS FEED",TR: FX+ SPORTS FEED
-http://tr.iptvistanbul.xyz:8080/play/wybGKGIoE7epP4UOc6ksmKxMsWsVQyBf43GYXFOKDZM
-#EXTINF:-1 xui-id="194570" tvg-id="" tvg-name="TR: FX+ SPORTS FEED (YEDEK)" tvg-logo="https://i.imgur.com/GIVGqSv.png" group-title="TR ► beIN SPORTS FEED",TR: FX+ SPORTS FEED (YEDEK)
-http://tr.iptvistanbul.xyz:8080/play/wybGKGIoE7epP4UOc6ksmK5TC52kIhY96VQZj33JWAc
-#EXTINF:-1 xui-id="194568" tvg-id="" tvg-name="TR: ShareBox Sport 1 [RAW]" tvg-logo="https://i.imgur.com/ACWP8Hb.png" group-title="TR ► beIN SPORTS FEED",TR: ShareBox Sport 1 [RAW]
-http://tr.iptvistanbul.xyz:8080/play/wybGKGIoE7epP4UOc6ksmF6yuxuwwJXzKk7m2azTJCA
-#EXTINF:-1 xui-id="194567" tvg-id="" tvg-name="TR: ShareBox Sport 2 [FHD]" tvg-logo="https://i.imgur.com/ACWP8Hb.png" group-title="TR ► beIN SPORTS FEED",TR: ShareBox Sport 2 [FHD]
-http://tr.iptvistanbul.xyz:8080/play/wybGKGIoE7epP4UOc6ksmHxqnbYFP-thPABXTkMaH8Y
-#EXTINF:-1 xui-id="199149" tvg-id="" tvg-name="TR: Feed Yedek" tvg-logo="https://i.imgur.com/StfLRYs.png" group-title="TR ► beIN SPORTS FEED",TR: Feed Yedek
-http://tr.iptvistanbul.xyz:8080/play/wybGKGIoE7epP4UOc6ksmLSx8Lw85BwLBQSRbDhiY_o
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
@@ -207,8 +187,8 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 TRT AVAZ group-title="ULUSAL-UHD" ,TRT AVAZ
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 GÜLDÜR GÜLDÜR TV group-title="ULUSAL-UHD" ,GÜLDÜR GÜLDÜR TV
-http://solo-v7.sytes.net:2082/live/servertonilesliallcoutry/2YXYvQXFMD/2864.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",EXXEN TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2864.ts
+" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",EXXEN TV
 http://4kplus.org:80/live/bitbust/ETGUGRlVIa/59873.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",KONUŞANLAR
 http://4kplus.org:80/live/bitbust/ETGUGRlVIa/59871.ts
@@ -608,7 +588,6 @@ http://dunyaiptv.de:80/TUWspsr4KhmC/Cd9LtuZ9jRr6s/95065
 http://dunyaiptv.de:80/TUWspsr4KhmC/Cd9LtuZ9jRr6s/95066
 #EXTINF:-1 tvg-id="" tvg-name="TR: Nasa Tv" tvg-logo="http://worldiptv.xyz/chlogos/NASA.tr.png" group-title="Belgesel - TR",TR: Nasa Tv
 http://dunyaiptv.de:80/TUWspsr4KhmC/Cd9LtuZ9jRr6s/13897
-
 
 #EXTM3U
 #EXTINF:-1 group-title="TURK SINEMA KANALLAR", NTD YESILCAM SİNEMA 
