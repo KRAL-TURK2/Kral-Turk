@@ -546,7 +546,236 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="##TR: SINEMA##" tvg-logo="" group-title="TR: SINEMA",##TR: SINEMA##
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/6451
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4698
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Aile HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Aile HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4699
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Action HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Action HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4700
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Yerli" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Yerli
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4701
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Comedy HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Comedy HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4702
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Classic HD" tvg-logo="" group-title="TR: SINEMA",TR: Moviesmart Classic HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4696
+#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Turk" tvg-logo="" group-title="TR: SINEMA",TR: MovieSmart Turk
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4697
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZISMART PREMIUM HD" tvg-logo="" group-title="TR: SINEMA",TR: DIZISMART PREMIUM HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4676
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES ACTION HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4683
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES ACTION 2 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4684
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIERE HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES PREMIERE HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4682
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIERE 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES PREMIERE 2 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/20778
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINMOVIES STARS HD" tvg-logo="" group-title="TR: SINEMA",TR: BEINMOVIES STARS HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4685
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES FAMLY HD " tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES FAMLY HD 
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4686
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES TURK HD " tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES TURK HD 
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4687
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES SCI FI" tvg-logo="" group-title="TR: SINEMA",TR: BEIN SERIES SCI FI
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/15391
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES VICE" tvg-logo="" group-title="TR: SINEMA",TR: BEIN SERIES VICE
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/15393
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES COMEDY" tvg-logo="" group-title="TR: SINEMA",TR: BEIN SERIES COMEDY
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/15392
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Bilim Kurgu HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Bilim Kurgu HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/57
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gine Gold Dram/Western HD" tvg-logo="" group-title="TR: SINEMA",TR: Gine Gold Dram/Western HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/56
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Polisiye HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Polisiye HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/55
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Dövüş HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Dövüş HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/54
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Dram HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Dram HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/53
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gine Gold Gerilim HD" tvg-logo="" group-title="TR: SINEMA",TR: Gine Gold Gerilim HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/52
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Animasyon HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Animasyon HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/51
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Komedi HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Komedi HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/50
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Korku HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Korku HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/49
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Macera HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Macera HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/48
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Aksiyon 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Aksiyon 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/47
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 5 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/46
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Belgesel 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Belgesel 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/16
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/42
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 2 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/43
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 3 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/44
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 4 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/45
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7283
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 2 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7284
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 3 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7285
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 4 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7286
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 5 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7287
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 6 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7288
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 7 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7289
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 8 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7290
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 9 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7291
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 10 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7292
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 11 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 11 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7293
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 12 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 12 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7294
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 13 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 13 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7295
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 14 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 14 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7296
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 15 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 15 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7297
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 16 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 16 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7298
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 17 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 17 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7299
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 18 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 18 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7300
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 19 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 19 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7301
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 20 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 20 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7302
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7303
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 2 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7304
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 3 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7305
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 4 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7306
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 5 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7307
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 6 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7308
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 7 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7309
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 8 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7310
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 9 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7311
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 10 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7312
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7313
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 2 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7314
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 3 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7315
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 4 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7316
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 5 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7317
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 6 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7318
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 7 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7319
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 8 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7320
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 9 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7321
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 10 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7322
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7323
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 2 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7324
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 3 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7325
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 4 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7326
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 5 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7327
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 6 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7328
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 7 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7329
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 8 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7330
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 9 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7331
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 10 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7332
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7333
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 2 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7334
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 3 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7335
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 4 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7336
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 5 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7337
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 6 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7338
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 7 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7339
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 8 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7340
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 9 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7341
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 10 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7342
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 1. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 1. Sezon
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/20
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 2. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 2. Sezon
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/21
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 3. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 3. Sezon
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/22
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 4. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 4. Sezon
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/23
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 5. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 5. Sezon
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/24
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 6. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 6. Sezon
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/25
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 7.Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 7.Sezon
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/26
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 8. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 8. Sezon
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/27
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/37
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 2 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/38
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 3 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/39
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 4 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/40
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 5 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/41
+#EXTINF:-1 tvg-id="" tvg-name="TR: Siyah Beyaz Yesilcam" tvg-logo="" group-title="TR: SINEMA",TR: Siyah Beyaz Yesilcam
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/28
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Tv" tvg-logo="" group-title="TR: SINEMA",TR: Yesilcam Tv
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/29
+#EXTINF:-1 tvg-id="" tvg-name="TR: Heidi 3D" tvg-logo="" group-title="TR: SINEMA",TR: Heidi 3D
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4626
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD" tvg-logo="" group-title="TR: SINEMA",TR: FX HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4678
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX LIFE " tvg-logo="" group-title="TR: SINEMA",TR: FOX LIFE 
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4679
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT BOX HD" tvg-logo="" group-title="TR: SINEMA",TR: FIGHT BOX HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4680
 
 
 #EXTM3U
