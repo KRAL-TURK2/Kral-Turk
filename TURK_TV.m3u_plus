@@ -405,7 +405,84 @@ http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 http://159.89.20.0/satontv3_hdtv/index.m3u8
 
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA iLKOKUL нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT EBA iLKOKUL нᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12788
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA ORTAOKUL нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT EBA ORTAOKUL нᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12789
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA LiSE нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT EBA LiSE нᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12790
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT COCUK нᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12793
+#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI KIDS ғнᴅ" tvg-logo="" group-title="TR: COCUK",TR: DA VINCI KIDS ғнᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12791
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG ғнᴅ" tvg-logo="" group-title="TR: COCUK",TR: BOOMERANG ғнᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12794
+#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: CARTOON NETWORK ѕᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12795
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY XD" tvg-logo="" group-title="TR: COCUK",TR: DISNEY XD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12798
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY JUNIOR ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: DISNEY JUNIOR ѕᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12797
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY CHANNEL HD" tvg-logo="" group-title="TR: COCUK",TR: DISNEY CHANNEL HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/2517
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA GO ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: MINIKA GO ѕᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12799
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: MINIKA COCUK ѕᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12800
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON нᴅ" tvg-logo="" group-title="TR: COCUK",TR: NICKELODEON нᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12801
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON JR ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: NICKELODEON JR ѕᴅ
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12802
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK FHD" tvg-logo="" group-title="TR: COCUK",TR: SMART COCUK FHD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7280
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK FHD" tvg-logo="" group-title="TR: COCUK",TR: SMART COCUK FHD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12803
+#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV HD" tvg-logo="" group-title="TR: COCUK",TR: BABY TV HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12804
+#EXTINF:-1 tvg-id="" tvg-name="TR: CBEEBiES HD" tvg-logo="" group-title="TR: COCUK",TR: CBEEBiES HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12806
+#EXTINF:-1 tvg-id="" tvg-name="TR: Konusan Tom" tvg-logo="" group-title="TR: COCUK",TR: Konusan Tom
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/36
+#EXTINF:-1 tvg-id="" tvg-name="TR: SUNGER BOB TV" tvg-logo="" group-title="TR: COCUK",TR: SUNGER BOB TV
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/35
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sünger Bob" tvg-logo="" group-title="TR: COCUK",TR: Sünger Bob
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/34
+#EXTINF:-1 tvg-id="" tvg-name="TR: PAW Patrol" tvg-logo="" group-title="TR: COCUK",TR: PAW Patrol
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/33
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kukuli HD" tvg-logo="" group-title="TR: COCUK",TR: Kukuli HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/15
+#EXTINF:-1 tvg-id="" tvg-name="TR: Pijamaskeliler 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Pijamaskeliler 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/14
+#EXTINF:-1 tvg-id="" tvg-name="TR: 80 Günde Devr-i Alem HD" tvg-logo="" group-title="TR: COCUK",TR: 80 Günde Devr-i Alem HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/13
+#EXTINF:-1 tvg-id="" tvg-name="TR: POKEMON TV" tvg-logo="" group-title="TR: COCUK",TR: POKEMON TV
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12
+#EXTINF:-1 tvg-id="" tvg-name="TR: Maşa ile Koca Ayı 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Maşa ile Koca Ayı 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/11
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sirinler 1 FHD" tvg-logo="" group-title="TR: COCUK",TR: Sirinler 1 FHD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/10
+#EXTINF:-1 tvg-id="" tvg-name="TR: Rafadan Tayfa" tvg-logo="" group-title="TR: COCUK",TR: Rafadan Tayfa
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/9
+#EXTINF:-1 tvg-id="" tvg-name="TR: SpongeBob" tvg-logo="" group-title="TR: COCUK",TR: SpongeBob
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Oddbods HD" tvg-logo="" group-title="TR: COCUK",TR: Oddbods HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/7
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kukuli 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Kukuli 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/6
+#EXTINF:-1 tvg-id="" tvg-name="TR: Pepee 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Pepee 1 HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/5
+#EXTINF:-1 tvg-id="" tvg-name="TR: Baby Alive HD" tvg-logo="" group-title="TR: COCUK",TR: Baby Alive HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/4
+#EXTINF:-1 tvg-id="" tvg-name="TR: POKEMON TV" tvg-logo="" group-title="TR: COCUK",TR: POKEMON TV
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/3
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral Sakir" tvg-logo="" group-title="TR: COCUK",TR: Kral Sakir
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/2
+#EXTINF:-1 tvg-id="" tvg-name="TR: Temel Reis" tvg-logo="" group-title="TR: COCUK",TR: Temel Reis
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/1
+#EXTINF:-1 tvg-id="" tvg-name="TR: Niloya TV HD" tvg-logo="" group-title="TR: COCUK",TR: Niloya TV HD
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/2583
+#EXTINF:-1 tvg-id="" tvg-name="TR: Booba TV" tvg-logo="" group-title="TR: COCUK",TR: Booba TV
+http://cms.arisiktv.xyz:8080/Gardasim/uagjCtmVvg/12796
 
 
 #EXTM3U
