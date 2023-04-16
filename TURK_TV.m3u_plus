@@ -77,7 +77,7 @@ http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
 http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/17255
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
-http://kululuplay.ch:8080/live/fHm4LNnt8X/fGFni5mIK1/36872.ts
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/18098
 #EXTINF:-1 group-title="SPOR KANALI", TRT 3-SPOR
 http://185.205.201.105:8035/play/a025
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
@@ -294,74 +294,56 @@ https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="24.tr" tvg-name="24 HD" tvg-logo="https://dvb.by/sources/logos/3637.png" group-title="► Turk Haber Kanallari",24 HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/3169
-#EXTINF:-1 tvg-id="24.tr" tvg-name="24" tvg-logo="https://dvb.by/sources/logos/3637.png" group-title="► Turk Haber Kanallari",24
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/18
-#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN TURK HD" tvg-logo="http://store.picbg.net/pubpic/64/12/99f4c34989936412.png" group-title="► Turk Haber Kanallari",CNN TURK HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/24
-#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN TURK" tvg-logo="http://store.picbg.net/pubpic/64/12/99f4c34989936412.png" group-title="► Turk Haber Kanallari",CNN TURK
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/1997
-#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV HD" tvg-logo="http://epg.it999.ru/img/3976.png" group-title="► Turk Haber Kanallari",NTV HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/33
-#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV" tvg-logo="http://epg.it999.ru/img/3976.png" group-title="► Turk Haber Kanallari",NTV
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/1996
-#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TV 100 UHD" tvg-logo="http://store.picbg.net/pubpic/8C/F7/1ff89177bcab8cf7.png" group-title="► Turk Haber Kanallari",TV 100 UHD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/13991
-#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TV 100 HD" tvg-logo="http://store.picbg.net/pubpic/8C/F7/1ff89177bcab8cf7.png" group-title="► Turk Haber Kanallari",TV 100 HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/3254
-#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TV 100" tvg-logo="http://store.picbg.net/pubpic/8C/F7/1ff89177bcab8cf7.png" group-title="► Turk Haber Kanallari",TV 100
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/12064
-#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="HABER TÜRK HD" tvg-logo="https://dvb.by/sources/logos/3326.png" group-title="► Turk Haber Kanallari",HABER TÜRK HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14844
-#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="HABER TÜRK" tvg-logo="https://dvb.by/sources/logos/3326.png" group-title="► Turk Haber Kanallari",HABER TÜRK
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/1998
-#EXTINF:-1 tvg-id="benguturk.tr" tvg-name="Bengü Türk" tvg-logo="http://store.picbg.net/pubpic/78/E0/6752b0a7af6078e0.png" group-title="► Turk Haber Kanallari",Bengü Türk
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/36103
-#EXTINF:-1 tvg-id="" tvg-name="Turk Haber HD" tvg-logo="http://store.picbg.net/pubpic/F0/42/07d8d758ed12f042.png" group-title="► Turk Haber Kanallari",Turk Haber HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14979
-#EXTINF:-1 tvg-id="halk.tr" tvg-name="Halk TV HD" tvg-logo="http://store.picbg.net/pubpic/DC/64/6cdb502e848bdc64.png" group-title="► Turk Haber Kanallari",Halk TV HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14106
-#EXTINF:-1 tvg-id="halk.tr" tvg-name="Halk TV " tvg-logo="http://store.picbg.net/pubpic/DC/64/6cdb502e848bdc64.png" group-title="► Turk Haber Kanallari",Halk TV 
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/10
-#EXTINF:-1 tvg-id="krt.tr" tvg-name="KRT HD" tvg-logo="http://store.picbg.net/pubpic/5D/25/b21a78c933775d25.png" group-title="► Turk Haber Kanallari",KRT HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14085
-#EXTINF:-1 tvg-id="krt.tr" tvg-name="KRT" tvg-logo="http://store.picbg.net/pubpic/5D/25/b21a78c933775d25.png" group-title="► Turk Haber Kanallari",KRT
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/3257
-#EXTINF:-1 tvg-id="tele1.tr" tvg-name="Tele 1 HD" tvg-logo="http://store.picbg.net/pubpic/65/0B/5201a6bdc870650b.png" group-title="► Turk Haber Kanallari",Tele 1 HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/13933
-#EXTINF:-1 tvg-id="tele1.tr" tvg-name="Tele 1" tvg-logo="http://store.picbg.net/pubpic/65/0B/5201a6bdc870650b.png" group-title="► Turk Haber Kanallari",Tele 1
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/3166
-#EXTINF:-1 tvg-id="" tvg-name="Sözcü TV HD" tvg-logo="http://store.picbg.net/pubpic/80/FC/158e19b3d97c80fc.PNG" group-title="► Turk Haber Kanallari",Sözcü TV HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/36109
-#EXTINF:-1 tvg-id="" tvg-name="Lider TV" tvg-logo="http://store.picbg.net/pubpic/55/11/d214f4d641f15511.png" group-title="► Turk Haber Kanallari",Lider TV
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/31601
-#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TVNET HD" tvg-logo="http://epg.it999.ru/img/3987.png" group-title="► Turk Haber Kanallari",TVNET HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14172
-#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TVNET" tvg-logo="http://epg.it999.ru/img/3987.png" group-title="► Turk Haber Kanallari",TVNET
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14
-#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="ULKE TV HD" tvg-logo="http://epg.it999.ru/img/3986.png" group-title="► Turk Haber Kanallari",ULKE TV HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/43
-#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="Ulke TV" tvg-logo="http://epg.it999.ru/img/3986.png" group-title="► Turk Haber Kanallari",Ulke TV
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14782
-#EXTINF:-1 tvg-id="3839" tvg-name="AKiT TV" tvg-logo="https://www.canlitv.legal/kanallar/akit-tv-izle.png" group-title="► Turk Haber Kanallari",AKiT TV
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/10145
-#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TGRT Haber HD" tvg-logo="http://epg.it999.ru/img/3984.png" group-title="► Turk Haber Kanallari",TGRT Haber HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14238
-#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TGRT HABER" tvg-logo="http://epg.it999.ru/img/3984.png" group-title="► Turk Haber Kanallari",TGRT HABER
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/7
-#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="ULUSAL TV" tvg-logo="http://epg.it999.ru/img/3983.png" group-title="► Turk Haber Kanallari",ULUSAL TV
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/13723
-#EXTINF:-1 tvg-id="" tvg-name="Flash Haber HD" tvg-logo="http://store.picbg.net/pubpic/69/0B/32dc98f31e64690b.png" group-title="► Turk Haber Kanallari",Flash Haber HD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14966
-#EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="EKOTURK" tvg-logo="http://store.picbg.net/pubpic/CD/AA/5979dc6bf5eccdaa.png" group-title="► Turk Haber Kanallari",EKOTURK
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/9318
-#EXTINF:-1 tvg-id="trtworld.tr" tvg-name="TRT World iNT." tvg-logo="http://store.picbg.net/pubpic/53/59/6cf9a65a20315359.png" group-title="► Turk Haber Kanallari",TRT World iNT.
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/1189
-#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT" tvg-logo="http://store.picbg.net/pubpic/48/6A/428d16c25241486a.png" group-title="► Turk Haber Kanallari",BLOOMBERG HT
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/23
-#EXTINF:-1 tvg-id="" tvg-name="1+1 Ukraine" tvg-logo="http://store.picbg.net/pubpic/3A/82/c50e1db457273a82.png" group-title="► Turk Haber Kanallari",1+1 Ukraine
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/21217
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="HABERTURK" tvg-logo="https://www.gercekgundem.com/images/posts/202004/196550_480x270.png" group-title="HABER",HABERTURK
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/513
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="HABERTURK HD" tvg-logo="https://www.gercekgundem.com/images/posts/202004/196550_480x270.png" group-title="HABER",HABERTURK HD
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/512
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/df/20141114120423%21NTV_logosu.png" group-title="HABER",NTV TR
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/511
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="HALK TV" tvg-logo="https://halktv.com.tr/d/assets/logo-white.png" group-title="HABER",HALK TV
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/510
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="HALK TV HD" tvg-logo="https://halktv.com.tr/d/assets/logo-white.png" group-title="HABER",HALK TV HD
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/509
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" group-title="HABER",CNN TURK
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/508
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN TURK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" group-title="HABER",CNN TURK HD
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/507
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TRT_Haber_kurumsal_logo.png" group-title="HABER",TRT HABER
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/506
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT HABER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TRT_Haber_kurumsal_logo.png" group-title="HABER",TRT HABER HD
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/505
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/6/65/20120826133207%21A_Haber_logosu.png" group-title="HABER",A HABER
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/504
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/6/65/20120826133207%21A_Haber_logosu.png" group-title="HABER",A HABER HD
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/503
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TGRT HABER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e1/TGRT_Haber_logosu.png" group-title="HABER",TGRT HABER HD
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/501
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT" tvg-logo="https://www.canlitvizlemeli.com/uploads/kanal/20703bloomberg-ht-canli.png" group-title="HABER",BLOOMBERG HT
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/500
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="ULKE TV HD" tvg-logo="https://canlitvizle.diyez.net/ulke-tv-logo.png" group-title="HABER",ULKE TV HD
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/499
+#EXTINF:-1 tvg-id="24.tr" tvg-name="24 TV HD" tvg-logo="https://imgz.star.com.tr/imgsdisk/2020/07/02/88e2b34b1d80.png" group-title="HABER",24 TV HD
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/496
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="TELE 1 " tvg-logo="https://tele1.com.tr/wp-content/uploads/2018/11/tele1_logo-1-1.png" group-title="HABER",TELE 1 
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/494
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="TELE 1 HD" tvg-logo="https://tele1.com.tr/wp-content/uploads/2018/11/tele1_logo-1-1.png" group-title="HABER",TELE 1 HD
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/493
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TV 100" tvg-logo="https://pbs.twimg.com/profile_images/1122074100942409733/yWR_ovBn_400x400.png" group-title="HABER",TV 100
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/492
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="A PARA HD" tvg-logo="https://pbs.twimg.com/profile_images/1098585361532534786/ERNd9Mam_400x400.png" group-title="HABER",A PARA HD
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/491
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL 4K" tvg-logo="https://frekansbilgisi.com/logo/haber-global-tv-FrekansBilgisiCom.png" group-title="HABER",HABER GLOBAL 4K
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/487
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TV100 HD 1080" tvg-logo="https://pbs.twimg.com/profile_images/1122074100942409733/yWR_ovBn_400x400.png" group-title="HABER",TV100 HD 1080
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/514
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="KRT TV FHD" tvg-logo="" group-title="HABER",KRT TV FHD
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/17153
+#EXTINF:-1 tvg-id="" tvg-name="TV5" tvg-logo="" group-title="HABER",TV5
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/17220
+#EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL" tvg-logo="" group-title="HABER",ULUSAL KANAL
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/17221
+#EXTINF:-1 tvg-id="" tvg-name="Sozcu tv" tvg-logo="" group-title="HABER",Sozcu tv
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/18097
 
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
