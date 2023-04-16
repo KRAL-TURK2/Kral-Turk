@@ -71,11 +71,11 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
 http://cms.arisiktv.xyz:8080/live/Gardasim/uagjCtmVvg/4674.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR UHD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/57
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/17254
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR FHD
 http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
-http://kululuplay.ch:8080/live/fHm4LNnt8X/fGFni5mIK1/7840.ts
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/17255
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
 http://kululuplay.ch:8080/live/fHm4LNnt8X/fGFni5mIK1/36872.ts
 #EXTINF:-1 group-title="SPOR KANALI", TRT 3-SPOR
@@ -92,7 +92,7 @@ http://aleminkrali.kralsmart.xyz:2086/live/@Chopo31/GubzV0lBj61s4/10207.ts
 http://hyqzethr.megatv.fun/iptv/8E52MW5BS9BCE7/4001/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14693
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/17241
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
 http://gizlimizli2424.ddns.net:8080/live/Pro_Bestabi/AX6UWsMKgg/32415.ts
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 HD
@@ -101,7 +101,7 @@ https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV UHD
-http://mk-liveportal.com:5909/oGunnAbii/hu8vWJWHUS/14078
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/17243
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
 http://gizlimizli2424.ddns.net:8080/live/Pro_Bestabi/AX6UWsMKgg/32452.ts
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV HD
@@ -144,7 +144,7 @@ https://tv8-live.daioncdn.net:443/tv8/tv8_720p.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
 http://gizlimizli2424.ddns.net:8080/live/Pro_Bestabi/AX6UWsMKgg/32479.ts
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 FHD
-http://hyqzethr.megatv.fun/iptv/XKUCY8VBNVLNB7/2318/index.m3u8
+http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/17248
 
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 UHD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
