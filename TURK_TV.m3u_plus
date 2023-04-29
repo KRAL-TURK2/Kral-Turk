@@ -130,7 +130,7 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV UHD
 http://sican.info:8000/@TacosTvMAX/AohwXIjkIl/19
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV FHD
-http://dreammedia.site:2086/aminkardes/YFG8NtlH3I/19226
+http://95.0.226.197:8000/play/a01f
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV HD
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
