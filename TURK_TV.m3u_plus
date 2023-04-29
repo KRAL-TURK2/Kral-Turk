@@ -79,7 +79,7 @@ http://95.0.226.197:8000/play/a005
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR YILDIZ
 http://95.0.226.197:8000/play/a03d
 #EXTINF:-1 group-title="SPOR KANALI", TRT 3-SPOR
-http://185.205.201.105:8035/play/a025
+http://95.0.226.197:8000/play/a03b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
