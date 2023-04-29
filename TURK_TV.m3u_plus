@@ -71,13 +71,13 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
 http://cms.arisiktv.xyz:8080/live/Remco/RjZE2wx7mM/4674.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR UHD
-http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/17254
+http://95.0.226.197:8000/play/a00w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR FHD
 http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
-http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/17255
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
-http://cms.3p24.de:1453/MaSR9AA8QgdSR895SR9AA8Qg/8Qgdf21SRSRSR8QgdSR895SR9AA8Qg/18098
+http://95.0.226.197:8000/play/a005
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR YILDIZ
+http://95.0.226.197:8000/play/a03d
 #EXTINF:-1 group-title="SPOR KANALI", TRT 3-SPOR
 http://185.205.201.105:8035/play/a025
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
