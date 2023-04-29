@@ -486,54 +486,50 @@ http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12796
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: TREK HD" tvg-logo="http://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="TR | BELGESEL",TR: TREK HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/13577
-#EXTINF:-1 tvg-id="" tvg-name="TR: Investigation Discovery Idx  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="TR | BELGESEL",TR: Investigation Discovery Idx  HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/8377
-#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel (Turkiye) HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Discovery1.png" group-title="TR | BELGESEL",TR: Discovery Channel (Turkiye) HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/8376
-#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="TR | BELGESEL",TR: Discovery Science HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/4751
-#EXTINF:-1 tvg-id="nat geo wild hd" tvg-name="TR: National Geographic Wild HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/wild_250x150___.png" group-title="TR | BELGESEL",TR: National Geographic Wild HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/128
-#EXTINF:-1 tvg-id="national geographic hd" tvg-name="TR: National Geographic   HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/nat-g-e-o-250x150.png" group-title="TR | BELGESEL",TR: National Geographic   HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/129
-#EXTINF:-1 tvg-id="" tvg-name="TR: Habitat HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/250px-2018_Animal_Planet_logo.svg.png" group-title="TR | BELGESEL",TR: Habitat HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/8379
-#EXTINF:-1 tvg-id="" tvg-name="TR: History Channel  HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/History1_Channel.png" group-title="TR | BELGESEL",TR: History Channel  HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/2354
-#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat History HD" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/6f/Viasat_History.png" group-title="TR | BELGESEL",TR: Viasat History HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/3094
-#EXTINF:-1 tvg-id="" tvg-name="TR: Love Nature HD" tvg-logo="https://img.dsmartgo.com.tr/resize-height/400//content/u/6a/18359/Thumbnail.png" group-title="TR | BELGESEL",TR: Love Nature HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/26751
-#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat Explore HD" tvg-logo="https://storage.tv.vodafone.com.tr/epg/xml-epg/channellogo/3bf7986d9cb84157953b2252953f2fea.png" group-title="TR | BELGESEL",TR: Viasat Explore HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/3092
-#EXTINF:-1 tvg-id="" tvg-name="TR: OUTDOOR FHD" tvg-logo="https://img.dsmartgo.com.tr/resize-height/400//content/c/Ei/14483/Thumbnail.png" group-title="TR | BELGESEL",TR: OUTDOOR FHD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/22525
-#EXTINF:-1 tvg-id="" tvg-name="TR: SCIENCE&VICE" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/science_et_vie_tv_logo.png" group-title="TR | BELGESEL",TR: SCIENCE&VICE
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/22594
-#EXTINF:-1 tvg-id="" tvg-name="TR: BBC Earth HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/bbc_earth_250x250.png" group-title="TR | BELGESEL",TR: BBC Earth HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/2880
-#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci Learning HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/davinci_250x150.png" group-title="TR | BELGESEL",TR: Da Vinci Learning HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/2367
-#EXTINF:-1 tvg-id="bein iz hd" tvg-name="TR: beIN IZ HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_Iz_HD_250x150px_yeni.png" group-title="TR | BELGESEL",TR: beIN IZ HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/1361
-#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: beIN GURME HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/Bein_Gurme_HD_yeni.png" group-title="TR | BELGESEL",TR: beIN GURME HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/552
-#EXTINF:-1 tvg-id="dmax hd" tvg-name="TR: Dmax HD" tvg-logo="https://img.dsmartgo.com.tr/resize-height/400//content/D/5X/11893/Thumbnail.png" group-title="TR | BELGESEL",TR: Dmax HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/1826
-#EXTINF:-1 tvg-id="trt belgesel hd" tvg-name="TR: TRT Belgesel HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/trtbelgesel_new_250x150.png" group-title="TR | BELGESEL",TR: TRT Belgesel HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/4891
-#EXTINF:-1 tvg-id="yaban tv" tvg-name="TR: Yaban TV HD" tvg-logo="http://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/120px-Yabantv_logo.png" group-title="TR | BELGESEL",TR: Yaban TV HD
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/8380
-#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMAUX" tvg-logo="http://www.animauxtv.fr/images/logo.png" group-title="TR | BELGESEL",TR: ANIMAUX
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/21937
-#EXTINF:-1 tvg-id="" tvg-name="TR: AUTOMOTO" tvg-logo="http://cdn.sat.tv/wp-content/uploads/2016/05/AutomotoTV.png" group-title="TR | BELGESEL",TR: AUTOMOTO
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/21938
-#EXTINF:-1 tvg-id="" tvg-name="TR: CHASSE & PECHE" tvg-logo="http://www.chasseetpechetv.fr/images/logo.png" group-title="TR | BELGESEL",TR: CHASSE & PECHE
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/21940
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TGRT_Belgesel_logo.png/1200px-TGRT_Belgesel_logo.png" group-title="TR | BELGESEL",TR: TGRT BELGESEL
-http://aleminkrali.kralsmart.xyz:2086/@Chopo31/GubzV0lBj61s4/41875
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN IZ HD" tvg-logo="" group-title="TR: BELGESEL",TR: beIN IZ HD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2512
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN GURME HD" tvg-logo="" group-title="TR: BELGESEL",TR: beIN GURME HD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/7281
+#EXTINF:-1 tvg-id="" tvg-name="TR: HİSTORY HD" tvg-logo="" group-title="TR: BELGESEL",TR: HİSTORY HD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2495
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel HD" tvg-logo="" group-title="TR: BELGESEL",TR: TRT Belgesel HD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2498
+#EXTINF:-1 tvg-id="" tvg-name="TR: History Channel HD" tvg-logo="" group-title="TR: BELGESEL",TR: History Channel HD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2504
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo HD" tvg-logo="" group-title="TR: BELGESEL",TR: Nat Geo HD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2505
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo Wild HD" tvg-logo="" group-title="TR: BELGESEL",TR: Nat Geo Wild HD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2507
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery IDX" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery IDX
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2496
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery Channel
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2501
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery IDX HD" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery IDX HD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2502
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL" tvg-logo="" group-title="TR: BELGESEL",TR: DISCOVERY CHANNEL
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2516
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE FHD" tvg-logo="" group-title="TR: BELGESEL",TR: DISCOVERY SCIENCE FHD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/7282
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Turbo Extra HD" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery Turbo Extra HD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/15387
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="" group-title="TR: BELGESEL",TR: TLC
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2499
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yaban TV" tvg-logo="" group-title="TR: BELGESEL",TR: Yaban TV
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2508
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX" tvg-logo="" group-title="TR: BELGESEL",TR: DMAX
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2509
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH" tvg-logo="" group-title="TR: BELGESEL",TR: BBC EARTH
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/15386
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fox Crime FHD" tvg-logo="" group-title="TR: BELGESEL",TR: Fox Crime FHD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2511
+#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci Learning HD" tvg-logo="" group-title="TR: BELGESEL",TR: Da Vinci Learning HD
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2514
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY" tvg-logo="" group-title="TR: BELGESEL",TR: VIASAT HISTORY
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/6620
+#EXTINF:-1 tvg-id="" tvg-name="TR: WOMAN KADIN TV" tvg-logo="" group-title="TR: BELGESEL",TR: WOMAN KADIN TV
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2500
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tarih TV" tvg-logo="" group-title="TR: BELGESEL",TR: Tarih TV
+http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/27607
 
 #EXTM3U
 #EXTINF:-1 group-title="TURK SINEMA KANALLAR", NTD YESILCAM SİNEMA 
