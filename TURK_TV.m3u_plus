@@ -185,7 +185,7 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 TRT AVAZ group-title="ULUSAL-UHD" ,TRT AVAZ
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 GÜLDÜR GÜLDÜR TV group-title="ULUSAL-UHD" ,GÜLDÜR GÜLDÜR TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2864.ts
+http://solo-v7.sytes.net:2082/hasankucukbatman/nCeBUMrJ7hKp/2864
 #EXTINF:-1 tvg-id"" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",LEYLA ve MECNUN
 http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/135694.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",KONUŞANLAR
