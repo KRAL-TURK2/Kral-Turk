@@ -1166,241 +1166,308 @@ https://helga.iptv2022.com/vizyon_58/tracks-v1a1/mono.m3u8
 http://yerelmedya.tv:1935/yesilyurttv/_definst_/bant1/chunklist_w1070867965.m3u8
 
  #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: DAZN 1 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134845.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: DAZN 2 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134846.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT PREMIER LEAGUE FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136165.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 1 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: EUROSPORT 1 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134852.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: EUROSPORT 2 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134853.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT NEWS FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134850.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY TENNIS" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY TENNIS
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/135762.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TOP EVENT" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT TOP EVENT
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136161.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT DIGITAL FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SPORT DIGITAL FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134851.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT F1 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134849.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT GOLF
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134847.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT MIX
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136160.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE:  FC BAYERN TV" tvg-logo="" group-title="DE=SKY SPORTS ",DE:  FC BAYERN TV
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136162.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SPORT 1
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136163.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1 +" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SPORT 1 +
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136164.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 1 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134848.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 2 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134854.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 3 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134855.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 4 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134856.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 5 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134857.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 6 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134858.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 7 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134859.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 8 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 8 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134860.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 9 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 9 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134861.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 10 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 10 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134862.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 11 FHD" tvg-logo="" group-title="DE=SKY SPORTS ",DE: SKY SPORT 11 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134863.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | BOOMERANG" tvg-logo="" group-title="DE=KiNDER",DE | BOOMERANG
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136201.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | CARTOON NETWORK" tvg-logo="" group-title="DE=KiNDER",DE | CARTOON NETWORK
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136202.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | COMEDY CENTRAL HD" tvg-logo="" group-title="DE=KiNDER",DE | COMEDY CENTRAL HD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136208.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | DİSNEY CHANNEL" tvg-logo="" group-title="DE=KiNDER",DE | DİSNEY CHANNEL
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136211.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | NICKTOONS" tvg-logo="" group-title="DE=KiNDER",DE | NICKTOONS
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136213.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | KIKA HD" tvg-logo="" group-title="DE=KiNDER",DE | KIKA HD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136214.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | SUPER RTL HD" tvg-logo="" group-title="DE=KiNDER",DE | SUPER RTL HD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136216.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | DİSNEY CİNEMAGİC" tvg-logo="" group-title="DE=KiNDER",DE | DİSNEY CİNEMAGİC
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136218.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | KiKA FHD" tvg-logo="" group-title="DE=KiNDER",DE | KiKA FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136219.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | CARTOON NETWORK FHD" tvg-logo="" group-title="DE=KiNDER",DE | CARTOON NETWORK FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136224.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | DISNEY JR FHD" tvg-logo="" group-title="DE=KiNDER",DE | DISNEY JR FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136227.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | DISNEY JR HD" tvg-logo="" group-title="DE=KiNDER",DE | DISNEY JR HD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136228.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | DISNEY JR SD" tvg-logo="" group-title="DE=KiNDER",DE | DISNEY JR SD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136229.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | D1" tvg-logo="" group-title="DE=KiNDER",DE | D1
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136230.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | D2" tvg-logo="" group-title="DE=KiNDER",DE | D2
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136231.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | D3" tvg-logo="" group-title="DE=KiNDER",DE | D3
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136232.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | D4" tvg-logo="" group-title="DE=KiNDER",DE | D4
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136233.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | D03" tvg-logo="" group-title="DE=KiNDER",DE | D03
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136234.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE | D04" tvg-logo="" group-title="DE=KiNDER",DE | D04
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/136235.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ZDF FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134793.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ZDF NEO FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134791.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF INFO FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ZDF INFO FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134792.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ANIXE FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ANIXE FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134776.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ARTE FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ARTE FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134777.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: 3SAT FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: 3SAT FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134778.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONE FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ONE FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134779.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel EINS FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: Kabel EINS FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134780.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 GOLD FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: SAT 1 GOLD FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134781.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: SAT 1 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134782.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOXUP HD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: VOXUP HD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134783.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOX FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: VOX FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134784.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: PRO7 MAXX FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: PRO7 MAXX FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134785.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SUPER RTL FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: SUPER RTL FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134786.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: PROSIEBEN FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: PROSIEBEN FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134787.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL NITRO FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: RTL NITRO FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134788.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL ZWEI FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: RTL ZWEI FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134789.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: RTL FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134790.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ARD ALPHA FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: ARD ALPHA FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134794.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: DAS ERSTE FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134795.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WELT FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: WELT FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134796.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TAGESSCHAU 24 FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: TAGESSCHAU 24 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134797.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: N-TV FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: N-TV FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134798.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SWR BW FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: SWR BW FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134771.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MDR FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: MDR FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134772.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RBB BERLIN FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: RBB BERLIN FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134773.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SR FERNSEHEN FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: SR FERNSEHEN FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134774.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: HR-FERNSEHEN FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: HR-FERNSEHEN FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134775.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL EINS CLASSICS HD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: KABEL EINS CLASSICS HD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134823.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: E! ENTERTAINMENT FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: E! ENTERTAINMENT FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134824.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: 13TH STREET FHD" tvg-logo="" group-title="DE=ENTERTAiNMENT ",DE: 13TH STREET FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134825.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 1 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134835.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 2 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134836.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 3 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134837.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 4 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134838.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 5 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134839.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 6 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134840.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 7 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134841.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 8 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134842.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 9 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134843.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 10 FHD" tvg-logo="" group-title="DE=SPORT BUNDESLIGA",DE: SKY SPORT BUNDESLIGA 10 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134844.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ONE FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY ONE FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134808.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CRIME HD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CRIME HD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134809.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY KRIMI FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY KRIMI FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134810.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CRIME FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CRIME FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134811.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY COMEDY FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY COMEDY FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134812.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA SPECIAL HD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA SPECIAL HD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134813.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="" group-title="DE=CINEMA",DE: SKY ATLANTIC HD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134814.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ATLANTIC FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY ATLANTIC FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134822.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA THRILLER FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA THRILLER FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134815.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA SPECIAL FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA SPECIAL FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134816.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA PREMIEREN FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134817.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN 24 FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA PREMIEREN 24 FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134818.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA FAMILY FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134819.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA BEST OF FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA BEST OF FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134820.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA ACTION FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY CINEMA ACTION FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134821.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY HD" tvg-logo="" group-title="DE=CINEMA",DE: SYFY HD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134804.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY FHD" tvg-logo="" group-title="DE=CINEMA",DE: SYFY FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134805.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SHOWCASE FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY SHOWCASE FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134806.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY FHD" tvg-logo="" group-title="DE=CINEMA",DE: SKY REPLAY FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134807.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV SERIE FHD" tvg-logo="" group-title="DE=CINEMA",DE: WARNER TV SERIE FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134799.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV FILM FHD" tvg-logo="" group-title="DE=CINEMA",DE: WARNER TV FILM FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134800.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV COMEDY FHD" tvg-logo="" group-title="DE=CINEMA",DE: WARNER TV COMEDY FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134801.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: UNIVERSAL TV HD" tvg-logo="" group-title="DE=CINEMA",DE: UNIVERSAL TV HD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134802.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: UNIVERSAL TV FHD" tvg-logo="" group-title="DE=CINEMA",DE: UNIVERSAL TV FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134803.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TLC FHD" tvg-logo="" group-title="DE=DOKU ",DE: TLC FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134826.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SPIEGEL GESCHICHTE FHD" tvg-logo="" group-title="DE=DOKU ",DE: SPIEGEL GESCHICHTE FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134827.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY NATURE FHD" tvg-logo="" group-title="DE=DOKU ",DE: SKY NATURE FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134828.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY DOCUMENTARIES FHD" tvg-logo="" group-title="DE=DOKU ",DE: SKY DOCUMENTARIES FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134829.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="DE=DOKU ",DE: NATIONAL GEOGRAPHIC FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134830.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD FHD" tvg-logo="" group-title="DE=DOKU ",DE: NAT GEO WILD FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134831.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL EINS DOKU FHD" tvg-logo="" group-title="DE=DOKU ",DE: KABEL EINS DOKU FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134832.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: HISTORY CHANNEL FHD" tvg-logo="" group-title="DE=DOKU ",DE: HISTORY CHANNEL FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134833.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="DE=DOKU ",DE: DISCOVERY CHANNEL FHD
-http://safraniptv.xyz:8000/live/alman@de@/5ze9RsKMK9Tk/134834.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD DAS ERSTE " tvg-logo="http://fireott.quest:2052/images/bbc3a46b6e899e7deedd67ea5d0a75c7.png" group-title="DE : GERMANY HD/4K",DE : HD DAS ERSTE 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248774
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD ZDF " tvg-logo="http://fireott.quest:2052/images/09fd72e0f512824e00478530e9c05d06.png" group-title="DE : GERMANY HD/4K",DE : HD ZDF 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248775
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD ZDF INFO " tvg-logo="http://fireott.quest:2052/images/9502de999b8e5164d372cafb73b10b45.png" group-title="DE : GERMANY HD/4K",DE : HD ZDF INFO 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248776
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD ZDF NEO " tvg-logo="http://fireott.quest:2052/images/6d5ec8961989040c24c449837892444b.png" group-title="DE : GERMANY HD/4K",DE : HD ZDF NEO 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248777
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD MDR " tvg-logo="http://fireott.quest:2052/images/34e759a857ed3fae4c7cc315d1cc7021.png" group-title="DE : GERMANY HD/4K",DE : HD MDR 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248778
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD HR " tvg-logo="http://fireott.quest:2052/images/bc84ced7079f5200daa5daddf8611dce.png" group-title="DE : GERMANY HD/4K",DE : HD HR 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248779
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD NDR " tvg-logo="http://fireott.quest:2052/images/3f1d52dc9ee38bc115343a0acba66954.png" group-title="DE : GERMANY HD/4K",DE : HD NDR 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248780
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD RBB " tvg-logo="http://fireott.quest:2052/images/a5ab782cee2afc5816480cadc677af42.png" group-title="DE : GERMANY HD/4K",DE : HD RBB 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248781
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD WDR " tvg-logo="http://fireott.quest:2052/images/ddf9ec561f541407df8ebd32094ce2e4.png" group-title="DE : GERMANY HD/4K",DE : HD WDR 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248782
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD ONE " tvg-logo="http://fireott.quest:2052/images/6feefb9f6eba51f8d70612e8e996576c.png" group-title="DE : GERMANY HD/4K",DE : HD ONE 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248783
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD 3 SAT " tvg-logo="http://fireott.quest:2052/images/337a562c85cc0fff9f433ef9846ea9bd.png" group-title="DE : GERMANY HD/4K",DE : HD 3 SAT 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248784
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD TAGESSCHAU 24 " tvg-logo="http://fireott.quest:2052/images/9651d6be6977ef7e52e0f049d5338417.png" group-title="DE : GERMANY HD/4K",DE : HD TAGESSCHAU 24 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248785
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD PRO 7 " tvg-logo="http://fireott.quest:2052/images/a82fd4cad25c4930470346d060760145.png" group-title="DE : GERMANY HD/4K",DE : HD PRO 7 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248786
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD PRO 7 MAXX " tvg-logo="http://fireott.quest:2052/images/b63ea9b22357a8bc975b68b6ff496479.png" group-title="DE : GERMANY HD/4K",DE : HD PRO 7 MAXX 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248787
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD PRO 7 FUN " tvg-logo="http://fireott.quest:2052/images/827f5812c3511d1041de3384062523d1.png" group-title="DE : GERMANY HD/4K",DE : HD PRO 7 FUN 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248788
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD RTL " tvg-logo="http://fireott.quest:2052/images/006ce61b4e6e3b54149536678ea09749.png" group-title="DE : GERMANY HD/4K",DE : HD RTL 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248789
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD RTL 2 " tvg-logo="http://fireott.quest:2052/images/7781532b955a01af101252419bb111fc.png" group-title="DE : GERMANY HD/4K",DE : HD RTL 2 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248790
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SAT 1 " tvg-logo="http://fireott.quest:2052/images/28c66a713aa7f1483d6ac0519a228a06.png" group-title="DE : GERMANY HD/4K",DE : HD SAT 1 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248791
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SAT 1 GOLD " tvg-logo="http://fireott.quest:2052/images/364bf99a41eae4bd68a57804ac6f0cc7.png" group-title="DE : GERMANY HD/4K",DE : HD SAT 1 GOLD 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248792
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SAT 1 EMOTIONS " tvg-logo="http://fireott.quest:2052/images/84b21b57c6306f1ca88656cf870af9dc.png" group-title="DE : GERMANY HD/4K",DE : HD SAT 1 EMOTIONS 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248793
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SIXX " tvg-logo="http://fireott.quest:2052/images/48743476add82dfa474c6f48578b2a82.png" group-title="DE : GERMANY HD/4K",DE : HD SIXX 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248794
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD VOX " tvg-logo="http://fireott.quest:2052/images/fa17c4c2263e7e442d6ce94f2f574013.png" group-title="DE : GERMANY HD/4K",DE : HD VOX 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248795
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD VOX UP " tvg-logo="http://fireott.quest:2052/images/65ae0e4e04a57c407241c2975abc667a.png" group-title="DE : GERMANY HD/4K",DE : HD VOX UP 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248796
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD KABEL 1 " tvg-logo="http://fireott.quest:2052/images/699543fec3f9e0a8af31439f67129e9f.png" group-title="DE : GERMANY HD/4K",DE : HD KABEL 1 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248797
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD KABEL 1 CLASSICS " tvg-logo="http://fireott.quest:2052/images/5f8dda589b0c7b61399b9d75c79cad1f.png" group-title="DE : GERMANY HD/4K",DE : HD KABEL 1 CLASSICS 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248798
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD NITRO " tvg-logo="http://fireott.quest:2052/images/be2c7610029b01cea253914f622b2455.png" group-title="DE : GERMANY HD/4K",DE : HD NITRO 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248799
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SERVUS TV DEUTSCHLAND " tvg-logo="http://fireott.quest:2052/images/4f4ee980567aed1af548b0133681d342.png" group-title="DE : GERMANY HD/4K",DE : HD SERVUS TV DEUTSCHLAND 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248800
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD ANIXE " tvg-logo="http://fireott.quest:2052/images/20dc055c1ee895d0284cef9c4201e054.png" group-title="DE : GERMANY HD/4K",DE : HD ANIXE 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248801
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD ANIXE " tvg-logo="http://fireott.quest:2052/images/20dc055c1ee895d0284cef9c4201e054.png" group-title="DE : GERMANY HD/4K",DE : HD ANIXE 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248802
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD ARTE " tvg-logo="http://fireott.quest:2052/images/0f5013b6b0359b93eb28a25b0022e180.png" group-title="DE : GERMANY HD/4K",DE : HD ARTE 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248803
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD CLASSICA " tvg-logo="http://fireott.quest:2052/images/84bdf22bb7db402bb97f68b0dbde1e0c.png" group-title="DE : GERMANY HD/4K",DE : HD CLASSICA 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248804
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD CNBC " tvg-logo="http://fireott.quest:2052/images/f6ebb98711481a9dd4078ec4751d5c94.png" group-title="DE : GERMANY HD/4K",DE : HD CNBC 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248805
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD EURONEWS GERMANY " tvg-logo="http://fireott.quest:2052/images/957d1b0479404bebe7dbe8624c5fffac.png" group-title="DE : GERMANY HD/4K",DE : HD EURONEWS GERMANY 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248806
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD HEIMATKANAL " tvg-logo="http://fireott.quest:2052/images/20f5f0b77e6aea7b7814df452c8a32f1.png" group-title="DE : GERMANY HD/4K",DE : HD HEIMATKANAL 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248807
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD PEARL TV SHOP " tvg-logo="http://fireott.quest:2052/images/0767d3bf4bc043e4eceaeee5eb55e800.png" group-title="DE : GERMANY HD/4K",DE : HD PEARL TV SHOP 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248808
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD PHOENIX " tvg-logo="http://fireott.quest:2052/images/16d0e540c5ae13656de431d15b5cd736.png" group-title="DE : GERMANY HD/4K",DE : HD PHOENIX 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248809
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD ROMANCE TV " tvg-logo="http://fireott.quest:2052/images/994222c09a4aeed40de5ea64e112093a.png" group-title="DE : GERMANY HD/4K",DE : HD ROMANCE TV 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248810
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SONNENKLAR TV " tvg-logo="http://fireott.quest:2052/images/168495471eacfbbe8591295b8fad9be4.png" group-title="DE : GERMANY HD/4K",DE : HD SONNENKLAR TV 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248811
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SWR BW " tvg-logo="http://fireott.quest:2052/images/8bf4bfff89a7af2b83eda7c4eb9bba82.png" group-title="DE : GERMANY HD/4K",DE : HD SWR BW 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248812
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD TELE 5 " tvg-logo="http://fireott.quest:2052/images/dc1fbfb568aab1291bd5b09c04bdd41b.png" group-title="DE : GERMANY HD/4K",DE : HD TELE 5 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248813
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD TLC " tvg-logo="http://fireott.quest:2052/images/efe01da942ed68b700b911f5a1b131a7.png" group-title="DE : GERMANY HD/4K",DE : HD TLC 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248814
+#EXTINF:-1 tvg-id="" tvg-name="#### GERMANY DOKU ####" tvg-logo="" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",#### GERMANY DOKU ####
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248815
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD NAT GEO WILD " tvg-logo="http://fireott.quest:2052/images/1c764d2a1f99ab3b3a42ce6a4e411a70.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD NAT GEO WILD 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248816
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD NAT GEO " tvg-logo="http://fireott.quest:2052/images/4b6988d26fb314a627d4aff63da48e0a.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD NAT GEO 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248817
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD DISCOVERY " tvg-logo="http://fireott.quest:2052/images/68a9f67f016320717fe84c551ed5b500.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD DISCOVERY 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248818
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD HISTORY HD" tvg-logo="http://fireott.quest:2052/images/5fa77a931dac4e1b38279b644fc379b5.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD HISTORY HD
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248819
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD DMAX " tvg-logo="http://fireott.quest:2052/images/a34822afd269060a6b7990b6df980bdf.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD DMAX 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248820
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD HGTV " tvg-logo="http://fireott.quest:2052/images/fe8c919679216bb573a2ee909e1701d0.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD HGTV 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248821
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD PLANET " tvg-logo="http://fireott.quest:2052/images/2714e470df89c5346436c51629a129fa.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD PLANET 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248822
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD GEO " tvg-logo="http://fireott.quest:2052/images/eee94b13870373579a17743e89e4537e.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD GEO 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248823
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD WELT " tvg-logo="http://fireott.quest:2052/images/ed04fe25a615fcee9d44064284e88bb4.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD WELT 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248824
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD N24 DOKU " tvg-logo="http://fireott.quest:2052/images/91658eb236a5d0ce5a89d60eb084c01e.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD N24 DOKU 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248825
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD NTV " tvg-logo="" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD NTV 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248826
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD CRIME INVESTIGATION " tvg-logo="http://fireott.quest:2052/images/1df94f43b77efff33ac9f747b2be7926.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD CRIME INVESTIGATION 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248827
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD ANIMAL PLANET " tvg-logo="http://fireott.quest:2052/images/33cf36f647ffc9d1a6c355aa8b1a05fd.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD ANIMAL PLANET 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248828
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD WELT DER WUNDER " tvg-logo="http://fireott.quest:2052/images/61332708fd7e4cd9b070fa1fa1304138.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD WELT DER WUNDER 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248829
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SPIEGEL GESCHICHTE " tvg-logo="" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD SPIEGEL GESCHICHTE 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248830
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SPIEGEL TV WISSEN " tvg-logo="http://fireott.quest:2052/images/0185f7cd3b548d2ff8b24636bcdca441.png" group-title="DE : GERMANY DOKUMENTARFILME HD/4K",DE : HD SPIEGEL TV WISSEN 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248831
+#EXTINF:-1 tvg-id="" tvg-name="#### GERMANY KINDER ####" tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",#### GERMANY KINDER ####
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248897
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD BOOMERANG " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD BOOMERANG 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248898
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD CARTOON NETWORK " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD CARTOON NETWORK 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248899
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD DISNEY CHANNEL " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD DISNEY CHANNEL 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248900
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD DISNEY JUNIOR " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD DISNEY JUNIOR 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248901
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD DER KLEINE RITTER TRENK " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD DER KLEINE RITTER TRENK 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248902
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD DIE ABENTEUER DES JUNGEN MARCO POLO " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD DIE ABENTEUER DES JUNGEN MARCO POLO 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248903
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD KIDS " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD KIDS 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248904
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD MR BEAN " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD MR BEAN 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248905
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD JUNIOR " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD JUNIOR 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248906
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD NICKTOONS " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD NICKTOONS 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248907
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD NICK JR " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD NICK JR 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248908
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD KIKA " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD KIKA 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248909
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD NICK/MTV " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD NICK/MTV 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248910
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD NICKELODEON AT " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD NICKELODEON AT 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248911
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SUPER  RTL " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD SUPER  RTL 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248912
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD TOGGO PLUS " tvg-logo="" group-title="DE : GERMANY KINDER HD/FHD",DE : HD TOGGO PLUS 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248913
+#EXTINF:-1 tvg-id="" tvg-name="#### GERMANY MUSIK ####" tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",#### GERMANY MUSIK ####
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248914
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD DELUXE MUSIC " tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",DE : HD DELUXE MUSIC 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248915
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD E! ENTERTAINMENT " tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",DE : HD E! ENTERTAINMENT 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248916
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD JUKEBOX " tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",DE : HD JUKEBOX 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248917
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD KINO WELT TV " tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",DE : HD KINO WELT TV 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248918
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD MAX KINO COLLECTION " tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",DE : HD MAX KINO COLLECTION 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248919
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD MAX KINO " tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",DE : HD MAX KINO 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248920
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD MAX KINO 2 " tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",DE : HD MAX KINO 2 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248921
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD MAX KINO 3 " tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",DE : HD MAX KINO 3 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248922
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD MAX KINO 4 " tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",DE : HD MAX KINO 4 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248923
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD MAX KINO 5 " tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",DE : HD MAX KINO 5 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248924
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD MAX 007 " tvg-logo="" group-title="DE : GERMANY MUSIK HD/FHD",DE : HD MAX 007 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248925
+#EXTINF:-1 tvg-id="" tvg-name="#### GERMANY SPORT ####" tvg-logo="" group-title="DE : GERMANY SPORT HD/4K",#### GERMANY SPORT ####
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248832
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BUNDESLIGA 1 " tvg-logo="http://fireott.quest:2052/images/b48119da839d1b6e3a6f0f70769bcbcd.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY BUNDESLIGA 1 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248833
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BUNDESLIGA 2 " tvg-logo="http://fireott.quest:2052/images/1becc5db8b46882496283bcb6dd777fd.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY BUNDESLIGA 2 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248834
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BUNDESLIGA 3 " tvg-logo="http://fireott.quest:2052/images/1ee88efc3121113d923c59ba990c999f.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY BUNDESLIGA 3 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248835
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BUNDESLIGA 4 " tvg-logo="http://fireott.quest:2052/images/73382eb15c59daa223763bc278a55f13.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY BUNDESLIGA 4 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248836
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BUNDESLIGA 5 " tvg-logo="http://fireott.quest:2052/images/db02a009701114f3a911abf5c034de7c.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY BUNDESLIGA 5 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248837
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BUNDESLIGA 6 " tvg-logo="http://fireott.quest:2052/images/6d4a6beb2520e7cfc0f18ea030cfc866.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY BUNDESLIGA 6 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248838
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BUNDESLIGA 7 " tvg-logo="http://fireott.quest:2052/images/bac1c6a9f120913c317c9d6bd73b1788.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY BUNDESLIGA 7 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248839
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BUNDESLIGA 8 " tvg-logo="http://fireott.quest:2052/images/61cefc8403eea19b0b7b5d224d0773cb.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY BUNDESLIGA 8 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248840
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BUNDESLIGA 9 " tvg-logo="http://fireott.quest:2052/images/577b455787567e24ac011ece2460c756.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY BUNDESLIGA 9 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248841
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BUNDESLIGA 10 " tvg-logo="http://fireott.quest:2052/images/6011c7a5c4b3bd93a106339c986e374a.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY BUNDESLIGA 10 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248842
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD  DAZN 1 BAR " tvg-logo="http://fireott.quest:2052/images/b07d88e5efa3947c2a187fabe4a34861.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD  DAZN 1 BAR 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248843
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD DAZN 2 BAR " tvg-logo="http://fireott.quest:2052/images/5266535da7084d37d94e3f11b521d952.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD DAZN 2 BAR 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248844
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT 1 " tvg-logo="http://fireott.quest:2052/images/69deb77e950680118ec230dbd49f35de.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT 1 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248845
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT 2 " tvg-logo="http://fireott.quest:2052/images/aa0c4a39a619f3094a132208608609aa.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT 2 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248846
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT 3 " tvg-logo="http://fireott.quest:2052/images/df7f6e3d414f9f43c3ed9d00ef34ae91.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT 3 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248847
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT 4 " tvg-logo="http://fireott.quest:2052/images/955cd721691cae58e317694f31483009.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT 4 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248848
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT 5 " tvg-logo="http://fireott.quest:2052/images/e3de8992a0671e02e59da47fb99a4f49.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT 5 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248849
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT 6 " tvg-logo="http://fireott.quest:2052/images/ff176a84ad5465470dcedeceeab54611.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT 6 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248850
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT 7 " tvg-logo="http://fireott.quest:2052/images/25137917cea0d88dd3422c7aac909fb2.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT 7 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248851
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT 8 " tvg-logo="http://fireott.quest:2052/images/7fdaac47495ea8685368a71bb02820e4.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT 8 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248852
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT 9 " tvg-logo="http://fireott.quest:2052/images/394fe42165b3fe0cd564c3e85d54d9ed.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT 9 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248853
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT 10 " tvg-logo="http://fireott.quest:2052/images/bdc0907330bf8f78983504f2671732e3.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT 10 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248854
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT 11 " tvg-logo="http://fireott.quest:2052/images/b34440be52b2eca32117be3056fa3172.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT 11 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248855
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD AUTO MOTOR SPORT " tvg-logo="http://fireott.quest:2052/images/ca63392f14a5173551b33ceb353fdeb6.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD AUTO MOTOR SPORT 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248856
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD EUROSPORT 1 " tvg-logo="http://fireott.quest:2052/images/fc6743959e2f1e1999402d0987997d06.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD EUROSPORT 1 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248857
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD EUROSPORT 2 " tvg-logo="http://fireott.quest:2052/images/b6273d07bd58e1399109843ebbef4ae4.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD EUROSPORT 2 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248858
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD MOTORVISION TV " tvg-logo="http://fireott.quest:2052/images/148a32a660d11cb0107b2008ae568597.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD MOTORVISION TV 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248859
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SPORT 1 " tvg-logo="http://fireott.quest:2052/images/a03dc4809e091ab3ef16f56184d71193.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SPORT 1 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248860
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SPORT DIGITAL FUSSBALL " tvg-logo="http://fireott.quest:2052/images/d13334a3a15092ce6b7de80f59c51162.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SPORT DIGITAL FUSSBALL 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248861
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPORT NEWS " tvg-logo="http://fireott.quest:2052/images/15aa0174335753aba93ecf13c95c30f2.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY SPORT NEWS 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248862
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY F1 " tvg-logo="http://fireott.quest:2052/images/d295d566549377c7d64a62331cb33fa8.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SKY F1 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248863
+#EXTINF:-1 tvg-id="" tvg-name="#### TELEKOM SPORT ####" tvg-logo="" group-title="DE : GERMANY SPORT HD/4K",#### TELEKOM SPORT ####
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248864
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD FC BAYERN TV " tvg-logo="http://fireott.quest:2052/images/a17eb6229e9c32aff22c2d4275d8589e.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD FC BAYERN TV 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248865
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD ESPORTS 1 " tvg-logo="http://fireott.quest:2052/images/25e5ecbfb2a2cdfadcf29b9e16de6d8b.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD ESPORTS 1 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248866
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SPORTDIGITAL FUSSBALL " tvg-logo="http://fireott.quest:2052/images/b97da0416df711a22b4c51aaac72afdd.png" group-title="DE : GERMANY SPORT HD/4K",DE : HD SPORTDIGITAL FUSSBALL 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248867
+#EXTINF:-1 tvg-id="" tvg-name="#### GERMANY KINO ####" tvg-logo="" group-title="DE : GERMANY KINO FHD/HD",#### GERMANY KINO ####
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248868
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY CINEMA THRILLER " tvg-logo="http://fireott.quest:2052/images/ab0925fa04ac08af3572f69619d899f8.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY CINEMA THRILLER 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248869
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY THRILLER " tvg-logo="http://fireott.quest:2052/images/6d7effba22e43a125909aac69ea6d537.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY THRILLER 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248870
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY PREMIEREN 24 " tvg-logo="http://fireott.quest:2052/images/474d671eb2a13ce762d6ddf624acd496.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY PREMIEREN 24 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248871
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY ACTION " tvg-logo="http://fireott.quest:2052/images/662ebabc4fec1349c68c4124a37f8bc3.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY ACTION 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248872
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY CINEMA FAMILY " tvg-logo="http://fireott.quest:2052/images/54c364c6d45b53ad723aff3681775e2c.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY CINEMA FAMILY 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248873
+#EXTINF:-1 tvg-id="" tvg-name="DE: HD SKY PREMIEREN " tvg-logo="http://fireott.quest:2052/images/cdca7c647214461304219ddcb7014e57.png" group-title="DE : GERMANY KINO FHD/HD",DE: HD SKY PREMIEREN 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248874
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BEST Of " tvg-logo="http://fireott.quest:2052/images/8fd5fea763f8b6edeb69944220f5b336.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY BEST Of 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248875
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SPECIAL " tvg-logo="http://fireott.quest:2052/images/b246d0ec3c114bf95111c59656bfc4df.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY SPECIAL 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248876
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY FUN " tvg-logo="http://fireott.quest:2052/images/8df1edf6a26e464da32b3577ee4d240e.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY FUN 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248877
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY SERIEN & SHOWS " tvg-logo="http://fireott.quest:2052/images/f2e9715dcdc643475ba6ddaf23187323.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY SERIEN & SHOWS 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248878
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY CLASSICS " tvg-logo="" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY CLASSICS 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248879
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY 1 " tvg-logo="http://fireott.quest:2052/images/b7e13d2ae9b984c80150fae6c02bb762.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY 1 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248880
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY ATLANTIC HD" tvg-logo="http://fireott.quest:2052/images/d19c2828fad9c680a33c908a8289fd2b.png" group-title="DE : GERMANY KINO FHD/HD",DE | SKY ATLANTIC HD
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248881
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY KRIMI " tvg-logo="http://fireott.quest:2052/images/680491536d4e3483605d49e26f50d1a2.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY KRIMI 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248882
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD RTL CRIME " tvg-logo="http://fireott.quest:2052/images/68b0e57ad06aa65536b3544d4a8c5103.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD RTL CRIME 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248883
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD RTL LIVING " tvg-logo="http://fireott.quest:2052/images/f84920bff8c761cab4a00b80bce87d94.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD RTL LIVING 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248884
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD RTL PASSION " tvg-logo="http://fireott.quest:2052/images/8dd3e8d56255280aaf3c41626a5e982d.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD RTL PASSION 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248885
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD TNT COMEDY " tvg-logo="http://fireott.quest:2052/images/60827221d6174ea680b5a0b1be88688c.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD TNT COMEDY 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248886
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD TNT FILM " tvg-logo="http://fireott.quest:2052/images/4ccfb96db97eb60e088ba5f4eadcccc9.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD TNT FILM 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248887
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD TNT SERIE " tvg-logo="http://fireott.quest:2052/images/33ee0880542cd70da79c3f9011b4289c.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD TNT SERIE 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248888
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD FOX " tvg-logo="http://fireott.quest:2052/images/e1e8a13fe0afb9158ce2b85a44c05bdc.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD FOX 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248889
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD 13TH STREET " tvg-logo="http://fireott.quest:2052/images/b675bee3258ed19c91d882b0e5419fb9.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD 13TH STREET 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248890
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SYFY " tvg-logo="http://fireott.quest:2052/images/15387bcc5f6a1ddbfb32f5cf1a2ea552.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SYFY 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248891
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD UNIVERSAL TV " tvg-logo="http://fireott.quest:2052/images/c8954b95f4d6a7b0383e518c7e81afd5.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD UNIVERSAL TV 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248892
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SONY AXN " tvg-logo="http://fireott.quest:2052/images/04f41a12f6dc17a51325d40fc1249117.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SONY AXN 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248893
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SONY CHANNEL " tvg-logo="http://fireott.quest:2052/images/2b00e75c0a8384f76d3d0bc6cacabfa3.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SONY CHANNEL 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248894
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SILVERLINE " tvg-logo="http://fireott.quest:2052/images/fa2d8cec08485bfb4712b6b0a5b472de.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SILVERLINE 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248895
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD KINOWELT TV " tvg-logo="http://fireott.quest:2052/images/a09726e2f2b5c60df636614b92e07c49.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD KINOWELT TV 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248896
+
