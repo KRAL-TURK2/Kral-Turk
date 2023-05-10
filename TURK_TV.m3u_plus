@@ -151,7 +151,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 FHD
 http://135.125.234.9:8081/teve2/index.m3u8
 #EXTINF:-1 group-title="ULUSAL-UHD", A2 UHD
-http://49.12.123.148:8989/52/hls/playlist.m3u8
+http://49.12.123.148:8989/19/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa
 http://109.202.99.203:8080/live/hMhz5aGCG5/AbVupU2D1V/768.ts
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-UHD",EUROSTAR TV
