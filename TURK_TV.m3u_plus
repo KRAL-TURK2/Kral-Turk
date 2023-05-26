@@ -871,7 +871,1402 @@ https://helga.iptv2022.com/vizyon_58/tracks-v1a1/mono.m3u8
 http://yerelmedya.tv:1935/yesilyurttv/_definst_/bant1/chunklist_w1070867965.m3u8
 
  #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD DAS ERSTE " tvg-logo="http://fireott.quest:2052/images/bbc3a46b6e899e7deedd67ea5d0a75c7.png" group-title="DE : GERMANY HD/4K",DE : HD DAS ERSTE 
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL+ EVENT 1" tvg-logo="" group-title="DE: RTL EVENTS",DE: RTL+ EVENT 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/35729
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL+ EVENT 2" tvg-logo="" group-title="DE: RTL EVENTS",DE: RTL+ EVENT 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/35730
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL+ EVENT 3" tvg-logo="" group-title="DE: RTL EVENTS",DE: RTL+ EVENT 3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/35731
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL+ EVENT 4" tvg-logo="" group-title="DE: RTL EVENTS",DE: RTL+ EVENT 4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/35732
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL+ EVENT 5" tvg-logo="" group-title="DE: RTL EVENTS",DE: RTL+ EVENT 5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/35733
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL+ EVENT 6" tvg-logo="" group-title="DE: RTL EVENTS",DE: RTL+ EVENT 6
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/35734
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL+ EVENT 7" tvg-logo="" group-title="DE: RTL EVENTS",DE: RTL+ EVENT 7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/35735
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL+ EVENT 8" tvg-logo="" group-title="DE: RTL EVENTS",DE: RTL+ EVENT 8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/35736
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL+ EVENT 9" tvg-logo="" group-title="DE: RTL EVENTS",DE: RTL+ EVENT 9
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/35737
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL+ EVENT 10" tvg-logo="" group-title="DE: RTL EVENTS",DE: RTL+ EVENT 10
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/35738
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Boomerang HD" tvg-logo="" group-title="DE: KINDER",DE: Boomerang HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31410
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Cartoon Network HD" tvg-logo="" group-title="DE: KINDER",DE: Cartoon Network HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31411
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Disney Channel FHD" tvg-logo="" group-title="DE: KINDER",DE: Disney Channel FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31412
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Disney XD HD" tvg-logo="" group-title="DE: KINDER",DE: Disney XD HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31413
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Junior HD" tvg-logo="" group-title="DE: KINDER",DE: Junior HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31414
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: KIKA HD" tvg-logo="" group-title="DE: KINDER",DE: KIKA HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31415
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Nick HD" tvg-logo="" group-title="DE: KINDER",DE: Nick HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31416
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Nickelodeon  HD" tvg-logo="" group-title="DE: KINDER",DE: Nickelodeon  HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31417
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Super RTL FHD" tvg-logo="" group-title="DE: KINDER",DE: Super RTL FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31418
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Toggo Plus HD" tvg-logo="" group-title="DE: KINDER",DE: Toggo Plus HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31419
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Bundesliga 10 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 10 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31337
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Frauen Bundesliga 8 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 8 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31345
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Frauen Bundesliga 7 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 7 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31344
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Frauen Bundesliga 6 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 6 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31343
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Frauen Bundesliga 5 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 5 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31342
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Frauen Bundesliga 4 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31341
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Frauen Bundesliga 3 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31340
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Frauen Bundesliga 2 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31339
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Frauen Bundesliga 1 HD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Frauen Bundesliga 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31338
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Bundesliga 1 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 1 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31328
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Bundesliga 9 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 9 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31336
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Bundesliga 8 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 8 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31335
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Bundesliga 7 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 7 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31334
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Bundesliga 6 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 6 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31333
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Bundesliga 5 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 5 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31332
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Bundesliga 4 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 4 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31331
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Bundesliga 3 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 3 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31330
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Bundesliga 2 FHD" tvg-logo="" group-title="DE: GERMANY BUNDESLIGA",DE: Sky Sport Bundesliga 2 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31329
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: n-tv FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: n-tv FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31302
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: SR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31310
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: HR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: HR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31309
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: BR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31308
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: ARTE HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ARTE HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31307
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Spiegel TV Wissen HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31306
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Tageschau 24 HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Tageschau 24 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31305
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Servus TV HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Servus TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31304
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: N24 Doku HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: N24 Doku HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31303
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: MDR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: MDR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31311
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Welt der Wunder HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Welt der Wunder HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31301
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Welt HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Welt HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31300
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Spiegel Geschichte HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31299
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DOXX HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: DOXX HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31298
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Phoenix HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Phoenix HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31297
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Nat Geo Wild FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Nat Geo Wild FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31296
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Nat Geo FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Nat Geo FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31295
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: History FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: History FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31294
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: CNBC HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: CNBC HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31319
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: MTV HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: MTV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31327
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Deutsches Musik Fernsehen HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Deutsches Musik Fernsehen HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31326
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Deluxe Music HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Deluxe Music HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31325
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Classica HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Classica HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31324
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Waidwerk" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Waidwerk
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31323
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: HGTV" tvg-logo="" group-title="DE: DEUTSCH TV",DE: HGTV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31322
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Pearl TV HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Pearl TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31321
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Heimatkanal HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Heimatkanal HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31320
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DMAX FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: DMAX FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31293
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: EURONEWS GERMAN HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: EURONEWS GERMAN HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31318
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Comedy Central HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Comedy Central HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31317
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: E! Entertainment FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: E! Entertainment FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31316
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Goldstar TV HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Goldstar TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31315
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SWR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: SWR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31314
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: WDR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: WDR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31313
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: NDR HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: NDR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31312
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31267
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sat.1 Gold FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Sat.1 Gold FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31275
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sat.1 FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Sat.1 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31274
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL Living HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL Living HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31273
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL Plus HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL Plus HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31272
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL Crime FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL Crime FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31271
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL Passion FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL Passion FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31270
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTL Nitro FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTL Nitro FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31269
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: RTLII FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: RTLII FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31268
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sat 1 Emotions HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Sat 1 Emotions HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31276
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Pro 7 Fun FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Pro 7 Fun FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31266
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Pro7 MAXX FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Pro7 MAXX FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31265
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: ProSieben FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ProSieben FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31264
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Kabel Eins Doku HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Kabel Eins Doku HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31263
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Kabel 1 Classic FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Kabel 1 Classic FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31262
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: kabel eins HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: kabel eins HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31261
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: ZDF FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ZDF FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31260
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Anixe Serie HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Anixe Serie HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31284
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Discovery Channel FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Discovery Channel FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31292
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Universal TV FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Universal TV FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31291
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Romance TV HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Romance TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31290
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: QVC 2 HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: QVC 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31289
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: QVC HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: QVC HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31288
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: TLC HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: TLC HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31287
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: ONE HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ONE HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31286
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: AXN HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: AXN HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31285
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Das Erste FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Das Erste FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31259
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 3sat HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: 3sat HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31283
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SIXX FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: SIXX FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31282
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: ZDF Info HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ZDF Info HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31281
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: ZDF neo FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: ZDF neo FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31280
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: VOXup HD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: VOXup HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31279
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: VOX FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: VOX FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31278
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Tele 5 FHD" tvg-logo="" group-title="DE: DEUTSCH TV",DE: Tele 5 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31277
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 17" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 17
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31436
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 32 HITS" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 32 HITS
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31451
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 31 (Krimi)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 31 (Krimi)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31450
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 30 (Action)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 30 (Action)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31449
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 29 (Drama)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 29 (Drama)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31448
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 28 (Science-Fiction)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 28 (Science-Fiction)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31447
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 27 (Animation)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 27 (Animation)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31446
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 26 (Familie)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 26 (Familie)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31445
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 25 (Comedy)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 25 (Comedy)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31444
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 24 (Horror)" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 24 (Horror)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31443
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 23" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 23
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31442
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 22" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 22
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31441
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 21" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 21
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31440
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 20" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 20
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31439
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 19" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 19
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31438
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 18" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 18
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31437
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 1 HD" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31420
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 16" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 16
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31435
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 15" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 15
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31434
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 14" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 14
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31433
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 13" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 13
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31432
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 12" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 12
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31431
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 11" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 11
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31430
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 10 HD" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 10 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31429
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 9 HD" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 9 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31428
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 8 HD" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 8 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31427
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 7 HD" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 7 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31426
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 6 HD" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 6 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31425
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 5 HD" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 5 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31424
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 4 HD" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31423
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 3 HD" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31422
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Select 2 HD" tvg-logo="" group-title="DE: SKY SELECT",DE: Sky Select 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31421
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey 7 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Eishockey 7 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31402
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Fußball 6 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Fußball 6 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31391
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Fußball 7 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Fußball 7 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31392
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Basketball 1 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Basketball 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31393
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Basketball 2 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Basketball 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31394
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Basketball 3 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Basketball 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31395
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey 1 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Eishockey 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31396
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey 2 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Eishockey 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31397
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey 3 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Eishockey 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31398
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey 4 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Eishockey 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31399
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey 5 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Eishockey 5 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31400
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey 6 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Eishockey 6 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31401
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Fußball 5 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Fußball 5 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31390
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sport 1 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sport 1 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31403
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sportdigital Fussball FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sportdigital Fussball FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31404
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: FC Bayern TV" tvg-logo="" group-title="DE: GERMANY SPORT",DE: FC Bayern TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31405
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Auto Motor Sport FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Auto Motor Sport FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31406
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Motorvision TV" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Motorvision TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31407
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sport 1+ HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sport 1+ HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31408
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: ESport 1 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: ESport 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31409
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: FIFA WM TV 1 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: FIFA WM TV 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/41762
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: FIFA WM TV 2 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: FIFA WM TV 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/41763
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: FIFA WM TV 3 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: FIFA WM TV 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/41764
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport 10 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport 10 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31379
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport News FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport News FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31369
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport 1 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport 1 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31370
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport 2 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport 2 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31371
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport 3 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport 3 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31372
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport 4 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport 4 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31373
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport 5 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport 5 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31374
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport 6 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport 6 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31375
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport 7 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport 7 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31376
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport 8 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport 8 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31377
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport 9 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport 9 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31378
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport F1 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport F1 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31368
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport 11 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Sky Sport 11 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31380
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eurosport 1 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Eurosport 1 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31381
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eurosport 2 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Eurosport 2 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31382
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eurosport 2 FHD Xtra" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Eurosport 2 FHD Xtra
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31383
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN BAR 1 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: DAZN BAR 1 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31384
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN BAR 2 FHD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: DAZN BAR 2 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31385
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Fußball 1 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Fußball 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31386
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Fußball 2 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Fußball 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31387
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Fußball 3 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Fußball 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31388
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Fußball 4 HD" tvg-logo="" group-title="DE: GERMANY SPORT",DE: Telekom Fußball 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31389
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DAS ERSTE HEVC" tvg-logo="" group-title="DE: SATIS",DE: - DAS ERSTE HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36654
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - ZDF HEVC" tvg-logo="" group-title="DE: SATIS",DE: - ZDF HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36655
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - RTL HEVC" tvg-logo="" group-title="DE: SATIS",DE: - RTL HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36656
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - VOX HEVC" tvg-logo="" group-title="DE: SATIS",DE: - VOX HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36657
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - N24 DOKU HEVC" tvg-logo="" group-title="DE: SATIS",DE: - N24 DOKU HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36658
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SAT 1 GOLD HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SAT 1 GOLD HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36659
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SAT 1 HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SAT 1 HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36660
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - KIKA HEVC" tvg-logo="" group-title="DE: SATIS",DE: - KIKA HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36661
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - KABEL EINS HEVC" tvg-logo="" group-title="DE: SATIS",DE: - KABEL EINS HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36662
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DMAX HEVC" tvg-logo="" group-title="DE: SATIS",DE: - DMAX HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36663
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - PROSIEBEN HEVC" tvg-logo="" group-title="DE: SATIS",DE: - PROSIEBEN HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36664
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - PRO 7 MAXX HEVC" tvg-logo="" group-title="DE: SATIS",DE: - PRO 7 MAXX HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36665
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - NITRO HEVC" tvg-logo="" group-title="DE: SATIS",DE: - NITRO HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36666
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - N-TV HEVC" tvg-logo="" group-title="DE: SATIS",DE: - N-TV HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36667
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - WELT HEVC" tvg-logo="" group-title="DE: SATIS",DE: - WELT HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36668
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - RTL ZWEI HEVC" tvg-logo="" group-title="DE: SATIS",DE: - RTL ZWEI HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36669
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - WARNER SERIE HEVC" tvg-logo="" group-title="DE: SATIS",DE: - WARNER SERIE HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36670
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - TLC HEVC" tvg-logo="" group-title="DE: SATIS",DE: - TLC HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36671
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SYFY HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SYFY HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36672
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DAZN 2 BAR HEVC" tvg-logo="" group-title="DE: SATIS",DE: - DAZN 2 BAR HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36673
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DAZN 1 BAR HEVC" tvg-logo="" group-title="DE: SATIS",DE: - DAZN 1 BAR HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36674
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SPORT 1 HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SPORT 1 HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36675
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT BUNDESLIGA 2 HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT BUNDESLIGA 2 HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36676
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT BUNDESLIGA 1 HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT BUNDESLIGA 1 HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36677
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT AUSTRIA 1 HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT AUSTRIA 1 HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36678
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT 2 HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT 2 HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36679
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT 1 HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT 1 HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36680
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT NEWS HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT NEWS HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36681
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY ONE HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SKY ONE HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36682
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY ATLANTIC HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SKY ATLANTIC HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36683
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - NAT GEO WILD HEVC" tvg-logo="" group-title="DE: SATIS",DE: - NAT GEO WILD HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36684
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - NAT GEO HEVC" tvg-logo="" group-title="DE: SATIS",DE: - NAT GEO HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36685
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DISCOVERY HEVC" tvg-logo="" group-title="DE: SATIS",DE: - DISCOVERY HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36686
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - HISTORY HEVC" tvg-logo="" group-title="DE: SATIS",DE: - HISTORY HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36687
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - 13TH STREET HEVC" tvg-logo="" group-title="DE: SATIS",DE: - 13TH STREET HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36688
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SIXX HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SIXX HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36689
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY REPLAY HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SKY REPLAY HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36690
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SPIEGEL GESCHICHTE HEVC" tvg-logo="" group-title="DE: SATIS",DE: - SPIEGEL GESCHICHTE HEVC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36691
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 16" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 16
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36692
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 15" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 15
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36693
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 14" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 14
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36694
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 13" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 13
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36695
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 12" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 12
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36696
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 11" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 11
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36697
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 10" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 10
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36698
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 9" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 9
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36699
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 8" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36700
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 7" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36701
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 6" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 6
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36702
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 5" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36703
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 4" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36704
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 3" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36705
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360 HD 2" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360 HD 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36706
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 360  HD 1" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 360  HD 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36707
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Telekom   BBL Sport 1" tvg-logo="" group-title="DE: SATIS",DE: - Telekom   BBL Sport 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36727
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Telekom   BBL Sport 2" tvg-logo="" group-title="DE: SATIS",DE: - Telekom   BBL Sport 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36728
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Telekom   BBL Sport 3" tvg-logo="" group-title="DE: SATIS",DE: - Telekom   BBL Sport 3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36729
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY BUNDESLIGA 1" tvg-logo="" group-title="DE: SATIS",DE: - SKY BUNDESLIGA 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36730
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY BUNDESLIGA 1  XTRA" tvg-logo="" group-title="DE: SATIS",DE: - SKY BUNDESLIGA 1  XTRA
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36731
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY BUNDESLIGA 2 HD * (On Match Day)" tvg-logo="" group-title="DE: SATIS",DE: - SKY BUNDESLIGA 2 HD * (On Match Day)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36732
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY BUNDESLIGA 3 HD  (On Match Day)" tvg-logo="" group-title="DE: SATIS",DE: - SKY BUNDESLIGA 3 HD  (On Match Day)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36733
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY BUNDESLIGA 4 HD  (On Match Day)" tvg-logo="" group-title="DE: SATIS",DE: - SKY BUNDESLIGA 4 HD  (On Match Day)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36734
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY BUNDESLIGA 5 HD  (On Match Day)" tvg-logo="" group-title="DE: SATIS",DE: - SKY BUNDESLIGA 5 HD  (On Match Day)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36735
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY BUNDESLIGA 6 HD  (On Match Day)" tvg-logo="" group-title="DE: SATIS",DE: - SKY BUNDESLIGA 6 HD  (On Match Day)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36736
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT 1 HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36737
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT 2 HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36738
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT 1 FHD" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT 1 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36739
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT 4 HD (ON MATCH DAY)" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT 4 HD (ON MATCH DAY)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36740
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT 5 HD (ON MATCH DAY)" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT 5 HD (ON MATCH DAY)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36741
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT 6 HD (ON MATCH DAY)" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT 6 HD (ON MATCH DAY)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36742
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT 7 HD (ON MATCH DAY)" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT 7 HD (ON MATCH DAY)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36743
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT 8 HD (ON MATCH DAY)" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT 8 HD (ON MATCH DAY)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36744
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Sport Austria 1 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Sport Austria 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36745
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Sport Austria 2 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Sport Austria 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36746
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Sport Austria 3 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Sport Austria 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36747
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Sport Austria 4 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Sport Austria 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36748
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORT F1" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORT F1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36749
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SPORT 1 HD" tvg-logo="" group-title="DE: SATIS",DE: - SPORT 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36750
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY SPORTS NEWS HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY SPORTS NEWS HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36751
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sportdigital Fusball HD" tvg-logo="" group-title="DE: SATIS",DE: - Sportdigital Fusball HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36752
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - eSPORTS1 HD+" tvg-logo="" group-title="DE: SATIS",DE: - eSPORTS1 HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36753
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SPORT1+ HD+" tvg-logo="" group-title="DE: SATIS",DE: - SPORT1+ HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36754
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - ORF SPORT+ HD" tvg-logo="" group-title="DE: SATIS",DE: - ORF SPORT+ HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36755
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DAZN 1 Bar HD" tvg-logo="" group-title="DE: SATIS",DE: - DAZN 1 Bar HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36756
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DAZN 2 Bar HD" tvg-logo="" group-title="DE: SATIS",DE: - DAZN 2 Bar HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36757
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 1 HD" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36758
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT 2 HD" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36759
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - EUROSPORT2 XTRA" tvg-logo="" group-title="DE: SATIS",DE: - EUROSPORT2 XTRA
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36760
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - KABEL EINS HD" tvg-logo="" group-title="DE: SATIS",DE: - KABEL EINS HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36771
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DAS ERSTE HD" tvg-logo="" group-title="DE: SATIS",DE: - DAS ERSTE HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36772
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - ARD HD" tvg-logo="" group-title="DE: SATIS",DE: - ARD HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36773
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - RTL HD" tvg-logo="" group-title="DE: SATIS",DE: - RTL HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36774
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - RTL 2 HD" tvg-logo="" group-title="DE: SATIS",DE: - RTL 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36775
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - RTL NITRO HD" tvg-logo="" group-title="DE: SATIS",DE: - RTL NITRO HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36776
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - RTL PASSION" tvg-logo="" group-title="DE: SATIS",DE: - RTL PASSION
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36777
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - RTL LIVING HD" tvg-logo="" group-title="DE: SATIS",DE: - RTL LIVING HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36778
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - RTL PLUS HD" tvg-logo="" group-title="DE: SATIS",DE: - RTL PLUS HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36779
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - WDR HD" tvg-logo="" group-title="DE: SATIS",DE: - WDR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36780
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - ZDF HD" tvg-logo="" group-title="DE: SATIS",DE: - ZDF HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36781
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - ZDF NEO HD" tvg-logo="" group-title="DE: SATIS",DE: - ZDF NEO HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36782
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - ZDF INFO HD" tvg-logo="" group-title="DE: SATIS",DE: - ZDF INFO HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36783
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SAT 1 HD" tvg-logo="" group-title="DE: SATIS",DE: - SAT 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36784
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SAT 1 GOLD" tvg-logo="" group-title="DE: SATIS",DE: - SAT 1 GOLD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36785
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - PRO 7 HD" tvg-logo="" group-title="DE: SATIS",DE: - PRO 7 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36786
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - PRO 7 MAXX HD" tvg-logo="" group-title="DE: SATIS",DE: - PRO 7 MAXX HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36787
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SONY AXN HD" tvg-logo="" group-title="DE: SATIS",DE: - SONY AXN HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36788
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - ZEE ONE HD" tvg-logo="" group-title="DE: SATIS",DE: - ZEE ONE HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36789
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DMAX HD" tvg-logo="" group-title="DE: SATIS",DE: - DMAX HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36790
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SIXX HD" tvg-logo="" group-title="DE: SATIS",DE: - SIXX HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36791
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - 3 SAT HD" tvg-logo="" group-title="DE: SATIS",DE: - 3 SAT HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36792
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - VOX HD" tvg-logo="" group-title="DE: SATIS",DE: - VOX HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36793
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - N-TV HD" tvg-logo="" group-title="DE: SATIS",DE: - N-TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36794
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - N24 DOKU" tvg-logo="" group-title="DE: SATIS",DE: - N24 DOKU
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36795
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - TELE 5 TV HD" tvg-logo="" group-title="DE: SATIS",DE: - TELE 5 TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36796
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SUPER RTL HD" tvg-logo="" group-title="DE: SATIS",DE: - SUPER RTL HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36797
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DELUXE MUSIC" tvg-logo="" group-title="DE: SATIS",DE: - DELUXE MUSIC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36798
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - NICK JR." tvg-logo="" group-title="DE: SATIS",DE: - NICK JR.
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36799
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - JUKEBOX HD" tvg-logo="" group-title="DE: SATIS",DE: - JUKEBOX HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36800
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - CLASSICA" tvg-logo="" group-title="DE: SATIS",DE: - CLASSICA
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36801
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - CLASSICA HD" tvg-logo="" group-title="DE: SATIS",DE: - CLASSICA HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36802
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY CINEMA PREMIEREN" tvg-logo="" group-title="DE: SATIS",DE: - SKY CINEMA PREMIEREN
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36803
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Alex Berlin" tvg-logo="" group-title="DE: SATIS",DE: - Alex Berlin
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36804
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - a.tv Augsburg" tvg-logo="" group-title="DE: SATIS",DE: - a.tv Augsburg
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36805
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Light Channel" tvg-logo="" group-title="DE: SATIS",DE: - Light Channel
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36806
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Kultur MD" tvg-logo="" group-title="DE: SATIS",DE: - Kultur MD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36807
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - HSE 24 Trend HD" tvg-logo="" group-title="DE: SATIS",DE: - HSE 24 Trend HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36808
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - HSE 24 Extra HD" tvg-logo="" group-title="DE: SATIS",DE: - HSE 24 Extra HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36809
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - HSE 24 HD" tvg-logo="" group-title="DE: SATIS",DE: - HSE 24 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36810
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Hope Channel" tvg-logo="" group-title="DE: SATIS",DE: - Hope Channel
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36811
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Health.tv" tvg-logo="" group-title="DE: SATIS",DE: - Health.tv
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36812
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Bibel TV Musik" tvg-logo="" group-title="DE: SATIS",DE: - Bibel TV Musik
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36813
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Bibel TV Impuls" tvg-logo="" group-title="DE: SATIS",DE: - Bibel TV Impuls
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36814
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Schlager Paradies TV" tvg-logo="" group-title="DE: SATIS",DE: - Schlager Paradies TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36815
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - BILD HD" tvg-logo="" group-title="DE: SATIS",DE: - BILD HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36816
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY 1 HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36817
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - ServusTv Deutschland HD" tvg-logo="" group-title="DE: SATIS",DE: - ServusTv Deutschland HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36818
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - K-TV" tvg-logo="" group-title="DE: SATIS",DE: - K-TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36819
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - 1.2.3 TV HD" tvg-logo="" group-title="DE: SATIS",DE: - 1.2.3 TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36820
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - BOOMERANG  HD" tvg-logo="" group-title="DE: SATIS",DE: - BOOMERANG  HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36821
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - CARTOON NETWORK" tvg-logo="" group-title="DE: SATIS",DE: - CARTOON NETWORK
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36822
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DISNEY CHANNEL HD" tvg-logo="" group-title="DE: SATIS",DE: - DISNEY CHANNEL HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36823
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DISNEY CINEMAGIC HD" tvg-logo="" group-title="DE: SATIS",DE: - DISNEY CINEMAGIC HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36824
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DISNEY JUNIOR HD" tvg-logo="" group-title="DE: SATIS",DE: - DISNEY JUNIOR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36825
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DISNEY XD" tvg-logo="" group-title="DE: SATIS",DE: - DISNEY XD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36826
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - TOGGO PLUS" tvg-logo="" group-title="DE: SATIS",DE: - TOGGO PLUS
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36827
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - NICKLODEON HD" tvg-logo="" group-title="DE: SATIS",DE: - NICKLODEON HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36828
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - ANIXE HD" tvg-logo="" group-title="DE: SATIS",DE: - ANIXE HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36829
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - KIKA HD" tvg-logo="" group-title="DE: SATIS",DE: - KIKA HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36830
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - NDR HD" tvg-logo="" group-title="DE: SATIS",DE: - NDR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36831
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - WAIDWERK HD" tvg-logo="" group-title="DE: SATIS",DE: - WAIDWERK HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36832
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - TAGESSCHAU 24" tvg-logo="" group-title="DE: SATIS",DE: - TAGESSCHAU 24
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36833
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DE) ALLGAU TV" tvg-logo="" group-title="DE: SATIS",DE: - (DE) ALLGAU TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36834
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DE) AUGSBURG  TV" tvg-logo="" group-title="DE: SATIS",DE: - (DE) AUGSBURG  TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36835
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - WB SERIE" tvg-logo="" group-title="DE: SATIS",DE: - WB SERIE
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36836
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - WB FILM" tvg-logo="" group-title="DE: SATIS",DE: - WB FILM
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36837
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY KRIMI HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY KRIMI HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36838
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY HITS" tvg-logo="" group-title="DE: SATIS",DE: - SKY HITS
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36839
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - HISTORY CHANNEL HD" tvg-logo="" group-title="DE: SATIS",DE: - HISTORY CHANNEL HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36840
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Repley HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Repley HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36841
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - ROMANCE TV" tvg-logo="" group-title="DE: SATIS",DE: - ROMANCE TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36842
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY EMOTION HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY EMOTION HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36843
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - 13 STREET HD" tvg-logo="" group-title="DE: SATIS",DE: - 13 STREET HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36844
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY COMEDY HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY COMEDY HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36845
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY CINEMA 24" tvg-logo="" group-title="DE: SATIS",DE: - SKY CINEMA 24
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36846
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY ACTION HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY ACTION HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36847
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY CINEMA PREMIEREN +24 HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY CINEMA PREMIEREN +24 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36848
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY CINEMA PREMIEREN HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY CINEMA PREMIEREN HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36849
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY CINEMA SERIEN & SHOWS HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY CINEMA SERIEN & SHOWS HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36850
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY CINEMA FUN HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY CINEMA FUN HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36851
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY CINEMA SPECIAL HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY CINEMA SPECIAL HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36852
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY CINEMA BEST-OF HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY CINEMA BEST-OF HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36853
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY CINEMA HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY CINEMA HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36854
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SKY ATLANTIC HD" tvg-logo="" group-title="DE: SATIS",DE: - SKY ATLANTIC HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36855
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - KINOWELT TV HD" tvg-logo="" group-title="DE: SATIS",DE: - KINOWELT TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36856
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - SYFY HD" tvg-logo="" group-title="DE: SATIS",DE: - SYFY HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36857
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - E! ENTERTAINMENT HD" tvg-logo="" group-title="DE: SATIS",DE: - E! ENTERTAINMENT HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36858
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Deutsches Musik Fernsehen" tvg-logo="" group-title="DE: SATIS",DE: - Deutsches Musik Fernsehen
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36859
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="DE: SATIS",DE: - NATIONAL GEOGRAPHIC HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36860
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - NAT GEO WILD HD" tvg-logo="" group-title="DE: SATIS",DE: - NAT GEO WILD HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36861
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DISCOVERY CHANNEL HD" tvg-logo="" group-title="DE: SATIS",DE: - DISCOVERY CHANNEL HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36862
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - Sky Select ProgrammÃ¼bersicht" tvg-logo="" group-title="DE: SATIS",DE: - DE: - Sky Select ProgrammÃ¼bersicht
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36863
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Select 1 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Select 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36864
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - Sky Select 2 HD" tvg-logo="" group-title="DE: SATIS",DE: - DE: - Sky Select 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36865
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Select 3 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Select 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36866
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - Sky Select 4 HD" tvg-logo="" group-title="DE: SATIS",DE: - DE: - Sky Select 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36867
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Select 5 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Select 5 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36868
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - Sky Select 6 HD" tvg-logo="" group-title="DE: SATIS",DE: - DE: - Sky Select 6 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36869
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Select 7 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Select 7 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36870
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Select 8 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Select 8 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36871
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Select 9 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Select 9 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36872
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Select 10 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Select 10 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36873
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - HyperCinema Boxset" tvg-logo="" group-title="DE: SATIS",DE: - DE: - HyperCinema Boxset
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36874
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - HyperCinema 1" tvg-logo="" group-title="DE: SATIS",DE: - DE: - HyperCinema 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36875
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - HyperCinema 2" tvg-logo="" group-title="DE: SATIS",DE: - DE: - HyperCinema 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36876
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - HyperCInema 3" tvg-logo="" group-title="DE: SATIS",DE: - DE: - HyperCInema 3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36877
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - HyperCinema 4" tvg-logo="" group-title="DE: SATIS",DE: - DE: - HyperCinema 4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36878
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - HyperCinema 5" tvg-logo="" group-title="DE: SATIS",DE: - DE: - HyperCinema 5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36879
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - HyperCinema 6" tvg-logo="" group-title="DE: SATIS",DE: - DE: - HyperCinema 6
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36880
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - HyperCinema 7" tvg-logo="" group-title="DE: SATIS",DE: - DE: - HyperCinema 7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36881
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - HyperCinema 8" tvg-logo="" group-title="DE: SATIS",DE: - DE: - HyperCinema 8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36882
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - HyperCinema 9" tvg-logo="" group-title="DE: SATIS",DE: - DE: - HyperCinema 9
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36883
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - HyperCinema 10" tvg-logo="" group-title="DE: SATIS",DE: - DE: - HyperCinema 10
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36884
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - MAX KiNOBOX 1 HD" tvg-logo="" group-title="DE: SATIS",DE: - MAX KiNOBOX 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36885
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - MAX KiNOBOX 2 HD" tvg-logo="" group-title="DE: SATIS",DE: - MAX KiNOBOX 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36886
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - MAX KiNOBOX 3 HD" tvg-logo="" group-title="DE: SATIS",DE: - MAX KiNOBOX 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36887
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - MAX KiNOBOX 4 HD" tvg-logo="" group-title="DE: SATIS",DE: - MAX KiNOBOX 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36888
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - MAX KiNOBOX 5 HD" tvg-logo="" group-title="DE: SATIS",DE: - MAX KiNOBOX 5 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36889
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - MAX KiNOBOX 6 HD" tvg-logo="" group-title="DE: SATIS",DE: - MAX KiNOBOX 6 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36890
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - MAX KINO 007 HD" tvg-logo="" group-title="DE: SATIS",DE: - MAX KINO 007 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36891
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - MAX KiNO STAR WARS  HD" tvg-logo="" group-title="DE: SATIS",DE: - MAX KiNO STAR WARS  HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36892
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - MAX KINO Premiere HD" tvg-logo="" group-title="DE: SATIS",DE: - MAX KINO Premiere HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36893
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - MAX KiNO Select 1 4K" tvg-logo="" group-title="DE: SATIS",DE: - MAX KiNO Select 1 4K
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36894
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - Cinedome Familie" tvg-logo="" group-title="DE: SATIS",DE: - DE: - Cinedome Familie
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36895
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - Cinedome Animation" tvg-logo="" group-title="DE: SATIS",DE: - DE: - Cinedome Animation
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36896
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - DE: - Cinedome Action" tvg-logo="" group-title="DE: SATIS",DE: - DE: - Cinedome Action
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36897
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Select 2 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Select 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36898
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Select 4 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Select 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36899
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - Sky Select 6 HD" tvg-logo="" group-title="DE: SATIS",DE: - Sky Select 6 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36900
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DE) BADEN TV" tvg-logo="" group-title="DE: SATIS",DE: - (DE) BADEN TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36901
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Baden TV Süd (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Baden TV Süd (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36902
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) BW Family TV (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) BW Family TV (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36903
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Deutsches Musik Fernsehen (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Deutsches Musik Fernsehen (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36904
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Donau TV (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Donau TV (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36905
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) EV1.TV (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) EV1.TV (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36906
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Halle TV (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Halle TV (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36907
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) health.tv (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) health.tv (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36908
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Isar TV (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Isar TV (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36909
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Kabeljournal (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Kabeljournal (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36910
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Light Channel Deutschland" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Light Channel Deutschland
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36911
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Mediaspar TV (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Mediaspar TV (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36912
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) München TV (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) München TV (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36913
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) NDR Hamburg HD (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) NDR Hamburg HD (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36914
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) NDR Mecklenburg-Vorpommern (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) NDR Mecklenburg-Vorpommern (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36915
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) NDR Niedersachsen HD (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) NDR Niedersachsen HD (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36916
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) NDR Schleswig-Holstein HD (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) NDR Schleswig-Holstein HD (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36917
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) nice DEF TV (muziek Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) nice DEF TV (muziek Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36918
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) noa4 Hamburg FHD (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) noa4 Hamburg FHD (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36919
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) noa4 Norderstedt FHD (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) noa4 Norderstedt FHD (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36920
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) NRWISION HD (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) NRWISION HD (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36921
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) P3 tv" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) P3 tv
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36922
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Parlamentsfernsehen 1 (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Parlamentsfernsehen 1 (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36923
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Parlamentsfernsehen 2 (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Parlamentsfernsehen 2 (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36924
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Potsdam TV" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Potsdam TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36925
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - QVC DE" tvg-logo="" group-title="DE: SATIS",DE: - QVC DE
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36926
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) QVC Beauty & Style (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) QVC Beauty & Style (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36927
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) QVC DE  (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) QVC DE  (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36928
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) QVC DE Plus (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) QVC DE Plus (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36929
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Radio21 (muziek Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Radio21 (muziek Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36930
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Rockland Radio (muziek Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Rockland Radio (muziek Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36931
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) RTL West HD (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) RTL West HD (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36932
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) Sonnenklar.TV HD (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) Sonnenklar.TV HD (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36933
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) TV Mainfranken (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) TV Mainfranken (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36934
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) TVA OSTBAYERN (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) TVA OSTBAYERN (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36935
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - (DEU) VISIT-X.tv (Duitsland)" tvg-logo="" group-title="DE: SATIS",DE: - (DEU) VISIT-X.tv (Duitsland)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36936
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: - NDR Mecklenburg-Vorpommern HD" tvg-logo="" group-title="DE: SATIS",DE: - NDR Mecklenburg-Vorpommern HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36937
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 1 4K [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 1 4K [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37601
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 2 4K [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 2 4K [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37602
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 3 4K [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 3 4K [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37603
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 4 4K [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 4 4K [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37604
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 5 4K [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 5 4K [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37605
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 6 4K [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 6 4K [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37606
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 7 4K [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 7 4K [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37607
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 8 4K [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 8 4K [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37608
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 8 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 8 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37609
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 7 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 7 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37610
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 6 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 6 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37611
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 5 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 5 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37612
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 4 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 4 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37613
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 3 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 3 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37614
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 2 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 2 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37615
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: PRIME 1 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: PRIME 1 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37616
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 1 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 1 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37617
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 2 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 2 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37618
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 3 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 3 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37619
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 4 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 4 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37620
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 5 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 5 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37621
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 6 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 6 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37622
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 7 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 7 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37623
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 8 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 8 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37624
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 9 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 9 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37625
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 10 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 10 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37626
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 11 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 11 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37627
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 12 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 12 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37628
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 13 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 13 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37629
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 14 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 14 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37630
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 15 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 15 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37631
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 16 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 16 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37632
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 17 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 17 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37633
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 18 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 18 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37634
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 19 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 19 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37635
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 20 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 20 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37636
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 21 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 21 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37637
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 22 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 22 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37638
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 23 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 23 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37639
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 24 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 24 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37640
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 25 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 25 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37641
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 26 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 26 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37642
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 27 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 27 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37643
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 28 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 28 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37644
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 29 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 29 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37645
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: DAZN 30 HD [LIVE-EVENT]" tvg-logo="" group-title="DE: SATIS",DE: DAZN 30 HD [LIVE-EVENT]
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/37646
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Aktion HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Aktion HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38434
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Drama HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Drama HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38435
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Geschichte HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Geschichte HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38436
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Romantisch HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Romantisch HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38437
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Sci-Fi HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Sci-Fi HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38438
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Premiere HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Premiere HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38439
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Thriller HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Thriller HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38440
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Horror HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Horror HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38441
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Mythologie HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Mythologie HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38442
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Lacheln HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Lacheln HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38443
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Biografie HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Biografie HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38444
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Animation HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Animation HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38445
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: MELODI TV" tvg-logo="" group-title="DE: SATIS",DE: MELODI TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38572
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: FOLX TV HD" tvg-logo="" group-title="DE: SATIS",DE: FOLX TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38573
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: FOLX MUSIC TELEVISION HD" tvg-logo="" group-title="DE: SATIS",DE: FOLX MUSIC TELEVISION HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38574
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: ZWEI MUSIC TELEVISION" tvg-logo="" group-title="DE: SATIS",DE: ZWEI MUSIC TELEVISION
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38575
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: ONE MUSIC TELEVISION" tvg-logo="" group-title="DE: SATIS",DE: ONE MUSIC TELEVISION
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38576
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema 007FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema 007FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38577
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Abenteuer FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Abenteuer FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38578
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema AktionFHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema AktionFHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38579
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Animation FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Animation FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38580
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Biografie FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Biografie FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38581
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Drama FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Drama FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38582
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Familie FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Familie FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38583
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Geschichte FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Geschichte FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38584
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Kinosaal FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Kinosaal FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38585
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Komodie FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Komodie FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38586
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Mythologie FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Mythologie FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38587
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Premiere FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Premiere FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38588
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema SciFi FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema SciFi FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38589
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Thriller FHD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Thriller FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38590
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Eagle Cinema Spaghetti Western HD" tvg-logo="" group-title="DE: SATIS",DE: Eagle Cinema Spaghetti Western HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38591
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Documentaries HD" tvg-logo="" group-title="DE: SATIS",DE: Sky Documentaries HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38592
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Basketball (BBL) 1 HD" tvg-logo="" group-title="DE: SATIS",DE: Telekom Basketball (BBL) 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38593
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Basketball (BBL) 2 HD" tvg-logo="" group-title="DE: SATIS",DE: Telekom Basketball (BBL) 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38594
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Basketball (BBL) 3 HD" tvg-logo="" group-title="DE: SATIS",DE: Telekom Basketball (BBL) 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38595
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Basketball (BBL) 4 HD" tvg-logo="" group-title="DE: SATIS",DE: Telekom Basketball (BBL) 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38596
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey (DEL) 1 HD" tvg-logo="" group-title="DE: SATIS",DE: Telekom Eishockey (DEL) 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38597
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey (DEL) 2 HD" tvg-logo="" group-title="DE: SATIS",DE: Telekom Eishockey (DEL) 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38598
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey (DEL) 3 HD" tvg-logo="" group-title="DE: SATIS",DE: Telekom Eishockey (DEL) 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38599
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey (DEL) 4 HD" tvg-logo="" group-title="DE: SATIS",DE: Telekom Eishockey (DEL) 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38600
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey (DEL) 5 HD" tvg-logo="" group-title="DE: SATIS",DE: Telekom Eishockey (DEL) 5 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38601
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey (DEL) 6 HD" tvg-logo="" group-title="DE: SATIS",DE: Telekom Eishockey (DEL) 6 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38602
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Telekom Eishockey (DEL) 7 HD" tvg-logo="" group-title="DE: SATIS",DE: Telekom Eishockey (DEL) 7 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38603
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Magenta Fussball 1 HD" tvg-logo="" group-title="DE: SATIS",DE: Magenta Fussball 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38604
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Magenta Fussball 2 HD" tvg-logo="" group-title="DE: SATIS",DE: Magenta Fussball 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38605
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Magenta Fussball 3 HD" tvg-logo="" group-title="DE: SATIS",DE: Magenta Fussball 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38606
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Magenta Fussball 4 HD" tvg-logo="" group-title="DE: SATIS",DE: Magenta Fussball 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38607
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Magenta Fussball 5 HD" tvg-logo="" group-title="DE: SATIS",DE: Magenta Fussball 5 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38608
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Magenta Fussball 6 HD" tvg-logo="" group-title="DE: SATIS",DE: Magenta Fussball 6 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38609
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Magenta Fussball 7 HD" tvg-logo="" group-title="DE: SATIS",DE: Magenta Fussball 7 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38610
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Austria 1 FHD" tvg-logo="" group-title="DE: SATIS",DE: Sky Sport Austria 1 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38611
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Austria 2 FHD" tvg-logo="" group-title="DE: SATIS",DE: Sky Sport Austria 2 FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38612
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Austria 3 HD (During Games only)" tvg-logo="" group-title="DE: SATIS",DE: Sky Sport Austria 3 HD (During Games only)
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38613
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Marco Polo" tvg-logo="" group-title="DE: SATIS",DE: Marco Polo
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38614
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: MIRACULOUS" tvg-logo="" group-title="DE: SATIS",DE: MIRACULOUS
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38615
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Timon & Pumbaa" tvg-logo="" group-title="DE: SATIS",DE: Timon & Pumbaa
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38616
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Mickey Mouse Clubhouse" tvg-logo="" group-title="DE: SATIS",DE: Mickey Mouse Clubhouse
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38617
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: KiNOBOX 1 HD" tvg-logo="" group-title="DE: SATIS",DE: KiNOBOX 1 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38618
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: KiNOBOX 2 HD" tvg-logo="" group-title="DE: SATIS",DE: KiNOBOX 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38619
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: KiNOBOX 3 HD" tvg-logo="" group-title="DE: SATIS",DE: KiNOBOX 3 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38620
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: KiNOBOX 4 HD" tvg-logo="" group-title="DE: SATIS",DE: KiNOBOX 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38621
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: KiNOBOX 5 HD" tvg-logo="" group-title="DE: SATIS",DE: KiNOBOX 5 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38622
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: KiNOBOX 6 HD" tvg-logo="" group-title="DE: SATIS",DE: KiNOBOX 6 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38623
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: KiNOBOX 7 HD" tvg-logo="" group-title="DE: SATIS",DE: KiNOBOX 7 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38624
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: KiNOBOX 8 HD" tvg-logo="" group-title="DE: SATIS",DE: KiNOBOX 8 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38625
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: KiNOBOX 9 HD" tvg-logo="" group-title="DE: SATIS",DE: KiNOBOX 9 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38626
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: KiNOBOX 10 HD" tvg-logo="" group-title="DE: SATIS",DE: KiNOBOX 10 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38627
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sports Golf HD" tvg-logo="" group-title="DE: SATIS",DE: Sky Sports Golf HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38628
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sports Top Events HD" tvg-logo="" group-title="DE: SATIS",DE: Sky Sports Top Events HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38629
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sports Premier League HD" tvg-logo="" group-title="DE: SATIS",DE: Sky Sports Premier League HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38630
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="Akvarium" tvg-logo="" group-title="DE: SATIS",Akvarium
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38631
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Mix FHD" tvg-logo="" group-title="DE: SATIS",DE: Sky Sport Mix FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38632
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Sky Sport Tennis HD" tvg-logo="" group-title="DE: SATIS",DE: Sky Sport Tennis HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38633
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Dark" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Dark
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38788
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Ever After High" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Ever After High
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38789
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Masha" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Masha
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38790
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 4 Blocks" tvg-logo="" group-title="DE: SATIS",DE: 24/7 4 Blocks
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38791
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Chip und Toffel" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Chip und Toffel
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38792
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Car City" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Car City
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38793
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Bob Der Baumeister" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Bob Der Baumeister
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38794
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Lauras Stern" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Lauras Stern
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38795
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Tarzan und Jane" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Tarzan und Jane
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38796
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Babylon Berlin" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Babylon Berlin
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38797
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Peter Hase" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Peter Hase
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38798
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 BARBİE" tvg-logo="" group-title="DE: SATIS",DE: 24/7 BARBİE
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38799
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 BARBİE 2" tvg-logo="" group-title="DE: SATIS",DE: 24/7 BARBİE 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38800
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 BEJAMIN BLUCHMEN" tvg-logo="" group-title="DE: SATIS",DE: 24/7 BEJAMIN BLUCHMEN
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38801
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Calliou" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Calliou
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38802
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Conni" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Conni
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38803
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Darkwing" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Darkwing
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38804
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Chip Und Chap" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Chip Und Chap
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38805
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Guardians" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Guardians
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38806
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Jackie Chan" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Jackie Chan
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38807
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 IpMan" tvg-logo="" group-title="DE: SATIS",DE: 24/7 IpMan
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38808
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Die Supermonster" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Die Supermonster
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38809
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Jurrasica World" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Jurrasica World
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38810
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Kikanichen" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Kikanichen
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38811
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 King Julien" tvg-logo="" group-title="DE: SATIS",DE: 24/7 King Julien
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38812
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Peppa Wutz" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Peppa Wutz
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38813
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Paw Patrol" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Paw Patrol
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38814
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 101 Dalmatiner" tvg-logo="" group-title="DE: SATIS",DE: 24/7 101 Dalmatiner
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38815
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Captain Tsubasa" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Captain Tsubasa
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38816
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Adolars phantastische Abenteuer" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Adolars phantastische Abenteuer
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38817
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 A Series of Unfortunate Events" tvg-logo="" group-title="DE: SATIS",DE: 24/7 A Series of Unfortunate Events
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38818
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Attack No. 1" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Attack No. 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38819
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Captain Future" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Captain Future
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38820
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Der Rosarote Panther" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Der Rosarote Panther
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38821
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Die Abenteuer von Paddington Bär" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Die Abenteuer von Paddington Bär
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38822
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Die Schlümpfe" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Die Schlümpfe
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38823
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Disney\'s Filmore" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Disney\'s Filmore
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38824
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Disney\'s GroBe Pause" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Disney\'s GroBe Pause
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38825
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Tom und Jerry" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Tom und Jerry
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38826
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Dragonball" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Dragonball
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38827
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Dragonball Super" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Dragonball Super
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38828
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Dragonball Z" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Dragonball Z
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38829
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 Pokemon" tvg-logo="" group-title="DE: SATIS",DE: 24/7 Pokemon
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38830
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: 24/7 The King Of Queens" tvg-logo="" group-title="DE: SATIS",DE: 24/7 The King Of Queens
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38831
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Alle hassen Chris HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Alle hassen Chris HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38832
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Arrow HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Arrow HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38833
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX 4.Blocks HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX 4.Blocks HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38834
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Full House HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Full House HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38835
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Chicago Fire HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Chicago Fire HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38836
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Game of Thrones HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Game of Thrones HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38837
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Greys Anatomy 24/7" tvg-logo="" group-title="DE: SATIS",DE: Greys Anatomy 24/7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38838
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Club der roten Bänder HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Club der roten Bänder HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38839
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Gomorra HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Gomorra HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38840
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Haus des Geldes HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Haus des Geldes HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38841
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Ballers HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Ballers HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38842
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Jerks HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Jerks HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38843
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Kevin can′′t Wait HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Kevin can′′t Wait HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38844
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX IZombie HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX IZombie HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38845
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: King of Queens 24/7" tvg-logo="" group-title="DE: SATIS",DE: King of Queens 24/7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38846
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Emergency Room 24/7" tvg-logo="" group-title="DE: SATIS",DE: Emergency Room 24/7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38847
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Malcom Mittendrin HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Malcom Mittendrin HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38848
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Mr.Robot HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Mr.Robot HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38849
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Narcos HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Narcos HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38850
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Navy CIS HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Navy CIS HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38851
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX S.W.A.T HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX S.W.A.T HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38852
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Riverdale HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Riverdale HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38853
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Deperate Housewife’s 27/7" tvg-logo="" group-title="DE: SATIS",DE: Deperate Housewife’s 27/7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38854
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Chicago MED HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Chicago MED HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38855
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Start Up HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Start Up HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38856
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Suits HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Suits HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38857
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX The Big Bang Theory HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX The Big Bang Theory HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38858
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: The Middle 24/7" tvg-logo="" group-title="DE: SATIS",DE: The Middle 24/7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38859
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Pluto TV Star Trek 24/7" tvg-logo="" group-title="DE: SATIS",DE: Pluto TV Star Trek 24/7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38860
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX The Walking Dead HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX The Walking Dead HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38861
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: Tote Mädchen len nicht 24/7" tvg-logo="" group-title="DE: SATIS",DE: Tote Mädchen len nicht 24/7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38862
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Two and a Half Men HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Two and a Half Men HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38863
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX The 100 HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX The 100 HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38864
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Van Helsing HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Van Helsing HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38865
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX FBI HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX FBI HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38866
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX The Good Doctor HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX The Good Doctor HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38867
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Anger Management HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Anger Management HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38868
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Young Sheldon HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Young Sheldon HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38869
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Bull HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Bull HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38870
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Cobra Kai HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Cobra Kai HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38871
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Supernatural HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Supernatural HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38872
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Blue Bloods HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Blue Bloods HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38873
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Station 19 HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Station 19 HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38874
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX The Blacklist HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX The Blacklist HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38875
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Z Nation HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Z Nation HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38876
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Zoo HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Zoo HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38877
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX SEAL Team HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX SEAL Team HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38878
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX The Flash HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX The Flash HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38879
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Criminal Minds HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Criminal Minds HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38880
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Fear the Walking Dead HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Fear the Walking Dead HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38881
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX 2 Broke Girls HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX 2 Broke Girls HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38882
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX American Horror Story HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX American Horror Story HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38883
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Grimm HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Grimm HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38884
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Hör mal wer da Hämmert HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Hör mal wer da Hämmert HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38885
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX The Protectore HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX The Protectore HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38886
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX 911 HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX 911 HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38887
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: SERIEAX Last Man Standing HD+" tvg-logo="" group-title="DE: SATIS",DE: SERIEAX Last Man Standing HD+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38888
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: On7 Aktion" tvg-logo="" group-title="DE: SATIS",DE: On7 Aktion
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38889
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: On7 Animation" tvg-logo="" group-title="DE: SATIS",DE: On7 Animation
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38890
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: On7 Comedy" tvg-logo="" group-title="DE: SATIS",DE: On7 Comedy
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38891
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: On7 Drama" tvg-logo="" group-title="DE: SATIS",DE: On7 Drama
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38892
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: On7 Harry Potter" tvg-logo="" group-title="DE: SATIS",DE: On7 Harry Potter
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38893
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: On7 Horror" tvg-logo="" group-title="DE: SATIS",DE: On7 Horror
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38894
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: On7 Familie" tvg-logo="" group-title="DE: SATIS",DE: On7 Familie
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38895
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: On7 Sci-Fİ" tvg-logo="" group-title="DE: SATIS",DE: On7 Sci-Fİ
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38896
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: On7 James Bond" tvg-logo="" group-title="DE: SATIS",DE: On7 James Bond
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38897
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: On7 Stars Wars" tvg-logo="" group-title="DE: SATIS",DE: On7 Stars Wars
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38898
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K ACTION" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K ACTION
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38899
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K DRAMA" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K DRAMA
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38900
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K HORROR" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K HORROR
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38901
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K KOMÖDIE" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K KOMÖDIE
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38902
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K ROMANTISCH" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K ROMANTISCH
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38903
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K SCI-FI" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K SCI-FI
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38904
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K THRILLER" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K THRILLER
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38905
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K FANTASY" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K FANTASY
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38906
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K ABENTEUER" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K ABENTEUER
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38907
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K MYSTERY" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K MYSTERY
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38908
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K FAMILIE" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K FAMILIE
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38909
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K BOLLYWOOD" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K BOLLYWOOD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38910
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BlueTV 4K KRIMI" tvg-logo="" group-title="DE: SATIS",DE: BlueTV 4K KRIMI
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38911
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX GERMANY1" tvg-logo="" group-title="DE: SATIS",DE: BOX GERMANY1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38912
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX GERMANY2" tvg-logo="" group-title="DE: SATIS",DE: BOX GERMANY2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38913
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX GERMANY3" tvg-logo="" group-title="DE: SATIS",DE: BOX GERMANY3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38914
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX GERMANY4" tvg-logo="" group-title="DE: SATIS",DE: BOX GERMANY4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38915
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX GERMANY5" tvg-logo="" group-title="DE: SATIS",DE: BOX GERMANY5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38916
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX GERMANY6" tvg-logo="" group-title="DE: SATIS",DE: BOX GERMANY6
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38917
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX DRAM GERMANY" tvg-logo="" group-title="DE: SATIS",DE: BOX DRAM GERMANY
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38918
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX ViSiON GERMANY" tvg-logo="" group-title="DE: SATIS",DE: BOX ViSiON GERMANY
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38919
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX THRiLLER GERMANY" tvg-logo="" group-title="DE: SATIS",DE: BOX THRiLLER GERMANY
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38920
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX SCiENCE GERMANY" tvg-logo="" group-title="DE: SATIS",DE: BOX SCiENCE GERMANY
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38921
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE:  BOX LiBiES GERMANY" tvg-logo="" group-title="DE: SATIS",DE:  BOX LiBiES GERMANY
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38922
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX HORROR GERMANY" tvg-logo="" group-title="DE: SATIS",DE: BOX HORROR GERMANY
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38923
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX FAMiLY GERMANY" tvg-logo="" group-title="DE: SATIS",DE: BOX FAMiLY GERMANY
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38924
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX COMEDY GERMANY" tvg-logo="" group-title="DE: SATIS",DE: BOX COMEDY GERMANY
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38925
+#EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX GERMANY ACTiON" tvg-logo="" group-title="DE: SATIS",DE: BOX GERMANY ACTiON
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38926#EXTINF:-1 tvg-id="" tvg-name="DE : HD DAS ERSTE " tvg-logo="http://fireott.quest:2052/images/bbc3a46b6e899e7deedd67ea5d0a75c7.png" group-title="DE : GERMANY HD/4K",DE : HD DAS ERSTE 
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248774
 #EXTINF:-1 tvg-id="" tvg-name="DE : HD ZDF " tvg-logo="http://fireott.quest:2052/images/09fd72e0f512824e00478530e9c05d06.png" group-title="DE : GERMANY HD/4K",DE : HD ZDF 
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248775
@@ -1129,7 +2524,7 @@ http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248872
 #EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY CINEMA FAMILY " tvg-logo="http://fireott.quest:2052/images/54c364c6d45b53ad723aff3681775e2c.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY CINEMA FAMILY 
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248873
-#EXTINF:-1 tvg-id="" tvg-name="DE: HD SKY PREMIEREN " tvg-logo="http://fireott.quest:2052/images/cdca7c647214461304219ddcb7014e57.png" group-title="DE : GERMANY KINO FHD/HD",DE: HD SKY PREMIEREN 
+#EXTINF:-1 tvg-id="" tvg-name="DE: HD SKY PREMIEREN" tvg-logo="http://fireott.quest:2052/images/cdca7c647214461304219ddcb7014e57.png" group-title="DE : ALMANYA KINO FHD/HD",DE: HD SKY Prömiyeri
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248874
 #EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY BEST Of " tvg-logo="http://fireott.quest:2052/images/8fd5fea763f8b6edeb69944220f5b336.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY BEST Of 
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248875
@@ -1145,34 +2540,6 @@ http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248880
 #EXTINF:-1 tvg-id="" tvg-name="DE | SKY ATLANTIC HD" tvg-logo="http://fireott.quest:2052/images/d19c2828fad9c680a33c908a8289fd2b.png" group-title="DE : GERMANY KINO FHD/HD",DE | SKY ATLANTIC HD
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248881
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY KRIMI " tvg-logo="http://fireott.quest:2052/images/680491536d4e3483605d49e26f50d1a2.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY KRIMI 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248882
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD RTL CRIME " tvg-logo="http://fireott.quest:2052/images/68b0e57ad06aa65536b3544d4a8c5103.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD RTL CRIME 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248883
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD RTL LIVING " tvg-logo="http://fireott.quest:2052/images/f84920bff8c761cab4a00b80bce87d94.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD RTL LIVING 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248884
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD RTL PASSION " tvg-logo="http://fireott.quest:2052/images/8dd3e8d56255280aaf3c41626a5e982d.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD RTL PASSION 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248885
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD TNT COMEDY " tvg-logo="http://fireott.quest:2052/images/60827221d6174ea680b5a0b1be88688c.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD TNT COMEDY 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248886
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD TNT FILM " tvg-logo="http://fireott.quest:2052/images/4ccfb96db97eb60e088ba5f4eadcccc9.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD TNT FILM 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248887
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD TNT SERIE " tvg-logo="http://fireott.quest:2052/images/33ee0880542cd70da79c3f9011b4289c.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD TNT SERIE 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248888
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD FOX " tvg-logo="http://fireott.quest:2052/images/e1e8a13fe0afb9158ce2b85a44c05bdc.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD FOX 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248889
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD 13TH STREET " tvg-logo="http://fireott.quest:2052/images/b675bee3258ed19c91d882b0e5419fb9.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD 13TH STREET 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248890
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD SYFY " tvg-logo="http://fireott.quest:2052/images/15387bcc5f6a1ddbfb32f5cf1a2ea552.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SYFY 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248891
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD UNIVERSAL TV " tvg-logo="http://fireott.quest:2052/images/c8954b95f4d6a7b0383e518c7e81afd5.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD UNIVERSAL TV 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248892
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD SONY AXN " tvg-logo="http://fireott.quest:2052/images/04f41a12f6dc17a51325d40fc1249117.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SONY AXN 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248893
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD SONY CHANNEL " tvg-logo="http://fireott.quest:2052/images/2b00e75c0a8384f76d3d0bc6cacabfa3.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SONY CHANNEL 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248894
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD SILVERLINE " tvg-logo="http://fireott.quest:2052/images/fa2d8cec08485bfb4712b6b0a5b472de.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SILVERLINE 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248895
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD KINOWELT TV " tvg-logo="http://fireott.quest:2052/images/a09726e2f2b5c60df636614b92e07c49.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD KINOWELT TV 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248896
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY KRIMI " tvg-logo="http://fireott.quest:2052/images/680491536d4e3483605d49e26f50d1a2.png" group-title="DE : ALMANYA KINO FHD/HD",DE : HD SKY KRIMI
+
 
