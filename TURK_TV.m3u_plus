@@ -2268,14 +2268,14 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38925
 #EXTINF:-1 tvg-id="{CHANNEL_ID}" tvg-name="DE: BOX GERMANY ACTiON" tvg-logo="" group-title="DE: SATIS",DE: BOX GERMANY ACTiO
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/38926#EXTINF:-1 tvg-id="" tvg-name="DE : HD DAS ERSTE " tvg-logo="http://fireott.quest:2052/images/bbc3a46b6e899e7deedd67ea5d0a75c7.png" group-title="DE : GERMANY HD/4K",DE : HD DAS ERSTE 
 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248774
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD ZDF " tvg-logo="http://fireott.quest:2052/images/09fd72e0f512824e00478530e9c05d06.png" group-title="DE : GERMANY HD/4K",DE : HD ZDF 
+
+
+# tvg-id="" tvg-name="DE : HD ZDF " tvg-logo="http://fireott.quest:2052/images/09fd72e0f512824e00478530e9c05d06.png" group-title="DE : ALMANYA HD/4K",DE : HD ZDF
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248775
 #EXTINF:-1 tvg-id="" tvg-name="DE : HD ZDF INFO " tvg-logo="http://fireott.quest:2052/images/9502de999b8e5164d372cafb73b10b45.png" group-title="DE : GERMANY HD/4K",DE : HD ZDF INFO 
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248776
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD ZDF NEO " tvg-logo="http://fireott.quest:2052/images/6d5ec8961989040c24c449837892444b.png" group-title="DE : GERMANY HD/4K",DE : HD ZDF NEO 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248777
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD MDR " tvg-logo="http://fireott.quest:2052/images/34e759a857ed3fae4c7cc315d1cc7021.png" group-title="DE : GERMANY HD/4K",DE : HD MDR 
+http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/24877
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD MDR " tvg-logo="http://fireott.quest:2052/images/34e759a857ed3fae4c7cc315d1cc7021.png" group-title="DE : ALMANYA HD/4K",DE : HD MDR
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248778
 #EXTINF:-1 tvg-id="" tvg-name="DE : HD HR " tvg-logo="http://fireott.quest:2052/images/bc84ced7079f5200daa5daddf8611dce.png" group-title="DE : GERMANY HD/4K",DE : HD HR 
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248779
@@ -2303,7 +2303,7 @@ http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248790
 #EXTINF:-1 tvg-id="" tvg-name="DE : HD SAT 1 " tvg-logo="http://fireott.quest:2052/images/28c66a713aa7f1483d6ac0519a228a06.png" group-title="DE : GERMANY HD/4K",DE : HD SAT 1 
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248791
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD SAT 1 GOLD " tvg-logo="http://fireott.quest:2052/images/364bf99a41eae4bd68a57804ac6f0cc7.png" group-title="DE : GERMANY HD/4K",DE : HD SAT 1 GOLD 
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD SAT 1 GOLD " tvg-logo="http://fireott.quest:2052/images/364bf99a41eae4bd68a57804ac6f0cc7.png" group-title="DE : ALMANYA HD/4K",DE : HD SAT 1 GOLD
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248792
 #EXTINF:-1 tvg-id="" tvg-name="DE : HD SAT 1 EMOTIONS " tvg-logo="http://fireott.quest:2052/images/84b21b57c6306f1ca88656cf870af9dc.png" group-title="DE : GERMANY HD/4K",DE : HD SAT 1 EMOTIONS 
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248793
@@ -2514,7 +2514,7 @@ http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248867
 #EXTINF:-1 tvg-id="" tvg-name="#### GERMANY KINO ####" tvg-logo="" group-title="DE : GERMANY KINO FHD/HD",#### GERMANY KINO ####
 http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/248868
-#EXTINF:-1 tvg-id="" tvg-name="DE : HD SKY CINEMA THRILLER " tvg-logo="http://fireott.quest:2052/images/ab0925fa04ac08af3572f69619d899f8.png" group-title="DE : GERMANY KINO FHD/HD",DE : HD SKY CINEMA THRILLER 
-http://wixa.fire33.xyz:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/2
+#EXTINF:-1 tvg-id="" tvg-name="DE : HD GÖKYÜZÜ SİNEMA GERİLİMİ " tvg-logo="http://fireott.quest:2052/images/ab0925fa04ac08af3572f69619d899f8.png" group-title="DE : ALMANYA KINO FHD/HD",DE : HD SKY CINEMA GERİLİM
+
 
 
