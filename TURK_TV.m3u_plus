@@ -135,14 +135,14 @@ http://49.12.123.148:8989/2/hls/playlist.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 UHD
-http://sican.info:8000/@TacosTvMAX/AohwXIjkIl/20
+http://sdfsd.tgt6373.online:80/tv2204/tvlnk2204/123907
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 FHD
 https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
 https://tv8-live.daioncdn.net:443/tv8/tv8_720p.m3u8
 
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
-http://sican.info:8000/@TacosTvMAX/AohwXIjkIl/25
+http://sdfsd.tgt6373.online:80/tv2204/tvlnk2204/123910
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 FHD
 http://sansat.org:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/98939
 
@@ -151,7 +151,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 FHD
 http://135.125.234.9:8081/teve2/index.m3u8
 #EXTINF:-1 group-title="ULUSAL-UHD", A2 UHD
-http://49.12.123.148:8989/19/hls/playlist.m3u8
+http://sdfsd.tgt6373.online:80/tv2204/tvlnk2204/123919
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa
 http://185.85.152.220:8787/play/a06g/index.m3u8
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-UHD",EUROSTAR televizyon
