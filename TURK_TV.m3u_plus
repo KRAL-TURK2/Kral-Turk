@@ -107,7 +107,7 @@ http://as3.8kugur.online:80/live/tv2204/tvlnk2204/123892.ts
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" grup-başlığı ="ULUSAL-UHD",ATV HD
 http://sansat.org:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/98946
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV UHD
-http://sican.info:8000/@TacosTvMAX/AohwXIjkIl/17
+http://as3.8kugur.online:80/live/tv2204/tvlnk2204/123898.ts
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV FHD
 https://dogus-live.daioncdn.net:443/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV HD
