@@ -114,21 +114,21 @@ https://dogus-live.daioncdn.net:443/startv/startv_720p.m3u8
 https://startv.blutv.com/blutv_startv_live/live.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
-http://sican.info:8000/@TacosTvMAX/AohwXIjkIl/16
+http://sdfsd.tgt6373.online:80/tv2204/tvlnk2204/123901
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D FHD
 https://demiroren-live.daioncdn.net:443/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D HD
 http://135.125.234.9:8081/kanald/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV UHD
-http://sican.info:8000/@TacosTvMAX/AohwXIjkIl/18
+http://sdfsd.tgt6373.online:80/tv2204/tvlnk2204/123895
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV HD
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV UHD
-http://sican.info:8000/@TacosTvMAX/AohwXIjkIl/19
+http://sdfsd.tgt6373.online:80/tv2204/tvlnk2204/123904
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV FHD
 http://49.12.123.148:8989/2/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title= "ULUSAL-UHD",FOX TV HD
