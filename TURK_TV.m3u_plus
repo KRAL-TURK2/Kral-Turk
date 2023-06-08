@@ -85,8 +85,8 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
-http://sican.info:8000/@TacosTvMAX/AohwXIjkIl/17591
-#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
+http://as3.8kugur.online:80/live/tv2204/tvlnk2204/123887.tshttp://as3.8kugur.online:80/live/tv2204/tvlnk2204/123888.ts
+#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL- UHD",TRT 4K FHD
 http://dreammedia.site:2086/aminkardes/YFG8NtlH3I/79647
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
 http://hyqzethr.megatv.fun/iptv/8E52MW5BS9BCE7/4001/index.m3u8
