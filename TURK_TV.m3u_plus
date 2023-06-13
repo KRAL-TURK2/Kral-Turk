@@ -420,52 +420,99 @@ http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12796
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN IZ HD" tvg-logo="" group-title="TR: BELGESEL",TR: beIN IZ HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2512
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN GURME HD" tvg-logo="" group-title="TR: BELGESEL",TR: beIN GURME HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/7281
-#EXTINF:-1 tvg-id="" tvg-name="TR: HİSTORY HD" tvg-logo="" group-title="TR: BELGESEL",TR: HİSTORY HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2495
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel HD" tvg-logo="" group-title="TR: BELGESEL",TR: TRT Belgesel HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2498
-#EXTINF:-1 tvg-id="" tvg-name="TR: History Channel HD" tvg-logo="" group-title="TR: BELGESEL",TR: History Channel HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2504
-#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo HD" tvg-logo="" group-title="TR: BELGESEL",TR: Nat Geo HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2505
-#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo Wild HD" tvg-logo="" group-title="TR: BELGESEL",TR: Nat Geo Wild HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2507
-#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery IDX" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery IDX
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2496
-#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery Channel
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2501
-#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery IDX HD" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery IDX HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2502
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL" tvg-logo="" group-title="TR: BELGESEL",TR: DISCOVERY CHANNEL
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2516
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE FHD" tvg-logo="" group-title="TR: BELGESEL",TR: DISCOVERY SCIENCE FHD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/7282
-#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Turbo Extra HD" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery Turbo Extra HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/15387
-#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="" group-title="TR: BELGESEL",TR: TLC
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2499
-#EXTINF:-1 tvg-id="" tvg-name="TR: Yaban TV" tvg-logo="" group-title="TR: BELGESEL",TR: Yaban TV
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2508
-#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX" tvg-logo="" group-title="TR: BELGESEL",TR: DMAX
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2509
-#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH" tvg-logo="" group-title="TR: BELGESEL",TR: BBC EARTH
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/15386
-#EXTINF:-1 tvg-id="" tvg-name="TR: Fox Crime FHD" tvg-logo="" group-title="TR: BELGESEL",TR: Fox Crime FHD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2511
-#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci Learning HD" tvg-logo="" group-title="TR: BELGESEL",TR: Da Vinci Learning HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2514
-#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY" tvg-logo="" group-title="TR: BELGESEL",TR: VIASAT HISTORY
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/6620
-#EXTINF:-1 tvg-id="" tvg-name="TR: WOMAN KADIN TV" tvg-logo="" group-title="TR: BELGESEL",TR: WOMAN KADIN TV
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2500
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tarih TV" tvg-logo="" group-title="TR: BELGESEL",TR: Tarih TV
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/27607
+#EXTINF:-1 xui-id="4686" tvg-id="" tvg-name="||#(TR)BELGESEL#||" tvg-logo="https://doksan.homes/l/90logo.png" group-title="TR.BELGESEL",||#(TR)BELGESEL#||
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsuRO6s-g3amZ0ohUC9xyt5o
+#EXTINF:-1 xui-id="265" tvg-id="trtbelgesel.tr" tvg-name="TR.TRT BELGESEL нᴅ" tvg-logo="https://doksan.homes/l/trtbelgesel.png" group-title="TR.BELGESEL",TR.TRT BELGESEL нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsnYj2YYUNlUzBtmw5D33Fes
+#EXTINF:-1 xui-id="1397" tvg-id="trtbelgesel.tr" tvg-name="TR.TRT BELGESEL ғнᴅ" tvg-logo="https://doksan.homes/l/trtbelgesel.png" group-title="TR.BELGESEL",TR.TRT BELGESEL ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKssM0IVt1svTAt2iDi9zUYzQ
+#EXTINF:-1 xui-id="257" tvg-id="tlc.tr" tvg-name="TR.TLC нᴅ" tvg-logo="https://doksan.homes/l/tlclogo.png" group-title="TR.BELGESEL",TR.TLC нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsl2sGOPTDWCeLrs6NVaStM8
+#EXTINF:-1 xui-id="414" tvg-id="tlc.tr" tvg-name="TR.TLC ғнᴅ" tvg-logo="https://doksan.homes/l/tlclogo.png" group-title="TR.BELGESEL",TR.TLC ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKshoBZ1bnzN9fHvSV9YuBg04
+#EXTINF:-1 xui-id="449" tvg-id="dmax.tr" tvg-name="TR.DMAX нᴅ" tvg-logo="https://doksan.homes/l/dmaxlogo.png" group-title="TR.BELGESEL",TR.DMAX нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKslaX9_dTTqMK29nkFBpED3I
+#EXTINF:-1 xui-id="260" tvg-id="dmax.tr" tvg-name="TR.DMAX ғнᴅ" tvg-logo="https://doksan.homes/l/dmaxlogo.png" group-title="TR.BELGESEL",TR.DMAX ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsm75f0Tzp0VzPCiIjdAJRhE
+#EXTINF:-1 xui-id="5126" tvg-id="davinci.tr" tvg-name="TR.DA VINCI LEARNING нᴅ" tvg-logo="https://doksan.homes/l/davincilearningbelgesel.png" group-title="TR.BELGESEL",TR.DA VINCI LEARNING нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsr7ZXf_X1AZbLQD7xlsdz14
+#EXTINF:-1 xui-id="114" tvg-id="natgeo.tr" tvg-name="TR.NATIONAL GEOGRAPHIC нᴅ" tvg-logo="https://doksan.homes/l/natgeo.png" group-title="TR.BELGESEL",TR.NATIONAL GEOGRAPHIC нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsjdSUEU_LjfDmOBYdFcH_9g
+#EXTINF:-1 xui-id="249" tvg-id="natgeo.tr" tvg-name="TR.NATIONAL GEOGRAPHIC ғнᴅ" tvg-logo="https://doksan.homes/l/natgeo.png" group-title="TR.BELGESEL",TR.NATIONAL GEOGRAPHIC ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsre481ZbgN5Rnp25EJ618s4
+#EXTINF:-1 xui-id="162" tvg-id="natgeowild.tr" tvg-name="TR.NAT GEO WILD нᴅ" tvg-logo="https://doksan.homes/l/natgoewild.png" group-title="TR.BELGESEL",TR.NAT GEO WILD нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsmpwMviixxc3b-mrsWyQd_o
+#EXTINF:-1 xui-id="248" tvg-id="natgeowild.tr" tvg-name="TR.NAT GEO WILD ғнᴅ" tvg-logo="https://doksan.homes/l/natgoewild.png" group-title="TR.BELGESEL",TR.NAT GEO WILD ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKssctnQDVCrSbO8SvBBd_Sjc
+#EXTINF:-1 xui-id="6668" tvg-id="animalplanet.tr" tvg-name="TR.ANIMAL PLANET нᴅ" tvg-logo="https://doksan.homes/l/animalplanettv.png" group-title="TR.BELGESEL",TR.ANIMAL PLANET нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsnYImzzxJo4rI7m-pfNwHqk
+#EXTINF:-1 xui-id="263" tvg-id="animalplanet.tr" tvg-name="TR.ANIMAL PLANET ғнᴅ" tvg-logo="https://doksan.homes/l/animalplanettv.png" group-title="TR.BELGESEL",TR.ANIMAL PLANET ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsmZ53oH2cpnLU9N3Lnpx--8
+#EXTINF:-1 xui-id="927" tvg-id="historychannel.tr" tvg-name="TR.HISTORY нᴅ" tvg-logo="https://doksan.homes/l/history.png" group-title="TR.BELGESEL",TR.HISTORY нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsmT1myEYXdjpI0qIHFPIf24
+#EXTINF:-1 xui-id="253" tvg-id="historychannel.tr" tvg-name="TR.HISTORY ғнᴅ" tvg-logo="https://doksan.homes/l/history.png" group-title="TR.BELGESEL",TR.HISTORY ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsjRqNG0DZfagYTfPYYEilSk
+#EXTINF:-1 xui-id="264" tvg-id="viasathistory.tr" tvg-name="TR.VIASAT HISTORY ғнᴅ" tvg-logo="https://doksan.homes/l/viasathistory.png" group-title="TR.BELGESEL",TR.VIASAT HISTORY ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsqoP6EfnVRJ1QqafduM-h1Q
+#EXTINF:-1 xui-id="6599" tvg-id="" tvg-name="TR.VIASAT EXPLORE ғнᴅ" tvg-logo="https://doksan.homes/l/viasatexplore.png" group-title="TR.BELGESEL",TR.VIASAT EXPLORE ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsmikVH695LrPl4kBO0GF4SY
+#EXTINF:-1 xui-id="3727" tvg-id="" tvg-name="TR.TARiH TV" tvg-logo="https://doksan.homes/l/trtarihtv.png" group-title="TR.BELGESEL",TR.TARiH TV
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsu1zoSsPmUKevOypV3-GxVk
+#EXTINF:-1 xui-id="1075" tvg-id="bbcearth.tr" tvg-name="TR.BBC EARTH нᴅ" tvg-logo="https://doksan.homes/l/bbcearthtv.png" group-title="TR.BELGESEL",TR.BBC EARTH нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKspOnNN1cfLk2OmxqgZzDWwo
+#EXTINF:-1 xui-id="261" tvg-id="bbcearth.tr" tvg-name="TR.BBC EARTH ғнᴅ" tvg-logo="https://doksan.homes/l/bbcearthtv.png" group-title="TR.BELGESEL",TR.BBC EARTH ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsmtagJJtny4ghGLvwxAUoF4
+#EXTINF:-1 xui-id="419" tvg-id="discoverychannel.tr" tvg-name="TR.DISCOVERY CHANNEL нᴅ" tvg-logo="https://doksan.homes/l/discovery.png" group-title="TR.BELGESEL",TR.DISCOVERY CHANNEL нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKslU2rLFtHjL5641QP6hbVkk
+#EXTINF:-1 xui-id="250" tvg-id="discoverychannel.tr" tvg-name="TR.DISCOVERY CHANNEL ғнᴅ" tvg-logo="https://doksan.homes/l/discovery.png" group-title="TR.BELGESEL",TR.DISCOVERY CHANNEL ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsr-BY29mUsVhI0qSuN2OPJ8
+#EXTINF:-1 xui-id="1096" tvg-id="discoveryscience.tr" tvg-name="TR.DISCOVERY SCIENCE нᴅ" tvg-logo="https://doksan.homes/l/discoveryscience.png" group-title="TR.BELGESEL",TR.DISCOVERY SCIENCE нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsqb-8fzuVaZEE0vmS96lvwc
+#EXTINF:-1 xui-id="1892" tvg-id="discoveryscience.tr" tvg-name="TR.DISCOVERY SCIENCE ғнᴅ" tvg-logo="https://doksan.homes/l/discoveryscience.png" group-title="TR.BELGESEL",TR.DISCOVERY SCIENCE ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsiznl51gKbUIJhDRRq53sTs
+#EXTINF:-1 xui-id="111" tvg-id="discoveryid.tr" tvg-name="TR.DISCOVERY ID нᴅ" tvg-logo="https://doksan.homes/l/discoveryidx.png" group-title="TR.BELGESEL",TR.DISCOVERY ID нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKst1QN4pHVXkB7xI1szqpJio
+#EXTINF:-1 xui-id="252" tvg-id="discoveryid.tr" tvg-name="TR.DISCOVERY ID ғнᴅ" tvg-logo="https://doksan.homes/l/discoveryidx.png" group-title="TR.BELGESEL",TR.DISCOVERY ID ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsr-qxNBnwlYpQQ7Ng0PuqcY
+#EXTINF:-1 xui-id="267" tvg-id="beiniz.tr" tvg-name="TR.beIN iZ нᴅ" tvg-logo="https://doksan.homes/l/iztv_hd.png" group-title="TR.BELGESEL",TR.beIN iZ нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsl6ttt1n0MAEru_N0TYld88
+#EXTINF:-1 xui-id="6299" tvg-id="beiniz.tr" tvg-name="TR.BEIN IZ ғнᴅ" tvg-logo="https://doksan.homes/l/iztv_hd.png" group-title="TR.BELGESEL",TR.BEIN IZ ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKst98nGJz-nhaDJW_a2Ss3Zo
+#EXTINF:-1 xui-id="167" tvg-id="beingurme.tr" tvg-name="TR.beIN GURME нᴅ" tvg-logo="https://doksan.homes/l/turkmax_hd.png" group-title="TR.BELGESEL",TR.beIN GURME нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsvFbRBI_U_LmxW2zg0ha9z8
+#EXTINF:-1 xui-id="274" tvg-id="beingurme.tr" tvg-name="TR.beIN GURME ғнᴅ" tvg-logo="https://doksan.homes/l/turkmax_hd.png" group-title="TR.BELGESEL",TR.beIN GURME ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsvp-DvKgPE-p2VRq8J7Ope4
+#EXTINF:-1 xui-id="266" tvg-id="tgrtbelgesel.tr" tvg-name="TR.TGRT BELGESEL ѕᴅ" tvg-logo="https://doksan.homes/l/tgrtbelgesel.png" group-title="TR.BELGESEL",TR.TGRT BELGESEL ѕᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsudcDr-Q_m55Xt4H3G3Z2lM
+#EXTINF:-1 xui-id="258" tvg-id="yabantv.tr" tvg-name="TR.YABAN TV ғнᴅ" tvg-logo="https://doksan.homes/l/yabantv.png" group-title="TR.BELGESEL",TR.YABAN TV ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsuYS0svYNYE3nd40Ix2-1is
+#EXTINF:-1 xui-id="275" tvg-id="" tvg-name="TR.SCIENCE & VIE ғнᴅ" tvg-logo="https://doksan.homes/l/scienceandvietv.png" group-title="TR.BELGESEL",TR.SCIENCE & VIE ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsnmpE6THGqlhe2sgKRRVb4s
+#EXTINF:-1 xui-id="254" tvg-id="" tvg-name="TR.ANIMAUX ғнᴅ" tvg-logo="https://doksan.homes/l/animaux.png" group-title="TR.BELGESEL",TR.ANIMAUX ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsri9QUAKhvIqWf1HD5S-WnM
+#EXTINF:-1 xui-id="1115" tvg-id="24kitchen.tr" tvg-name="TR.24 KITCHEN нᴅ" tvg-logo="https://doksan.homes/l/24kitchentv.png" group-title="TR.BELGESEL",TR.24 KITCHEN нᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsp7DtYQOMEf-BMenhkLVWNo
+#EXTINF:-1 xui-id="273" tvg-id="24kitchen.tr" tvg-name="TR.24 KITCHEN ғнᴅ" tvg-logo="https://doksan.homes/l/24kitchentv.png" group-title="TR.BELGESEL",TR.24 KITCHEN ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKskXhJsl6InvybJf51bscDuE
+#EXTINF:-1 xui-id="271" tvg-id="" tvg-name="TR.AUTOMOTO ғнᴅ" tvg-logo="https://doksan.homes/l/automototv.png" group-title="TR.BELGESEL",TR.AUTOMOTO ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsszjcAHr5hBli_TWyNyNAUY
+#EXTINF:-1 xui-id="270" tvg-id="" tvg-name="TR.DTX ғнᴅ EN" tvg-logo="https://doksan.homes/l/dtxtv.png" group-title="TR.BELGESEL",TR.DTX ғнᴅ EN
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsqUs3vnCztwhDp4frnPfhhU
+#EXTINF:-1 xui-id="269" tvg-id="" tvg-name="TR.OUTDOOR ғнᴅ⁵⁰" tvg-logo="https://doksan.homes/l/outdoorchannel.png" group-title="TR.BELGESEL",TR.OUTDOOR ғнᴅ⁵⁰
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKshHFsLbTNHd9ZYE-VUlnENE
+#EXTINF:-1 xui-id="256" tvg-id="" tvg-name="TR.LOVE NATURE ғнᴅ" tvg-logo="https://doksan.homes/l/love_nature_tv.png" group-title="TR.BELGESEL",TR.LOVE NATURE ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsovoD6LexjcbmqmPDZuK888
+#EXTINF:-1 xui-id="272" tvg-id="" tvg-name="TR.FAST&FUN BOX ғнᴅ" tvg-logo="https://doksan.homes/l/fast_and_funbox_tv.png" group-title="TR.BELGESEL",TR.FAST&FUN BOX ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsnUAjQYvnBnHOFBUx9YJZDA
+#EXTINF:-1 xui-id="255" tvg-id="" tvg-name="TR.CHASSE & PECHE ѕᴅ" tvg-logo="https://doksan.homes/l/chasse_and_peche.png" group-title="TR.BELGESEL",TR.CHASSE & PECHE ѕᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsjb7mCMb7zHqam0ZZqE3aKw
+#EXTINF:-1 xui-id="6598" tvg-id="docubox.tr" tvg-name="TR.DOCUBOX ғнᴅ" tvg-logo="https://doksan.homes/l/docuboxtv.png" group-title="TR.BELGESEL",TR.DOCUBOX ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsqufiz6-jhWEs0E77Xt7wf8
+#EXTINF:-1 xui-id="3712" tvg-id="" tvg-name="TR.KANAL PATI ғнᴅ" tvg-logo="" group-title="TR.BELGESEL",TR.KANAL PATI ғнᴅ
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsgOtPZ7OdKrDjDHV5fdx6eE
 
-#EXTM3U
+
+#EXTM3
 #EXTINF:-1 group-title="TURK SINEMA KANALLAR", NTD YESILCAM SİNEMA 
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 #EXTINF:-1 group-title="TURK SINEMA KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53 /CLCTV.PNG", CLC MEDYA TV HD
