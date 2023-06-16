@@ -236,7 +236,7 @@ http://dostiptv.com:80/live/HuseyinTurran/KhTZrC3sUJ5321/17.m3u8
 http://135.125.234.9:8081/cnnturk/index.m3u8
 
 #EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="HABER KANALI",HABERTÜRK
-http://dostiptv.com:80/HuseyinTurran/KhTZrC3sUJ5321/204http://dostiptv.com:80/HuseyinTurran/KhTZrC3sUJ5321/200
+http://dostiptv.com:80/HuseyinTurran/KhTZrC3sUJ5321/204
 #EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title= "HABER KANALI",HABERTÜRK
 https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 
