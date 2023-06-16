@@ -231,8 +231,8 @@ http://95.0.226.197:8000/play/a00p
 https://tv.ensonhaber.com:443/tv/tr/ntv/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
-http://95.0.226.197:8000/play/a017
-#EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
+http://dostiptv.com:80/live/HuseyinTurran/KhTZrC3sUJ5321/17.m3u8
+#EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title= "HABER KANALI",CNN TÜRK
 http://135.125.234.9:8081/cnnturk/index.m3u8
 
 #EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="HABER KANALI",HABERTÜRK
