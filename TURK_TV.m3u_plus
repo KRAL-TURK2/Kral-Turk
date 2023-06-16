@@ -241,12 +241,12 @@ http://dostiptv.com:80/HuseyinTurran/KhTZrC3sUJ5321/204http://dostiptv.com:80/Hu
 https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 
 #EXTINF:-1 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
-https://tv.ensonhaber.com:443/tv/tr/haberglobal/index.m3u8
+http://dostiptv.com:80/HuseyinTurran/KhTZrC3sUJ5321/200
 #EXTINF:-1 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
-https://tv.ensonhaber.com:443/tv/tr/24tv/index.m3u8
+http://dostiptv.com:80/HuseyinTurran/KhTZrC3sUJ5321/201
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
 https://canli.haber365.com.tr/tr/24tv/index.m3u8
 
