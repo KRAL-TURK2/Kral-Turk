@@ -339,84 +339,68 @@ http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 http://159.89.20.0/satontv3_hdtv/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA iLKOKUL нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT EBA iLKOKUL нᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12788
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA ORTAOKUL нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT EBA ORTAOKUL нᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12789
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA LiSE нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT EBA LiSE нᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12790
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT COCUK нᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12793
-#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI KIDS ғнᴅ" tvg-logo="" group-title="TR: COCUK",TR: DA VINCI KIDS ғнᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12791
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG ғнᴅ" tvg-logo="" group-title="TR: COCUK",TR: BOOMERANG ғнᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12794
-#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: CARTOON NETWORK ѕᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12795
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY XD" tvg-logo="" group-title="TR: COCUK",TR: DISNEY XD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12798
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY JUNIOR ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: DISNEY JUNIOR ѕᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12797
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY CHANNEL HD" tvg-logo="" group-title="TR: COCUK",TR: DISNEY CHANNEL HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2517
-#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA GO ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: MINIKA GO ѕᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12799
-#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: MINIKA COCUK ѕᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12800
-#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON нᴅ" tvg-logo="" group-title="TR: COCUK",TR: NICKELODEON нᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12801
-#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON JR ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: NICKELODEON JR ѕᴅ
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12802
-#EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK FHD" tvg-logo="" group-title="TR: COCUK",TR: SMART COCUK FHD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/7280
-#EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK FHD" tvg-logo="" group-title="TR: COCUK",TR: SMART COCUK FHD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12803
-#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV HD" tvg-logo="" group-title="TR: COCUK",TR: BABY TV HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12804
-#EXTINF:-1 tvg-id="" tvg-name="TR: CBEEBiES HD" tvg-logo="" group-title="TR: COCUK",TR: CBEEBiES HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12806
-#EXTINF:-1 tvg-id="" tvg-name="TR: Konusan Tom" tvg-logo="" group-title="TR: COCUK",TR: Konusan Tom
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/36
-#EXTINF:-1 tvg-id="" tvg-name="TR: SUNGER BOB TV" tvg-logo="" group-title="TR: COCUK",TR: SUNGER BOB TV
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/35
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sünger Bob" tvg-logo="" group-title="TR: COCUK",TR: Sünger Bob
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/34
-#EXTINF:-1 tvg-id="" tvg-name="TR: PAW Patrol" tvg-logo="" group-title="TR: COCUK",TR: PAW Patrol
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/33
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kukuli HD" tvg-logo="" group-title="TR: COCUK",TR: Kukuli HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/15
-#EXTINF:-1 tvg-id="" tvg-name="TR: Pijamaskeliler 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Pijamaskeliler 1 HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/14
-#EXTINF:-1 tvg-id="" tvg-name="TR: 80 Günde Devr-i Alem HD" tvg-logo="" group-title="TR: COCUK",TR: 80 Günde Devr-i Alem HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/13
-#EXTINF:-1 tvg-id="" tvg-name="TR: POKEMON TV" tvg-logo="" group-title="TR: COCUK",TR: POKEMON TV
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12
-#EXTINF:-1 tvg-id="" tvg-name="TR: Maşa ile Koca Ayı 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Maşa ile Koca Ayı 1 HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/11
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sirinler 1 FHD" tvg-logo="" group-title="TR: COCUK",TR: Sirinler 1 FHD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/10
-#EXTINF:-1 tvg-id="" tvg-name="TR: Rafadan Tayfa" tvg-logo="" group-title="TR: COCUK",TR: Rafadan Tayfa
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/9
-#EXTINF:-1 tvg-id="" tvg-name="TR: SpongeBob" tvg-logo="" group-title="TR: COCUK",TR: SpongeBob
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Oddbods HD" tvg-logo="" group-title="TR: COCUK",TR: Oddbods HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/7
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kukuli 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Kukuli 1 HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/6
-#EXTINF:-1 tvg-id="" tvg-name="TR: Pepee 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Pepee 1 HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/5
-#EXTINF:-1 tvg-id="" tvg-name="TR: Baby Alive HD" tvg-logo="" group-title="TR: COCUK",TR: Baby Alive HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/4
-#EXTINF:-1 tvg-id="" tvg-name="TR: POKEMON TV" tvg-logo="" group-title="TR: COCUK",TR: POKEMON TV
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/3
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kral Sakir" tvg-logo="" group-title="TR: COCUK",TR: Kral Sakir
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2
-#EXTINF:-1 tvg-id="" tvg-name="TR: Temel Reis" tvg-logo="" group-title="TR: COCUK",TR: Temel Reis
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/1
-#EXTINF:-1 tvg-id="" tvg-name="TR: Niloya TV HD" tvg-logo="" group-title="TR: COCUK",TR: Niloya TV HD
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/2583
-#EXTINF:-1 tvg-id="" tvg-name="TR: Booba TV" tvg-logo="" group-title="TR: COCUK",TR: Booba TV
-http://arisiktv.xyz:8080/TVPP/5yFgG7ZzzT/12796
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Niloya" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Niloya
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/34662
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Niloya 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Niloya 2
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/74050
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Pepe TV" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Pepe TV
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/26283
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Pepe TV 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Pepe TV 2
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/74107
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Masa ile Koca Ayi" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Masa ile Koca Ayi
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/36623
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Keloglan" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Keloglan
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/38167
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox PijaMaskeliler" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox PijaMaskeliler
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/37583
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Caillou" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Caillou
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/74806
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Kral Sakir" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Kral Sakir
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/26422
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Kral Sakir 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Kral Sakir 2
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/83351
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Sevimli Dostlar" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Sevimli Dostlar
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/37666
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Sevimli Dostlar 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Sevimli Dostlar 2
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/74051
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Canim Kardesim" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Canim Kardesim
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/37665
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Rafadan Tayfa" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Rafadan Tayfa
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/37946
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox RedKit" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox RedKit
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/38839
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Animasyon 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Animasyon 1
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/41341
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Animasyon 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Animasyon 2
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/42142
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Tom And Jerry 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Tom And Jerry 1
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/55937
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Tom And Jerry 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Tom And Jerry 2
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/55938
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SiRiNLER TV" tvg-logo="" group-title="TR : Cocuk",|TR| SiRiNLER TV
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/22426
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kukuli" tvg-logo="" group-title="TR : Cocuk",|TR| Kukuli
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/26287
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CBeebies HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1280px-CBeebies.svg.png" group-title="TR : Cocuk",|TR| CBeebies HD+
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/142
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="|TR| TRT Cocuk" tvg-logo="" group-title="TR : Cocuk",|TR| TRT Cocuk
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/143
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="|TR| Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="TR : Cocuk",|TR| Baby TV
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/144
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Nick JR " tvg-logo="" group-title="TR : Cocuk",|TR| Nick JR 
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/145
+#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="|TR| Disney JR" tvg-logo="" group-title="TR : Cocuk",|TR| Disney JR
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/146
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="|TR| Minika GO" tvg-logo="" group-title="TR : Cocuk",|TR| Minika GO
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/147
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="|TR| Minika Cocuk" tvg-logo="" group-title="TR : Cocuk",|TR| Minika Cocuk
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/148
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Nickelodeon HD+" tvg-logo="" group-title="TR : Cocuk",|TR| Nickelodeon HD+
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/149
+#EXTINF:-1 tvg-id="360.tr" tvg-name="|TR| Disney Channel " tvg-logo="" group-title="TR : Cocuk",|TR| Disney Channel 
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/150
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="|TR| Cartoon Network" tvg-logo="" group-title="TR : Cocuk",|TR| Cartoon Network
+http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/151
 
 
 #EXTM3U
