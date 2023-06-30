@@ -496,7 +496,7 @@ https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsqufiz6-jhWEs0E77Xt7wf8
 https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsgOtPZ7OdKrDjDHV5fdx6eE
 
 
-#EXTM3
+#EXTM3U
 #EXTINF:-1 group-title="TURK SINEMA KANALLAR", NTD YESILCAM SİNEMA 
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 #EXTINF:-1 group-title="TURK SINEMA KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53 /CLCTV.PNG", CLC MEDYA TV HD
@@ -505,6 +505,66 @@ https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:-1 group-title="TURK SINEMA KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOYItx72T-kbNJeIqWcQ7KEQMQNJXZP7fAHGIjB7WWoghPQvxRP-tn27k05hCGSBlZV7FuZAzQz625bVXcRsqDdlDLs7Lm0stqqVp-bwDNDUUvDtkUyra-TKZ7LH_sCUA6qC_O1N7D9To1_DenuiExmHJlpIDBkXPf_LPwrjyLrB-tPOhFYLRUUlhw =s320", CRI TÜRK HD
 https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
+
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="====SİNEMA====" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ SINEMA UYDU YAYINLARI",====SİNEMA====
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/44300
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="[TR] MOVIESMART TURK HD" tvg-logo="https://static.epg.best/tr/MovieSmartTurk.tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] MOVIESMART TURK HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/60
+#EXTINF:-1 tvg-id="filmbox.tr" tvg-name="[TR] FILMBOX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/filmbox_central_eu.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] FILMBOX HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/62
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="[TR] MOVIESMART CLASSIC HD" tvg-logo="https://static.epg.best/tr/MovieSmartClassic.tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] MOVIESMART CLASSIC HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/68
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="[TR] BEIN SERIES SCFI HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] BEIN SERIES SCFI HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/80
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="[TR] BEIN SERIES COMEDY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-comedy-qa-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] BEIN SERIES COMEDY HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/80352
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="[TR] BEIN SERIES VICE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-vice-qa-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] BEIN SERIES VICE HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/80353
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="[TR] BEIN MOVIES FAMILY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-family-qa-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] BEIN MOVIES FAMILY HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/83
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="[TR] BEIN MOVIES STARS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-stars-qa-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] BEIN MOVIES STARS HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/84
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="[TR] BEIN MOVIES ACTION 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] BEIN MOVIES ACTION 2 HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/85
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="[TR] BEIN MOVIES ACTION HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-qa-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] BEIN MOVIES ACTION HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/86
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="[TR] BEIN MOVIES PREMIERE 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] BEIN MOVIES PREMIERE 2 HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/87
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="[TR] BEIN MOVIES PIREMIERE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] BEIN MOVIES PIREMIERE HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/88
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="[TR] BEIN MOVIES TURK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-turk-qa-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] BEIN MOVIES TURK HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/89
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="[TR] SiNEMA TV 1001 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] SiNEMA TV 1001 HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/91
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="[TR] SINEMA TV 1002 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1002-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] SINEMA TV 1002 HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/84060
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="[TR] SiNEMA TV KOMEDi HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] SiNEMA TV KOMEDi HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/92
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="[TR] SINEMA TV KOMEDI 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] SINEMA TV KOMEDI 2
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/84062
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="[TR] SINEMA TV AILE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] SINEMA TV AILE HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/93
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="[TR] SINEMA TV AILE 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] SINEMA TV AILE 2 HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/84271
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="[TR] SiNEMA TV AKSiYON HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] SiNEMA TV AKSiYON HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/94
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="[TR] SINEMA TV AKSIYON 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-2-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] SINEMA TV AKSIYON 2 HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/84063
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="[TR] SiNEMA TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] SiNEMA TV HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/95
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="[TR] SINEMA TV 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-2-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] SINEMA TV 2 HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/84061
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="[TR]  SiNEMA TV YERLi HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR]  SiNEMA TV YERLi HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/96
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="[TR] SINEMA TV YERLI 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] SINEMA TV YERLI 2 HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/84059
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="[TR] FX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] FX HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/90
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="[TR] Dizismart Max HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] Dizismart Max HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/64666
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="[TR] DIZI SMART PREMIUM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" group-title="TR➤ SINEMA UYDU YAYINLARI",[TR] DIZI SMART PREMIUM HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72713
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|TR| Mavi Karadeniz TV" tvg-logo="" group-title="TR : Yerel",|TR| Mavi Karadeniz TV
