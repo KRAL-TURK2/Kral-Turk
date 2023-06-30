@@ -542,140 +542,94 @@ http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/64666
 http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72713
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Mavi Karadeniz TV" tvg-logo="" group-title="TR : Yerel",|TR| Mavi Karadeniz TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/161
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Ekin TV" tvg-logo="" group-title="TR : Yerel",|TR| Ekin TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/61387
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Tempo TV" tvg-logo="" group-title="TR : Yerel",|TR| Tempo TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/61370
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Tivi 6 HD+" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Tivi6.png" group-title="TR : Yerel",|TR| Tivi 6 HD+
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/85985
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 58" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kanal58.png" group-title="TR : Yerel",|TR| Kanal 58
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/44
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Aksu TV " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/AKSU.TV.png" group-title="TR : Yerel",|TR| Aksu TV 
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/45
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Deha Denizli" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/drtdenizli.png" group-title="TR : Yerel",|TR| Deha Denizli
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/46
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Turkmeneli 4K+" tvg-logo="http://148.251.19.24:89/turkmeneli1.png" group-title="TR : Yerel",|TR| Turkmeneli 4K+
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/69085
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 3" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kanal3.png" group-title="TR : Yerel",|TR| Kanal 3
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/47
-#EXTINF:-1 tvg-id="kanalb.tr" tvg-name="|TR| Kanal B" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kanalb.png" group-title="TR : Yerel",|TR| Kanal B
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/48
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal Urfa" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kanalurfa.png" group-title="TR : Yerel",|TR| Kanal Urfa
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/49
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Lalegul TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/LALEGUL.TV.png" group-title="TR : Yerel",|TR| Lalegul TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/42
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Bengu Turk TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/BENGU.TURK.png" group-title="TR : Yerel",|TR| Bengu Turk TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/43
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Yildiz En TV " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/YILDIZ.EN.TV.png" group-title="TR : Yerel",|TR| Yildiz En TV 
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/51
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Pamukkale TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/pamukkale.png" group-title="TR : Yerel",|TR| Pamukkale TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/52
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Firat TV" tvg-logo="http://5.9.108.141:89/kanal-firat.png" group-title="TR : Yerel",|TR| Firat TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/53
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kadirga TV Trabzon" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kadirgatv1.png" group-title="TR : Yerel",|TR| Kadirga TV Trabzon
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/54
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal V" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/KANAL.V.png" group-title="TR : Yerel",|TR| Kanal V
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/55
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Ordu Altas TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/ALTAS.TV.png" group-title="TR : Yerel",|TR| Ordu Altas TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/56
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Line TV Bursa" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/LINE.TV.png" group-title="TR : Yerel",|TR| Line TV Bursa
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/57
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Beykent TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/beykenttv1.png" group-title="TR : Yerel",|TR| Beykent TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/58
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Koza TV " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/KOZA.TV.png" group-title="TR : Yerel",|TR| Koza TV 
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/59
-#EXTINF:-1 tvg-id="" tvg-name="|TR| EkoTurk TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/ekoturk.png" group-title="TR : Yerel",|TR| EkoTurk TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/60
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Tarim Turk TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Tarimturk.png" group-title="TR : Yerel",|TR| Tarim Turk TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/61
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kon TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/kontv.png" group-title="TR : Yerel",|TR| Kon TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/63
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 42 Konya" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/42konyatv-hdtvler-z0rv.png" group-title="TR : Yerel",|TR| Kanal 42 Konya
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/64
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Vizyon 58 Sivas" tvg-logo="https://3.bp.blogspot.com/-jOo4x2W1kmk/XBkkLFgz7qI/AAAAAAAAChE/hrgq9hk4ic0-SDM7ijwPPcUDhwLw9t_zwCLcBGAs/s1600/vizyon-58.png" group-title="TR : Yerel",|TR| Vizyon 58 Sivas
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/65
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Akilli TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/akillitv.png" group-title="TR : Yerel",|TR| Akilli TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/67
-#EXTINF:-1 tvg-id="" tvg-name="|TR| TV kayseri" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Tvkayseri.png" group-title="TR : Yerel",|TR| TV kayseri
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/70
-#EXTINF:-1 tvg-id="" tvg-name="|TR| TV EM" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/emtv.png" group-title="TR : Yerel",|TR| TV EM
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/71
-#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 52 Ordu" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Tv52.png" group-title="TR : Yerel",|TR| TV 52 Ordu
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/72
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BRT 1 HD+" tvg-logo="https://i.pinimg.com/originals/da/2d/b5/da2db58d891220b7de473064de124a12.png" group-title="TR : Yerel",|TR| BRT 1 HD+
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/76
-#EXTINF:-1 tvg-id="" tvg-name="|TR| BRT 2 HD+" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/brt2tv-hdtvler-fpcq.png" group-title="TR : Yerel",|TR| BRT 2 HD+
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/77
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kibris Genc" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Kibrisgenc.png" group-title="TR : Yerel",|TR| Kibris Genc
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/78
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Rehber TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/REHBER.TV.png" group-title="TR : Yerel",|TR| Rehber TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/79
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Deha TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Dehatv.png" group-title="TR : Yerel",|TR| Deha TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/81
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Köy TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/KoyTv.png" group-title="TR : Yerel",|TR| Köy TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/82
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kardelen TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Kardelentv.png" group-title="TR : Yerel",|TR| Kardelen TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/83
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Edessa TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/EDESSA.TV.png" group-title="TR : Yerel",|TR| Edessa TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/84
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Es TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/ES.TV.png" group-title="TR : Yerel",|TR| Es TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/85
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal Avrupa TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/KANAL.AVRUPA.png" group-title="TR : Yerel",|TR| Kanal Avrupa TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/86
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 15" tvg-logo="" group-title="TR : Yerel",|TR| Kanal 15
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/87
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 23" tvg-logo="" group-title="TR : Yerel",|TR| Kanal 23
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/88
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 26" tvg-logo="" group-title="TR : Yerel",|TR| Kanal 26
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/89
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 32" tvg-logo="" group-title="TR : Yerel",|TR| Kanal 32
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/90
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 33" tvg-logo="" group-title="TR : Yerel",|TR| Kanal 33
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/91
-#EXTINF:-1 tvg-id="" tvg-name="|TR| HRT Akdeniz TV" tvg-logo="" group-title="TR : Yerel",|TR| HRT Akdeniz TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/93
-#EXTINF:-1 tvg-id="" tvg-name="|TR| On4 TV" tvg-logo="https://www.dorukmedia.com/doruk-medya-media-referanslar/on4-tv.png" group-title="TR : Yerel",|TR| On4 TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/94
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kent Turk" tvg-logo="" group-title="TR : Yerel",|TR| Kent Turk
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/96
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Mercan TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/mercantv.png" group-title="TR : Yerel",|TR| Mercan TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/97
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Cay TV " tvg-logo="" group-title="TR : Yerel",|TR| Cay TV 
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/99
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Akit TV " tvg-logo="" group-title="TR : Yerel",|TR| Akit TV 
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/100
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Sat-7 Turk" tvg-logo="" group-title="TR : Yerel",|TR| Sat-7 Turk
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/101
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Vuslat TV" tvg-logo="" group-title="TR : Yerel",|TR| Vuslat TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/102
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Cem TV" tvg-logo="" group-title="TR : Yerel",|TR| Cem TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/108
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Meltem TV" tvg-logo="" group-title="TR : Yerel",|TR| Meltem TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/114
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 68" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/KANAL.68.png" group-title="TR : Yerel",|TR| Kanal 68
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/38
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Anadolu Dernek" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Yerel/ANADOLU.DERNEK.png" group-title="TR : Yerel",|TR| Anadolu Dernek
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/41
-#EXTINF:-1 tvg-id="ucankus.tr" tvg-name="|TR| Ucankus " tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/Ucankus.png" group-title="TR : Yerel",|TR| Ucankus 
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/68
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Semerkand TV 4K+" tvg-logo="" group-title="TR : Yerel",|TR| Semerkand TV 4K+
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/104
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Diyanet TV " tvg-logo="" group-title="TR : Yerel",|TR| Diyanet TV 
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/105
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Mekke TV" tvg-logo="" group-title="TR : Yerel",|TR| Mekke TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/78536
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Dost TV" tvg-logo="" group-title="TR : Yerel",|TR| Dost TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/107
-#EXTINF:-1 tvg-id="tv5monde.tr" tvg-name="|TR| TV5" tvg-logo="" group-title="TR : Yerel",|TR| TV5
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/109
-#EXTINF:-1 tvg-id="" tvg-name="|TR| MC EU" tvg-logo="" group-title="TR : Yerel",|TR| MC EU
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/112
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Vatan TV" tvg-logo="http://148.251.19.24:89/TR-Logo/TR-Yerel/vatantv.png" group-title="TR : Yerel",|TR| Vatan TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/32
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Medine TV" tvg-logo="" group-title="TR : Yerel",|TR| Medine TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/88325
+#EXTINF:-1 tvg-id="" tvg-name="[TR]RUMELI TV" tvg-logo="" group-title="TR➤ YEREL",[TR]RUMELI TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/145668
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TEK RUMELI TV" tvg-logo="" group-title="TR➤ YEREL",[TR] TEK RUMELI TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/145669
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ADA TV" tvg-logo="" group-title="TR➤ YEREL",[TR] ADA TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/147549
+#EXTINF:-1 tvg-id="" tvg-name="[TR] CEM TV" tvg-logo="" group-title="TR➤ YEREL",[TR] CEM TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/147550
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KANAL AVRUPA" tvg-logo="" group-title="TR➤ YEREL",[TR] KANAL AVRUPA
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/152184
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KANAL FIRAT" tvg-logo="" group-title="TR➤ YEREL",[TR] KANAL FIRAT
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/152185
+#EXTINF:-1 tvg-id="" tvg-name="[TR] 264 TV SAKARYA" tvg-logo="" group-title="TR➤ YEREL",[TR] 264 TV SAKARYA
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/101527
+#EXTINF:-1 tvg-id="" tvg-name="KENT TÜRK TV" tvg-logo="" group-title="TR➤ YEREL",KENT TÜRK TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72548
+#EXTINF:-1 tvg-id="" tvg-name="ALANYA POSTA TV" tvg-logo="" group-title="TR➤ YEREL",ALANYA POSTA TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72554
+#EXTINF:-1 tvg-id="" tvg-name="ALANYA TV" tvg-logo="" group-title="TR➤ YEREL",ALANYA TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72555
+#EXTINF:-1 tvg-id="" tvg-name="BENGU TURK TV" tvg-logo="" group-title="TR➤ YEREL",BENGU TURK TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72559
+#EXTINF:-1 tvg-id="" tvg-name="KANAL URFA" tvg-logo="" group-title="TR➤ YEREL",KANAL URFA
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72561
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 3 AFYON" tvg-logo="" group-title="TR➤ YEREL",KANAL 3 AFYON
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72571
+#EXTINF:-1 tvg-id="" tvg-name="ÇAY TV" tvg-logo="" group-title="TR➤ YEREL",ÇAY TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72576
+#EXTINF:-1 tvg-id="" tvg-name="ÇİFTCİ TV" tvg-logo="" group-title="TR➤ YEREL",ÇİFTCİ TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72578
+#EXTINF:-1 tvg-id="" tvg-name="ERT ŞAH TV" tvg-logo="" group-title="TR➤ YEREL",ERT ŞAH TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72594
+#EXTINF:-1 tvg-id="" tvg-name="ETV MANİSA TV" tvg-logo="" group-title="TR➤ YEREL",ETV MANİSA TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72596
+#EXTINF:-1 tvg-id="" tvg-name="FORTUNA TV" tvg-logo="" group-title="TR➤ YEREL",FORTUNA TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72598
+#EXTINF:-1 tvg-id="" tvg-name="HABER 61 TV" tvg-logo="" group-title="TR➤ YEREL",HABER 61 TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72606
+#EXTINF:-1 tvg-id="" tvg-name="IBB TV" tvg-logo="" group-title="TR➤ YEREL",IBB TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72621
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 56" tvg-logo="" group-title="TR➤ YEREL",KANAL 56
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72627
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 58" tvg-logo="" group-title="TR➤ YEREL",KANAL 58
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72628
+#EXTINF:-1 tvg-id="" tvg-name="KANAL ALANYA" tvg-logo="" group-title="TR➤ YEREL",KANAL ALANYA
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72632
+#EXTINF:-1 tvg-id="" tvg-name="EM TV" tvg-logo="" group-title="TR➤ YEREL",EM TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72635
+#EXTINF:-1 tvg-id="" tvg-name="LALEGÜL TV" tvg-logo="" group-title="TR➤ YEREL",LALEGÜL TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72652
+#EXTINF:-1 tvg-id="" tvg-name="LINE TV" tvg-logo="" group-title="TR➤ YEREL",LINE TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72655
+#EXTINF:-1 tvg-id="" tvg-name="AKSU TV" tvg-logo="" group-title="TR➤ YEREL",AKSU TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72664
+#EXTINF:-1 tvg-id="" tvg-name="VIZYON 58" tvg-logo="" group-title="TR➤ YEREL",VIZYON 58
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72667
+#EXTINF:-1 tvg-id="" tvg-name="ÖNCÜ TV" tvg-logo="" group-title="TR➤ YEREL",ÖNCÜ TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72669
+#EXTINF:-1 tvg-id="" tvg-name="BURSA TV" tvg-logo="" group-title="TR➤ YEREL",BURSA TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72676
+#EXTINF:-1 tvg-id="" tvg-name="Haber 61 TV" tvg-logo="" group-title="TR➤ YEREL",Haber 61 TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72693
+#EXTINF:-1 tvg-id="" tvg-name="TV EM" tvg-logo="" group-title="TR➤ YEREL",TV EM
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72695
+#EXTINF:-1 tvg-id="" tvg-name="TV4" tvg-logo="" group-title="TR➤ YEREL",TV4
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72698
+#EXTINF:-1 tvg-id="" tvg-name="TV52" tvg-logo="" group-title="TR➤ YEREL",TV52
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72702
+#EXTINF:-1 tvg-id="" tvg-name="TV 41" tvg-logo="" group-title="TR➤ YEREL",TV 41
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72707
+#EXTINF:-1 tvg-id="" tvg-name="VIYANA TV" tvg-logo="" group-title="TR➤ YEREL",VIYANA TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/72709
+#EXTINF:-1 tvg-id="" tvg-name="KANAL B" tvg-logo="" group-title="TR➤ YEREL",KANAL B
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/76651
+#EXTINF:-1 tvg-id="" tvg-name="KONYA KONTV" tvg-logo="" group-title="TR➤ YEREL",KONYA KONTV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/76653
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TRT TURK" tvg-logo="" group-title="TR➤ YEREL",TRT TURK
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/76654
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Diyanet Tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/diyanet-tv-tr.png" group-title="TR➤DINI",[TR] Diyanet Tv
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/142238
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Dost Tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dost-tv-tr.png" group-title="TR➤DINI",[TR] Dost Tv
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/142239
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Lalegül Tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lalegul-tv-tr.png" group-title="TR➤DINI",[TR] Lalegül Tv
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/142240
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Semerkand Tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/semerkand-tv-tr.png" group-title="TR➤DINI",[TR] Semerkand Tv
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/142241
+#EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="" group-title="TR➤ YEREL",CAN TV
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/76657
 
 
  #EXTM3U
