@@ -339,69 +339,44 @@ http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 http://159.89.20.0/satontv3_hdtv/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Niloya" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Niloya
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/34662
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Niloya 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Niloya 2
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/74050
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Pepe TV" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Pepe TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/26283
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Pepe TV 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Pepe TV 2
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/74107
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Masa ile Koca Ayi" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Masa ile Koca Ayi
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/36623
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Keloglan" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Keloglan
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/38167
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox PijaMaskeliler" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox PijaMaskeliler
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/37583
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Caillou" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Caillou
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/74806
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Kral Sakir" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Kral Sakir
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/26422
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Kral Sakir 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Kral Sakir 2
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/83351
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Sevimli Dostlar" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Sevimli Dostlar
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/37666
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Sevimli Dostlar 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Sevimli Dostlar 2
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/74051
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Canim Kardesim" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Canim Kardesim
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/37665
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Rafadan Tayfa" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Rafadan Tayfa
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/37946
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox RedKit" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox RedKit
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/38839
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Animasyon 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Animasyon 1
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/41341
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Animasyon 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Animasyon 2
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/42142
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Tom And Jerry 1" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Tom And Jerry 1
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/55937
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Tom And Jerry 2" tvg-logo="http://148.251.19.24:89/lionbox.png" group-title="TR : Cocuk",|TR| LionBox Tom And Jerry 2
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/55938
-#EXTINF:-1 tvg-id="" tvg-name="|TR| SiRiNLER TV" tvg-logo="" group-title="TR : Cocuk",|TR| SiRiNLER TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/22426
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kukuli" tvg-logo="" group-title="TR : Cocuk",|TR| Kukuli
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/26287
-#EXTINF:-1 tvg-id="" tvg-name="|TR| CBeebies HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1280px-CBeebies.svg.png" group-title="TR : Cocuk",|TR| CBeebies HD+
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/142
-#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="|TR| TRT Cocuk" tvg-logo="" group-title="TR : Cocuk",|TR| TRT Cocuk
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/143
-#EXTINF:-1 tvg-id="babytv.tr" tvg-name="|TR| Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="TR : Cocuk",|TR| Baby TV
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/144
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Nick JR " tvg-logo="" group-title="TR : Cocuk",|TR| Nick JR 
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/145
-#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="|TR| Disney JR" tvg-logo="" group-title="TR : Cocuk",|TR| Disney JR
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/146
-#EXTINF:-1 tvg-id="minikago.tr" tvg-name="|TR| Minika GO" tvg-logo="" group-title="TR : Cocuk",|TR| Minika GO
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/147
-#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="|TR| Minika Cocuk" tvg-logo="" group-title="TR : Cocuk",|TR| Minika Cocuk
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/148
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Nickelodeon HD+" tvg-logo="" group-title="TR : Cocuk",|TR| Nickelodeon HD+
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/149
-#EXTINF:-1 tvg-id="360.tr" tvg-name="|TR| Disney Channel " tvg-logo="" group-title="TR : Cocuk",|TR| Disney Channel 
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/150
-#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="|TR| Cartoon Network" tvg-logo="" group-title="TR : Cocuk",|TR| Cartoon Network
-http://62.182.83.91:80/Euro.iptv12/Euroiptv123796421/151
-
+#EXTINF:-1 tvg-id="" tvg-name="====COCUK====" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ COCUK",====COCUK====
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/44296
+#EXTINF:-1 tvg-id="" tvg-name="[TR] TRT COCUK HD" tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="TR➤ COCUK",[TR] TRT COCUK HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/123
+#EXTINF:-1 tvg-id="" tvg-name="[TR] CARTOON NETWORK" tvg-logo="https://static.epg.best/tr/CartoonNetwork.tr.png" group-title="TR➤ COCUK",[TR] CARTOON NETWORK
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/126
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MINIKA COCUK HD" tvg-logo="https://static.epg.best/tr/minikaCocuk.tr.png" group-title="TR➤ COCUK",[TR] MINIKA COCUK HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/127
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MINIKA GO" tvg-logo="https://static.epg.best/tr/minikaGO.tr.png" group-title="TR➤ COCUK",[TR] MINIKA GO
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/128
+#EXTINF:-1 tvg-id="" tvg-name="[TR]  NICKJR HD" tvg-logo="https://static.epg.best/au/NickJr.au.png" group-title="TR➤ COCUK",[TR]  NICKJR HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/7069
+#EXTINF:-1 tvg-id="" tvg-name="[TR]  DISNEY CHANNEL HD" tvg-logo="https://static.epg.best/tr/DisneyChannel.tr.png" group-title="TR➤ COCUK",[TR]  DISNEY CHANNEL HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/7070
+#EXTINF:-1 tvg-id="" tvg-name="[TR]  DISNEY JR HD" tvg-logo="https://static.epg.best/pt/DisneyJunior.pt.png" group-title="TR➤ COCUK",[TR]  DISNEY JR HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/7071
+#EXTINF:-1 tvg-id="" tvg-name="[TR]  BABYTV HD" tvg-logo="https://static.epg.best/tr/BabyTV.tr.png" group-title="TR➤ COCUK",[TR]  BABYTV HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/7072
+#EXTINF:-1 tvg-id="" tvg-name="[TR] NICKELODEON TR" tvg-logo="https://static.epg.best/za/Nickelodeon.za.png" group-title="TR➤ COCUK",[TR] NICKELODEON TR
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/14902
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SMART COCUK HD" tvg-logo="https://static.epg.best/tr/SmartCocuk.tr.png" group-title="TR➤ COCUK",[TR] SMART COCUK HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/19093
+#EXTINF:-1 tvg-id="" tvg-name="[TR] CBEEBiES HD" tvg-logo="https://static.epg.best/za/Cbeebies.za.png" group-title="TR➤ COCUK",[TR] CBEEBiES HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/19094
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BOOMERANG HD" tvg-logo="https://static.epg.best/it/Boomerang.it.png" group-title="TR➤ COCUK",[TR] BOOMERANG HD
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/19096
+#EXTINF:-1 tvg-id="" tvg-name="[TR] REAL BOX ANIMASYON" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ COCUK",[TR] REAL BOX ANIMASYON
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/124892
+#EXTINF:-1 tvg-id="" tvg-name="[TR] REAL BOX NILOYA" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ COCUK",[TR] REAL BOX NILOYA
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/124893
+#EXTINF:-1 tvg-id="" tvg-name="[TR] REAL BOX PEPEE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ COCUK",[TR] REAL BOX PEPEE
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/124894
+#EXTINF:-1 tvg-id="" tvg-name="[TR] REAL BOX RAFADAN TAYFA" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ COCUK",[TR] REAL BOX RAFADAN TAYFA
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/124895
+#EXTINF:-1 tvg-id="" tvg-name="[TR] REAL BOX KUKULI" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ COCUK",[TR] REAL BOX KUKULI
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/124896
+#EXTINF:-1 tvg-id="" tvg-name="[TR] REAL BOX İTFAIYECI SAM" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ COCUK",[TR] REAL BOX İTFAIYECI SAM
+http://mokka.link:8080/ZPTBL2KGS/N6cJXc5Dyc/124897
 
 #EXTM3U
 #EXTINF:-1 xui-id="4686" tvg-id="" tvg-name="||#(TR)BELGESEL#||" tvg-logo="https://doksan.homes/l/90logo.png" group-title="TR.BELGESEL",||#(TR)BELGESEL#||
