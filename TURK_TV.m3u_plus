@@ -144,7 +144,7 @@ http://dostiptv.com:80/live/HuseyinTurran/KhTZrC3sUJ5321/12.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
 http://sdfsd.tgt6373.online:80/tv2204/tvlnk2204/123910
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 FHD
-http://sansat.org:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/98939
+http://50.7.218.122:8080/tv85/index.m3u8
 
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 UHD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
