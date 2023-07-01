@@ -18,7 +18,7 @@ http://sweden.smartv.me:8000/Alemmm/uC7PdfxdvV/131625
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv 
 http://invincibletv.online:8080/7xTMPWs7P9/3EfwqqHTWM/248301
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports UHD 2
-http://cms.arisiktv.xyz:8080/live/Remco/RjZE2wx7mM/4652.ts
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsgdTipf0Bu4VC7vCKQfj-OI
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/2486
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports UHD 3
@@ -26,21 +26,21 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/2487
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports FHD 3
 http://nl01.spr24.net/5822/mpegts?token=569XzbdmXUcUKN
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports UHD 4
-http://cms.arisiktv.xyz:8080/live/Remco/RjZE2wx7mM/4655.ts
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsumuC8cS48dZb-75yX9VV8s
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports FHD 4
-http://cms.arisiktv.xyz:8080/live/Remco/RjZE2wx7mM/4656.ts
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsgNJxkb85nqgCrSW4_BQrh8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="SPOR KANALI",BeIN Sports UHD 5
-http://cms.arisiktv.xyz:8080/live/Remco/RjZE2wx7mM/27608.ts
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsoZeTlvmSIjkb2ikmGSebuc
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="SPOR KANALI",BeIN Sports FHD 5
-http://cms.arisiktv.xyz:8080/live/Remco/RjZE2wx7mM/27608.ts
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKstAp8ued9IO89n45t-xY0yg
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 UHD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/195
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 FHD
-http://cms.arisiktv.xyz:8080/live/Remco/RjZE2wx7mM/4657.ts
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsnGE8kI116z-XGfCJdYPEW8
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 UHD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/194
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 FHD
-http://cms.arisiktv.xyz:8080/live/Remco/RjZE2wx7mM/4659.ts
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsoK-BhauVg_CMWxD9UYEiQg
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
 https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKskIbGhi-iAylz_zOO-AYln0
@@ -75,9 +75,9 @@ https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsl_Gm7KFNJH9eZMQJVDf6jU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR FHD
 http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
-http://95.0.226.197:8000/play/a005
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsjWIL9-tObXmR8PB-g2nJKU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR YILDIZ
-http://95.0.226.197:8000/play/a03d
+https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsgGGZ32g9-e4D0UYcg6Cg8s
 #EXTINF:-1 group-title="SPOR KANALI", TRT 3-SPOR
 http://95.0.226.197:8000/play/a03b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
