@@ -77,9 +77,9 @@ http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
 https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsjWIL9-tObXmR8PB-g2nJKU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR YILDIZ
-https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsgGGZ32g9-e4D0UYcg6Cg8s
+http://77.92.139.136:8200/bysid/10525
 #EXTINF:-1 group-title="SPOR KANALI", TRT 3-SPOR
-http://95.0.226.197:8000/play/a03b
+http://77.92.139.136:8200/bysid/10503
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
