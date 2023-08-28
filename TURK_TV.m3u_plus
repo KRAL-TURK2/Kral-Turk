@@ -245,7 +245,7 @@ https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF:-1 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
 http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/119
 #EXTINF:-1 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
-https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
+https://canli.haber365.com.tr/tr/haberglobal/index.m3u8
 
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
 http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/13215
@@ -290,7 +290,7 @@ https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 tvg-name="EKO TÜRK" group-title"HABER KANALI",EKOTÜRK
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-name="BLOOMBERGHT" group-title"HABER KANALI",BLOOMBERGHT
-https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
+https://canli.haber365.com.tr/tr/bloomberght/index.m3u8
 #EXTINF:-1 tvg-name="ULUSAL KANAL" group-title"HABER KANALI",ULUSAL KANAL
 https://mn-nl.mncdn.com:443/blutv_ulusalkanal/blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
 #EXTINF:-1 tvg-name="TV 1002" group-title"HABER KANALI",TV 1002
