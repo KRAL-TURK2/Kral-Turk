@@ -248,7 +248,7 @@ http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd
 https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
-http://dostiptv.com:80/HuseyinTurran/KhTZrC3sUJ5321/201
+http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/13215
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
 https://canli.haber365.com.tr/tr/24tv/index.m3u8
 
@@ -260,17 +260,17 @@ https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
 #EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="HABER KANALI",TGRT HABER
 https://b01c02nl.mediatriple.net:443/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
 #EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="HABER KANALI",TGRT HABER
-https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
+http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/13216
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
-http://95.0.226.197:8000/play/a00z
+http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/116
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
-https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/112
 
 #EXTINF:-1 tvg-logo=""" group-title="HABER KANALI",SÖZCÜ TV
 https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
