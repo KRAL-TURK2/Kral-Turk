@@ -619,4 +619,91 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 
 #EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vizioon Premiere 2" tvg-logo="" group-title="SINEMA",TR: Vizioon Premiere 2
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vizioon Premiere" tvg-logo="" group-title="SINEMA",TR: Vizioon Premiere
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vizioon Festival" tvg-logo="" group-title="SINEMA",TR: Vizioon Festival
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vizion Aile" tvg-logo="" group-title="SINEMA",TR: Vizion Aile
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/133.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vip Cinema" tvg-logo="" group-title="SINEMA",TR: Vip Cinema
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/154.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV2" tvg-logo="" group-title="SINEMA",TR: SINEMA TV2
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Komedi" tvg-logo="" group-title="SINEMA",TR: Sinema TV Komedi
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Aksiyon" tvg-logo="" group-title="SINEMA",TR: Sinema TV Aksiyon
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/127.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Aile" tvg-logo="" group-title="SINEMA",TR: Sinema TV Aile
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/131.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1002" tvg-logo="" group-title="SINEMA",TR: Sinema TV 1002
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Yerli" tvg-logo="" group-title="SINEMA",TR: Sinema TV Yerli
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon 2" tvg-logo="" group-title="SINEMA",TR: Sinema Aksiyon 2
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/134.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA 1001" tvg-logo="" group-title="SINEMA",TR: SINEMA 1001
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Saban TV" tvg-logo="" group-title="SINEMA",TR: Saban TV
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türk Sinema  Classic" tvg-logo="" group-title="SINEMA",Türk Sinema  Classic
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Box Office 3 HD" tvg-logo="" group-title="SINEMA",TR: Box Office 3 HD
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/145.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Box Office 2 HD" tvg-logo="" group-title="SINEMA",TR: Box Office 2 HD
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/143.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Box Office 1 HD" tvg-logo="" group-title="SINEMA",TR: Box Office 1 HD
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR:  Sinema Yesilcam HD" tvg-logo="" group-title="SINEMA",TR:  Sinema Yesilcam HD
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinMOVIES Premiere 3" tvg-logo="" group-title="SINEMA",TR: BeinMOVIES Premiere 3
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinMOVIES Premiere" tvg-logo="" group-title="SINEMA",TR: BeinMOVIES Premiere
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/149.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeinMOVIES Action 2" tvg-logo="" group-title="SINEMA",TR: BeinMOVIES Action 2
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/148.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Series Vice" tvg-logo="" group-title="SINEMA",TR: Bein Series Vice
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/136.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="Bein Movies Premiere 2" tvg-logo="" group-title="SINEMA",Bein Movies Premiere 2
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/4233.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR:Bein Movies Action" tvg-logo="" group-title="SINEMA",TR:Bein Movies Action
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/795.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES TURK HD" tvg-logo="" group-title="SINEMA",beIN MOVIES TURK HD
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/816.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Yerli 2" tvg-logo="" group-title="SINEMA",Sinema Yerli 2
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/12885.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cuneyt Arkin Tv HD" tvg-logo="" group-title="SINEMA",Cuneyt Arkin Tv HD
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/14157.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Korku" tvg-logo="" group-title="SINEMA",Vip Korku
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/14171.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sener Sen TV" tvg-logo="" group-title="SINEMA",Sener Sen TV
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/14174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Western" tvg-logo="" group-title="SINEMA",Vip Western
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/14176.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Nostalgi" tvg-logo="" group-title="SINEMA",Vip Nostalgi
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/14177.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein MOVIES STAR" tvg-logo="" group-title="SINEMA",Bein MOVIES STAR
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/14194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Turk" tvg-logo="" group-title="SINEMA",Tivibu Turk
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/12868.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sinema 10 HD HEVC" tvg-logo="" group-title="SINEMA",Vip Sinema 10 HD HEVC
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sinema 9 HD HEVC" tvg-logo="" group-title="SINEMA",Vip Sinema 9 HD HEVC
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sinema 8 HD HEVC" tvg-logo="" group-title="SINEMA",Vip Sinema 8 HD HEVC
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sinema 7 HD HEVC" tvg-logo="" group-title="SINEMA",Vip Sinema 7 HD HEVC
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sinema 6 HD HEVC" tvg-logo="" group-title="SINEMA",Vip Sinema 6 HD HEVC
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15099.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sinema 5 HD HEVC" tvg-logo="" group-title="SINEMA",Vip Sinema 5 HD HEVC
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15098.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sinema 4 HD HEVC" tvg-logo="" group-title="SINEMA",Vip Sinema 4 HD HEVC
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15097.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sinema 3 HD HEVC" tvg-logo="" group-title="SINEMA",Vip Sinema 3 HD HEVC
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15096.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sinema 2 HD HEVC" tvg-logo="" group-title="SINEMA",Vip Sinema 2 HD HEVC
+http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15095.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Vip Sinema HD HEVC" tvg-logo="" group-title="SINEMA", Vip Sinema HD HEVC
 
