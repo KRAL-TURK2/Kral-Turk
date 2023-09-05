@@ -228,49 +228,49 @@ http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168655.ts
 
 #EXTM3U
 #EXTINF:-1 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title= "HABER KANALI",NTV HABER
-http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/115
+http://116.202.238.88/NTV_TR/index.m3u8
 #EXTINF:-1 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title= "HABER KANALI",NTV HABER
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 
 #EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
-http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/114
+http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title= "HABER KANALI",CNN TÜRK
 http://135.125.234.9:8081/cnnturk/index.m3u8
 
 #EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="HABER KANALI",HABERTÜRK
-http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/13212
+http://116.202.238.88/HABERTURK_TR/index.m3u8
 #EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title= "HABER KANALI",HABERTÜRK
 https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 
 #EXTINF:-1 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
-http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/119
+http://116.202.238.88/HABERGLOBAL_TR/index.m3u8
 #EXTINF:-1 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
 https://canli.haber365.com.tr/tr/haberglobal/index.m3u8
 
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
-http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/13215
+http://116.202.238.88/24TV_TR/index.m3u8
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
 https://canli.haber365.com.tr/tr/24tv/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_haber.png"tvg-id="" group-title="HABER KANALI",TRT HABER
 https://tv-trthaber.medya.trt.com.tr:443/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_haber.png"tvg-id="" group-title="HABER KANALI",TRT HABER
-https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
+http://116.202.238.88/TRTHABER_TR/index.m3u8
 
 #EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="HABER KANALI",TGRT HABER
 https://b01c02nl.mediatriple.net:443/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
 #EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="HABER KANALI",TGRT HABER
-http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/13216
+http://116.202.238.88/TGRTHABER_TR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
-http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/116
+http://116.202.238.88/ULKETV_TR/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
-http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/112
+http://116.202.238.88/HALKTV_TR/index.m3u8
 
 #EXTINF:-1 tvg-logo=""" group-title="HABER KANALI",SÖZCÜ TV
 http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/142245
