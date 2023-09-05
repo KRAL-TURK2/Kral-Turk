@@ -707,3 +707,601 @@ http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15096.ts
 http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15095.ts
 #EXTINF:-1 tvg-id="" tvg-name=" Vip Sinema HD HEVC" tvg-logo="" group-title="SINEMA", Vip Sinema HD HEVC
 http://dostiptv.com:80/live/eyupsonmez/tQzuxS7p9f/15094.ts
+
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ Documentary ⭐⭐⭐" tvg-logo="https://curl.pk/img/u/a816c4f1e9bfb3a95b7b71256200a33c119.jpg" group-title="DE -  Documentary & News TV",⭐⭐⭐ Documentary ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389511.ts
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="DE: Animal Planet HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/85904374921.png" group-title="DE -  Documentary & News TV",DE: Animal Planet HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135624.ts
+#EXTINF:-1 tvg-id="arte-hd" tvg-name="DE: ARTE HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/60981721781.png" group-title="DE -  Documentary & News TV",DE: ARTE HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135757.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: BON Gusto HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/77129157991.png" group-title="DE -  Documentary & News TV",DE: BON Gusto HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135626.ts
+#EXTINF:-1 tvg-id="CrimePlusInvestigationGermany.de" tvg-name="DE: Crime+investigation HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/20524892421.png" group-title="DE -  Documentary & News TV",DE: Crime+investigation HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/579373.ts
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: Discovery Channel HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/49205166581.png" group-title="DE -  Documentary & News TV",DE: Discovery Channel HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135840.ts
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: Discovery FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/26040173181.png" group-title="DE -  Documentary & News TV",DE: Discovery FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135679.ts
+#EXTINF:-1 tvg-id="hgtv" tvg-name="DE: HGTV HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/17119176151.png" group-title="DE -  Documentary & News TV",DE: HGTV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135870.ts
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE: History FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/77197490061.png" group-title="DE -  Documentary & News TV",DE: History FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135680.ts
+#EXTINF:-1 tvg-id="Kabel.Eins.Doku.HD.de" tvg-name="DE: Kabel 1 DOC HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/78440922271.png" group-title="DE -  Documentary & News TV",DE: Kabel 1 DOC HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135846.ts
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="DE: N24 DOKU HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/47909212961.png" group-title="DE -  Documentary & News TV",DE: N24 DOKU HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135775.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NAT GEO WILD FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/77073037071.png" group-title="DE -  Documentary & News TV",DE: NAT GEO WILD FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135678.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: National Geographic HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/24400158951.png" group-title="DE -  Documentary & News TV",DE: National Geographic HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135774.ts
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="DE: Servus TV HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/6753064632.png" group-title="DE -  Documentary & News TV",DE: Servus TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/579374.ts
+#EXTINF:-1 tvg-id="SkyDocumentariesGermany.de" tvg-name="DE: SKY Documentaries HD" tvg-logo="https://curl.pk/img/u/0b939e3cbe4d2e96e76d944fa83b56112191.png" group-title="DE -  Documentary & News TV",DE: SKY Documentaries HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582919.ts
+#EXTINF:-1 tvg-id="SkyNatureGermany.de" tvg-name="DE: SKY Nature HD" tvg-logo="https://curl.pk/img/u/1f4125e80856afb6ed11374123c12fdd6899.jpg" group-title="DE -  Documentary & News TV",DE: SKY Nature HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582918.ts
+#EXTINF:-1 tvg-id="SonnenklarTV.de" tvg-name="DE: Sonnenklar TV FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/84308258731.png" group-title="DE -  Documentary & News TV",DE: Sonnenklar TV FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135664.ts
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/21888686001.png" group-title="DE -  Documentary & News TV",DE: Spiegel Geschichte HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135865.ts
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/25712611641.png" group-title="DE -  Documentary & News TV",DE: Spiegel TV Wissen HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135878.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Waidwerk HD" tvg-logo="https://curl.pk/img/u/7d440d8f3f75b54ab6380dfb86fc60862542.png" group-title="DE -  Documentary & News TV",DE: Waidwerk HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582917.ts
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.HD.de" tvg-name="DE: WDR HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/12416413601.png" group-title="DE -  Documentary & News TV",DE: WDR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/603684.ts
+#EXTINF:-1 tvg-id="welt.de" tvg-name="DE: WELT DER Wunder HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/49396795531.png" group-title="DE -  Documentary & News TV",DE: WELT DER Wunder HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135772.ts
+#EXTINF:-1 tvg-id="ZDFinfo.HD.de" tvg-name="DE: ZDF INFO HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/10267347651.png" group-title="DE -  Documentary & News TV",DE: ZDF INFO HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135824.ts
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ NEWS ⭐⭐⭐" tvg-logo="https://curl.pk/img/u/247803e32b305205695d56294bdd9e0b7787.jpg" group-title="DE -  Documentary & News TV",⭐⭐⭐ NEWS ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389517.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DW HD" tvg-logo="http://live.geoiptv.org:8880/chimg/8530029533.png" group-title="DE -  Documentary & News TV",DE: DW HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135844.ts
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE: Euronews HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/8830389264.png" group-title="DE -  Documentary & News TV",DE: Euronews HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135783.ts
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: NTV HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/65454176861.png" group-title="DE -  Documentary & News TV",DE: NTV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135762.ts
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="DE: Phoenix HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/88414693481.png" group-title="DE -  Documentary & News TV",DE: Phoenix HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135741.ts
+#EXTINF:-1 tvg-id="sky-sport-news" tvg-name="DE: SKY Sports NEWS HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4411494877.png" group-title="DE -  Documentary & News TV",DE: SKY Sports NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135700.ts
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE: Tagesschau 24 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/70468537421.png" group-title="DE -  Documentary & News TV",DE: Tagesschau 24 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135810.ts
+#EXTINF:-1 tvg-id="welt.de" tvg-name="DE: WELT HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/29767832641.png" group-title="DE -  Documentary & News TV",DE: WELT HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522385.ts
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ Entertainment ⭐⭐⭐" tvg-logo="https://curl.pk/img/u/ef2e8129d993380f6b367a376718a2168686.png" group-title="DE - Entertainment TV",⭐⭐⭐ Entertainment ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389512.ts
+#EXTINF:-1 tvg-id="13-strt" tvg-name="DE: 13 Street HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/96691181321.png" group-title="DE - Entertainment TV",DE: 13 Street HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135761.ts
+#EXTINF:-1 tvg-id="13-strt" tvg-name="DE: 13TH Street FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/40946541361.png" group-title="DE - Entertainment TV",DE: 13TH Street FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135675.ts
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: 3SAT HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/73853842131.png" group-title="DE - Entertainment TV",DE: 3SAT HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135623.ts
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="DE: BR Fernsehen HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/8850667518.png" group-title="DE - Entertainment TV",DE: BR Fernsehen HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135627.ts
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="DE: Comedy Central FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/21619450421.png" group-title="DE - Entertainment TV",DE: Comedy Central FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135629.ts
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="DE: DAS Erste FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/76885598071.png" group-title="DE - Entertainment TV",DE: DAS Erste FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135808.ts
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="DE: DAS Erste HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4569117426.png" group-title="DE - Entertainment TV",DE: DAS Erste HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135806.ts
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/16891449601.png" group-title="DE - Entertainment TV",DE: DMAX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135784.ts
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="DE: E! Entertainment HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/66363747921.png" group-title="DE - Entertainment TV",DE: E! Entertainment HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135867.ts
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="DE: Heimat Canal HD" tvg-logo="http://live.geoiptv.org:8880/chimg/9670567907.jpg" group-title="DE - Entertainment TV",DE: Heimat Canal HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135781.ts
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="DE: Heimatkanal HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/16265845541.png" group-title="DE - Entertainment TV",DE: Heimatkanal HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135883.ts
+#EXTINF:-1 tvg-id="hr-Fernsehen.HD.de" tvg-name="DE: HR Fernsehen HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/53557692951.png" group-title="DE - Entertainment TV",DE: HR Fernsehen HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135779.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/12921727521.png" group-title="DE - Entertainment TV",DE: Kabel 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/579371.ts
+#EXTINF:-1 tvg-id="münchen.tv.de" tvg-name="DE: Munchen TV HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/30059991061.png" group-title="DE - Entertainment TV",DE: Munchen TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135847.ts
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.HD.de" tvg-name="DE: NDR HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/35428013831.png" group-title="DE - Entertainment TV",DE: NDR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/603683.ts
+#EXTINF:-1 tvg-id="orf1.de" tvg-name="DE: ORF 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/95241303031.png" group-title="DE - Entertainment TV",DE: ORF 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135743.ts
+#EXTINF:-1 tvg-id="ORF2.de" tvg-name="DE: ORF 2 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/88574444831.png" group-title="DE - Entertainment TV",DE: ORF 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582593.ts
+#EXTINF:-1 tvg-id="ORF.III.HD.de" tvg-name="DE: ORF 3 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/36330980721.png" group-title="DE - Entertainment TV",DE: ORF 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135836.ts
+#EXTINF:-1 tvg-id="Pearl.tv.HD.de" tvg-name="DE: Pearl TV FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/64000887831.png" group-title="DE - Entertainment TV",DE: Pearl TV FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135646.ts
+#EXTINF:-1 tvg-id="Pearl.tv.HD.de" tvg-name="DE: Pearl.TV SHOP HD" tvg-logo="https://curl.pk/img/u/94aec00ce6e5ce0fa546f57fb4fda83a2073.png" group-title="DE - Entertainment TV",DE: Pearl.TV SHOP HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582928.ts
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="DE: PRO 7 FUN HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/80094974971.png" group-title="DE - Entertainment TV",DE: PRO 7 FUN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135791.ts
+#EXTINF:-1 tvg-id="ProSieben.MAXX.HD.de" tvg-name="DE: PRO 7 MAXX HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/88385706971.png" group-title="DE - Entertainment TV",DE: PRO 7 MAXX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135790.ts
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: Prosieben HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/7608427120.png" group-title="DE - Entertainment TV",DE: Prosieben HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135770.ts
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: Prosieben MAXX HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/30725857961.png" group-title="DE - Entertainment TV",DE: Prosieben MAXX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135771.ts
+#EXTINF:-1 tvg-id="RTL.HD.de" tvg-name="DE : RTL HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/39778353961.png" group-title="DE - Entertainment TV",DE : RTL HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/191523.ts
+#EXTINF:-1 tvg-id="RTL.II.HD.de" tvg-name="DE: RTL 2 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/19957208571.png" group-title="DE - Entertainment TV",DE: RTL 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135809.ts
+#EXTINF:-1 tvg-id="rtl2" tvg-name="DE: RTL II HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/22395070561.png" group-title="DE - Entertainment TV",DE: RTL II HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135794.ts
+#EXTINF:-1 tvg-id="RTLLivingGermany.de" tvg-name="DE: RTL Living FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/46440880851.png" group-title="DE - Entertainment TV",DE: RTL Living FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135650.ts
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: RTL Nitro HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/95759921551.png" group-title="DE - Entertainment TV",DE: RTL Nitro HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135797.ts
+#EXTINF:-1 tvg-id="RTLplus.de" tvg-name="DE: RTL PLUS HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/15080891231.png" group-title="DE - Entertainment TV",DE: RTL PLUS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135795.ts
+#EXTINF:-1 tvg-id="RTLup.de" tvg-name="DE: Rtlup HD" tvg-logo="https://curl.pk/img/u/266c812eb0235e0f0a63cd0bd6dcb0f66103.png" group-title="DE - Entertainment TV",DE: Rtlup HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582926.ts
+#EXTINF:-1 tvg-id="SAT1emotions.de" tvg-name="DE: SAT 1 Emotions HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/3235598467.png" group-title="DE - Entertainment TV",DE: SAT 1 Emotions HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135875.ts
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: SAT 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/34003761011.png" group-title="DE - Entertainment TV",DE: SAT 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135803.ts
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: SAT 3 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/15445648381.png" group-title="DE - Entertainment TV",DE: SAT 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135760.ts
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/90321244001.png" group-title="DE - Entertainment TV",DE: SIXX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135787.ts
+#EXTINF:-1 tvg-id="SRF.1.HD.de" tvg-name="DE: SRF 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/50584062451.png" group-title="DE - Entertainment TV",DE: SRF 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135754.ts
+#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de" tvg-name="DE: SWR HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/85140469511.png" group-title="DE - Entertainment TV",DE: SWR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135864.ts
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="DE: TELE 5 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/84256334161.png" group-title="DE - Entertainment TV",DE: TELE 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135750.ts
+#EXTINF:-1 tvg-id="TLCGermany.de" tvg-name="DE: TLC HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/52127518671.png" group-title="DE - Entertainment TV",DE: TLC HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135749.ts
+#EXTINF:-1 tvg-id="vox" tvg-name="DE: VOX HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/24878854961.png" group-title="DE - Entertainment TV",DE: VOX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135789.ts
+#EXTINF:-1 tvg-id="VoxGermany.de" tvg-name="DE: Voxup HD" tvg-logo="https://curl.pk/img/u/4dc75c6d601d80e20ec3f4088b73c5379661.jpg" group-title="DE - Entertainment TV",DE: Voxup HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582927.ts
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE: ZDF FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/12834261161.png" group-title="DE - Entertainment TV",DE: ZDF FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/322112.ts
+#EXTINF:-1 tvg-id="ZDFneo.HD.de" tvg-name="DE: ZDF NEO HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/58106505161.png" group-title="DE - Entertainment TV",DE: ZDF NEO HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/592425.ts
+#EXTINF:-1 tvg-id="1368" tvg-name="DE: SKY CINEMA PREMIEREN HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premieren-de.png" group-title="DE - Entertainment TV",DE: SKY CINEMA PREMIEREN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/111647.ts
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ Drama & Movies ⭐⭐⭐" tvg-logo="https://curl.pk/img/u/22ecb7c8edb2502e5e8dbea89b133e114402.jpg" group-title="DE -  Drama & Movies",⭐⭐⭐ Drama & Movies ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389514.ts
+#EXTINF:-1 tvg-id="Anixe.HD.de" tvg-name="DE: Anixe Serie FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/7044707949.png" group-title="DE -  Drama & Movies",DE: Anixe Serie FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135625.ts
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="DE: ARD Alpha HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/90840a4227d27f6b73c8c2932222cbe1.png" group-title="DE -  Drama & Movies",DE: ARD Alpha HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/689902.ts
+#EXTINF:-1 tvg-id="axn.de" tvg-name="DE: AXN HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/44834099141.png" group-title="DE -  Drama & Movies",DE: AXN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135756.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema 007 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/73418347131.png" group-title="DE -  Drama & Movies",DE: Eagle Cinema 007 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135829.ts
+#EXTINF:-1 tvg-id="cinema-ru" tvg-name="DE: Eagle Cinema Abenteuer FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/65136301671.png" group-title="DE -  Drama & Movies",DE: Eagle Cinema Abenteuer FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135681.ts
+#EXTINF:-1 tvg-id="cinema-ru" tvg-name="DE: Eagle Cinema Drama FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/59068082871.png" group-title="DE -  Drama & Movies",DE: Eagle Cinema Drama FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135683.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Geo Television HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/2605122309ac81d4978df82b04604610.png" group-title="DE -  Drama & Movies",DE: Geo Television HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/712514.ts
+#EXTINF:-1 tvg-id="kabeleins.de" tvg-name="DE: Kabel EINS Classics HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/41417074111.png" group-title="DE -  Drama & Movies",DE: Kabel EINS Classics HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135642.ts
+#EXTINF:-1 tvg-id="KinoweltTV.de" tvg-name="DE: Kinowelt TV HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/bfc3baee1d333fda424e2573a5f1e515.png" group-title="DE -  Drama & Movies",DE: Kinowelt TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/689900.ts
+#EXTINF:-1 tvg-id="MDRFernsehenSachsenAnhalt.de" tvg-name="DE: MDR Sachsen-anhalt HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/77601479631.png" group-title="DE -  Drama & Movies",DE: MDR Sachsen-anhalt HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/592659.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NOW HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/70e9c09de56fcfa93cecc4bb084020f2.png" group-title="DE -  Drama & Movies",DE: NOW HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/712515.ts
+#EXTINF:-1 tvg-id="romance.de" tvg-name="DE: Romance TV HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/50763891001.png" group-title="DE -  Drama & Movies",DE: Romance TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135649.ts
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE: RTL Crime HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/77092727691.png" group-title="DE -  Drama & Movies",DE: RTL Crime HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135799.ts
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="DE: RTL Passion HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/76442866541.png" group-title="DE -  Drama & Movies",DE: RTL Passion HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135796.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Zwei HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/d48b1ad0567a353c3338936b9b6b4b02.png" group-title="DE -  Drama & Movies",DE: RTL Zwei HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/712516.ts
+#EXTINF:-1 tvg-id="SAT1GOLD.de" tvg-name="DE: SAT 1 GOLD HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/2864264249.png" group-title="DE -  Drama & Movies",DE: SAT 1 GOLD HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135837.ts
+#EXTINF:-1 tvg-id="SkyOneGermany.de" tvg-name="DE: SKY 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/10682231051.png" group-title="DE -  Drama & Movies",DE: SKY 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135739.ts
+#EXTINF:-1 tvg-id="sky-atlantic" tvg-name="DE: SKY Atlantic FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/9056519433.png" group-title="DE -  Drama & Movies",DE: SKY Atlantic FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135651.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Cinema +1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5600193553.png" group-title="DE -  Drama & Movies",DE: SKY Cinema +1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135737.ts
+#EXTINF:-1 tvg-id="sky-cinema-action" tvg-name="DE: SKY Cinema Action FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/56648734941.png" group-title="DE -  Drama & Movies",DE: SKY Cinema Action FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135670.ts
+#EXTINF:-1 tvg-id="sky-atlantic" tvg-name="DE: SKY Cinema Atlantic HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/99767525681.png" group-title="DE -  Drama & Movies",DE: SKY Cinema Atlantic HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135832.ts
+#EXTINF:-1 tvg-id="sky-cinema-hits" tvg-name="DE: SKY Cinema BEST OF FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/59751512871.png" group-title="DE -  Drama & Movies",DE: SKY Cinema BEST OF FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135652.ts
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="DE: SKY Cinema Classics HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/79116448281.png" group-title="DE -  Drama & Movies",DE: SKY Cinema Classics HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135876.ts
+#EXTINF:-1 tvg-id="SkyComedyGermany.de" tvg-name="DE: SKY Cinema Comedy HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5600193553.png" group-title="DE -  Drama & Movies",DE: SKY Cinema Comedy HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135734.ts
+#EXTINF:-1 tvg-id="sky-cinema" tvg-name="DE: SKY Cinema Emotion HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5600193553.png" group-title="DE -  Drama & Movies",DE: SKY Cinema Emotion HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135733.ts
+#EXTINF:-1 tvg-id="sky-cinema-family" tvg-name="DE: SKY Cinema Family HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/99655953011.png" group-title="DE -  Drama & Movies",DE: SKY Cinema Family HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135732.ts
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="DE: SKY Cinema FUN HD" tvg-logo="https://curl.pk/img/u/8fdc2cf6b03007b9309e1573a73be7d56439.png" group-title="DE -  Drama & Movies",DE: SKY Cinema FUN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582923.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Cinema HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/692e99b5bb78061d0ac8f323726f6d49.png" group-title="DE -  Drama & Movies",DE: SKY Cinema HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/701140.ts
+#EXTINF:-1 tvg-id="Sky.Hits.uk" tvg-name="DE: SKY Cinema HITS HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5600193553.png" group-title="DE -  Drama & Movies",DE: SKY Cinema HITS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135677.ts
+#EXTINF:-1 tvg-id="skycinemaplus24.de" tvg-name="DE: SKY Cinema Premier +24 FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5600193553.png" group-title="DE -  Drama & Movies",DE: SKY Cinema Premier +24 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135849.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="DE: SKY Cinema Premier +24 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/55799188221.png" group-title="DE -  Drama & Movies",DE: SKY Cinema Premier +24 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135653.ts
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="DE: SKY Cinema Special FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/99749394391.png" group-title="DE -  Drama & Movies",DE: SKY Cinema Special FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135654.ts
+#EXTINF:-1 tvg-id="SkyCinemaThrillerGermany.de" tvg-name="DE: SKY Cinema Thriller FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/49393313861.png" group-title="DE -  Drama & Movies",DE: SKY Cinema Thriller FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135655.ts
+#EXTINF:-1 tvg-id="SkyComedyGermany.de" tvg-name="DE: SKY Comedy HD" tvg-logo="https://curl.pk/img/u/48f4a5b94a1c53038b50a9b1caf007581577.png" group-title="DE -  Drama & Movies",DE: SKY Comedy HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582921.ts
+#EXTINF:-1 tvg-id="SkyCrimeGermany.de" tvg-name="DE: SKY Crime HD" tvg-logo="https://curl.pk/img/u/2d01a2702327bef196d520b01cfbefbc4809.png" group-title="DE -  Drama & Movies",DE: SKY Crime HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582922.ts
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY Krimi FHD" tvg-logo="http://live.geoiptv.org:8880/chimg/9389335311.jpg" group-title="DE -  Drama & Movies",DE: SKY Krimi FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135671.ts
+#EXTINF:-1 tvg-id="One.de" tvg-name="DE: SKY ONE FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/79808870081.png" group-title="DE -  Drama & Movies",DE: SKY ONE FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135656.ts
+#EXTINF:-1 tvg-id="fox-de" tvg-name="DE: SKY Replay FHD" tvg-logo="https://curl.pk/img/u/461ba538b6f024f5a1dde6c26516964a706.png" group-title="DE -  Drama & Movies",DE: SKY Replay FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135672.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY Replay HD" tvg-logo="https://curl.pk/img/u/461ba538b6f024f5a1dde6c26516964a706.png" group-title="DE -  Drama & Movies",DE: SKY Replay HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582920.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/98227664461.png" group-title="DE -  Drama & Movies",DE: SKY Select 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135657.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 10 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/88729414121.png" group-title="DE -  Drama & Movies",DE: SKY Select 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135821.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 2 FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/54360188041.png" group-title="DE -  Drama & Movies",DE: SKY Select 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135658.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 3 FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/41114713811.png" group-title="DE -  Drama & Movies",DE: SKY Select 3 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135659.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 4 FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/93649268551.png" group-title="DE -  Drama & Movies",DE: SKY Select 4 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135660.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 5 FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/61469169521.png" group-title="DE -  Drama & Movies",DE: SKY Select 5 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135661.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 6 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/57387221061.png" group-title="DE -  Drama & Movies",DE: SKY Select 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582590.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 7 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/98580717421.png" group-title="DE -  Drama & Movies",DE: SKY Select 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135818.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 8 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/33500455141.png" group-title="DE -  Drama & Movies",DE: SKY Select 8 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135819.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 9 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/63475170751.png" group-title="DE -  Drama & Movies",DE: SKY Select 9 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582591.ts
+#EXTINF:-1 tvg-id="SkySerienShows.de" tvg-name="DE: SKY Serien & Shows FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/9721581174.png" group-title="DE -  Drama & Movies",DE: SKY Serien & Shows FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135663.ts
+#EXTINF:-1 tvg-id="SonyAXN.de" tvg-name="DE: SONY AXN FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/56933971911.png" group-title="DE -  Drama & Movies",DE: SONY AXN FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135665.ts
+#EXTINF:-1 tvg-id="SonyChannelGermany.de" tvg-name="DE: SONY Channel FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/6867957466.png" group-title="DE -  Drama & Movies",DE: SONY Channel FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135666.ts
+#EXTINF:-1 tvg-id="Syfy.HD.de" tvg-name="DE: SYFY FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/32303694591.png" group-title="DE -  Drama & Movies",DE: SYFY FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135621.ts
+#EXTINF:-1 tvg-id="WarnerTVSerie.de" tvg-name="DE: Twarner TV Serie FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/34160531021.png" group-title="DE -  Drama & Movies",DE: Twarner TV Serie FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135622.ts
+#EXTINF:-1 tvg-id="universal.de" tvg-name="DE: Universal TV FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/45194328521.png" group-title="DE -  Drama & Movies",DE: Universal TV FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135676.ts
+#EXTINF:-1 tvg-id="WarnerTVComedy.de" tvg-name="DE: Warner TV Comedy HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/84887510301.png" group-title="DE -  Drama & Movies",DE: Warner TV Comedy HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135673.ts
+#EXTINF:-1 tvg-id="WarnerTVFilm.de" tvg-name="DE: Warner TV FILM FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/70345729791.png" group-title="DE -  Drama & Movies",DE: Warner TV FILM FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135674.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Popcorn 2 HD" tvg-logo="https://curl.pk/img/u/eeb39b32500b92163dc53d205b4aee364176.jpg" group-title="DE -  Drama & Movies",SKY Popcorn 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/583682.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Popcorn Select 1 HD" tvg-logo="https://curl.pk/img/u/cb21a1ca90ce3f42fb275512511ed42a5398.jpg" group-title="DE -  Drama & Movies",SKY Popcorn Select 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/583683.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Popcorn Select 3 HD" tvg-logo="https://curl.pk/img/u/fbfbb9dada8db09e1a80f2886054f05e8431.jpg" group-title="DE -  Drama & Movies",SKY Popcorn Select 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/583684.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Popcorn Select 6 HD" tvg-logo="https://curl.pk/img/u/655e542d64bc599ba0fe412ff491a77b1395.jpg" group-title="DE -  Drama & Movies",SKY Popcorn Select 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/583687.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Cinema 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5600193553.png" group-title="DE - Deutschland Sky TV",DE: SKY Cinema 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11448.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Cinema 24 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5600193553.png" group-title="DE - Deutschland Sky TV",DE: SKY Cinema 24 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11450.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Cinema Family HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5600193553.png" group-title="DE - Deutschland Sky TV",DE: SKY Cinema Family HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11452.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Cinema FUN HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5600193553.png" group-title="DE - Deutschland Sky TV",DE: SKY Cinema FUN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11451.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Krimi HD" tvg-logo="http://live.geoiptv.org:8880/chimg/5658575979.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Krimi HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11457.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Action HD" tvg-logo="http://live.geoiptv.org:8880/chimg/6956550713.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Action HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11454.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Comedy HD" tvg-logo="http://live.geoiptv.org:8880/chimg/7652932690.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Comedy HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11456.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Atlantic HD" tvg-logo="http://live.geoiptv.org:8880/chimg/3577508560.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Atlantic HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11447.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY HITS HD" tvg-logo="http://live.geoiptv.org:8880/chimg/2338519276.jpg" group-title="DE - Deutschland Sky TV",DE: SKY HITS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11455.ts
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/85e594fc0e96a00e983af61aa87b1f13.png" group-title="DE - Deutschland Sky TV",DE: SKY 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11446.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 1 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/4317188184.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Select 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11420.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 2 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/5772618049.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Select 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11421.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 3 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/6645407092.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Select 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11422.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 4 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/5925887649.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Select 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11423.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 5 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/4905825855.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Select 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11424.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 6 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/2655095147.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Select 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11425.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Select 7 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/7287853513.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Select 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11426.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY HD" tvg-logo="http://live.geoiptv.org:8880/chimg/5275848533.png" group-title="DE - Deutschland Sky TV",DE: SYFY HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522108.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema 007 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/d4b358acb02e3245e2d1bb683ed125ed.png" group-title="DE - Deutschland Sky TV",DE: Eagle Cinema 007 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11445.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema Aktion HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/6f18c92ba582d5a50cea707ea8eb04d9.png" group-title="DE - Deutschland Sky TV",DE: Eagle Cinema Aktion HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11442.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport 1 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/9704682241.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11485.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport 3 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/3333676659.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11464.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport 4 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/7519875006.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11465.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport 5 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/6090150580.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11466.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport 6 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/8325544011.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11467.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport 7 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/3641503834.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11468.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport 9 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/5993316889.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport 9 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11470.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport 10 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/1945027162.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11471.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 1 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/7072964602.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport Bundesliga 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11472.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 2 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/1164641905.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport Bundesliga 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11473.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 3 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/4845185728.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport Bundesliga 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11474.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 4 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/2982136533.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport Bundesliga 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11475.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 5 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/6601179073.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport Bundesliga 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11476.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Bundesliga 6 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/52c5eb429c6fc1bf1806efd707e578c6.png" group-title="DE - Deutschland Sky TV",DE: SKY Bundesliga 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582595.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 7 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/1463696368.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport Bundesliga 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11478.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Bundesliga 8 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/93ecd0128bf1690a3246a794357ef774.png" group-title="DE - Deutschland Sky TV",DE: SKY Bundesliga 8 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582594.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Bundesliga 9 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/2121791406.jpg" group-title="DE - Deutschland Sky TV",DE: SKY Sport Bundesliga 9 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11480.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport NEWS HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/6c2c9515d8373b4982682d8d678c0ae9.png" group-title="DE - Deutschland Sky TV",DE: SKY Sport NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11461.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 1 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/6037618534.jpg" group-title="DE - Deutschland Sky TV",DE: DAZN BAR 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11459.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 2 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/7641956106.jpg" group-title="DE - Deutschland Sky TV",DE: DAZN BAR 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11460.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD" tvg-logo="https://i.ibb.co/jvFNhFR/british-eurosport-1.png" group-title="DE - Deutschland Sky TV",DE: Eurosport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11482.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD" tvg-logo="https://curl.pk/img/u/fbd8b67d806fa8bb6007b7b542160bdb3605.png" group-title="DE - Deutschland Sky TV",DE: Eurosport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11483.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/ab8c08a24ef9cc10f5e85183e9fb37ba.png" group-title="DE - Deutschland Sky TV",DE: MAX KINO HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11436.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 2 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/fd91e24f070999acf253964538796f90.png" group-title="DE - Deutschland Sky TV",DE: MAX KINO 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11437.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 3 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/8a0efe95f470b525c980721848575893.png" group-title="DE - Deutschland Sky TV",DE: MAX KINO 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11438.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 4 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/9329566273.png" group-title="DE - Deutschland Sky TV",DE: MAX KINO 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11439.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 5 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/5095795557.png" group-title="DE - Deutschland Sky TV",DE: MAX KINO 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11440.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix Deutsche 1 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/7095387563.png" group-title="DE - Deutschland Sky TV",DE: Netflix Deutsche 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/109280.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix Deutsche 2 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/2559146851.png" group-title="DE - Deutschland Sky TV",DE: Netflix Deutsche 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/109281.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix Deutsche 3 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/6567650974.png" group-title="DE - Deutschland Sky TV",DE: Netflix Deutsche 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/109282.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix Deutsche 4 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/8075337948.png" group-title="DE - Deutschland Sky TV",DE: Netflix Deutsche 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/109283.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix Deutsche 6 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/1757964436.png" group-title="DE - Deutschland Sky TV",DE: Netflix Deutsche 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/109284.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix Deutsche 8 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/3906771681.jpg" group-title="DE - Deutschland Sky TV",DE: Netflix Deutsche 8 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11416.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix Deutsche 9 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/1979042974.jpg" group-title="DE - Deutschland Sky TV",DE: Netflix Deutsche 9 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11417.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix Deutsche HD10" tvg-logo="http://live.geoiptv.org:8880/chimg/7110076491.jpg" group-title="DE - Deutschland Sky TV",DE: Netflix Deutsche HD10
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11418.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 1HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/44702954751.png" group-title="DE - Deutschland Sky TV",DE: MAX Select 1HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11427.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 2HD" tvg-logo="http://live.geoiptv.org:8880/chimg/7582014285.png" group-title="DE - Deutschland Sky TV",DE: MAX Select 2HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11428.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 3HD" tvg-logo="http://live.geoiptv.org:8880/chimg/8678996187.png" group-title="DE - Deutschland Sky TV",DE: MAX Select 3HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11429.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema Horror HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/516f8d181655a8f19ad495f1ed90bc49.png" group-title="DE - Deutschland Sky TV",DE: Eagle Cinema Horror HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/11443.ts
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ KIDS ⭐⭐⭐" tvg-logo="https://curl.pk/img/u/2b6e7eef761ae18725fa3c4f6472b2a5153.jpg" group-title="DE - Germany Kids TV",⭐⭐⭐ KIDS ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389516.ts
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="DE: Boomerang HD" tvg-logo="http://live.geoiptv.org:8880/chimg/1719615609.png" group-title="DE - Germany Kids TV",DE: Boomerang HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135727.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="DE: Cartoon Network HD" tvg-logo="http://live.geoiptv.org:8880/chimg/1674796391.png" group-title="DE - Germany Kids TV",DE: Cartoon Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135720.ts
+#EXTINF:-1 tvg-id="Disney.Channel.HD.de" tvg-name="DE: Disney Channel HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/36944242801.png" group-title="DE - Germany Kids TV",DE: Disney Channel HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135841.ts
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE: Disney Channel HEVC HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/31473667101.png" group-title="DE - Germany Kids TV",DE: Disney Channel HEVC HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135724.ts
+#EXTINF:-1 tvg-id="disney" tvg-name="DE: Disney Cinemagic HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/2791948076.png" group-title="DE - Germany Kids TV",DE: Disney Cinemagic HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135726.ts
+#EXTINF:-1 tvg-id="Junior.de" tvg-name="DE: Junior HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/21653521701.png" group-title="DE - Germany Kids TV",DE: Junior HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135859.ts
+#EXTINF:-1 tvg-id="kika.de" tvg-name="DE: KIKA HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/59234756881.png" group-title="DE - Germany Kids TV",DE: KIKA HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135721.ts
+#EXTINF:-1 tvg-id="NickGermany.de" tvg-name="DE: NICK FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5491579261.png" group-title="DE - Germany Kids TV",DE: NICK FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135763.ts
+#EXTINF:-1 tvg-id="NickGermany.de" tvg-name="DE: NICK JR HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/15375159521.png" group-title="DE - Germany Kids TV",DE: NICK JR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135645.ts
+#EXTINF:-1 tvg-id="NickGermany.de" tvg-name="DE: Nicktoons HD" tvg-logo="https://curl.pk/img/u/f92df553f82bbfcce169b4c79032516d3993.png" group-title="DE - Germany Kids TV",DE: Nicktoons HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582929.ts
+#EXTINF:-1 tvg-id="disney" tvg-name="DE: SKY Disney Cinemagic HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/70749787581.png" group-title="DE - Germany Kids TV",DE: SKY Disney Cinemagic HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135863.ts
+#EXTINF:-1 tvg-id="super-rtl-hd" tvg-name="DE: Super RTL HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/62524129991.png" group-title="DE - Germany Kids TV",DE: Super RTL HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135839.ts
+#EXTINF:-1 tvg-id="ToggoPlus.de" tvg-name="DE: Toggo PLUS HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/87315960131.png" group-title="DE - Germany Kids TV",DE: Toggo PLUS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135882.ts
+#EXTINF:-1 tvg-id="ToggoPlus.de" tvg-name="DE: Toggo TV HD" tvg-logo="http://live.geoiptv.org:8880/chimg/1726280772.jpg" group-title="DE - Germany Kids TV",DE: Toggo TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135793.ts
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ Music ⭐⭐⭐" tvg-logo="https://curl.pk/img/u/16a41b6995ceeabd605554418f16e5914216.png" group-title="DE - Germany Music TV",⭐⭐⭐ Music ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389515.ts
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="DE: Deluxe Music HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/2773713215.png" group-title="DE - Germany Music TV",DE: Deluxe Music HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135845.ts
+#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="DE: Jukebox HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/8669630040.png" group-title="DE - Germany Music TV",DE: Jukebox HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135778.ts
+#EXTINF:-1 tvg-id="MTV.Dance.de" tvg-name="DE: MTV Dance HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4218492296.png" group-title="DE - Germany Music TV",DE: MTV Dance HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389519.ts
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="DE: MTV HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/6486500643.png" group-title="DE - Germany Music TV",DE: MTV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389518.ts
+#EXTINF:-1 tvg-id="ServusTV.HD.Deutschland.de" tvg-name="DE: Schlager Deluxe HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/3495544725.png" group-title="DE - Germany Music TV",DE: Schlager Deluxe HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/326973.ts
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ Sports ⭐⭐⭐" tvg-logo="https://curl.pk/img/u/d759d43a23847b714466d5031a08254c5711.png" group-title="DE - Germany Sports TV",⭐⭐⭐ Sports ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389513.ts
+#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DE: DAZN 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/23122817851.png" group-title="DE - Germany Sports TV",DE: DAZN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135834.ts
+#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DE: DAZN 2 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/60468713881.png" group-title="DE - Germany Sports TV",DE: DAZN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135835.ts
+#EXTINF:-1 tvg-id="kineko" tvg-name="DE: DAZN BAR 1 HD (vip)" tvg-logo="http://live.geoiptv.org:8880/channels_icon/65365220331.png" group-title="DE - Germany Sports TV",DE: DAZN BAR 1 HD (vip)
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135719.ts
+#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DE: DAZN BAR 2 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/10093237231.png" group-title="DE - Germany Sports TV",DE: DAZN BAR 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135718.ts
+#EXTINF:-1 tvg-id="eSports1.de" tvg-name="DE: Esports1 HD" tvg-logo="https://curl.pk/img/u/70e1d71db24f072b3d122969c90e96681196.png" group-title="DE - Germany Sports TV",DE: Esports1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582924.ts
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/84771964261.png" group-title="DE - Germany Sports TV",DE: Eurosport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135633.ts
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="DE: Eurosport 2 Extra FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/59400379881.png" group-title="DE - Germany Sports TV",DE: Eurosport 2 Extra FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135711.ts
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/26327697861.png" group-title="DE - Germany Sports TV",DE: Eurosport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582585.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC Bayern TV HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/7290928897.png" group-title="DE - Germany Sports TV",DE: FC Bayern TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/191575.ts
+#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="DE: Motorvision TV HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/21365196241.png" group-title="DE - Germany Sports TV",DE: Motorvision TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/579372.ts
+#EXTINF:-1 tvg-id="sky-sport-bl1" tvg-name="DE: SKY Bundesliga 1 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/6160467045.jpg" group-title="DE - Germany Sports TV",DE: SKY Bundesliga 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135699.ts
+#EXTINF:-1 tvg-id="SkySportBundesliga10.de" tvg-name="DE: SKY Bundesliga 10 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/6757914268.jpg" group-title="DE - Germany Sports TV",DE: SKY Bundesliga 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135807.ts
+#EXTINF:-1 tvg-id="SkySportBundesliga2.de" tvg-name="DE: SKY Bundesliga 2 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/7458211925.jpg" group-title="DE - Germany Sports TV",DE: SKY Bundesliga 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135698.ts
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: SKY Bundesliga 3 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/5405529047.jpg" group-title="DE - Germany Sports TV",DE: SKY Bundesliga 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135697.ts
+#EXTINF:-1 tvg-id="SkySportBundesliga4.de" tvg-name="DE: SKY Bundesliga 4 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/7594288508.jpg" group-title="DE - Germany Sports TV",DE: SKY Bundesliga 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135696.ts
+#EXTINF:-1 tvg-id="SkySportBundesliga5.de" tvg-name="DE: SKY Bundesliga 5 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/8037478961.jpg" group-title="DE - Germany Sports TV",DE: SKY Bundesliga 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135695.ts
+#EXTINF:-1 tvg-id="SkySportBundesliga6.de" tvg-name="DE: SKY Bundesliga 6 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/7458211925.jpg" group-title="DE - Germany Sports TV",DE: SKY Bundesliga 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135694.ts
+#EXTINF:-1 tvg-id="SkySportBundesliga7.de" tvg-name="DE: SKY Bundesliga 7 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/7458211925.jpg" group-title="DE - Germany Sports TV",DE: SKY Bundesliga 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135693.ts
+#EXTINF:-1 tvg-id="SkySportBundesliga8.de" tvg-name="DE: SKY Bundesliga 8 HD" tvg-logo="http://live.geoiptv.org:8880/chimg/8967808138.jpg" group-title="DE - Germany Sports TV",DE: SKY Bundesliga 8 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135692.ts
+#EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="DE: SKY Bundesliga HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/34717170961.png" group-title="DE - Germany Sports TV",DE: SKY Bundesliga HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/621786.ts
+#EXTINF:-1 tvg-id="sky-sport-hd1" tvg-name="DE: SKY Sport 1 FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4990328428.png" group-title="DE - Germany Sports TV",DE: SKY Sport 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135620.ts
+#EXTINF:-1 tvg-id="sky-sport-hd1" tvg-name="DE: SKY Sport 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4990328428.png" group-title="DE - Germany Sports TV",DE: SKY Sport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481983.ts
+#EXTINF:-1 tvg-id="Sky.Sport.HD.2.de" tvg-name="DE: SKY Sport 2 FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4990328428.png" group-title="DE - Germany Sports TV",DE: SKY Sport 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135619.ts
+#EXTINF:-1 tvg-id="sky-sport-hd2" tvg-name="DE: SKY Sport 2 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/1903366516.png" group-title="DE - Germany Sports TV",DE: SKY Sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481986.ts
+#EXTINF:-1 tvg-id="SkySport3Germany.de" tvg-name="DE: SKY Sport 3 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4990328428.png" group-title="DE - Germany Sports TV",DE: SKY Sport 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135710.ts
+#EXTINF:-1 tvg-id="SkySport4Germany.de" tvg-name="DE: SKY Sport 4 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4990328428.png" group-title="DE - Germany Sports TV",DE: SKY Sport 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135709.ts
+#EXTINF:-1 tvg-id="SkySport5Germany.de" tvg-name="DE: SKY Sport 5 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4990328428.png" group-title="DE - Germany Sports TV",DE: SKY Sport 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135707.ts
+#EXTINF:-1 tvg-id="SkySport6Germany.de" tvg-name="DE: SKY Sport 6 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4990328428.png" group-title="DE - Germany Sports TV",DE: SKY Sport 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135708.ts
+#EXTINF:-1 tvg-id="SkySport7Germany.de" tvg-name="DE: SKY Sport 7 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4990328428.png" group-title="DE - Germany Sports TV",DE: SKY Sport 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135706.ts
+#EXTINF:-1 tvg-id="SkySport8Germany.de" tvg-name="DE: SKY Sport 8 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4990328428.png" group-title="DE - Germany Sports TV",DE: SKY Sport 8 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135705.ts
+#EXTINF:-1 tvg-id="SkySport9Germany.de" tvg-name="DE: SKY Sport 9 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4990328428.png" group-title="DE - Germany Sports TV",DE: SKY Sport 9 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582592.ts
+#EXTINF:-1 tvg-id="SkySport10Germany.de" tvg-name="DE: SKY Sport 10 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4990328428.png" group-title="DE - Germany Sports TV",DE: SKY Sport 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135703.ts
+#EXTINF:-1 tvg-id="sky-sport-aus" tvg-name="DE: SKY Sport Austria 1 FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/7623313068.png" group-title="DE - Germany Sports TV",DE: SKY Sport Austria 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582581.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Austria 2 FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5182893757.png" group-title="DE - Germany Sports TV",DE: SKY Sport Austria 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582582.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Austria 3 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5705709245.png" group-title="DE - Germany Sports TV",DE: SKY Sport Austria 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582583.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Austria 4 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/5340867755.png" group-title="DE - Germany Sports TV",DE: SKY Sport Austria 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582584.ts
+#EXTINF:-1 tvg-id="sky-sport-aus" tvg-name="DE: SKY Sport Austria HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/7006307612.png" group-title="DE - Germany Sports TV",DE: SKY Sport Austria HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481926.ts
+#EXTINF:-1 tvg-id="SkySportBundesliga10.de" tvg-name="DE: SKY Sport Bundesliga 10 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/17558217451.png" group-title="DE - Germany Sports TV",DE: SKY Sport Bundesliga 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/605496.ts
+#EXTINF:-1 tvg-id="SkySportF1Germany.de" tvg-name="DE: SKY Sport F1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/4409448750.png" group-title="DE - Germany Sports TV",DE: SKY Sport F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481981.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport GOLF FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/77768166981.png" group-title="DE - Germany Sports TV",DE: SKY Sport GOLF FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/612646.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport MIX FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/65050319951.png" group-title="DE - Germany Sports TV",DE: SKY Sport MIX FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/612647.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Premier League FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/43123953561.png" group-title="DE - Germany Sports TV",DE: SKY Sport Premier League FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/612648.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport Tennis FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/82730829381.png" group-title="DE - Germany Sports TV",DE: SKY Sport Tennis FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/612649.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Sport TOP Event FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/56646943781.png" group-title="DE - Germany Sports TV",DE: SKY Sport TOP Event FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/612650.ts
+#EXTINF:-1 tvg-id="Sport1Plus.de" tvg-name="DE: Sport 1+ HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/53238897871.png" group-title="DE - Germany Sports TV",DE: Sport 1+ HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135667.ts
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="DE: Sport1 HD" tvg-logo="https://curl.pk/img/u/56736e1d6717d0f9bde015f4a0c857266285.png" group-title="DE - Germany Sports TV",DE: Sport1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582930.ts
+#EXTINF:-1 tvg-id="Sportdigital.de" tvg-name="DE: Sportdigital Fussball FHD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/6143353842.png" group-title="DE - Germany Sports TV",DE: Sportdigital Fussball FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135668.ts
+#EXTINF:-1 tvg-id="SkySportBundesliga1HD.de" tvg-name="DE: Telekom 3 Bundesliga 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/65338062351.png" group-title="DE - Germany Sports TV",DE: Telekom 3 Bundesliga 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/191576.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom 3 Bundesliga 2 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/65338062351.png" group-title="DE - Germany Sports TV",DE: Telekom 3 Bundesliga 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582943.ts
+#EXTINF:-1 tvg-id="SkySportBundesliga3HD.de" tvg-name="DE: Telekom 3 Bundesliga 3 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/66031117481.png" group-title="DE - Germany Sports TV",DE: Telekom 3 Bundesliga 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/191578.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom 3 Bundesliga 4 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/31999794501.png" group-title="DE - Germany Sports TV",DE: Telekom 3 Bundesliga 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/191579.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom 3 Bundesliga 5 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/80043404441.png" group-title="DE - Germany Sports TV",DE: Telekom 3 Bundesliga 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/191580.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom 3 Bundesliga 6 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/65338062351.png" group-title="DE - Germany Sports TV",DE: Telekom 3 Bundesliga 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582931.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom 3 Bundesliga 7 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/65338062351.png" group-title="DE - Germany Sports TV",DE: Telekom 3 Bundesliga 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582932.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom 3 Bundesliga 8 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/65338062351.png" group-title="DE - Germany Sports TV",DE: Telekom 3 Bundesliga 8 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582933.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/66142926421.png" group-title="DE - Germany Sports TV",DE: Telekom Eishockey 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582574.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey 2 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/81728463311.png" group-title="DE - Germany Sports TV",DE: Telekom Eishockey 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582575.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey 3 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/13317676421.png" group-title="DE - Germany Sports TV",DE: Telekom Eishockey 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582576.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey 4 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/59255004981.png" group-title="DE - Germany Sports TV",DE: Telekom Eishockey 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582577.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey 5 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/55023947251.png" group-title="DE - Germany Sports TV",DE: Telekom Eishockey 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582578.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey 6 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/84563312331.png" group-title="DE - Germany Sports TV",DE: Telekom Eishockey 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582579.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey 7 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/55344017381.png" group-title="DE - Germany Sports TV",DE: Telekom Eishockey 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582580.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Telekom Basketball 1 (only Event) HD" tvg-logo="https://curl.pk/img/u/901e0575229578ede5dd58e6312e7ae28013.jpg" group-title="DE - Germany Sports TV",DE | Telekom Basketball 1 (only Event) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582934.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Telekom Basketball 2 (only Event) HD" tvg-logo="https://curl.pk/img/u/901e0575229578ede5dd58e6312e7ae28013.jpg" group-title="DE - Germany Sports TV",DE | Telekom Basketball 2 (only Event) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582935.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Telekom Basketball 3 (only Event) HD" tvg-logo="https://curl.pk/img/u/901e0575229578ede5dd58e6312e7ae28013.jpg" group-title="DE - Germany Sports TV",DE | Telekom Basketball 3 (only Event) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582936.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Telekom Basketball 4 (only Event) HD" tvg-logo="https://curl.pk/img/u/901e0575229578ede5dd58e6312e7ae28013.jpg" group-title="DE - Germany Sports TV",DE | Telekom Basketball 4 (only Event) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582937.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Telekom Basketball 5 (only Event) HD" tvg-logo="https://curl.pk/img/u/901e0575229578ede5dd58e6312e7ae28013.jpg" group-title="DE - Germany Sports TV",DE | Telekom Basketball 5 (only Event) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582938.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Telekom Basketball 6 (only Event) HD" tvg-logo="https://curl.pk/img/u/901e0575229578ede5dd58e6312e7ae28013.jpg" group-title="DE - Germany Sports TV",DE | Telekom Basketball 6 (only Event) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582939.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Telekom Basketball 7 (only Event) HD" tvg-logo="https://curl.pk/img/u/901e0575229578ede5dd58e6312e7ae28013.jpg" group-title="DE - Germany Sports TV",DE | Telekom Basketball 7 (only Event) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582940.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Telekom Basketball 8 (only Event) HD" tvg-logo="https://curl.pk/img/u/901e0575229578ede5dd58e6312e7ae28013.jpg" group-title="DE - Germany Sports TV",DE | Telekom Basketball 8 (only Event) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/582941.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 02: Augsburg v Mönchengladbach | Sat 19th Aug 14:30" tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="DE -  Bundesliga",Bundesliga 02: Augsburg v Mönchengladbach | Sat 19th Aug 14:30
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715776.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 03: Bayer Leverkusen v RB Leipzig | Sat 19th Aug 14:30" tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="DE -  Bundesliga",Bundesliga 03: Bayer Leverkusen v RB Leipzig | Sat 19th Aug 14:30
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 04: Stuttgart v Bochum | Sat 19th Aug 14:30" tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="DE -  Bundesliga",Bundesliga 04: Stuttgart v Bochum | Sat 19th Aug 14:30
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715778.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 05: Wolfsburg v Heidenheim | Sat 19th Aug 14:30" tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="DE -  Bundesliga",Bundesliga 05: Wolfsburg v Heidenheim | Sat 19th Aug 14:30
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715779.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 06: Hoffenheim v Freiburg | Sat 19th Aug 14:30" tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="DE -  Bundesliga",Bundesliga 06: Hoffenheim v Freiburg | Sat 19th Aug 14:30
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715780.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 07: Borussia Dortmund v FC Cologne | Sat 19th Aug 17:30" tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="DE -  Bundesliga",Bundesliga 07: Borussia Dortmund v FC Cologne | Sat 19th Aug 17:30
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715781.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 08: Union Berlin v Mainz 05 | Sun 20th Aug 14:30" tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="DE -  Bundesliga",Bundesliga 08: Union Berlin v Mainz 05 | Sun 20th Aug 14:30
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715782.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 09: Eintracht Frankfurt v Darmstadt 98 | Sun 20th Aug 16:30" tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="DE -  Bundesliga",Bundesliga 09: Eintracht Frankfurt v Darmstadt 98 | Sun 20th Aug 16:30
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 10: No Scheduled Event" tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="DE -  Bundesliga",Bundesliga 10: No Scheduled Event
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715784.ts
