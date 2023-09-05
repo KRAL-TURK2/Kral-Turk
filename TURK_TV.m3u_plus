@@ -164,8 +164,8 @@ https://tsriptv.art:443/play/OUPbM__li3KXcNW61WemainqOAOSP6iJRhBfMg8E85w
 http://135.125.234.9:8081/eurod/index.m3u8
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
 http://1903.full57.us:8000/zejnep-valintina/C738QK8aW3MA/849
-#EXTINF:-1 TGRT AB group-title="ULUSAL-UHD", TGRT AB
-https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1 TGRT AB group-title="ULUSAL-UHD", TGRT EU
+http://aca3b.tk:8080/Sltvde/fKrukLLw6Z6Au6As/25139
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
 https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsrBkcKfTLT_HcneNZgHxKxA
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV FHD
@@ -179,9 +179,9 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",BEYAZ TV FHD
 http://uptvbiz.com:8282/kenan/191115/4901
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="ULUSAL-UHD",SHOW MAX UHD
-http://95.0.226.197:8000/play/a014
+https://tsriptv.art:443/play/OUPbM__li3KXcNW61Wemagrhn-u-94gPic1_tBwtMG4
 #EXTINF:-1 TRT 2 group-title="ULUSAL-UHD" ,TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/27588
 #EXTINF:-1 TRT TÜRK group-title="ULUSAL-UHD" ,TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 TRT AVAZ group-title="ULUSAL-UHD" ,TRT AVAZ
