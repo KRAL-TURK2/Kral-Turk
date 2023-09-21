@@ -12,13 +12,13 @@ https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsuEJDl5VwRoXa2bU_3TIscE
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports 4K
 https://tsriptv.art:443/play/OUPbM__li3KXcNW61WemajetAS8gCzUJToDtXgHu3Rc
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED1
-http://solo-v7.sytes.net:2082/hasankucukbatman/nCeBUMrJ7hKp/1273
+http://147.135.254.227:8000/Tufan_HSur7DpThQ/UXKpse0YIF/630
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FEED2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/2485
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv 
 https://jyayintv14.live/cdn/bein_sports_1_hd/main.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports UHD 2
-https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsgdTipf0Bu4VC7vCKQfj-OI
+https://jyayintv14.live/cdn/bein_sports_2_hd/main.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports FHD 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/2486
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports UHD 3
@@ -163,7 +163,7 @@ https://tsriptv.art:443/play/OUPbM__li3KXcNW61WemainqOAOSP6iJRhBfMg8E85w
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
 http://135.125.234.9:8081/eurod/index.m3u8
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
-http://1903.full57.us:8000/zejnep-valintina/C738QK8aW3MA/849
+http://uptvbiz.com:8282/kenan/191115/4877
 #EXTINF:-1 TGRT AB group-title="ULUSAL-UHD", TGRT EU
 http://aca3b.tk:8080/Sltvde/fKrukLLw6Z6Au6As/25139
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
