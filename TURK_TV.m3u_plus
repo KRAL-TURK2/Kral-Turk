@@ -105,7 +105,7 @@ https://doksan.futbol:443/play/80cxQYynzqMWeVsPce1OxQmoS-QIb6yc_Pm-IojYj0A
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV UHD
 http://23.146.40.56:8000/onurksipsks/0VO9AyDBfv/17505
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
-http://dostiptv.com:80/HuseyinTurran/KhTZrC3sUJ5321/6
+http://dostiptv.com:80/live/HuseyinTurran/KhTZrC3sUJ5321/6.ts
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" grup-başlığı ="ULUSAL-UHD",ATV HD
 http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/9
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV UHD
@@ -159,7 +159,7 @@ https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKssei3xxx8vVppscFP1WnoaY
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-UHD",EUROSTAR televizyon
 https://tsriptv.art:443/play/OUPbM__li3KXcNW61WemanYQderHfsD-TfMEqjcVxQI
 #EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TÜRK UHD
-https://tsriptv.art:443/play/OUPbM__li3KXcNW61WemainqOAOSP6iJRhBfMg8E85w
+http://dostiptv.com:80/live/HuseyinTurran/KhTZrC3sUJ5321/644.ts
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
 http://135.125.234.9:8081/eurod/index.m3u8
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
