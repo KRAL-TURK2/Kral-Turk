@@ -274,82 +274,77 @@ http://xciptvplayer.xyz:8080/mmtliseeeee675765/5ekxcag5ySMJ/60245
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 8
 http://xciptvplayer.xyz:8080/mmtliseeeee675765/5ekxcag5ySMJ/60246
 
-
 #EXTM3U
-#EXTINF:-1 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title= "HABER KANALI",NTV HABER
-http://116.202.238.88/NTV_TR/index.m3u8
-#EXTINF:-1 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title= "HABER KANALI",NTV HABER
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-
-#EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
-http://116.202.238.88/CNNTURK_TR/index.m3u8
-#EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title= "HABER KANALI",CNN TÜRK
-http://135.125.234.9:8081/cnnturk/index.m3u8
-
-#EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="HABER KANALI",HABERTÜRK
-http://116.202.238.88/HABERTURK_TR/index.m3u8
-#EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title= "HABER KANALI",HABERTÜRK
-https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
-
-#EXTINF:-1 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
-http://116.202.238.88/HABERGLOBAL_TR/index.m3u8
-#EXTINF:-1 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
-https://canli.haber365.com.tr/tr/haberglobal/index.m3u8
-
-#EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
-http://116.202.238.88/24TV_TR/index.m3u8
-#EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
-https://canli.haber365.com.tr/tr/24tv/index.m3u8
-
-#EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_haber.png"tvg-id="" group-title="HABER KANALI",TRT HABER
-https://tv-trthaber.medya.trt.com.tr:443/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_haber.png"tvg-id="" group-title="HABER KANALI",TRT HABER
-http://116.202.238.88/TRTHABER_TR/index.m3u8
-
-#EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="HABER KANALI",TGRT HABER
-https://b01c02nl.mediatriple.net:443/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
-#EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="HABER KANALI",TGRT HABER
-http://116.202.238.88/TGRTHABER_TR/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
-http://116.202.238.88/ULKETV_TR/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
-https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
-http://116.202.238.88/HALKTV_TR/index.m3u8
-
-#EXTINF:-1 tvg-logo=""" group-title="HABER KANALI",SÖZCÜ TV
-http://klosebusiness.xyz:8080/CRISSTHEONE100Connect/p28dWqXH0bKtCaqbZuzG2CpOduVd/142245
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="HABER KANALI" tvg-logo="https://i.resimyukle.xyz/SVdKCV.jpeg",HABER 61 TV
-https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
-
-#EXTINF:-1 tvg-name="A HABER" group-title"HABER KANALI", A HABER 
-http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
-#EXTINF:-1 tvg-name="TELE 1" group-title"HABER KANALI",TELE 1
-https://tele1.blutv.com/blutv_tele1_live/live.m3u8
-#EXTINF:-1 tvg-name="FLASTV" group-title"HABER KANALI",FLAS TV
-https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
-#EXTINF:-1 tvg-name="KRK TV" group-title"HABER KANALI",KRK TV
-https://krt.blutv.com/blutv_krt_live/live.m3u8
-#EXTINF:-1 tvg-name="EKO TÜRK" group-title"HABER KANALI",EKOTÜRK
-https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERGHT" group-title"HABER KANALI",BLOOMBERGHT
-https://canli.haber365.com.tr/tr/bloomberght/index.m3u8
-#EXTINF:-1 tvg-name="ULUSAL KANAL" group-title"HABER KANALI",ULUSAL KANAL
-https://mn-nl.mncdn.com:443/blutv_ulusalkanal/blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
-#EXTINF:-1 tvg-name="TV 1002" group-title"HABER KANALI",TV 1002
-https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
-#EXTINF:-1 tvg-name="TVNET" group-title"HABER KANALI",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-
-#EXTM3U
-
-
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="TR: NTV FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/fac7061249a2a6b013d986ca31983da1.png" group-title="TURK HABER KANALLAR",TR: NTV FHD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/36
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="TR: NTV HD" tvg-logo="http://57tv.bestipbox.com:8000/images/fac7061249a2a6b013d986ca31983da1.png" group-title="TURK HABER KANALLAR",TR: NTV HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/569
+#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="TR: CNN TURK FHD" tvg-logo="http://xui.bestipbox.com:8000/images/9be5659e9f709b1aa38073099f80d0cb.png" group-title="TURK HABER KANALLAR",TR: CNN TURK FHD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/37
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="TR: CNNTURK HD" tvg-logo="http://xui.bestipbox.com:8000/images/9be5659e9f709b1aa38073099f80d0cb.png" group-title="TURK HABER KANALLAR",TR: CNNTURK HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/566
+#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="TR: HABERTURK FHD" tvg-logo="http://xui.bestipbox.com:8000/images/77985ab74ab279502de14ecacbda4c3f.png" group-title="TURK HABER KANALLAR",TR: HABERTURK FHD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/38
+#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="TR: HABERTURK HD" tvg-logo="http://xui.bestipbox.com:8000/images/77985ab74ab279502de14ecacbda4c3f.png" group-title="TURK HABER KANALLAR",TR: HABERTURK HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/567
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU TV FHD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: SOZCU TV FHD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/173462
+#EXTINF:-1 tvg-id="SÖZCÜ TV" tvg-name="TR: SOZCU TV HD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: SOZCU TV HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/173463
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="TR: A HABER FHD" tvg-logo="http://xui.bestipbox.com:8000/images/41893c77d9928c2890603eccb22cc365.png" group-title="TURK HABER KANALLAR",TR: A HABER FHD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/39
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="TR: A HABER HD" tvg-logo="http://paris.bestipbox.com:8000/images/41893c77d9928c2890603eccb22cc365.png" group-title="TURK HABER KANALLAR",TR: A HABER HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/568
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TRT HABER FHD" tvg-logo="http://xui.bestipbox.com:8000/images/e7993144dad46965554cf5dde246fc9f.png" group-title="TURK HABER KANALLAR",TR: TRT HABER FHD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/40
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="http://xui.bestipbox.com:8000/images/e7993144dad46965554cf5dde246fc9f.png" group-title="TURK HABER KANALLAR",TR: TRT HABER HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/3864
+#EXTINF:-1 tvg-id="" tvg-name="TR : FLASH TV HD" tvg-logo="" group-title="TURK HABER KANALLAR",TR : FLASH TV HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/4539
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR : KRT FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/e32a94fc9f924b11f3457e920c3247f1.png" group-title="TURK HABER KANALLAR",TR : KRT FHD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/3865
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: KRT TV HD" tvg-logo="http://sweden.bestipbox.com:8000/images/e32a94fc9f924b11f3457e920c3247f1.png" group-title="TURK HABER KANALLAR",TR: KRT TV HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2442
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR : TV 100 FHD" tvg-logo="http://xui.bestipbox.com:8000/images/574b86ce3bedb4f4ec880490c59bdfb8.png" group-title="TURK HABER KANALLAR",TR : TV 100 FHD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/3849
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TV 100  HD" tvg-logo="http://xui.bestipbox.com:8000/images/574b86ce3bedb4f4ec880490c59bdfb8.png" group-title="TURK HABER KANALLAR",TR: TV 100  HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2561
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR : TELE 1 FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/12782da11ecdba5da91384b96d0f0275.png" group-title="TURK HABER KANALLAR",TR : TELE 1 FHD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2986
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TELE 1 HD" tvg-logo="http://sweden.bestipbox.com:8000/images/12782da11ecdba5da91384b96d0f0275.png" group-title="TURK HABER KANALLAR",TR: TELE 1 HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/1030
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: HABERGLOBAL FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/943faf83f158bd16d442dafe2086f748.png" group-title="TURK HABER KANALLAR",TR: HABERGLOBAL FHD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/3850
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="TR: HABERGLOBAL TV HD" tvg-logo="http://57tv.bestipbox.com:8000/images/943faf83f158bd16d442dafe2086f748.png" group-title="TURK HABER KANALLAR",TR: HABERGLOBAL TV HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/1794
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: HALK TV FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/be0cb5ff9ba0e54ad9e697c5f7f857d6.png" group-title="TURK HABER KANALLAR",TR: HALK TV FHD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2783
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: HALK TV HD" tvg-logo="http://sweden.bestipbox.com:8000/images/be0cb5ff9ba0e54ad9e697c5f7f857d6.png" group-title="TURK HABER KANALLAR",TR: HALK TV HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/256
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARTI TV HD" tvg-logo="http://jacobs.mochaiptv.xyz:8000/images/6e0dea61f114b2248cf7f25030a2746d.png" group-title="TURK HABER KANALLAR",TR: ARTI TV HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2041
+#EXTINF:-1 tvg-id="TVNet.tr" tvg-name="TR: TV NET HD" tvg-logo="http://xui.bestipbox.com:8000/images/797b7737407da61f62bc49004442c92d.png" group-title="TURK HABER KANALLAR",TR: TV NET HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2242
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TGRT HABER HD" tvg-logo="http://57tv.bestipbox.com:8000/images/8160f6b5063b4e21cc78af959853716f.png" group-title="TURK HABER KANALLAR",TR: TGRT HABER HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2138
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: ULKE TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/83532a518f2b75311b15faef1b5c6d23.png" group-title="TURK HABER KANALLAR",TR: ULKE TV HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/258
+#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="TR: ULUSAL KANAL HD" tvg-logo="http://germany.bestipbox.com:8000/images/998a273f32b0269f114b3418645f46c6.png" group-title="TURK HABER KANALLAR",TR: ULUSAL KANAL HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/1026
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TV 24 HD" tvg-logo="http://xui.bestipbox.com:8000/images/066e9bf23a7302537ebd9350461c20a0.png" group-title="TURK HABER KANALLAR",TR: TV 24 HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/134
+#EXTINF:-1 tvg-id="24KitchenTurkey.us" tvg-name="TR: BLOOMBERGHT TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/5e764ada1310891e9ce0d958f95d84fd.png" group-title="TURK HABER KANALLAR",TR: BLOOMBERGHT TV HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/133
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: FINANSTURK TV" tvg-logo="http://xui.bestipbox.com:8000/images/afa638f45f93c71e8d26ceeee62478a6.png" group-title="TURK HABER KANALLAR",TR: FINANSTURK TV
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/522
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: A PARA" tvg-logo="http://xui.bestipbox.com:8000/images/958c5e3d755339cf487aeb3ac3450923.png" group-title="TURK HABER KANALLAR",TR: A PARA
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/517
+#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: BENGUTURK TV HD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: BENGUTURK TV HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/86220
+#EXTINF:-1 tvg-id="" tvg-name="TR: A NEWS HD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: A NEWS HD
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/129574
+#EXTINF:-1 tvg-id="" tvg-name="TR: DHA LIVE" tvg-logo="" group-title="TURK HABER KANALLAR",TR: DHA LIVE
+http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/3762
 
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
