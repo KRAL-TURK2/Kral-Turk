@@ -275,76 +275,100 @@ http://xciptvplayer.xyz:8080/mmtliseeeee675765/5ekxcag5ySMJ/60245
 http://xciptvplayer.xyz:8080/mmtliseeeee675765/5ekxcag5ySMJ/60246
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="TR: NTV FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/fac7061249a2a6b013d986ca31983da1.png" group-title="TURK HABER KANALLAR",TR: NTV FHD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/36
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="TR: NTV HD" tvg-logo="http://57tv.bestipbox.com:8000/images/fac7061249a2a6b013d986ca31983da1.png" group-title="TURK HABER KANALLAR",TR: NTV HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/569
-#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="TR: CNN TURK FHD" tvg-logo="http://xui.bestipbox.com:8000/images/9be5659e9f709b1aa38073099f80d0cb.png" group-title="TURK HABER KANALLAR",TR: CNN TURK FHD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/37
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="TR: CNNTURK HD" tvg-logo="http://xui.bestipbox.com:8000/images/9be5659e9f709b1aa38073099f80d0cb.png" group-title="TURK HABER KANALLAR",TR: CNNTURK HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/566
-#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="TR: HABERTURK FHD" tvg-logo="http://xui.bestipbox.com:8000/images/77985ab74ab279502de14ecacbda4c3f.png" group-title="TURK HABER KANALLAR",TR: HABERTURK FHD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/38
-#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="TR: HABERTURK HD" tvg-logo="http://xui.bestipbox.com:8000/images/77985ab74ab279502de14ecacbda4c3f.png" group-title="TURK HABER KANALLAR",TR: HABERTURK HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/567
-#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU TV FHD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: SOZCU TV FHD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/173462
-#EXTINF:-1 tvg-id="SÖZCÜ TV" tvg-name="TR: SOZCU TV HD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: SOZCU TV HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/173463
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="TR: A HABER FHD" tvg-logo="http://xui.bestipbox.com:8000/images/41893c77d9928c2890603eccb22cc365.png" group-title="TURK HABER KANALLAR",TR: A HABER FHD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/39
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="TR: A HABER HD" tvg-logo="http://paris.bestipbox.com:8000/images/41893c77d9928c2890603eccb22cc365.png" group-title="TURK HABER KANALLAR",TR: A HABER HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/568
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TRT HABER FHD" tvg-logo="http://xui.bestipbox.com:8000/images/e7993144dad46965554cf5dde246fc9f.png" group-title="TURK HABER KANALLAR",TR: TRT HABER FHD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/40
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="http://xui.bestipbox.com:8000/images/e7993144dad46965554cf5dde246fc9f.png" group-title="TURK HABER KANALLAR",TR: TRT HABER HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/3864
-#EXTINF:-1 tvg-id="" tvg-name="TR : FLASH TV HD" tvg-logo="" group-title="TURK HABER KANALLAR",TR : FLASH TV HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/4539
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR : KRT FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/e32a94fc9f924b11f3457e920c3247f1.png" group-title="TURK HABER KANALLAR",TR : KRT FHD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/3865
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: KRT TV HD" tvg-logo="http://sweden.bestipbox.com:8000/images/e32a94fc9f924b11f3457e920c3247f1.png" group-title="TURK HABER KANALLAR",TR: KRT TV HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2442
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR : TV 100 FHD" tvg-logo="http://xui.bestipbox.com:8000/images/574b86ce3bedb4f4ec880490c59bdfb8.png" group-title="TURK HABER KANALLAR",TR : TV 100 FHD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/3849
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TV 100  HD" tvg-logo="http://xui.bestipbox.com:8000/images/574b86ce3bedb4f4ec880490c59bdfb8.png" group-title="TURK HABER KANALLAR",TR: TV 100  HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2561
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR : TELE 1 FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/12782da11ecdba5da91384b96d0f0275.png" group-title="TURK HABER KANALLAR",TR : TELE 1 FHD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2986
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TELE 1 HD" tvg-logo="http://sweden.bestipbox.com:8000/images/12782da11ecdba5da91384b96d0f0275.png" group-title="TURK HABER KANALLAR",TR: TELE 1 HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/1030
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: HABERGLOBAL FHD" tvg-logo="http://57tv.bestipbox.com:8000/images/943faf83f158bd16d442dafe2086f748.png" group-title="TURK HABER KANALLAR",TR: HABERGLOBAL FHD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/3850
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="TR: HABERGLOBAL TV HD" tvg-logo="http://57tv.bestipbox.com:8000/images/943faf83f158bd16d442dafe2086f748.png" group-title="TURK HABER KANALLAR",TR: HABERGLOBAL TV HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/1794
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: HALK TV FHD" tvg-logo="http://sweden.bestipbox.com:8000/images/be0cb5ff9ba0e54ad9e697c5f7f857d6.png" group-title="TURK HABER KANALLAR",TR: HALK TV FHD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2783
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: HALK TV HD" tvg-logo="http://sweden.bestipbox.com:8000/images/be0cb5ff9ba0e54ad9e697c5f7f857d6.png" group-title="TURK HABER KANALLAR",TR: HALK TV HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/256
-#EXTINF:-1 tvg-id="" tvg-name="TR: ARTI TV HD" tvg-logo="http://jacobs.mochaiptv.xyz:8000/images/6e0dea61f114b2248cf7f25030a2746d.png" group-title="TURK HABER KANALLAR",TR: ARTI TV HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2041
-#EXTINF:-1 tvg-id="TVNet.tr" tvg-name="TR: TV NET HD" tvg-logo="http://xui.bestipbox.com:8000/images/797b7737407da61f62bc49004442c92d.png" group-title="TURK HABER KANALLAR",TR: TV NET HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2242
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TGRT HABER HD" tvg-logo="http://57tv.bestipbox.com:8000/images/8160f6b5063b4e21cc78af959853716f.png" group-title="TURK HABER KANALLAR",TR: TGRT HABER HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/2138
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: ULKE TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/83532a518f2b75311b15faef1b5c6d23.png" group-title="TURK HABER KANALLAR",TR: ULKE TV HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/258
-#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-name="TR: ULUSAL KANAL HD" tvg-logo="http://germany.bestipbox.com:8000/images/998a273f32b0269f114b3418645f46c6.png" group-title="TURK HABER KANALLAR",TR: ULUSAL KANAL HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/1026
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: TV 24 HD" tvg-logo="http://xui.bestipbox.com:8000/images/066e9bf23a7302537ebd9350461c20a0.png" group-title="TURK HABER KANALLAR",TR: TV 24 HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/134
-#EXTINF:-1 tvg-id="24KitchenTurkey.us" tvg-name="TR: BLOOMBERGHT TV HD" tvg-logo="http://xui.bestipbox.com:8000/images/5e764ada1310891e9ce0d958f95d84fd.png" group-title="TURK HABER KANALLAR",TR: BLOOMBERGHT TV HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/133
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: FINANSTURK TV" tvg-logo="http://xui.bestipbox.com:8000/images/afa638f45f93c71e8d26ceeee62478a6.png" group-title="TURK HABER KANALLAR",TR: FINANSTURK TV
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/522
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: A PARA" tvg-logo="http://xui.bestipbox.com:8000/images/958c5e3d755339cf487aeb3ac3450923.png" group-title="TURK HABER KANALLAR",TR: A PARA
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/517
-#EXTINF:-1 tvg-id="24Kitchen" tvg-name="TR: BENGUTURK TV HD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: BENGUTURK TV HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/86220
-#EXTINF:-1 tvg-id="" tvg-name="TR: A NEWS HD" tvg-logo="" group-title="TURK HABER KANALLAR",TR: A NEWS HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/129574
-#EXTINF:-1 tvg-id="" tvg-name="TR: DHA LIVE" tvg-logo="" group-title="TURK HABER KANALLAR",TR: DHA LIVE
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/3762
+#EXTINF:-1 xui-id="4687" tvg-id="" tvg-name="||#(TR)HABER#||" tvg-logo="https://doksan.homes/l/90logo.png" group-title="TR.HABER",||#(TR)HABER#||
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsmKlD92cXTXFhQVMivTjItA
+#EXTINF:-1 xui-id="223" tvg-id="trthaber.tr" tvg-name="TR.TRT HABER нᴅ" tvg-logo="https://doksan.homes/l/trt_haber.png" group-title="TR.HABER",TR.TRT HABER нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsp__R4tonMoiqagJXORH2V0
+#EXTINF:-1 xui-id="6726" tvg-id="trthaber.tr" tvg-name="TR.TRT HABER ғнᴅ" tvg-logo="https://doksan.homes/l/trt_haber.png" group-title="TR.HABER",TR.TRT HABER ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsgcEOpuxts-netEwimcmlCQ
+#EXTINF:-1 xui-id="224" tvg-id="cnnturk.tr" tvg-name="TR.CNN TURK нᴅ" tvg-logo="https://doksan.homes/l/cnnturk.png" group-title="TR.HABER",TR.CNN TURK нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKspGf0GEhkNbsHYLv09NUoU8
+#EXTINF:-1 xui-id="6724" tvg-id="cnnturk.tr" tvg-name="TR.CNN TURK ғнᴅ" tvg-logo="https://doksan.homes/l/cnnturk.png" group-title="TR.HABER",TR.CNN TURK ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsu4bv5MWW0aqPmi1SGXvKBI
+#EXTINF:-1 xui-id="231" tvg-id="tv100.tr" tvg-name="TR.TV 100 нᴅ" tvg-logo="https://doksan.homes/l/TV100_logo.png" group-title="TR.HABER",TR.TV 100 нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKssu0PHjvk2dUB-x3DlV_Zl4
+#EXTINF:-1 xui-id="6731" tvg-id="tv100.tr" tvg-name="TR.TV 100 ғнᴅ" tvg-logo="https://doksan.homes/l/TV100_logo.png" group-title="TR.HABER",TR.TV 100 ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsr1gwZAk8BdVUnMlPPEDc00
+#EXTINF:-1 xui-id="225" tvg-id="ntv.tr" tvg-name="TR.NTV нᴅ" tvg-logo="https://doksan.homes/l/ntvlogo.png" group-title="TR.HABER",TR.NTV нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsoFhRo87J7M0DujEAvCjqMY
+#EXTINF:-1 xui-id="6723" tvg-id="ntv.tr" tvg-name="TR.NTV ғнᴅ" tvg-logo="https://doksan.homes/l/ntvlogo.png" group-title="TR.HABER",TR.NTV ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsiAq5MiAyzmhknmR1uAfKws
+#EXTINF:-1 xui-id="228" tvg-id="haberglobal.tr" tvg-name="TR.HABER GLOBAL нᴅ" tvg-logo="https://doksan.homes/l/haberglobal.png" group-title="TR.HABER",TR.HABER GLOBAL нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKspvAu5A1L1UgiLjM4qU3DTs
+#EXTINF:-1 xui-id="6293" tvg-id="haberglobal.tr" tvg-name="TR.HABER GLOBAL ғнᴅ" tvg-logo="https://doksan.homes/l/haberglobal.png" group-title="TR.HABER",TR.HABER GLOBAL ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsj9-9n1ngP5i0LJg3bu__bQ
+#EXTINF:-1 xui-id="6725" tvg-id="ahaber.tr" tvg-name="TR.A HABER нᴅ" tvg-logo="https://doksan.homes/l/ahaber.png" group-title="TR.HABER",TR.A HABER нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsnPtELR1_ImU6DlSI57rnsA
+#EXTINF:-1 xui-id="226" tvg-id="ahaber.tr" tvg-name="TR.A HABER ғнᴅ" tvg-logo="https://doksan.homes/l/ahaber.png" group-title="TR.HABER",TR.A HABER ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsk5sHUs5oi28GutZHaCjL3k
+#EXTINF:-1 xui-id="5149" tvg-id="24.tr" tvg-name="TR.KANAL 24 нᴅ" tvg-logo="https://doksan.homes/l/kanal24.png" group-title="TR.HABER",TR.KANAL 24 нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsl3-mwnrtSYTVidvt_tsrdM
+#EXTINF:-1 xui-id="232" tvg-id="24.tr" tvg-name="TR.KANAL 24 ғнᴅ" tvg-logo="https://doksan.homes/l/kanal24.png" group-title="TR.HABER",TR.KANAL 24 ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKskGXjgmPS_O7rQtMIDEKonk
+#EXTINF:-1 xui-id="227" tvg-id="haberturk.tr" tvg-name="TR.HABERTURK нᴅ" tvg-logo="https://doksan.homes/l/haberturk.png" group-title="TR.HABER",TR.HABERTURK нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsmclaPp8SWbjVQvqT6CXkgg
+#EXTINF:-1 xui-id="6728" tvg-id="haberturk.tr" tvg-name="TR.HABERTURK ғнᴅ" tvg-logo="https://doksan.homes/l/haberturk.png" group-title="TR.HABER",TR.HABERTURK ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsiPoomvvdDf3sIL-lwdH9v0
+#EXTINF:-1 xui-id="234" tvg-id="tgrthaber.tr" tvg-name="TR.TGRT HABER нᴅ" tvg-logo="https://doksan.homes/l/tgrthaber.png" group-title="TR.HABER",TR.TGRT HABER нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsjeKrD_SA2oMlHxeSHmnhM0
+#EXTINF:-1 xui-id="1402" tvg-id="tgrthaber.tr" tvg-name="TR.TGRT HABER ғнᴅ" tvg-logo="https://doksan.homes/l/tgrthaber.png" group-title="TR.HABER",TR.TGRT HABER ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKskQ64ffLjwwXLmGxNguabmU
+#EXTINF:-1 xui-id="233" tvg-id="ulketv.tr" tvg-name="TR.ULKE TV нᴅ" tvg-logo="https://doksan.homes/l/ulke-logo.png" group-title="TR.HABER",TR.ULKE TV нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsmZ7ZsAfOUBiu-RFDFSkahE
+#EXTINF:-1 xui-id="6727" tvg-id="ulketv.tr" tvg-name="TR.ULKE TV ғнᴅ" tvg-logo="https://doksan.homes/l/ulke-logo.png" group-title="TR.HABER",TR.ULKE TV ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsna5hMDGJVdtfVlJkEFjWns
+#EXTINF:-1 xui-id="235" tvg-id="tvnet.tr" tvg-name="TR.TVNET нᴅ" tvg-logo="https://doksan.homes/l/tvnetlogo.png" group-title="TR.HABER",TR.TVNET нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKskR4V-_XhJKLUuAK4kaApK8
+#EXTINF:-1 xui-id="6730" tvg-id="tvnet.tr" tvg-name="TR.TVNET ғнᴅ" tvg-logo="https://doksan.homes/l/tvnetlogo.png" group-title="TR.HABER",TR.TVNET ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsvkhxkKME5Ht2d_xZ2eopMw
+#EXTINF:-1 xui-id="230" tvg-id="halk.tr" tvg-name="TR.HALK TV нᴅ" tvg-logo="https://doksan.homes/l/halktv.png" group-title="TR.HABER",TR.HALK TV нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKss4TxpbBZnfVLGMnyfomNJY
+#EXTINF:-1 xui-id="5270" tvg-id="halk.tr" tvg-name="TR.HALK TV ғнᴅ" tvg-logo="https://doksan.homes/l/halktv.png" group-title="TR.HABER",TR.HALK TV ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsgEPAfGpqdjw81NZh5tBbK4
+#EXTINF:-1 xui-id="3711" tvg-id="" tvg-name="TR.SÖZCÜ" tvg-logo="https://doksan.homes/l/sozcutv.png" group-title="TR.HABER",TR.SÖZCÜ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKstwBU6Vqn6-OfcqhmjwDI9Q
+#EXTINF:-1 xui-id="7532" tvg-id="" tvg-name="TR.KRT TV нᴅ" tvg-logo="https://doksan.homes/l/krttv.png" group-title="TR.HABER",TR.KRT TV нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsjDyRxhiFQNSdB35Y0-spmU
+#EXTINF:-1 xui-id="236" tvg-id="" tvg-name="TR.KRT TV ғнᴅ" tvg-logo="https://doksan.homes/l/krttv.png" group-title="TR.HABER",TR.KRT TV ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKspYR7ps9P8PIL-xwLSa2MHQ
+#EXTINF:-1 xui-id="229" tvg-id="tele1.tr" tvg-name="TR.TELE 1 нᴅ" tvg-logo="https://doksan.homes/l/tele1tv.png" group-title="TR.HABER",TR.TELE 1 нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKslrg_QGJG5SCH6AVQj9hQVI
+#EXTINF:-1 xui-id="7504" tvg-id="" tvg-name="TR.TELE 1 ғнᴅ" tvg-logo="https://doksan.homes/l/tele1tv.png" group-title="TR.HABER",TR.TELE 1 ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsk53-zyyBj171BKe-VGClnY
+#EXTINF:-1 xui-id="6264" tvg-id="" tvg-name="TR.FLASH HABER" tvg-logo="https://doksan.homes/l/flashhaber.png" group-title="TR.HABER",TR.FLASH HABER
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsqq8DL3lvZMdo7qLTRA2TE8
+#EXTINF:-1 xui-id="237" tvg-id="" tvg-name="TR.A PARA нᴅ" tvg-logo="https://doksan.homes/l/apara.png" group-title="TR.HABER",TR.A PARA нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsivelrA4Peaa--NZL5P18iw
+#EXTINF:-1 xui-id="6298" tvg-id="" tvg-name="TR.A PARA ғнᴅ" tvg-logo="https://doksan.homes/l/apara.png" group-title="TR.HABER",TR.A PARA ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsklTEdU9qiApjmdyfc9sTmw
+#EXTINF:-1 xui-id="318" tvg-id="" tvg-name="TR.AKiT TV нᴅ" tvg-logo="https://doksan.homes/l/akittv.png" group-title="TR.HABER",TR.AKiT TV нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKshBjep_ChrXTGPj7ifh5bL8
+#EXTINF:-1 xui-id="239" tvg-id="bloomberght.tr" tvg-name="TR.BLOOMBERG HT нᴅ" tvg-logo="https://doksan.homes/l/bloomberghttv.png" group-title="TR.HABER",TR.BLOOMBERG HT нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKshT5Fox567F70TGChGYCdQc
+#EXTINF:-1 xui-id="6729" tvg-id="bloomberght.tr" tvg-name="TR.BLOOMBERG HT ғнᴅ" tvg-logo="https://doksan.homes/l/bloomberghttv.png" group-title="TR.HABER",TR.BLOOMBERG HT ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsmGZmZWmstBxBHkeI8D4JcQ
+#EXTINF:-1 xui-id="240" tvg-id="ekoturk.tr" tvg-name="TR.EKOTURK нᴅ" tvg-logo="https://doksan.homes/l/ekoturk.png" group-title="TR.HABER",TR.EKOTURK нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsp69lWrKf7k2Q5Eq8_L7jHQ
+#EXTINF:-1 xui-id="3700" tvg-id="" tvg-name="TR.EKOTURK ғнᴅ" tvg-logo="https://doksan.homes/l/ekoturk.png" group-title="TR.HABER",TR.EKOTURK ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKspkWSIfvlFwoNbCOWJXYgDU
+#EXTINF:-1 xui-id="5147" tvg-id="" tvg-name="TR.TURK HABER нᴅ" tvg-logo="https://doksan.homes/l/turkhabertv.png" group-title="TR.HABER",TR.TURK HABER нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKso86qJZPEt7_9wrTCBphN_g
+#EXTINF:-1 xui-id="5150" tvg-id="ulusalkanal.tr" tvg-name="TR.ULUSAL KANAL нᴅ" tvg-logo="https://doksan.homes/l/ulusalkanal.png" group-title="TR.HABER",TR.ULUSAL KANAL нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsgXqrEqlaH7UzFRp7FMOd50
+#EXTINF:-1 xui-id="246" tvg-id="benguturk.tr" tvg-name="TR.BENGUTURK TV нᴅ" tvg-logo="https://doksan.homes/l/benguturktv.png" group-title="TR.HABER",TR.BENGUTURK TV нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsliulLOqYd2jmu8kzfm4P-M
+#EXTINF:-1 xui-id="1969" tvg-id="benguturk.tr" tvg-name="TR.BENGUTURK TV ғнᴅ" tvg-logo="https://doksan.homes/l/benguturktv.png" group-title="TR.HABER",TR.BENGUTURK TV ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsuiotHVxYCy1WJUZfDKbc9o
+#EXTINF:-1 xui-id="5146" tvg-id="" tvg-name="TR.BUSINESS CHANNEL TÜRK нᴅ" tvg-logo="https://doksan.homes/l/businesschannelturk.png" group-title="TR.HABER",TR.BUSINESS CHANNEL TÜRK нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsk5tGJsGklKVJh58nqXzxu0
+#EXTINF:-1 xui-id="5145" tvg-id="" tvg-name="TR.TBMM TV ѕᴅ" tvg-logo="https://doksan.homes/l/tbmmtv.png" group-title="TR.HABER",TR.TBMM TV ѕᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsvHiSHNDyhpBxZezUyrMWIY
+#EXTINF:-1 xui-id="43" tvg-id="trtworld.tr" tvg-name="TR.TRT WORLD нᴅ" tvg-logo="https://doksan.homes/l/trtworld.png" group-title="TR.HABER",TR.TRT WORLD нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsumtZoGaKIXjCf4c-cJer88
+#EXTINF:-1 xui-id="6529" tvg-id="" tvg-name="TR.TRT WORLD ғнᴅ" tvg-logo="https://doksan.homes/l/trtworld.png" group-title="TR.HABER",TR.TRT WORLD ғнᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKstEHR3j-81HS3D0a44kudkg
+#EXTINF:-1 xui-id="4817" tvg-id="" tvg-name="TR.ANADOLU AJANSI FEED нᴅ" tvg-logo="https://doksan.homes/l/anadoluajansi.png" group-title="TR.HABER",TR.ANADOLU AJANSI FEED нᴅ
+https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKslJbasV-vPdAd7_egqUCzHw
 
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
