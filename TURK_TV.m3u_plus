@@ -87,7 +87,7 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K UHD
-http://dostiptv.com:80/live/HuseyinTurran/KhTZrC3sUJ5321/2307.ts
+http://dkzydk.site:80/vnZbpcmynMTc/fqQ4tDkDVSMQ/140721
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K FHD
 https://tsriptv.art:443/play/OUPbM__li3KXcNW61WemauSsAN_l6C0Mklvuc1Jbnx8
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-UHD",TRT 4K HD
@@ -141,9 +141,9 @@ http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/27
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 FHD
 https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
-http://mocha.mochaiptv.xyz:8000/zejnep-valintina/C738QK8aW3MA/308
+http://dkzydk.site:80/vnZbpcmynMTc/fqQ4tDkDVSMQ/140742
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
-http://dostiptv.com:80/HuseyinTurran/KhTZrC3sUJ5321/13
+http://dkzydk.site:80/vnZbpcmynMTc/fqQ4tDkDVSMQ/140744
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 FHD
 http://50.7.218.122:8080/tv85/index.m3u8
 
