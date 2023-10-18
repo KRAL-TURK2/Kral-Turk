@@ -455,45 +455,152 @@ https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKstEHR3j-81HS3D0a44kudkg
 https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKslJbasV-vPdAd7_egqUCzHw
 
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="MÜZİK KANALI" tvg-logo="https://i.resimyukle.xyz/QTcc4S.png",MAVIKARADENIZ HD
-http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="MÜZİK KANALI" tvg-logo="https://i.resimyukle.xyz/PBB7Lx.jpg",NR1 HD
-https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="MÜZİK KANALI" tvg-logo="https://i.resimyukle.xyz/MH7c3O.jpeg",NR1 TÜRK HD
-https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="MÜZİK KANALI" tvg-logo="https://i.resimyukle.xyz/cVa0V2.jpeg" tvg-id="TRTMuzik.tr",TRT MÜZIK HD
-https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="MÜZİK KANALI" tvg-logo="https://i.resimyukle.xyz/RWSaNc.png" tvg-id="DreamTurk.tr",DREAM TÜRK HD
-https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="MÜZİK KANALI" tvg-logo="https://i.resimyukle.xyz/55LeUG.jpg" tvg-id="PowerTV.tr",POWER TV HD
-https://mn-nl.mncdn.com/blutv_power2/live.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="MÜZİK KANALI" tvg-logo="https://i.resimyukle.xyz/3MUBRS.png" tvg-id="PowerTVTurk.tr",POWER TÜRK HD
-https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="MÜZİK KANALI" tvg-logo="https://i.resimyukle.xyz/dRffR0.png" tvg-id="KralPop.tr",KRAL POP HD
-http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="MÜZİK KANALI" tvg-logo="https://i.resimyukle.xyz/6BxQ6c.png" tvg-id="KralTV.tr",KRAL TV HD
-http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
-
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="MÜZİK KANALI" tvg-logo="" tvg-id="SatON",Sat-ON
-http://159.89.20.0/satontv3_hdtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="//// TR MUZIK KANALLARI ////" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",//// TR MUZIK KANALLARI ////
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31089
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ BONUSTV ARABESK" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ BONUSTV ARABESK
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/40158
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ BONUSTV 70-80-90lar" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ BONUSTV 70-80-90lar
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/40159
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ BONUSTV SANATMUZİGİ" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ BONUSTV SANATMUZİGİ
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/40160
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ BONUSTV AHMET KAYA" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ BONUSTV AHMET KAYA
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/40161
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ BONUSTV TURKU" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ BONUSTV TURKU
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/40162
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ BONUSTV FERDI TAYFUR" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ BONUSTV FERDI TAYFUR
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/40164
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ BONUSTV ARİF, CENGİZ, UMIT BABA" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ BONUSTV ARİF, CENGİZ, UMIT BABA
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/40165
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ BONUSTV UMIT BESEN" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ BONUSTV UMIT BESEN
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/40166
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ BONUSTV NILUFER NOSTALJI" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ BONUSTV NILUFER NOSTALJI
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/40167
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ BONUSTV ANKARALI TURGUT" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ BONUSTV ANKARALI TURGUT
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/40168
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ FASIL NEVIZADE GECELERI" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ FASIL NEVIZADE GECELERI
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/40169
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ Radyo Slow" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ Radyo Slow
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31090
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ Radyo Arabesk" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ Radyo Arabesk
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31091
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ Efkar Fm Canlı Radyo" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ Efkar Fm Canlı Radyo
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31092
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ REDBOX TURKCE POP" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ REDBOX TURKCE POP
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31093
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ REDBOX ARABESK TV" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ REDBOX ARABESK TV
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31094
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ ALEM RADYO" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ ALEM RADYO
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31095
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ DREAM TV" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ DREAM TV
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31096
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ DREAM TURK" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ DREAM TURK
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31097
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ NR1 TURK HD" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ NR1 TURK HD
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31098
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ NR 1 HD" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ NR 1 HD
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31099
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ KRAL POP HD+" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ KRAL POP HD+
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31100
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ KRAL TV HD" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ KRAL TV HD
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31101
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ POWER TURK HD" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ POWER TURK HD
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31102
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ POWER HD" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ POWER HD
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31103
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ MTV Live" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ MTV Live
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31104
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ MGC TV" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ MGC TV
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31105
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ MGC" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ MGC
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31106
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ TRT MUZiK HD+" tvg-logo="https://www.linkpicture.com/q/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ TRT MUZiK HD+
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/31107
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ ALEM FM RADYOLAND" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ ALEM FM RADYOLAND
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/44559
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ BONUSTV TURKU" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ BONUSTV TURKU
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/44593
+#EXTINF:-1 tvg-id="" tvg-name="Baba Radyo	Arabesk" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Baba Radyo	Arabesk
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45198
+#EXTINF:-1 tvg-id="" tvg-name="Best Fm	Türkçe Pop" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Best Fm	Türkçe Pop
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45199
+#EXTINF:-1 tvg-id="" tvg-name="Gönül	Türkü" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Gönül	Türkü
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45200
+#EXTINF:-1 tvg-id="" tvg-name="İmbat Fm	Arabesk" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",İmbat Fm	Arabesk
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45201
+#EXTINF:-1 tvg-id="" tvg-name="İstanbul Fm	Türkçe Pop" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",İstanbul Fm	Türkçe Pop
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45202
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Aspor" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo Aspor
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45205
+#EXTINF:-1 tvg-id="" tvg-name="KRAL FM" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",KRAL FM
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45206
+#EXTINF:-1 tvg-id="" tvg-name="Kral Fm	Arabesk" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Kral Fm	Arabesk
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45207
+#EXTINF:-1 tvg-id="" tvg-name="Kral Pop Radyo	Türkçe Pop" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Kral Pop Radyo	Türkçe Pop
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45208
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Rock" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo Rock
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45209
+#EXTINF:-1 tvg-id="" tvg-name="Number One Fm	Yabancı Müzik	Burda" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Number One Fm	Yabancı Müzik	Burda
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45210
+#EXTINF:-1 tvg-id="" tvg-name="Slow Karadeniz" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Slow Karadeniz
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45211
+#EXTINF:-1 tvg-id="" tvg-name="Pal Station	Yabancı Müzik" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Pal Station	Yabancı Müzik
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45212
+#EXTINF:-1 tvg-id="" tvg-name="Show Radyo" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Show Radyo
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45213
+#EXTINF:-1 tvg-id="" tvg-name="Power Fm	Yabancı Müzik" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Power Fm	Yabancı Müzik
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45214
+#EXTINF:-1 tvg-id="" tvg-name="Power Türk	Türkçe Pop" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Power Türk	Türkçe Pop
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45215
+#EXTINF:-1 tvg-id="" tvg-name="Radio Rock" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radio Rock
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45216
+#EXTINF:-1 tvg-id="" tvg-name="Radyo 45'lik	Türkçe Klasik" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo 45'lik	Türkçe Klasik
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45217
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Dejavu	Türkçe Klasik" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo Dejavu	Türkçe Klasik
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45218
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Arabesk" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo Arabesk
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45219
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Ege	Türkçe Pop" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo Ege	Türkçe Pop
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45220
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Fenomen	Yabancı Müzik" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo Fenomen	Yabancı Müzik
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45221
+#EXTINF:-1 tvg-id="" tvg-name="Radyo FG FM	Yabancı Müzik" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo FG FM	Yabancı Müzik
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45222
+#EXTINF:-1 tvg-id="" tvg-name="Radyo romantik" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo romantik
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45223
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Clup Mix" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo Clup Mix
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45224
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Türkü " tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo Türkü 
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45225
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Taksim" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Radyo Taksim
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45226
+#EXTINF:-1 tvg-id="" tvg-name="Retro Türk	Türkçe Klasik" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Retro Türk	Türkçe Klasik
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45227
+#EXTINF:-1 tvg-id="" tvg-name="Show Radyo	Türkçe Pop" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Show Radyo	Türkçe Pop
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45228
+#EXTINF:-1 tvg-id="" tvg-name="Slow Türk	Türkçe Pop" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Slow Türk	Türkçe Pop
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45229
+#EXTINF:-1 tvg-id="" tvg-name="Süper Fm	Türkçe Pop" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",Süper Fm	Türkçe Pop
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45230
+#EXTINF:-1 tvg-id="" tvg-name="X Nostalji	Türkçe Klasik" tvg-logo="https://i.hizliresim.com/l0yK74.png" group-title="TR➾ MUZIK&RADYO KANALLARI",X Nostalji	Türkçe Klasik
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/45232
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ ProTurk-45 Lik" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ ProTurk-45 Lik
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/88774
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ ProTurk-Zeki Müren" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ ProTurk-Zeki Müren
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/88809
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ ProTurk-Türkü" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ ProTurk-Türkü
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/88807
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ ProTurk-Slow" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ ProTurk-Slow
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/88805
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ ProTurk-Sanat Müziği" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ ProTurk-Sanat Müziği
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/88806
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ ProTurk-Rap" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ ProTurk-Rap
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/88804
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ ProTurk-Oyun Havası" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ ProTurk-Oyun Havası
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/88803
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ ProTurk-Meyhane Şarkıları" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ ProTurk-Meyhane Şarkıları
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/88801
+#EXTINF:-1 tvg-id="" tvg-name="TR➾ ProTurk-Pop" tvg-logo="https://www.linkpicture.com/q/XTdcry.jpg" group-title="TR➾ MUZIK&RADYO KANALLARI",TR➾ ProTurk-Pop
+http://xciptvplayer.xyz:8080/hasankcs9/275uvxbc2876@275bx/88802
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR➾ ProTurk-Masal" tvg-logo="https://www.linkpicture.com/q/IVosjG_1.jpg" group-title="TR➾ COCUK KANALLARI",TR➾ ProTurk-Masal
