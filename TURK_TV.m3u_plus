@@ -387,74 +387,22 @@ https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKstEHR3j-81HS3D0a44kudkg
 https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKslJbasV-vPdAd7_egqUCzHw
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZIK" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da94b" group-title="TURK MUZIK KANALLAR",TR: TRT MUZIK
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/1025
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV HD" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: KRAL TV HD
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/1806
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8bc" group-title="TURK MUZIK KANALLAR",TR: KRAL POP HD
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/380
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: DREAM TURK
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/1802
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWERTURK" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da824" group-title="TURK MUZIK KANALLAR",TR: POWERTURK
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/42
-#EXTINF:-1 tvg-id="" tvg-name="TR: NUMBER ONE TURK" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: NUMBER ONE TURK
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/547
-#EXTINF:-1 tvg-id="" tvg-name="TR:  NUMBER ONE DAMAR" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR:  NUMBER ONE DAMAR
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/4421
-#EXTINF:-1 tvg-id="" tvg-name="TR: NUMBER ONE" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: NUMBER ONE
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/1807
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TV" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: POWER TV
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/1808
-#EXTINF:-1 tvg-id="" tvg-name="TR: SILA AKUSTIK" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: SILA AKUSTIK
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/19324
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLU ANKARA " tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU ANKARA 
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/185320
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Ankara Mix" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Ankara Mix
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174375
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Slow Müzik" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Slow Müzik
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/185434
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Pop Müzik" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Pop Müzik
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174367
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP KARADENIZ TV" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP KARADENIZ TV
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/16779
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Bozlak" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Bozlak
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/185438
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Özgun Muzik" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Özgun Muzik
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/185437
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Türk Halk Müziği" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Türk Halk Müziği
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174374
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP TÜRKÜ" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP TÜRKÜ
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174376
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Ahmet Kaya" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Ahmet Kaya
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/16791
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Neşet Ertas" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Neşet Ertas
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174377
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Ferdi Tayfur" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Ferdi Tayfur
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174368
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Orhan Gencebay" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Orhan Gencebay
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174369
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Müslüm Gürses" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Müslüm Gürses
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174370
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Sezen Aksu" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Sezen Aksu
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174371
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Musa Eroğlu" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Musa Eroğlu
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174372
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Tufan Altaş" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Tufan Altaş
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174373
-#EXTINF:-1 tvg-id="" tvg-name="TR: XP Tarkan" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: XP Tarkan
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/2805
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLU POP " tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU POP 
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/185322
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLU 90 LAR " tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU 90 LAR 
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/185323
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLU ARABESK " tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU ARABESK 
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/185321
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLU MUZIK POP" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU MUZIK POP
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/17308
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLU DAMAR" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: BLU DAMAR
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/17310
-#EXTINF:-1 tvg-id="" tvg-name="TR: TATLISES TV" tvg-logo="" group-title="TURK MUZIK KANALLAR",TR: TATLISES TV
-http://mocha.mochaiptv.xyz:8000/adonisbestiptv/47RzDZSYfckn/174363
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KRAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/55/Kral_TV_logosu.png" group-title="TR➤ MUZIK",[TR] KRAL TV HD
+http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/77015
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KRAL POP HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kral_tr_pop_tv.png" group-title="TR➤ MUZIK",[TR] KRAL POP HD
+http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/77016
+#EXTINF:-1 tvg-id="" tvg-name="[TR] NUMBER 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/number1_tr_tv.png" group-title="TR➤ MUZIK",[TR] NUMBER 1 HD
+http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/77018
+#EXTINF:-1 tvg-id="" tvg-name="[TR] NUMBER 1 TURK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/number1_tr_tv_turk.png" group-title="TR➤ MUZIK",[TR] NUMBER 1 TURK HD
+http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/77019
+#EXTINF:-1 tvg-id="" tvg-name="[TR] POWER TURK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/power_turk_tr_tv.png" group-title="TR➤ MUZIK",[TR] POWER TURK HD
+http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/77025
+#EXTINF:-1 tvg-id="" tvg-name="[TR] DREAM TURK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dream_tv_tr_turk.png" group-title="TR➤ MUZIK",[TR] DREAM TURK HD
+http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/77026
+#EXTINF:-1 tvg-id="" tvg-name="[TR] POWER TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/power_tr_tv.png" group-title="TR➤ MUZIK",[TR] POWER TV HD
+http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/77031
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="[TR] TRT MUZIK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-muzik-tr.png" group-title="TR➤ MUZIK",[TR] TRT MUZIK HD
+http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/77033
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR➾ ProTurk-Masal" tvg-logo="https://www.linkpicture.com/q/IVosjG_1.jpg" group-title="TR➾ COCUK KANALLARI",TR➾ ProTurk-Masal
