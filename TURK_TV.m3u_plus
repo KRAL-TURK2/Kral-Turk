@@ -141,9 +141,9 @@ http://23.146.40.56:8000/Bluedcdzca4343sasxa/tXkS5lNfbgxsaxasx/17515
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 FHD
 https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
-http://dkzydk.site:80/vnZbpcmynMTc/fqQ4tDkDVSMQ/140742
+http://149.13.0.66:4002/tv8hd
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
-http://dkzydk.site:80/vnZbpcmynMTc/fqQ4tDkDVSMQ/140744
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/149475.ts
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 FHD
 http://50.7.218.122:8080/tv85/index.m3u8
 
