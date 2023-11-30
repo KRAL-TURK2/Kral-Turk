@@ -626,7 +626,59 @@ http://23.146.40.56:8000/Bluedcdzca4343sasxa/tXkS5lNfbgxsaxasx/17895
 http://23.146.40.56:8000/Bluedcdzca4343sasxa/tXkS5lNfbgxsaxasx/17889
 #EXTINF:-1 tvg-id="" tvg-name="Sinema Komedi HD" tvg-logo="" group-title="TURK SINEMA KANALLAR",Sinema Komedi HD
 http://23.146.40.56:8000/Bluedcdzca4343sasxa/tXkS5lNfbgxsaxasx/17887
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT KEMAL SUNAL TV 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT KEMAL SUNAL TV 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33980
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT KEMAL SUNAL TV 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT KEMAL SUNAL TV 2 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33981
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT KEMAL SUNAL TV 3 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT KEMAL SUNAL TV 3 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33982
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT YESILCAM 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT YESILCAM 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33986
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT CINEMA DRAMA HD" tvg-logo="" group-title="SİNEMA",TR: ELIT CINEMA DRAMA HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33995
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT CINEMA HITS HD" tvg-logo="" group-title="SİNEMA",TR: ELIT CINEMA HITS HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/33999
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME AKSIYON 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME AKSIYON 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34002
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME AKSIYON 2 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME AKSIYON 2 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34004
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME ANIMASYON 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME ANIMASYON 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34005
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME BİLİM KURGU HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME BİLİM KURGU HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34006
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME FANTASTIK HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME FANTASTIK HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34008
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME KOMEDI 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME KOMEDI 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34009
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME KORKU 1 HD" tvg-logo="" group-title="SİNEMA",TR: CINETIME KORKU 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34011
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV BILIM-KURGU HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV BILIM-KURGU HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34055
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV DRAM HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV DRAM HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34057
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV KOMEDI HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV KOMEDI HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34058
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SINEMA TV KORKU HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SINEMA TV KORKU HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34060
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT MOVIES PREMIER HD" tvg-logo="" group-title="SİNEMA",TR: ELIT MOVIES PREMIER HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34071
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT MOVIES PREMIER 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT MOVIES PREMIER 2 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34072
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART ACTION HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART ACTION HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34075
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART FANTASTİK HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART FANTASTİK HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34079
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PLATIN 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PLATIN 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34080
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PLATIN 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PLATIN 2 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34081
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PREMIUM 1 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PREMIUM 1 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34082
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART PREMIUM 2 HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART PREMIUM 2 HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34083
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART TURK HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART TURK HD
+http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34084
 
 #EXTM3U 
 #EXTINF:-1 tvg-id="" tvg-name="##### GERMANY #####" tvg-logo="" group-title="DE➤ GERMANY",##### GERMANY #####
