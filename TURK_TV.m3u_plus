@@ -160,11 +160,11 @@ https://tsriptv.art:443/play/OUPbM__li3KXcNW61WemanYQderHfsD-TfMEqjcVxQI
 #EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TÜRK UHD
 http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507940
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
-http://135.125.234.9:8081/eurod/index.m3u8
+http://aflaxtv.xyz:8080/argoni150Con/gPT9F27zGRXv3MfDqH5sY4/39324
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
 http://uptvbiz.com:8282/kenan/191115/4877
 #EXTINF:-1 TGRT AB group-title="ULUSAL-UHD", TGRT EU
-http://aca3b.tk:8080/Sltvde/fKrukLLw6Z6Au6As/25139
+https://tsriptv.art:443/play/OUPbM__li3KXcNW61Wemaqvn1cKIj5uupVVqyTvY10M
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
 https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsrBkcKfTLT_HcneNZgHxKxA
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV FHD
@@ -187,6 +187,8 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 GÜLDÜR GÜLDÜR TV group-title="ULUSAL-UHD" ,GÜLDÜR GÜLDÜR TV
 http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/415276
+#EXTINF:-1 tvg-id"" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",EXXEN TV
+http://aflaxtv.xyz:8080/argoni150Con/gPT9F27zGRXv3MfDqH5sY4/300384
 #EXTINF:-1 tvg-id"" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",ERSAN KUNERI
 http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/415280
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="ULUSAL-UHD",KONUŞANLAR TV1
