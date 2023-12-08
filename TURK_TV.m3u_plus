@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI", BeINSport Haber UHD
 http://hdlocal.de:8080/s1.tvtata33/alJYJyRKzt33dgfdvdddy344/10043
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber FHD
-https://tsriptv.art:443/play/gxNIm3oTc8UwQG9tiNKKsiPIkm4k8xxlOsuCWtuTJUE
+https://bozztv.com/inim03/live1/beinsportshaber/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
 http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507739
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
@@ -94,13 +94,13 @@ https://tsriptv.art:443/play/OUPbM__li3KXcNW61WemauSsAN_l6C0Mklvuc1Jbnx8
 https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsmcIcXVrYsv89i9mt-EzHc0
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 UHD
-https://tsriptv.art:443/play/OUPbM__li3KXcNW61Wemaj033ckKD0BmJn44Cz-WZoY
-#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
-http://116.202.238.88/TRT1_TR/index.m3u8
-#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title= "ULUSAL-UHD",TRT 1 HD
 http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507989
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
+https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title= "ULUSAL-UHD",TRT 1 HD
+http://116.202.238.88/TRT1_TR/index.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1
-https://doksan.futbol:443/play/80cxQYynzqMWeVsPce1OxQmoS-QIb6yc_Pm-IojYj0A
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV UHD
 http://www.x-changer.org:80/I6C0fraaqg/bpqt2DXHn2/24467
