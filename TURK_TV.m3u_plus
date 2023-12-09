@@ -1182,282 +1182,676 @@ http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34083
 #EXTINF:-1 tvg-id="" tvg-name="TR: ELIT SMART TURK HD" tvg-logo="" group-title="SİNEMA",TR: ELIT SMART TURK HD
 http://iptvsmarters.life:25461/cover/22yhQkYCAcyH/34084
 
-#EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="##### GERMANY #####" tvg-logo="" group-title="DE➤ GERMANY",##### GERMANY #####
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65514
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="[DE] DAS ERSTE HD+" tvg-logo="https://static.epg.best/de/ARD.de.png" group-title="DE➤ GERMANY",[DE] DAS ERSTE HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65515
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="[DE] ZDF HD+" tvg-logo="https://static.epg.best/de/ZDF.de.png" group-title="DE➤ GERMANY",[DE] ZDF HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65516
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] ZDF INFO HD" tvg-logo="https://static.epg.best/de/ZDFinfo.de.png" group-title="DE➤ GERMANY",[DE] ZDF INFO HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65518
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] ZDF NEO HD" tvg-logo="https://static.epg.best/de/ZDFneo.de.png" group-title="DE➤ GERMANY",[DE] ZDF NEO HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65519
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] PRO 7 HD+" tvg-logo="https://static.epg.best/de/Pro7.de.png" group-title="DE➤ GERMANY",[DE] PRO 7 HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65520
-#EXTINF:-1 tvg-id="ProSiebenMaxxGermany.de" tvg-name="[DE] PRO 7 Maxx HD+" tvg-logo="https://static.epg.best/de/ProSiebenMaxx.de.png" group-title="DE➤ GERMANY",[DE] PRO 7 Maxx HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65521
-#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="[DE] PRO 7 Fun HD+" tvg-logo="https://static.epg.best/de/ProSiebenFun.de.png" group-title="DE➤ GERMANY",[DE] PRO 7 Fun HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65522
-#EXTINF:-1 tvg-id="RTLGermany.de" tvg-name="[DE] RTL HD+" tvg-logo="https://static.epg.best/de/RTL.de.png" group-title="DE➤ GERMANY",[DE] RTL HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65523
-#EXTINF:-1 tvg-id="RTLLivingGermany.de" tvg-name="[DE] RTL LIVING HD+" tvg-logo="https://static.epg.best/de/RTLLiving.de.png" group-title="DE➤ GERMANY",[DE] RTL LIVING HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65524
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="[DE] RTL 2 HD+" tvg-logo="https://static.epg.best/de/RTL2.de.png" group-title="DE➤ GERMANY",[DE] RTL 2 HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65525
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] RTL PLUS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl_plus_hu.png" group-title="DE➤ GERMANY",[DE] RTL PLUS HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65526
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] SAT 1 HD+" tvg-logo="https://static.epg.best/de/Sat1.de.png" group-title="DE➤ GERMANY",[DE] SAT 1 HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65527
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] SAT 1 Gold HD+" tvg-logo="https://static.epg.best/de/Sat1Gold.de.png" group-title="DE➤ GERMANY",[DE] SAT 1 Gold HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65528
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] SAT 1 Emotions" tvg-logo="https://static.epg.best/de/Sat1Emotions.de.png" group-title="DE➤ GERMANY",[DE] SAT 1 Emotions
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65529
-#EXTINF:-1 tvg-id="SixxGermany.de" tvg-name="[DE] SIXX HD+" tvg-logo="https://static.epg.best/de/sixx.de.png" group-title="DE➤ GERMANY",[DE] SIXX HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65530
-#EXTINF:-1 tvg-id="VoxGermany.de" tvg-name="[DE] VOX HD+" tvg-logo="https://static.epg.best/de/Vox.de.png" group-title="DE➤ GERMANY",[DE] VOX HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65531
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] KABEL 1 HD+" tvg-logo="https://static.epg.best/de/Kabel1.de.png" group-title="DE➤ GERMANY",[DE] KABEL 1 HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65533
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] KABEL 1 CLASSICS HD+" tvg-logo="https://static.epg.best/de/KabelEinsClassic.de.png" group-title="DE➤ GERMANY",[DE] KABEL 1 CLASSICS HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65534
-#EXTINF:-1 tvg-id="" tvg-name="[DE] NITRO HD+" tvg-logo="" group-title="DE➤ GERMANY",[DE] NITRO HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65535
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] ANIXE FHD" tvg-logo="https://static.epg.best/de/Anixe.de.png" group-title="DE➤ GERMANY",[DE] ANIXE FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65537
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] ARTE FHD" tvg-logo="https://static.epg.best/de/ARTE.de.png" group-title="DE➤ GERMANY",[DE] ARTE FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65539
-#EXTINF:-1 tvg-id="RomanceTVGermany.de" tvg-name="[DE] ROMANCE TV HD" tvg-logo="https://static.epg.best/de/Romance.de.png" group-title="DE➤ GERMANY",[DE] ROMANCE TV HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65541
-#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="[DE] HEIMATKANAL" tvg-logo="https://static.epg.best/de/Heimatkanal.de.png" group-title="DE➤ GERMANY",[DE] HEIMATKANAL
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65540
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="[DE] TELE 5 FHD" tvg-logo="https://static.epg.best/de/Tele5.de.png" group-title="DE➤ GERMANY",[DE] TELE 5 FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65542
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] TLC HD+" tvg-logo="https://static.epg.best/de/TLC.de.png" group-title="DE➤ GERMANY",[DE] TLC HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65543
-#EXTINF:-1 tvg-id="One.de" tvg-name="[DE] One HD+" tvg-logo="https://static.epg.best/de/One.de.png" group-title="DE➤ GERMANY",[DE] One HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65545
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] WDR HD" tvg-logo="https://static.epg.best/de/WDR.de.png" group-title="DE➤ GERMANY",[DE] WDR HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65546
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] SONY CHANNEL HD" tvg-logo="https://static.epg.best/de/SonyEntertainmentTV.de.png" group-title="DE➤ GERMANY",[DE] SONY CHANNEL HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65548
-#EXTINF:-1 tvg-id="SonyAXN.de" tvg-name="[DE] SONY AXN HD" tvg-logo="" group-title="DE➤ GERMANY",[DE] SONY AXN HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65549
-#EXTINF:-1 tvg-id="SonnenklarTV.de" tvg-name="[DE] SONNENKLAR TV HD+" tvg-logo="https://static.epg.best/de/SonnenKlar.de.png" group-title="DE➤ GERMANY",[DE] SONNENKLAR TV HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65551
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] NDR HD" tvg-logo="https://static.epg.best/de/ndr.de.png" group-title="DE➤ GERMANY",[DE] NDR HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65555
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SWR BW  HD" tvg-logo="" group-title="DE➤ GERMANY",[DE] SWR BW  HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65556
-#EXTINF:-1 tvg-id="RBBBerlin.de" tvg-name="[DE] RBB HD" tvg-logo="https://static.epg.best/de/RBB.de.png" group-title="DE➤ GERMANY",[DE] RBB HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65558
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Baden Tv HD" tvg-logo="" group-title="DE➤ GERMANY",[DE] Baden Tv HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65560
-#EXTINF:-1 tvg-id="SilverlineMovieChannel.de" tvg-name="[DE] Silverline HD" tvg-logo="https://static.epg.best/de/Silverline.de.png" group-title="DE➤ GERMANY",[DE] Silverline HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65561
-#EXTINF:-1 tvg-id="" tvg-name="#### GERMANY CINEMA ####" tvg-logo="" group-title="DE➤ KINO",#### GERMANY CINEMA ####
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65605
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY CINEMA PREMIEREN HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY CINEMA PREMIEREN HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65606
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY CINEMA Nostalgie  HD+" tvg-logo="" group-title="DE➤ KINO",[DE] SKY CINEMA Nostalgie  HD+
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65607
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY CINEMA PREMIEREN 24 HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY CINEMA PREMIEREN 24 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65608
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY CINEMA FAMILY HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY CINEMA FAMILY HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65610
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY CINEMA ACTION HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY CINEMA ACTION HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65609
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Sky Cinema Best Of  HD" tvg-logo="" group-title="DE➤ KINO",[DE] Sky Cinema Best Of  HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65611
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY CINEMA SPECIAL HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY CINEMA SPECIAL HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65612
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY CINEMA FUN HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY CINEMA FUN HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65613
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY ATLANTIC HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY ATLANTIC HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65615
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY 1 HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY 1 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65617
-#EXTINF:-1 tvg-id="" tvg-name="[DE] CRIME INVESTIGATION" tvg-logo="" group-title="DE➤ KINO",[DE] CRIME INVESTIGATION
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65618
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY KRIMI HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY KRIMI HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65619
-#EXTINF:-1 tvg-id="RTLCrimeGermany.de" tvg-name="[DE] RTL CRIME HD" tvg-logo="https://static.epg.best/de/RTLCrime.de.png" group-title="DE➤ KINO",[DE] RTL CRIME HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65620
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] RTL PASSION FHD" tvg-logo="https://static.epg.best/de/RTLPassion.de.png" group-title="DE➤ KINO",[DE] RTL PASSION FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65622
-#EXTINF:-1 tvg-id="" tvg-name="[DE] WARNER COMEDY HD" tvg-logo="" group-title="DE➤ KINO",[DE] WARNER COMEDY HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65623
-#EXTINF:-1 tvg-id="" tvg-name="[DE] WARNER FILM HD" tvg-logo="" group-title="DE➤ KINO",[DE] WARNER FILM HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65624
-#EXTINF:-1 tvg-id="" tvg-name="[DE] WARNER SERIE HD" tvg-logo="" group-title="DE➤ KINO",[DE] WARNER SERIE HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65625
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] FOX HD" tvg-logo="https://static.epg.best/al/FOX.al.png" group-title="DE➤ KINO",[DE] FOX HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65626
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="[DE] 13TH STREET FHD" tvg-logo="https://static.epg.best/de/13thStreet.de.png" group-title="DE➤ KINO",[DE] 13TH STREET FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65627
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] SYFY HD" tvg-logo="https://static.epg.best/de/Syfy.de.png" group-title="DE➤ KINO",[DE] SYFY HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65628
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] UNIVERSAL TV HD" tvg-logo="https://static.epg.best/de/Universal.de.png" group-title="DE➤ KINO",[DE] UNIVERSAL TV HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65629
-#EXTINF:-1 tvg-id="KinoweltTV.de" tvg-name="[DE] KINOWELT TV" tvg-logo="https://static.epg.best/de/Kinowelt.de.png" group-title="DE➤ KINO",[DE] KINOWELT TV
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65630
-#EXTINF:-1 tvg-id="" tvg-name="[DE] COMEDY CENTRAL HD" tvg-logo="" group-title="DE➤ KINO",[DE] COMEDY CENTRAL HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65631
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SELECT 1 HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY SELECT 1 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65632
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SELECT 2 HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY SELECT 2 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65633
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SELECT 3 HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY SELECT 3 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65634
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SELECT 4 HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY SELECT 4 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65635
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SELECT 5 HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY SELECT 5 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65636
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SELECT 6 HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY SELECT 6 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65637
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SELECT 7 HD" tvg-logo="" group-title="DE➤ KINO",[DE] SKY SELECT 7 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65638
-#EXTINF:-1 tvg-id="" tvg-name="#### GERMANY SPORTS ####" tvg-logo="" group-title="DE➤ SPORT",#### GERMANY SPORTS ####
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65653
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] DAZN 1 BAR HD" tvg-logo="https://static.epg.best/de/DAZN.de.png" group-title="DE➤ SPORT",[DE] DAZN 1 BAR HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65654
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] DAZN 2 BAR HD" tvg-logo="https://static.epg.best/de/DAZN.de.png" group-title="DE➤ SPORT",[DE] DAZN 2 BAR HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65655
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT NEWS HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT NEWS HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65656
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 1 FHD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT 1 FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65657
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 1 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT 1 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65658
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 2 FHD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT 2 FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65659
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 2 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT 2 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65660
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 3 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT 3 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65661
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 4 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT 4 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65662
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 5 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT 5 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65663
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 6 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT 6 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65664
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 7 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT 7 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65665
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT BUNDESLIGA 1 FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65666
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT BUNDESLIGA 1 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT BUNDESLIGA 1 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65667
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT BUNDESLIGA 2 FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65668
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT BUNDESLIGA 2 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT BUNDESLIGA 2 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65669
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT BUNDESLIGA 3 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT BUNDESLIGA 3 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65670
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT BUNDESLIGA 4 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT BUNDESLIGA 4 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65671
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT BUNDESLIGA 5 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT BUNDESLIGA 5 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65672
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT BUNDESLIGA 6 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT BUNDESLIGA 6 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65673
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT BUNDESLIGA 7 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT BUNDESLIGA 7 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65674
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT BUNDESLIGA 8 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT BUNDESLIGA 8 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65675
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT BUNDESLIGA 9 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT BUNDESLIGA 9 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65676
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[DE] EUROSPORT 2 HD" tvg-logo="https://static.epg.best/de/Eurosport2.de.png" group-title="DE➤ SPORT",[DE] EUROSPORT 2 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65679
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] EUROSPORT 1 HD" tvg-logo="https://static.epg.best/de/Eurosport1.de.png" group-title="DE➤ SPORT",[DE] EUROSPORT 1 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65678
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="[DE] EUROSPORT 2 XTRA HD" tvg-logo="https://static.epg.best/de/Eurosport2.de.png" group-title="DE➤ SPORT",[DE] EUROSPORT 2 XTRA HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65680
-#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="[DE] MOTORVISION" tvg-logo="https://static.epg.best/de/MotorVision.de.png" group-title="DE➤ SPORT",[DE] MOTORVISION
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65681
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="[DE] SPORT 1 HD" tvg-logo="https://static.epg.best/de/Sport1.de.png" group-title="DE➤ SPORT",[DE] SPORT 1 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65683
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] SPORT DIGITAL  HD" tvg-logo="https://static.epg.best/de/sportdigital.de.png" group-title="DE➤ SPORT",[DE] SPORT DIGITAL  HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65684
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] FC BAYERN TV HD" tvg-logo="https://static.epg.best/de/FCBayernTV.de.png" group-title="DE➤ SPORT",[DE] FC BAYERN TV HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65685
-#EXTINF:-1 tvg-id="" tvg-name="[DE] Auto Motor Sport HD" tvg-logo="" group-title="DE➤ SPORT",[DE] Auto Motor Sport HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65706
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT F1 HD" tvg-logo="" group-title="DE➤ SPORT",[DE] SKY SPORT F1 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/76517
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] SERVUS TV FHD" tvg-logo="" group-title="DE➤ DOKU",[DE] SERVUS TV FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65536
-#EXTINF:-1 tvg-id="" tvg-name="##### GERMANY DOKU ######" tvg-logo="" group-title="DE➤ DOKU",##### GERMANY DOKU ######
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65570
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] NAT GEO WILD FHD" tvg-logo="https://static.epg.best/de/NatGeoWild.de.png" group-title="DE➤ DOKU",[DE] NAT GEO WILD FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65571
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] NAT GEO WILD HD" tvg-logo="https://static.epg.best/de/NatGeoWild.de.png" group-title="DE➤ DOKU",[DE] NAT GEO WILD HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65572
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] KABEL 1 DOKU FHD" tvg-logo="https://static.epg.best/de/KabelEinsDoku.de.png" group-title="DE➤ DOKU",[DE] KABEL 1 DOKU FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65573
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] KABEL 1 DOKU HD" tvg-logo="https://static.epg.best/de/KabelEinsDoku.de.png" group-title="DE➤ DOKU",[DE] KABEL 1 DOKU HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65574
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] DISCOVERY FHD" tvg-logo="https://static.epg.best/de/DiscoveryChannel.de.png" group-title="DE➤ DOKU",[DE] DISCOVERY FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65576
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] NAT GEO FHD" tvg-logo="https://static.epg.best/de/NatGeo.de.png" group-title="DE➤ DOKU",[DE] NAT GEO FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65578
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] DISCOVERY HD" tvg-logo="https://static.epg.best/de/DiscoveryChannel.de.png" group-title="DE➤ DOKU",[DE] DISCOVERY HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65577
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] NAT GEO HD" tvg-logo="https://static.epg.best/de/NatGeo.de.png" group-title="DE➤ DOKU",[DE] NAT GEO HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65579
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] HISTORY FHD" tvg-logo="https://static.epg.best/de/History.de.png" group-title="DE➤ DOKU",[DE] HISTORY FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65580
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] HISTORY HD" tvg-logo="https://static.epg.best/de/History.de.png" group-title="DE➤ DOKU",[DE] HISTORY HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65581
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] DMAX FHD" tvg-logo="https://static.epg.best/de/DMax.de.png" group-title="DE➤ DOKU",[DE] DMAX FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65582
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] DMAX HD" tvg-logo="https://static.epg.best/de/DMax.de.png" group-title="DE➤ DOKU",[DE] DMAX HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65583
-#EXTINF:-1 tvg-id="" tvg-name="[DE] A&E" tvg-logo="" group-title="DE➤ DOKU",[DE] A&E
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65585
-#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="[DE] N24 DOKU" tvg-logo="https://static.epg.best/de/N24Doku.de.png" group-title="DE➤ DOKU",[DE] N24 DOKU
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65586
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] ANIMAL PLANET FHD" tvg-logo="https://static.epg.best/de/AnimalPlanet.de.png" group-title="DE➤ DOKU",[DE] ANIMAL PLANET FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65587
-#EXTINF:-1 tvg-id="WeltderWunderTV.de" tvg-name="[DE] WELT DER WUNDER HD" tvg-logo="https://static.epg.best/de/WeltDerWunder.de.png" group-title="DE➤ DOKU",[DE] WELT DER WUNDER HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65588
-#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="[DE] SPIEGEL GESCHICHTE FHD" tvg-logo="https://static.epg.best/de/SpiegelGeschichte.de.png" group-title="DE➤ DOKU",[DE] SPIEGEL GESCHICHTE FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65589
-#EXTINF:-1 tvg-id="SpiegelTVWissen.de" tvg-name="[DE] SPIEGEL TV WISSEN" tvg-logo="https://static.epg.best/de/SpiegelTVWissen.de.png" group-title="DE➤ DOKU",[DE] SPIEGEL TV WISSEN
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65590
-#EXTINF:-1 tvg-id="" tvg-name="##### GERMANY NEWS ######" tvg-logo="" group-title="DE➤ NEWS",##### GERMANY NEWS ######
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/52322
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] N-TV FHD" tvg-logo="https://static.epg.best/de/ntv.de.png" group-title="DE➤ NEWS",[DE] N-TV FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/52324
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] N-TV HD" tvg-logo="https://static.epg.best/de/ntv.de.png" group-title="DE➤ NEWS",[DE] N-TV HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/52325
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="[DE] WELT/ N24 HD" tvg-logo="https://static.epg.best/de/Welt.de.png" group-title="DE➤ NEWS",[DE] WELT/ N24 HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/52327
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] Euronews Germany" tvg-logo="https://static.epg.best/de/Euronews.de.png" group-title="DE➤ NEWS",[DE] Euronews Germany
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/52330
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="[DE] WELT/ N24 FHD" tvg-logo="https://static.epg.best/de/Welt.de.png" group-title="DE➤ NEWS",[DE] WELT/ N24 FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/52326
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="[DE] PHOENIX" tvg-logo="https://static.epg.best/de/Phoenix.de.png" group-title="DE➤ NEWS",[DE] PHOENIX
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/52331
-#EXTINF:-1 tvg-id="" tvg-name="##### GERMANY KINDER ######" tvg-logo="" group-title="DE➤ KINDER",##### GERMANY KINDER ######
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65591
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] BOOMERANG" tvg-logo="https://static.epg.best/de/Boomerang.de.png" group-title="DE➤ KINDER",[DE] BOOMERANG
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65592
-#EXTINF:-1 tvg-id="CartoonNetworkGermany.de" tvg-name="[DE] CARTOON NETWORK" tvg-logo="https://static.epg.best/de/CartoonNetwork.de.png" group-title="DE➤ KINDER",[DE] CARTOON NETWORK
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65593
-#EXTINF:-1 tvg-id="DisneyChannelGermany.de" tvg-name="[DE] DISNEY CHANNEL HD" tvg-logo="https://static.epg.best/de/DisneyChannel.de.png" group-title="DE➤ KINDER",[DE] DISNEY CHANNEL HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65594
-#EXTINF:-1 tvg-id="" tvg-name="[DE] DISNEY JUNIOR FHD" tvg-logo="" group-title="DE➤ KINDER",[DE] DISNEY JUNIOR FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65595
-#EXTINF:-1 tvg-id="DisneyChannelGermany.de" tvg-name="[DE] Disney Channel" tvg-logo="https://static.epg.best/de/DisneyChannel.de.png" group-title="DE➤ KINDER",[DE] Disney Channel
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65596
-#EXTINF:-1 tvg-id="KIKA.de" tvg-name="[DE] KIKA FHD" tvg-logo="https://static.epg.best/de/Kika.de.png" group-title="DE➤ KINDER",[DE] KIKA FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65598
-#EXTINF:-1 tvg-id="NickGermany.de" tvg-name="[DE] Nicktoons HD" tvg-logo="https://static.epg.best/de/Nicktoons.de.png" group-title="DE➤ KINDER",[DE] Nicktoons HD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65599
-#EXTINF:-1 tvg-id="NickGermany.de" tvg-name="[DE] NICKELODEON" tvg-logo="https://static.epg.best/de/Nickelodeon.de.png" group-title="DE➤ KINDER",[DE] NICKELODEON
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65600
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="[DE] SUPER RTL FHD" tvg-logo="https://static.epg.best/de/SuperRTL.de.png" group-title="DE➤ KINDER",[DE] SUPER RTL FHD
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65601
-#EXTINF:-1 tvg-id="ToggoPlus.de" tvg-name="[DE] TOGGO PLUS" tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" group-title="DE➤ KINDER",[DE] TOGGO PLUS
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65602
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="[DE] Baby TV" tvg-logo="https://static.epg.best/de/BabyTV.de.png" group-title="DE➤ KINDER",[DE] Baby TV
-http://onlineders3.live:8080/serdarcan/p28dWqX352H0bKtCaqbZuz/65604
+#EXTM3U
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="SKY CINEMA ACTION HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-action-de.png" group-title="DE / SKY",SKY CINEMA ACTION HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/391
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="SKY CINEMA THRILLER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-thriller-de.png" group-title="DE / SKY",SKY CINEMA THRILLER HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/392
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="SKY CINEMA PREMIEREN 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-premieren-plus24-de.png" group-title="DE / SKY",SKY CINEMA PREMIEREN 24 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/393
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="SKY ATLANTIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-atlantic-de.png" group-title="DE / SKY",SKY ATLANTIC HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/394
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="SKY CINEMA CLASSICS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-classics-de.png" group-title="DE / SKY",SKY CINEMA CLASSICS HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/396
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="SKY CINEMA BEST OF HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-best-of-de.png" group-title="DE / SKY",SKY CINEMA BEST OF HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/397
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="SKY CINEMA PREMIEREN  HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-premieren-de.png" group-title="DE / SKY",SKY CINEMA PREMIEREN  HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/398
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-family-de.png" group-title="DE / SKY",SKY CINEMA FAMILY HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/399
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="SKY CINEMA FUN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-fun-de.png" group-title="DE / SKY",SKY CINEMA FUN HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/400
+#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="SKY CINEMA SPECIAL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-special-de.png" group-title="DE / SKY",SKY CINEMA SPECIAL HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9559
+#EXTINF:-1 tvg-id="skyreplay.de" tvg-name="SKY REPLAY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-replay-de.png" group-title="DE / SKY",SKY REPLAY HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/17135
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="SKY 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-one-de.png" group-title="DE / SKY",SKY 1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/401
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="SKY KRIMI HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-krimi-de.png" group-title="DE / SKY",SKY KRIMI HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/404
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="SKY 13TH STREET HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/13th_street_de.png" group-title="DE / SKY",SKY 13TH STREET HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/405
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="SKY HEIMAT KANAL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/heimatkanal_de.png" group-title="DE / SKY",SKY HEIMAT KANAL
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/406
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="DE / SKY",SKY SELECT 1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/15834
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="DE / SKY",SKY SELECT 2 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/15835
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="DE / SKY",SKY SELECT 3 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/15836
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="DE / SKY",SKY SELECT 4 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/15837
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="DE / SKY",SKY SELECT 5 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/15838
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="DE / SKY",SKY SELECT 6 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/15839
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="DE / SKY",SKY SELECT 7 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/15840
+#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Sky_Select_DE_Logo_2016.png" group-title="DE / SKY",SKY SELECT 8 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/15841
+#EXTINF:-1 tvg-id="" tvg-name="MAX SELECT 1 HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX SELECT 1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31494
+#EXTINF:-1 tvg-id="" tvg-name="MAX SELECT 2 HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX SELECT 2 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31495
+#EXTINF:-1 tvg-id="" tvg-name="MAX SELECT 3 HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX SELECT 3 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31496
+#EXTINF:-1 tvg-id="" tvg-name="MAX SELECT 4 HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX SELECT 4 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31497
+#EXTINF:-1 tvg-id="" tvg-name="MAX SELECT 5 HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX SELECT 5 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31498
+#EXTINF:-1 tvg-id="" tvg-name="MAX 007 HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX 007 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/27755
+#EXTINF:-1 tvg-id="" tvg-name="MAX STAR WARS HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX STAR WARS HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/27756
+#EXTINF:-1 tvg-id="" tvg-name="MAX Premiere HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX Premiere HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31499
+#EXTINF:-1 tvg-id="" tvg-name="MAX KINO COLLECTION" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX KINO COLLECTION
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31500
+#EXTINF:-1 tvg-id="" tvg-name="MAX KINO HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX KINO HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31501
+#EXTINF:-1 tvg-id="" tvg-name="MAX KINO 2 HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX KINO 2 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31502
+#EXTINF:-1 tvg-id="" tvg-name="MAX KINO 3 HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX KINO 3 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31503
+#EXTINF:-1 tvg-id="" tvg-name="MAX KINO 4 HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX KINO 4 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31504
+#EXTINF:-1 tvg-id="" tvg-name="MAX KINO 5 HD" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",MAX KINO 5 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31505
+#EXTINF:-1 tvg-id="" tvg-name="Max Select 1 4K" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",Max Select 1 4K
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31506
+#EXTINF:-1 tvg-id="" tvg-name="Max Select 2 4K" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",Max Select 2 4K
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31507
+#EXTINF:-1 tvg-id="" tvg-name="Max Select 3 4K" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",Max Select 3 4K
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31508
+#EXTINF:-1 tvg-id="" tvg-name="Max Select 4 4K" tvg-logo="https://s20.directupload.net/images/221217/sciuotkt.png" group-title="DE / SKY",Max Select 4 4K
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/31509
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX CINEMA
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32550
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX ACTION
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32540
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX ANIMATION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX ANIMATION
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32541
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX HORROR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX HORROR
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32544
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX HITS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX HITS
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32539
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX HARRY POTTER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX HARRY POTTER
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32543
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX MARVEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX MARVEL
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32547
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX MITTELERDE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX MITTELERDE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32548
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX COMEDY
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32551
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX FAMILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX FAMILE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32552
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX LIAM NEESON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX LIAM NEESON
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32546
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX JAMES BOND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX JAMES BOND
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32545
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX SYLVESTER STALLONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX SYLVESTER STALLONE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32549
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX BRUCE WILLIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Filmax_red.png" group-title="DE / SKY",FILMAX BRUCE WILLIS
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32542
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY ACTION" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY ACTION
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/6606
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY COMEDY" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY COMEDY
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/6607
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY VISION" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY VISION
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/6608
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY DISNEY+" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY DISNEY+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/20001
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY NETFLIX" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY NETFLIX
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19999
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KRIEGS" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY KRIEGS
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/20000
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY HORROR" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY HORROR
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/6611
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY DRAMA" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY DRAMA
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/6609
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY FAMILE" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY FAMILE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/6610
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY LIEBESFILM" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY LIEBESFILM
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/6612
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY SCIENCE" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY SCIENCE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/6613
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY THRILLER" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY THRILLER
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/6614
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY BESONDERE 1 HD" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY BESONDERE 1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/12087
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY BESONDERE 2 HD" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY BESONDERE 2 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/12088
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY BESONDERE 3 HD" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY BESONDERE 3 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/12089
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY BESONDERE 4 HD" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY BESONDERE 4 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/12090
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY BESONDERE 5 HD" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY BESONDERE 5 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/12091
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONiG 1" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY KONiG 1
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/21214
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONiG 2" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY KONiG 2
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/21215
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONiG 3" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY KONiG 3
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/21216
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONiG 4" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY KONiG 4
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/21217
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONiG 5" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY KONiG 5
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/21218
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONiG 6" tvg-logo="https://www.germanfilmsquarterly.de/style/images/gf/german_films_logo.png" group-title="DE / SKY",GERMANY KONiG 6
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/21219
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="BUNDESLIGA 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 1
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/534
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="BUNDESLIGA 1 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 1 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/536
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="BUNDESLIGA 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 2
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/537
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="BUNDESLIGA 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 2 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/538
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="BUNDESLIGA 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 3
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/539
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="BUNDESLIGA 3 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 3 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/540
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="BUNDESLIGA 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 4
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/541
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="BUNDESLIGA 4 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 4 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/542
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="BUNDESLIGA 5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 5
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/543
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="BUNDESLIGA 5 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 5 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/544
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="BUNDESLIGA 6" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 6
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/545
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="BUNDESLIGA 6 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 6 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/546
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="BUNDESLIGA 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 7
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/547
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="BUNDESLIGA 7 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 7 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/548
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="BUNDESLIGA 8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 8
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/549
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="BUNDESLIGA 8 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 8 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/550
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="BUNDESLIGA 9" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 9
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/551
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="BUNDESLIGA 9 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 9 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/552
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="BUNDESLIGA 10 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DE / SKY SPORT",BUNDESLIGA 10 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/554
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="SKY SPORT F1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="DE / SKY SPORT",SKY SPORT F1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9537
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="SKY SPORT F1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-de.png" group-title="DE / SKY SPORT",SKY SPORT F1 HD+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9538
+#EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="SKY SPORT NEWS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-news-de.png" group-title="DE / SKY SPORT",SKY SPORT NEWS HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/580
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="SKY SPORT 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/556
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="SKY SPORT 1 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 1 FULL HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/557
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="SKY SPORT 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 2 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/559
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="SKY SPORT 2 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 2 FULL HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/560
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="SKY SPORT 3 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 3 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/561
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="SKY SPORT 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 3
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/562
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="SKY SPORT 4 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 4 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/563
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="SKY SPORT 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 4
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/564
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="SKY SPORT 5 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 5 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/565
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="SKY SPORT 5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 5
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/566
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="SKY SPORT 6 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 6 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/567
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="SKY SPORT 6" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 6
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/568
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="SKY SPORT 7 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 7 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/569
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="SKY SPORT 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 7
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/570
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="SKY SPORT 8 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 8 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/571
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="SKY SPORT 8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 8
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/572
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="SKY SPORT 9 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 9 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/573
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="SKY SPORT 10 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT 10 FHD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/574
+#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="SKY SPORT PREMIER LEAGUE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-premier-league-uk.png" group-title="DE / SKY SPORT",SKY SPORT PREMIER LEAGUE HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/21077
+#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="SKY SPORT TENNIS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-tennis-it.png" group-title="DE / SKY SPORT",SKY SPORT TENNIS HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/21076
+#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="SKY SPORT TOP EVENT HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-top-event-de.png" group-title="DE / SKY SPORT",SKY SPORT TOP EVENT HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/21080
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="SKY SPORT GOLF HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png" group-title="DE / SKY SPORT",SKY SPORT GOLF HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/21078
+#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="SKY SPORT MIX HD" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-mix-vector-logo-2021.png" group-title="DE / SKY SPORT",SKY SPORT MIX HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/21079
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DAZN 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN 1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/581
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DAZN 1 FUL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN 1 FUL HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/582
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DAZN 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN 2 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/583
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DAZN 2 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN 2 FULL HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/584
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="SPORTDIGITAL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportdigital-fussball-de.png" group-title="DE / SKY SPORT",SPORTDIGITAL
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/17144
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="DE / SKY SPORT",SKY SPORT AUSTRIA 1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9005
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="DE / SKY SPORT",SKY SPORT AUSTRIA 2 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9006
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="DE / SKY SPORT",SKY SPORT AUSTRIA 3 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9007
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="DE / SKY SPORT",SKY SPORT AUSTRIA 4 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9008
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="DE / SKY SPORT",SKY SPORT AUSTRIA 5 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/27608
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 6 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="DE / SKY SPORT",SKY SPORT AUSTRIA 6 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/27609
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 7 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="DE / SKY SPORT",SKY SPORT AUSTRIA 7 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/27610
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="EUROSPORT 1 DE" tvg-logo="https://resmim.net/cdn/2023/03/26/2zRNI.png" group-title="DE / SKY SPORT",EUROSPORT 1 DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/585
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="EUROSPORT 1 DE (2K)" tvg-logo="https://resmim.net/cdn/2023/03/26/2zRNI.png" group-title="DE / SKY SPORT",EUROSPORT 1 DE (2K)
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/586
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="EUROSPORT 2 DE" tvg-logo="https://resmim.net/cdn/2023/03/26/2zsob.png" group-title="DE / SKY SPORT",EUROSPORT 2 DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/587
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="EUROSPORT 2 DE (2K)" tvg-logo="https://resmim.net/cdn/2023/03/26/2zsob.png" group-title="DE / SKY SPORT",EUROSPORT 2 DE (2K)
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/588
+#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="EUROSPORT 2 XTRA HD" tvg-logo="http://static.epgguide.net/icon/eurosport2xtra.de.png" group-title="DE / SKY SPORT",EUROSPORT 2 XTRA HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/589
+#EXTINF:-1 tvg-id="" tvg-name="FIGHTBOXX  HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fight_box_hd.png" group-title="DE / SKY SPORT",FIGHTBOXX  HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/7635
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="SPORT1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport1_de.png" group-title="DE / SKY SPORT",SPORT1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/590
+#EXTINF:-1 tvg-id="" tvg-name="ORF SPORT  HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/orf_sport_plus.png" group-title="DE / SKY SPORT",ORF SPORT  HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/592
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="MOTORVISION TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motorvision-tv-de.png" group-title="DE / SKY SPORT",MOTORVISION TV
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/593
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="https://ia600809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png" group-title="DE / SKY SPORT",SKY SPORTS CRICKET HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/18728
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET HD" tvg-logo="http://seeklogo.com/images/C/cricket-logo-DC6957DD66-seeklogo.com.png" group-title="DE / SKY SPORT",WILLOW CRICKET HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/18729
+#EXTINF:-1 tvg-id="" tvg-name="AMOZON PRiME SPORTS" tvg-logo="" group-title="DE / SKY SPORT",AMOZON PRiME SPORTS
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/27437
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 1
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19308
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 2
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19309
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 3
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19310
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 4
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19311
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 5
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19312
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 6" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 6
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19313
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 7
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19314
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 8
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19315
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 9" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 9
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19316
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 10" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 10
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19317
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 11" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 11
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19318
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 12" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 12
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19319
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 13" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 13
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19320
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 14" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 14
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19321
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 15" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 15
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19322
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 16" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 16
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19323
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Event 17" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png" group-title="DE / SKY SPORT",DAZN Event 17
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19324
+#EXTINF:-1 tvg-id="" tvg-name="RTL EVENT 1 HD+" tvg-logo="https://www.volotv.com/media/images/tvlogo/rtltv-hdtvler-hl08.png" group-title="DE / SKY SPORT",RTL EVENT 1 HD+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/23861
+#EXTINF:-1 tvg-id="" tvg-name="RTL EVENT 2 HD+" tvg-logo="https://www.volotv.com/media/images/tvlogo/rtltv-hdtvler-hl08.png" group-title="DE / SKY SPORT",RTL EVENT 2 HD+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/23862
+#EXTINF:-1 tvg-id="" tvg-name="RTL EVENT 3 HD+" tvg-logo="https://www.volotv.com/media/images/tvlogo/rtltv-hdtvler-hl08.png" group-title="DE / SKY SPORT",RTL EVENT 3 HD+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/23863
+#EXTINF:-1 tvg-id="" tvg-name="RTL EVENT 4 HD+" tvg-logo="https://www.volotv.com/media/images/tvlogo/rtltv-hdtvler-hl08.png" group-title="DE / SKY SPORT",RTL EVENT 4 HD+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/23864
+#EXTINF:-1 tvg-id="" tvg-name="RTL EVENT 5 HD+" tvg-logo="https://www.volotv.com/media/images/tvlogo/rtltv-hdtvler-hl08.png" group-title="DE / SKY SPORT",RTL EVENT 5 HD+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/23865
+#EXTINF:-1 tvg-id="" tvg-name="RTL EVENT 6 HD+" tvg-logo="https://www.volotv.com/media/images/tvlogo/rtltv-hdtvler-hl08.png" group-title="DE / SKY SPORT",RTL EVENT 6 HD+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/23866
+#EXTINF:-1 tvg-id="" tvg-name="RTL EVENT 7 HD+" tvg-logo="https://www.volotv.com/media/images/tvlogo/rtltv-hdtvler-hl08.png" group-title="DE / SKY SPORT",RTL EVENT 7 HD+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/23867
+#EXTINF:-1 tvg-id="" tvg-name="RTL EVENT 8 HD+" tvg-logo="https://www.volotv.com/media/images/tvlogo/rtltv-hdtvler-hl08.png" group-title="DE / SKY SPORT",RTL EVENT 8 HD+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/23868
+#EXTINF:-1 tvg-id="" tvg-name="RTL EVENT 9 HD+" tvg-logo="https://www.volotv.com/media/images/tvlogo/rtltv-hdtvler-hl08.png" group-title="DE / SKY SPORT",RTL EVENT 9 HD+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/23869
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="RTL EVENT 10 HD+" tvg-logo="https://www.volotv.com/media/images/tvlogo/rtltv-hdtvler-hl08.png" group-title="DE / SKY SPORT",RTL EVENT 10 HD+
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/23870
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 1 HD" tvg-logo="https://www.dfb.de/fileadmin/user_upload/1T1_logo_rgb_p_04.png" group-title="DE / SKY SPORT",Telekom Fussball 1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19325
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 2 HD" tvg-logo="https://www.dfb.de/fileadmin/user_upload/1T1_logo_rgb_p_04.png" group-title="DE / SKY SPORT",Telekom Fussball 2 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19326
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 3 HD" tvg-logo="https://www.dfb.de/fileadmin/user_upload/1T1_logo_rgb_p_04.png" group-title="DE / SKY SPORT",Telekom Fussball 3 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19327
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 4 HD" tvg-logo="https://www.dfb.de/fileadmin/user_upload/1T1_logo_rgb_p_04.png" group-title="DE / SKY SPORT",Telekom Fussball 4 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19328
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 5 HD" tvg-logo="https://www.dfb.de/fileadmin/user_upload/1T1_logo_rgb_p_04.png" group-title="DE / SKY SPORT",Telekom Fussball 5 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19329
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 6 HD" tvg-logo="https://www.dfb.de/fileadmin/user_upload/1T1_logo_rgb_p_04.png" group-title="DE / SKY SPORT",Telekom Fussball 6 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19330
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 7 HD" tvg-logo="https://www.dfb.de/fileadmin/user_upload/1T1_logo_rgb_p_04.png" group-title="DE / SKY SPORT",Telekom Fussball 7 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19331
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fussball 8 HD" tvg-logo="https://www.dfb.de/fileadmin/user_upload/1T1_logo_rgb_p_04.png" group-title="DE / SKY SPORT",Telekom Fussball 8 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19332
+#EXTINF:-1 tvg-id="" tvg-name="TELEKOM EISHOCKEY 1 (HD)" tvg-logo="https://imgyukle.com/f/2022/12/10/JgaOKU.png" group-title="DE / SKY SPORT",TELEKOM EISHOCKEY 1 (HD)
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19333
+#EXTINF:-1 tvg-id="" tvg-name="TELEKOM EISHOCKEY 2 (HD)" tvg-logo="https://imgyukle.com/f/2022/12/10/JgaOKU.png" group-title="DE / SKY SPORT",TELEKOM EISHOCKEY 2 (HD)
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19334
+#EXTINF:-1 tvg-id="" tvg-name="TELEKOM EISHOCKEY 3 (HD)" tvg-logo="https://imgyukle.com/f/2022/12/10/JgaOKU.png" group-title="DE / SKY SPORT",TELEKOM EISHOCKEY 3 (HD)
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19335
+#EXTINF:-1 tvg-id="" tvg-name="TELEKOM EISHOCKEY 4 (HD)" tvg-logo="https://imgyukle.com/f/2022/12/10/JgaOKU.png" group-title="DE / SKY SPORT",TELEKOM EISHOCKEY 4 (HD)
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19336
+#EXTINF:-1 tvg-id="" tvg-name="3. FUSSBALL-LIGA 1" tvg-logo="https://imgyukle.com/f/2022/12/10/JgahbI.png" group-title="DE / SKY SPORT",3. FUSSBALL-LIGA 1
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19337
+#EXTINF:-1 tvg-id="" tvg-name="3. FUSSBALL-LIGA 2" tvg-logo="https://imgyukle.com/f/2022/12/10/JgahbI.png" group-title="DE / SKY SPORT",3. FUSSBALL-LIGA 2
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19338
+#EXTINF:-1 tvg-id="" tvg-name="3. FUSSBALL-LIGA 3" tvg-logo="https://imgyukle.com/f/2022/12/10/JgahbI.png" group-title="DE / SKY SPORT",3. FUSSBALL-LIGA 3
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19339
+#EXTINF:-1 tvg-id="" tvg-name="3. FUSSBALL-LIGA 4" tvg-logo="https://imgyukle.com/f/2022/12/10/JgahbI.png" group-title="DE / SKY SPORT",3. FUSSBALL-LIGA 4
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19340
+#EXTINF:-1 tvg-id="" tvg-name="3. FUSSBALL-LIGA 5" tvg-logo="https://imgyukle.com/f/2022/12/10/JgahbI.png" group-title="DE / SKY SPORT",3. FUSSBALL-LIGA 5
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19341
+#EXTINF:-1 tvg-id="" tvg-name="3. FUSSBALL-LIGA 6" tvg-logo="https://imgyukle.com/f/2022/12/10/JgahbI.png" group-title="DE / SKY SPORT",3. FUSSBALL-LIGA 6
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19342
+#EXTINF:-1 tvg-id="" tvg-name="3. FUSSBALL-LIGA 7" tvg-logo="https://imgyukle.com/f/2022/12/10/JgahbI.png" group-title="DE / SKY SPORT",3. FUSSBALL-LIGA 7
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19343
+#EXTINF:-1 tvg-id="" tvg-name="3. FUSSBALL-LIGA 8" tvg-logo="https://imgyukle.com/f/2022/12/10/JgahbI.png" group-title="DE / SKY SPORT",3. FUSSBALL-LIGA 8
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19344
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 1" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 1
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19345
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 2" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 2
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19346
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 3" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 3
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19347
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 4" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 4
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19348
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 5" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 5
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19349
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 6" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 6
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19350
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 7" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 7
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19351
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 8" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 8
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19352
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 9" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 9
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19353
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 10" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 10
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19354
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 11" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 11
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19355
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 12" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 12
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19356
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 13" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 13
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19357
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 14" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 14
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19358
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 15" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 15
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19359
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 16" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 16
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19360
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 17" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 17
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19361
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 18" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 18
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19362
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 19" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 19
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19363
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 20" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 20
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19364
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 21" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 21
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19365
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 22" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 22
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19366
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 23" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 23
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19367
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 24" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 24
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19368
+#EXTINF:-1 tvg-id="" tvg-name="Magenta 25" tvg-logo="https://www.magenta.at/content/dam/magenta_at/images/consumer/images-liquid/tv/magentatv/magenta-tv_logo_glow.640.nowebp.png" group-title="DE / SKY SPORT",Magenta 25
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19369
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 1 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32440
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 2 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 2 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32441
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 3 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 3 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32442
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 4 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 4 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32443
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 5 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 5 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32444
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 6 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 6 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32445
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 7 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 7 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32446
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 8 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 8 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32447
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 9 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 9 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32448
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 10 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 10 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32449
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 11 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 11 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32450
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 12 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 12 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32451
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 13 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 13 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32452
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 14 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 14 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32453
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 15 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 15 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32454
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 16 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 16 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32455
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 17 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 17 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32456
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 18 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 18 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32457
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 19 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 19 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32458
+#EXTINF:-1 tvg-id="" tvg-name="DYN SPORT 20 HD" tvg-logo="" group-title="DE / SKY SPORT",DYN SPORT 20 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32459
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sat1_de.png" group-title="DE / GERMANY",SAT 1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/447
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT 1 GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sat1_de_gold.png" group-title="DE / GERMANY",SAT 1 GOLD HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/448
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="SAT 1 EMOTIONS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sat1_de_emotions.png" group-title="DE / GERMANY",SAT 1 EMOTIONS
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/449
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl-deutschland-de.png" group-title="DE / GERMANY",RTL
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/450
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl-deutschland-de.png" group-title="DE / GERMANY",RTL HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/451
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL II HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl-zwei-de.png" group-title="DE / GERMANY",RTL II HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/452
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTL UP" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl-up-de.png" group-title="DE / GERMANY",RTL UP
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/453
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL LIVING HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl-living-deutschland-de.png" group-title="DE / GERMANY",RTL LIVING HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/454
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL CRIME HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl-crime-deutschland-de.png" group-title="DE / GERMANY",RTL CRIME HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/455
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL PASSION HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl-passion-hrvatska-de-hr.png" group-title="DE / GERMANY",RTL PASSION HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/456
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="PROSIEBEN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_de.png" group-title="DE / GERMANY",PROSIEBEN HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/457
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="PROSIEBEN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_de.png" group-title="DE / GERMANY",PROSIEBEN
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/458
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="PRO7 MAXX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_maxx_de.png" group-title="DE / GERMANY",PRO7 MAXX HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/459
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="PROSIEBEN FUN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prosieben-fun-de.png" group-title="DE / GERMANY",PROSIEBEN FUN HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/23536
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="KABEL EINS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kabel_eins_de.png" group-title="DE / GERMANY",KABEL EINS HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/460
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DAS ERSTE HD" tvg-logo="https://seeklogo.com/images/1/1_ARD-logo-F25526CDA9-seeklogo.com.png" group-title="DE / GERMANY",DAS ERSTE HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/461
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WARNER TV SERIE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner-tv-serie-us.png" group-title="DE / GERMANY",WARNER TV SERIE HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/462
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="WARNER TV FILM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner-tv-film-us.png" group-title="DE / GERMANY",WARNER TV FILM HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/463
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WARNER TV COMEDY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner-tv-comedy-us.png" group-title="DE / GERMANY",WARNER TV COMEDY HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/464
+#EXTINF:-1 tvg-id="arte.de" tvg-name="ARTE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arte_de.png" group-title="DE / GERMANY",ARTE HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/465
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="SYFY HD" tvg-logo="https://seeklogo.com/images/S/syfy-logo-78F5982571-seeklogo.com.png" group-title="DE / GERMANY",SYFY HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/466
+#EXTINF:-1 tvg-id="romance.de" tvg-name="ROMANCE TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/romance_tv_de.png" group-title="DE / GERMANY",ROMANCE TV
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/467
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="KINOWELT TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kinowelt-tv-de.png" group-title="DE / GERMANY",KINOWELT TV
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/468
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox_de.png" group-title="DE / GERMANY",VOX HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/469
+#EXTINF:-1 tvg-id="" tvg-name="VOX UP" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/voxup-de.png" group-title="DE / GERMANY",VOX UP
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19203
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3 SAT HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/3sat-de.png" group-title="DE / GERMANY",3 SAT HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/470
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL NITRO HD DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nitro_de.png" group-title="DE / GERMANY",RTL NITRO HD DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/471
+#EXTINF:-1 tvg-id="universal.de" tvg-name="UNIVERSAL TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/universal-tv-deutschland-us-de.png" group-title="DE / GERMANY",UNIVERSAL TV HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/472
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF NEO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zdf-neo-de.png" group-title="DE / GERMANY",ZDF NEO HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/474
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF INFO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zdf-info-de.png" group-title="DE / GERMANY",ZDF INFO HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/475
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zdf_de.png" group-title="DE / GERMANY",ZDF HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/476
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wdr_koln.png" group-title="DE / GERMANY",WDR HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/477
+#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="DE / GERMANY",AXN
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19204
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="TELE 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele-5-de.png" group-title="DE / GERMANY",TELE 5 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/478
+#EXTINF:-1 tvg-id="" tvg-name="SWR BW HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png" group-title="DE / GERMANY",SWR BW HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/479
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="SIXX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sixx.png" group-title="DE / GERMANY",SIXX HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/481
+#EXTINF:-1 tvg-id="" tvg-name="SERVUS TV HD" tvg-logo="https://tvepg.eu/img/austria/logo/servus_tv.png" group-title="DE / GERMANY",SERVUS TV HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/482
+#EXTINF:-1 tvg-id="welt.de" tvg-name="WELT HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/welt-de.png" group-title="DE / GERMANY",WELT HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/483
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="PHOENIX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix-de.png" group-title="DE / GERMANY",PHOENIX HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/484
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ndr_fernsehen_hh.png" group-title="DE / GERMANY",NDR HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/486
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="KABEL EINS CLASSICS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kabel-eins-classics-de.png" group-title="DE / GERMANY",KABEL EINS CLASSICS
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/487
+#EXTINF:-1 tvg-id="fixandfoxi.de" tvg-name="FOX TV DE" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" group-title="DE / GERMANY",FOX TV DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/488
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="COMEDY CENTRAL VIVA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="DE / GERMANY",COMEDY CENTRAL VIVA
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/489
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB BERLIN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rbb-berlin-de.png" group-title="DE / GERMANY",RBB BERLIN HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/492
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mdr_fernsehen_sachsen.png" group-title="DE / GERMANY",MDR HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/494
+#EXTINF:-1 tvg-id="" tvg-name="AT- ORF 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/orf-1-at.png" group-title="DE / GERMANY",AT- ORF 1 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9009
+#EXTINF:-1 tvg-id="" tvg-name="AT- ORF II HD" tvg-logo="https://ewsat.com/img/ORF_2.png" group-title="DE / GERMANY",AT- ORF II HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9010
+#EXTINF:-1 tvg-id="" tvg-name="AT- ORF III HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" group-title="DE / GERMANY",AT- ORF III HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9011
+#EXTINF:-1 tvg-id="" tvg-name="AT- ATV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_at.png" group-title="DE / GERMANY",AT- ATV HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9012
+#EXTINF:-1 tvg-id="" tvg-name="AT- ATV2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv2_at.png" group-title="DE / GERMANY",AT- ATV2
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9013
+#EXTINF:-1 tvg-id="" tvg-name="AT- SERVUS TV  HD" tvg-logo="https://tvepg.eu/img/austria/logo/servus_tv.png" group-title="DE / GERMANY",AT- SERVUS TV  HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9014
+#EXTINF:-1 tvg-id="" tvg-name="AT- oe24 TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oe_24_tv_at.png" group-title="DE / GERMANY",AT- oe24 TV HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9015
+#EXTINF:-1 tvg-id="" tvg-name="AT- PULS 4 AUSTRIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/puls-4-at.png" group-title="DE / GERMANY",AT- PULS 4 AUSTRIA HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/9016
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dmax_at.png" group-title="DE / DOCUMENTARY",DMAX DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/495
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC DE" tvg-logo="https://resmim.net/cdn/2023/03/13/q0WjW.png" group-title="DE / DOCUMENTARY",TLC DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/496
+#EXTINF:-1 tvg-id="history.de" tvg-name="HISTORY DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="DE / DOCUMENTARY",HISTORY DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/497
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="NAT GEO DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us_hd.png" group-title="DE / DOCUMENTARY",NAT GEO DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/498
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="NAT GEO WILD DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="DE / DOCUMENTARY",NAT GEO WILD DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/499
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DISCOVERY DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="DE / DOCUMENTARY",DISCOVERY DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/500
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="ANIMAL PLANET DE" tvg-logo="https://image.pngaaa.com/149/4735149-middle.png" group-title="DE / DOCUMENTARY",ANIMAL PLANET DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/5022
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="SKY NATURE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-nature-it.png" group-title="DE / DOCUMENTARY",SKY NATURE HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/17137
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="CRIME + INVESTIGATION DE" tvg-logo="https://archive.org/download/CrimeInvestigation/CrimeInvestigation.png" group-title="DE / DOCUMENTARY",CRIME + INVESTIGATION DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/10927
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="E! ENTERTAINM HD" tvg-logo="https://ww1.freelogovectors.net/wp-content/uploads/2020/03/e-entertainment-television-logo.png" group-title="DE / DOCUMENTARY",E! ENTERTAINM HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/18092
+#EXTINF:-1 tvg-id="geotelevision.de" tvg-name="GEO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo-tv-de.png" group-title="DE / DOCUMENTARY",GEO HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/19202
+#EXTINF:-1 tvg-id="waidwerk.de" tvg-name="WAIDWERK HD" tvg-logo="https://waidwerk.tv/wp-content/uploads/2018/07/waidwerk-logo.png" group-title="DE / DOCUMENTARY",WAIDWERK HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/17136
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="KABEL EINS DOKU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kabel_eins_de_doku.png" group-title="DE / DOCUMENTARY",KABEL EINS DOKU
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/502
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="SPIEGEL TV WISSEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Spiegel_TV_Wissen_HD_Logo_2016.png" group-title="DE / DOCUMENTARY",SPIEGEL TV WISSEN
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/503
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="SPIEGEL GESCHICHTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Spiegel_GESCHICHTE_HD_Logo_2016.png" group-title="DE / DOCUMENTARY",SPIEGEL GESCHICHTE HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/504
+#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="SKY CRiME HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-crime-de.png" group-title="DE / DOCUMENTARY",SKY CRiME HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/18404
+#EXTINF:-1 tvg-id="n24doku.de" tvg-name="N24 DOKU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/n24_de_doku.png" group-title="DE / DOCUMENTARY",N24 DOKU
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/506
+#EXTINF:-1 tvg-id="" tvg-name="BERGBLICK" tvg-logo="https://sender.epglogos.de/302x190_w/12149.png" group-title="DE / DOCUMENTARY",BERGBLICK
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32290
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="ANIXE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/anixe-plus-de.png" group-title="DE / DOCUMENTARY",ANIXE HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/490
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="ARD-ALPHA DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ard_alpha_de.png" group-title="DE / DOCUMENTARY",ARD-ALPHA DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/507
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="SKY DOCUMENTARIES HD" tvg-logo="" group-title="DE / DOCUMENTARY",SKY DOCUMENTARIES HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/18093
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY DOKUMENTAR" tvg-logo="" group-title="DE / DOCUMENTARY",GERMANY DOKUMENTAR
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/6604
+#EXTINF:-1 tvg-id="bild.de" tvg-name="BILD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bild-de.png" group-title="DE / NACHRICHTEN",BILD HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/17138
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="TAGESSCHAU 24 HD" tvg-logo="https://locatee.com/wp-content/uploads/2022/02/logo_kunde_tagesschau_transparent-275x120-1.png" group-title="DE / NACHRICHTEN",TAGESSCHAU 24 HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/510
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/n-tv-de.png" group-title="DE / NACHRICHTEN",N-TV HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/511
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="EURONEWS DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="DE / NACHRICHTEN",EURONEWS DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/512
+#EXTINF:-1 tvg-id="atv.de" tvg-name="A.TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_at.png" group-title="DE / NACHRICHTEN",A.TV HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/513
+#EXTINF:-1 tvg-id="kika.de" tvg-name="KIKA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kika_de.png" group-title="DE / KINDER",KIKA HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/515
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="CARTOON NETWORK DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="DE / KINDER",CARTOON NETWORK DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/517
+#EXTINF:-1 tvg-id="nickjr.de" tvg-name="NiCK JR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="DE / KINDER",NiCK JR HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/18403
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="CARTONITO DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="DE / KINDER",CARTONITO DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/520
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DISNEY CHANNEL DE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title="DE / KINDER",DISNEY CHANNEL DE
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/519
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL +1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-uk-plus1-us-uk.png" group-title="DE / KINDER",COMEDY CENTRAL +1
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/18405
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="TOGGO PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toggo_plus_de.png" group-title="DE / KINDER",TOGGO PLUS
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/523
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="SUPER RTL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super-rtl-de.png" group-title="DE / KINDER",SUPER RTL HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/522
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="MTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.png" group-title="DE / MUSIK",MTV
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/526
+#EXTINF:-1 tvg-id="" tvg-name="FOLX MUSIC TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Folx_TV.png" group-title="DE / MUSIK",FOLX MUSIC TELEVISION
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/528
+#EXTINF:-1 tvg-id="" tvg-name="VOLKMUSIK TV" tvg-logo="https://cfres-71f3.kxcdn.com/ci/default/volksmusiktv_default.png" group-title="DE / MUSIK",VOLKMUSIK TV
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/530
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="DELUXE MUSIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deluxe_music_de.png" group-title="DE / MUSIK",DELUXE MUSIC HD
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/531
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="JUKEBOX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jukebox_de.png" group-title="DE / MUSIK",JUKEBOX
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/532
+#EXTINF:-1 tvg-id="" tvg-name="MASCHA UND DER BAR" tvg-logo="" group-title="DE / KINDER",MASCHA UND DER BAR
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32368
+#EXTINF:-1 tvg-id="" tvg-name="PAW PATROL" tvg-logo="" group-title="DE / KINDER",PAW PATROL
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32369
+#EXTINF:-1 tvg-id="" tvg-name="THE BOSS BABY" tvg-logo="" group-title="DE / KINDER",THE BOSS BABY
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32370
+#EXTINF:-1 tvg-id="" tvg-name="PJ MASK'S" tvg-logo="" group-title="DE / KINDER",PJ MASK'S
+http://plotter.dynexp.de:8080/berberahmett/y8jzrrSKzMnT/32371
