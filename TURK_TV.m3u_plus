@@ -1103,7 +1103,21 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415321
 #EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ 64 Kare  Ülkesi" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ 64 Kare  Ülkesi
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415322
 
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT ÇOCUK HD" tvg-logo="" group-title="TR | ÇOCUK",TR: TRT ÇOCUK HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415478
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON" tvg-logo="" group-title="TR | ÇOCUK",TR: NICKELODEON
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415479
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK" tvg-logo="" group-title="TR | ÇOCUK",TR: MINIKA COCUK
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415480
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICK JR HD" tvg-logo="" group-title="TR | ÇOCUK",TR: NICK JR HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415481
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY CHANNEL HD" tvg-logo="" group-title="TR | ÇOCUK",TR: DISNEY CHANNEL HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415482
+#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK" tvg-logo="" group-title="TR | ÇOCUK",TR: CARTOON NETWORK
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415483
+#EXTINF:-1 tvg-id="" tvg-name="TR:SEMBOLTV ZAROK TV" tvg-logo="https://www.linkpicture.com/q/IVosjG_1.jpg" "group-title="TR | ÇOCUK",TR:ZAROK TV
+http://icetv.shop:8080/QMDDxEQhwD/TDgCBz5HX6/411584
 #EXTM3U
 #EXTINF:-1 group-title="TURK SINEMA KANALLAR", NTD YESILCAM SİNEMA 
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
