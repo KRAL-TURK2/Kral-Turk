@@ -143,7 +143,7 @@ https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
 http://149.13.0.66:4002/tv8hd
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
-http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/508013
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 FHD
 http://50.7.218.122:8080/tv85/index.m3u8
 
@@ -154,17 +154,17 @@ http://135.125.234.9:8081/teve2/index.m3u8
 #EXTINF:-1 group-title="ULUSAL-UHD", A2 UHD
 http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507755
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa
-https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKssei3xxx8vVppscFP1WnoaY
+https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-UHD",EUROSTAR televizyon
 https://tsriptv.art:443/play/OUPbM__li3KXcNW61WemanYQderHfsD-TfMEqjcVxQI
 #EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TÜRK UHD
-http://super-ss.xyz:8880/kingdiablo1981_skypee3/@Exchange@7880_21e3d/507940
+https://showturk.blutv.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
-http://aflaxtv.xyz:8080/argoni150Con/gPT9F27zGRXv3MfDqH5sY4/39324
+https://bozztv.com/inim03/live1/eurod/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
 http://uptvbiz.com:8282/kenan/191115/4877
 #EXTINF:-1 TGRT AB group-title="ULUSAL-UHD", TGRT EU
-https://tsriptv.art:443/play/OUPbM__li3KXcNW61Wemaqvn1cKIj5uupVVqyTvY10M
+https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
 https://doksan.futbol:443/play/gxNIm3oTc8UwQG9tiNKKsrBkcKfTLT_HcneNZgHxKxA
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV FHD
