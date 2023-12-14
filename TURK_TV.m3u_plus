@@ -38,7 +38,7 @@ http://hdlocal.de:8080/s1.tvtata33/alJYJyRKzt33dgfdvdddy344/10032
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 FHD
 https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/805?.m3u8
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 UHD
-https://cakal.click/yayinbm2.m3u8
+http://hdlocal.de:8080/s1.tvtata33/alJYJyRKzt33dgfdvdddy344/10030
 #EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 FHD
 https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/806?.m3u8
 
@@ -77,11 +77,9 @@ http://hw1.jemtv.com:80/app/ASporHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR FHD
 http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
-https://cakal.click/yayintrtspor.m3u8
+http://amtv1-2.livestreamingcdn.com:80/gt-trtspor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR YILDIZ
-http://77.92.139.136:8200/bysid/10525
-#EXTINF:-1 group-title="SPOR KANALI", TRT 3-SPOR
-http://77.92.139.136:8200/bysid/10503
+http://amtv1-2.livestreamingcdn.com:80/gt-trtspor2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
