@@ -370,7 +370,7 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404141
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404142
 #EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: GLOBAL HABER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="TR | HABER",TR: GLOBAL HABER HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404143
-#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_haber_tr.png" group-title="TR | HABER",TR: A HABER HD+
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_haber_tr.png" group-title="TR | HABER",TR: A HABER HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404147
 #EXTINF:-1 tvg-id="tele1.tr" tvg-name="TR | TELE 1 HD" tvg-logo="https://imagizer.imageshack.com/img924/512/A0OWP1.png" group-title="TR | HABER",TR | TELE 1 HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/106783
@@ -398,10 +398,8 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404151
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404152
 #EXTINF:-1 tvg-id="24.tr" tvg-name="TR: KANAL 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png" group-title="TR | HABER",TR: KANAL 24 HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404153
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TGRT HABER FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png" group-title="TR | HABER",TR: TGRT HABER FHD
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png" group-title="TR | HABER",TR: TGRT HABER HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404154
-#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/360_tv_tr.png" group-title="TR | HABER",TR: 360 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404155
 #EXTINF:-1 tvg-id="anews.tr" tvg-name="TR: A NEWS HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_news_tr.png" group-title="TR | HABER",TR: A NEWS HD+
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404156
 #EXTINF:-1 tvg-id="" tvg-name="TR: BRT 3" tvg-logo="" group-title="TR | HABER",TR: BRT 3
@@ -410,6 +408,10 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404157
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404159
 #EXTINF:-1 tvg-id="" tvg-name="TR: TH TURKHABER" tvg-logo="" group-title="TR | HABER",TR: TH TURKHABER
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/404160
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL HD" tvg-logo="" group-title="TR | HABER",TR: HABER GLOBAL HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421975
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV NET HD" tvg-logo="" group-title="TR | HABER",TR: TV NET HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421977
 #EXTINF:-1 tvg-id="" tvg-name="TR | Duzgun tv +" tvg-logo="https://imagizer.imageshack.com/img924/9776/bRugm4.png" group-title="TR | ULUSAL",TR | Duzgun tv +
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/193484
 #EXTINF:-1 tvg-id="" tvg-name="TR | TV5 TV" tvg-logo="https://imagizer.imageshack.com/img923/4341/NM6mOL.png" group-title="TR | DİNİ KANALLAR",TR | TV5 TV
@@ -418,8 +420,6 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/76382
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/76388
 #EXTINF:-1 tvg-id="trtdiyanet.tr" tvg-name="TR | DIYANET TV" tvg-logo="https://imagizer.imageshack.com/img922/3238/RUJLmb.png" group-title="TR | DİNİ KANALLAR",TR | DIYANET TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/76389
-#EXTINF:-1 tvg-id="" tvg-name="TR | DOST TV" tvg-logo="https://imagizer.imageshack.com/img923/9676/g8eRVz.png" group-title="TR | DİNİ KANALLAR",TR | DOST TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/76391
 #EXTINF:-1 tvg-id="" tvg-name="TR | LALEGUL TV" tvg-logo="https://imagizer.imageshack.com/img922/4199/Faytj2.png" group-title="TR | DİNİ KANALLAR",TR | LALEGUL TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/76393
 #EXTINF:-1 tvg-id="" tvg-name="TR | SEMERKAND TV HD" tvg-logo="https://imagizer.imageshack.com/img923/7532/GD1pb3.png" group-title="TR | DİNİ KANALLAR",TR | SEMERKAND TV HD
@@ -432,74 +432,26 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413030
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413031
 #EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV" tvg-logo="" group-title="TR | YEREL",TR: YOL TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413032
-#EXTINF:-1 tvg-id="" tvg-name="TR: CAN TV" tvg-logo="" group-title="TR | YEREL",TR: CAN TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413033
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 3 TV" tvg-logo="" group-title="TR | YEREL",TR: Kanal 3 TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413034
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ UHD" tvg-logo="" group-title="TR | YEREL",TR: MAVI KARADENIZ UHD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413035
-#EXTINF:-1 tvg-id="" tvg-name="TR: ON4 TV" tvg-logo="" group-title="TR | YEREL",TR: ON4 TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413036
-#EXTINF:-1 tvg-id="" tvg-name="TR: UÇAN KUS TV" tvg-logo="" group-title="TR | YEREL",TR: UÇAN KUS TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413037
-#EXTINF:-1 tvg-id="" tvg-name="TR: Ekin Tv" tvg-logo="" group-title="TR | YEREL",TR: Ekin Tv
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413038
-#EXTINF:-1 tvg-id="" tvg-name="TR: IBB TV" tvg-logo="" group-title="TR | YEREL",TR: IBB TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413039
 #EXTINF:-1 tvg-id="" tvg-name="TR: ZAZA TV" tvg-logo="" group-title="TR | YEREL",TR: ZAZA TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413040
-#EXTINF:-1 tvg-id="" tvg-name="TR: ALTAS TV" tvg-logo="" group-title="TR | YEREL",TR: ALTAS TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413041
 #EXTINF:-1 tvg-id="" tvg-name="TR: AKILLI TV" tvg-logo="" group-title="TR | YEREL",TR: AKILLI TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413042
 #EXTINF:-1 tvg-id="" tvg-name="TR: Meclis TV" tvg-logo="" group-title="TR | YEREL",TR: Meclis TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413043
-#EXTINF:-1 tvg-id="" tvg-name="TR: CAY TV" tvg-logo="" group-title="TR | YEREL",TR: CAY TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413044
-#EXTINF:-1 tvg-id="" tvg-name="TR: ES TV" tvg-logo="" group-title="TR | YEREL",TR: ES TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413045
 #EXTINF:-1 tvg-id="" tvg-name="TR: GUNEYDOGU TV" tvg-logo="" group-title="TR | YEREL",TR: GUNEYDOGU TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413046
-#EXTINF:-1 tvg-id="" tvg-name="TR: HRT AKDENIZ TV" tvg-logo="" group-title="TR | YEREL",TR: HRT AKDENIZ TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413047
-#EXTINF:-1 tvg-id="" tvg-name="TR: KADIRGA TV" tvg-logo="" group-title="TR | YEREL",TR: KADIRGA TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413048
-#EXTINF:-1 tvg-id="" tvg-name="TR: ÇAY TV RİZE" tvg-logo="" group-title="TR | YEREL",TR: ÇAY TV RİZE
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413049
 #EXTINF:-1 tvg-id="" tvg-name="TR: PAMUKKALE TV" tvg-logo="" group-title="TR | YEREL",TR: PAMUKKALE TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413050
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri Kay TV" tvg-logo="" group-title="TR | YEREL",TR: Kayseri Kay TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413051
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 23" tvg-logo="" group-title="TR | YEREL",TR: KANAL 23
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413052
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 43" tvg-logo="" group-title="TR | YEREL",TR: KANAL 43
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413053
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 58" tvg-logo="" group-title="TR | YEREL",TR: KANAL 58
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413054
-#EXTINF:-1 tvg-id="" tvg-name="TR: ES TV ESKİŞEHİR" tvg-logo="" group-title="TR | YEREL",TR: ES TV ESKİŞEHİR
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413055
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 32 ISPARTA HD" tvg-logo="" group-title="TR | YEREL",TR: KANAL 32 ISPARTA HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413056
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 42 KONYA" tvg-logo="" group-title="TR | YEREL",TR: KANAL 42 KONYA
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413057
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL FIRAT ELAZIĞ" tvg-logo="" group-title="TR | YEREL",TR: KANAL FIRAT ELAZIĞ
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413058
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL V ANTALYA" tvg-logo="" group-title="TR | YEREL",TR: KANAL V ANTALYA
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413059
-#EXTINF:-1 tvg-id="" tvg-name="TR: KENTTÜRK TV KAYSERİ" tvg-logo="" group-title="TR | YEREL",TR: KENTTÜRK TV KAYSERİ
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413060
 #EXTINF:-1 tvg-id="" tvg-name="TR: DIYAR TV" tvg-logo="" group-title="TR | YEREL",TR: DIYAR TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413061
 #EXTINF:-1 tvg-id="" tvg-name="TR: A VUSLAT TV" tvg-logo="" group-title="TR | YEREL",TR: A VUSLAT TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413062
 #EXTINF:-1 tvg-id="" tvg-name="TR: ADA TV" tvg-logo="" group-title="TR | YEREL",TR: ADA TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413063
-#EXTINF:-1 tvg-id="" tvg-name="TR: AMBIANCE" tvg-logo="" group-title="TR | YEREL",TR: AMBIANCE
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413064
 #EXTINF:-1 tvg-id="" tvg-name="TR: ASTV" tvg-logo="" group-title="TR | YEREL",TR: ASTV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413065
-#EXTINF:-1 tvg-id="" tvg-name="TR: BRTV B KRDNIZ" tvg-logo="" group-title="TR | YEREL",TR: BRTV B KRDNIZ
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413066
 #EXTINF:-1 tvg-id="" tvg-name="TR: DEHA TV" tvg-logo="" group-title="TR | YEREL",TR: DEHA TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413067
 #EXTINF:-1 tvg-id="" tvg-name="TR: EDESSA TV" tvg-logo="" group-title="TR | YEREL",TR: EDESSA TV
@@ -512,32 +464,16 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413070
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413071
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 26" tvg-logo="" group-title="TR | YEREL",TR: KANAL 26
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413072
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 33" tvg-logo="" group-title="TR | YEREL",TR: KANAL 33
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413073
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 68" tvg-logo="" group-title="TR | YEREL",TR: KANAL 68
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413074
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL T" tvg-logo="" group-title="TR | YEREL",TR: KANAL T
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413075
-#EXTINF:-1 tvg-id="" tvg-name="TR: WORLD TURK" tvg-logo="" group-title="TR | YEREL",TR: WORLD TURK
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413076
 #EXTINF:-1 tvg-id="" tvg-name="TR: KIBRIS TV" tvg-logo="" group-title="TR | YEREL",TR: KIBRIS TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413077
 #EXTINF:-1 tvg-id="" tvg-name="TR: KOY TV" tvg-logo="" group-title="TR | YEREL",TR: KOY TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413078
-#EXTINF:-1 tvg-id="" tvg-name="TR: MERCAN TV" tvg-logo="" group-title="TR | YEREL",TR: MERCAN TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413079
 #EXTINF:-1 tvg-id="" tvg-name="TR: ORDU ALTAS TV" tvg-logo="" group-title="TR | YEREL",TR: ORDU ALTAS TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413080
-#EXTINF:-1 tvg-id="" tvg-name="TR: RUMELİ TV" tvg-logo="" group-title="TR | YEREL",TR: RUMELİ TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413081
-#EXTINF:-1 tvg-id="" tvg-name="TR: SIM TV" tvg-logo="" group-title="TR | YEREL",TR: SIM TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413082
-#EXTINF:-1 tvg-id="" tvg-name="TR: T.A.Y TV" tvg-logo="" group-title="TR | YEREL",TR: T.A.Y TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413083
-#EXTINF:-1 tvg-id="" tvg-name="TR: TEK RUMELI TV" tvg-logo="" group-title="TR | YEREL",TR: TEK RUMELI TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413084
-#EXTINF:-1 tvg-id="" tvg-name="TR: TON TV" tvg-logo="" group-title="TR | YEREL",TR: TON TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413085
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV 1" tvg-logo="" group-title="TR | YEREL",TR: TV 1
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413086
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV 4 HD" tvg-logo="" group-title="TR | YEREL",TR: TV 4 HD
@@ -546,16 +482,10 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413087
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413088
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV 52" tvg-logo="" group-title="TR | YEREL",TR: TV 52
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413089
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV A ADANA" tvg-logo="" group-title="TR | YEREL",TR: TV A ADANA
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413090
 #EXTINF:-1 tvg-id="" tvg-name="TR: TVDEN" tvg-logo="" group-title="TR | YEREL",TR: TVDEN
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413091
-#EXTINF:-1 tvg-id="" tvg-name="TR: UA TV" tvg-logo="" group-title="TR | YEREL",TR: UA TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413092
 #EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON 58" tvg-logo="" group-title="TR | YEREL",TR: VIZYON 58
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413093
-#EXTINF:-1 tvg-id="" tvg-name="TR: YENİ KOCAELİ TV" tvg-logo="" group-title="TR | YEREL",TR: YENİ KOCAELİ TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413094
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL URFA" tvg-logo="" group-title="TR | YEREL",TR: KANAL URFA
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413095
 #EXTINF:-1 tvg-id="" tvg-name="TR: KON TV" tvg-logo="" group-title="TR | YEREL",TR: KON TV
@@ -564,40 +494,14 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413096
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413097
 #EXTINF:-1 tvg-id="" tvg-name="TR: AKSU TV" tvg-logo="" group-title="TR | YEREL",TR: AKSU TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413098
-#EXTINF:-1 tvg-id="" tvg-name="TR: 38 KENT TV" tvg-logo="" group-title="TR | YEREL",TR: 38 KENT TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413099
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEYKENT TV" tvg-logo="" group-title="TR | YEREL",TR: BEYKENT TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413100
-#EXTINF:-1 tvg-id="" tvg-name="TR: AFYON TÜRK TV" tvg-logo="" group-title="TR | YEREL",TR: AFYON TÜRK TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413101
-#EXTINF:-1 tvg-id="" tvg-name="TR: AHİ TV" tvg-logo="" group-title="TR | YEREL",TR: AHİ TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413102
 #EXTINF:-1 tvg-id="" tvg-name="TR: AKSU TV" tvg-logo="" group-title="TR | YEREL",TR: AKSU TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413103
 #EXTINF:-1 tvg-id="" tvg-name="TR: ALANYA TV" tvg-logo="" group-title="TR | YEREL",TR: ALANYA TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413104
-#EXTINF:-1 tvg-id="" tvg-name="TR: ALTAŞ TV" tvg-logo="" group-title="TR | YEREL",TR: ALTAŞ TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413105
-#EXTINF:-1 tvg-id="" tvg-name="TR: ANTALYA TÜRK TV" tvg-logo="" group-title="TR | YEREL",TR: ANTALYA TÜRK TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413106
-#EXTINF:-1 tvg-id="" tvg-name="TR: ARAS TV" tvg-logo="" group-title="TR | YEREL",TR: ARAS TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413107
-#EXTINF:-1 tvg-id="" tvg-name="TR: AS TV" tvg-logo="" group-title="TR | YEREL",TR: AS TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413108
 #EXTINF:-1 tvg-id="" tvg-name="TR: BURSA TV" tvg-logo="" group-title="TR | YEREL",TR: BURSA TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413109
-#EXTINF:-1 tvg-id="" tvg-name="TR: ÇANAKKALE TON TV" tvg-logo="" group-title="TR | YEREL",TR: ÇANAKKALE TON TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413110
-#EXTINF:-1 tvg-id="" tvg-name="TR: ETV MANİSA TV" tvg-logo="" group-title="TR | YEREL",TR: ETV MANİSA TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413111
-#EXTINF:-1 tvg-id="" tvg-name="TR: ERT Şah TV Erzincan" tvg-logo="" group-title="TR | YEREL",TR: ERT Şah TV Erzincan
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413112
-#EXTINF:-1 tvg-id="" tvg-name="TR: FRT TV Fethiye" tvg-logo="" group-title="TR | YEREL",TR: FRT TV Fethiye
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413113
-#EXTINF:-1 tvg-id="" tvg-name="TR: Gonca TV" tvg-logo="" group-title="TR | YEREL",TR: Gonca TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413114
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 12" tvg-logo="" group-title="TR | YEREL",TR: KANAL 12
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413115
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 15" tvg-logo="" group-title="TR | YEREL",TR: KANAL 15
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413116
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 23" tvg-logo="" group-title="TR | YEREL",TR: KANAL 23
@@ -608,8 +512,6 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413118
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413119
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 33" tvg-logo="" group-title="TR | YEREL",TR: KANAL 33
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413120
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 38" tvg-logo="" group-title="TR | YEREL",TR: KANAL 38
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413121
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 5" tvg-logo="" group-title="TR | YEREL",TR: KANAL 5
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413122
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 58" tvg-logo="" group-title="TR | YEREL",TR: KANAL 58
@@ -618,35 +520,18 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413123
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413124
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL B" tvg-logo="" group-title="TR | YEREL",TR: KANAL B
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413125
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL ÇAY" tvg-logo="" group-title="TR | YEREL",TR: KANAL ÇAY
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413126
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL FIRAT" tvg-logo="" group-title="TR | YEREL",TR: KANAL FIRAT
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413127
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal Ordu TV" tvg-logo="" group-title="TR | YEREL",TR: Kanal Ordu TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413128
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL Z" tvg-logo="" group-title="TR | YEREL",TR: KANAL Z
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413129
-#EXTINF:-1 tvg-id="" tvg-name="TR: KÖROGLU TV rtmp HD" tvg-logo="" group-title="TR | YEREL",TR: KÖROGLU TV rtmp HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413130
-#EXTINF:-1 tvg-id="" tvg-name="TR: LIFE TV" tvg-logo="" group-title="TR | YEREL",TR: LIFE TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413131
-#EXTINF:-1 tvg-id="" tvg-name="TR: Natural TV" tvg-logo="" group-title="TR | YEREL",TR: Natural TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413132
-#EXTINF:-1 tvg-id="" tvg-name="TR: ÖNCÜ TV" tvg-logo="" group-title="TR | YEREL",TR: ÖNCÜ TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413133
-#EXTINF:-1 tvg-id="" tvg-name="TR: TOKAT SÜPER TV" tvg-logo="" group-title="TR | YEREL",TR: TOKAT SÜPER TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413134
-#EXTINF:-1 tvg-id="" tvg-name="TR: TVA" tvg-logo="" group-title="TR | YEREL",TR: TVA
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/413135
-
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIBRIS ADA TV" tvg-logo="" group-title="TR | YEREL",TR: KIBRIS ADA TV
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421980
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIBRIS TV HD" tvg-logo="" group-title="TR | YEREL",TR: KIBRIS TV HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421981
 #EXTINF:-1 tvg-id="" tvg-name="#### TURK BELGESEL ####" tvg-logo="" group-title="TR | BELGESEL",#### TURK BELGESEL ####
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243193
 #EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC TV HD+" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="TR | BELGESEL",TR: TLC TV HD+
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243194
 #EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD+" tvg-logo="http://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/BBC.EARTH.png" group-title="TR | BELGESEL",TR: BBC Earth HD+
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243198
-#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR: beiN GURME HD+" tvg-logo="https://imagizer.imageshack.com/img923/8864/y4o8k9.png" group-title="TR | BELGESEL",TR: beiN GURME HD+
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243200
 #EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR: beIN IZ HD+" tvg-logo="https://imagizer.imageshack.com/img924/7783/uqZnwv.png" group-title="TR | BELGESEL",TR: beIN IZ HD+
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243201
 #EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD+" tvg-logo="https://imagizer.imageshack.com/img924/343/J2HuXl.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD+
@@ -659,12 +544,10 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243204
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243205
 #EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="TR: ViASAT HiSTORY HD+" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="TR | BELGESEL",TR: ViASAT HiSTORY HD+
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243206
-#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="TR: ViASAT HiSTORY HD" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="TR | BELGESEL",TR: ViASAT HiSTORY HD
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="TR: VIASAT HISTORY HD" tvg-logo="https://imagizer.imageshack.com/img922/143/A8GOzy.png" group-title="TR | BELGESEL",TR: VIASAT HISTORY HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243207
 #EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT NATURE HD" tvg-logo="http://logo.bosstv.live/Logo/TR/BELGESEL/HD/VIASAT.NATURE.png" group-title="TR | BELGESEL",TR: VIASAT NATURE HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/226120
-#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR: YABAN TV HD" tvg-logo="https://imagizer.imageshack.com/img924/954/AB4S4Z.png" group-title="TR | BELGESEL",TR: YABAN TV HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243208
 #EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR: History FHD" tvg-logo="https://imagizer.imageshack.com/img924/2494/TJumUL.png" group-title="TR | BELGESEL",TR: History FHD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243209
 #EXTINF:-1 tvg-id="docubox.tr" tvg-name="TR: DOCUBOX HD+" tvg-logo="https://imagizer.imageshack.com/img922/3328/OzEnhL.png" group-title="TR | BELGESEL",TR: DOCUBOX HD+
@@ -673,8 +556,6 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243210
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243212
 #EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE HD+" tvg-logo="https://imagizer.imageshack.com/img923/7798/YecNuV.png" group-title="TR | BELGESEL",TR: LOVE NATURE HD+
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243213
-#EXTINF:-1 tvg-id="" tvg-name="TR: OUTDOOR HD+" tvg-logo="https://imagizer.imageshack.com/img923/1097/7Tlv75.png" group-title="TR | BELGESEL",TR: OUTDOOR HD+
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243215
 #EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD+" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="TR | BELGESEL",TR: DMAX HD+
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243216
 #EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD" tvg-logo="https://imagizer.imageshack.com/img924/7396/96CKA7.png" group-title="TR | BELGESEL",TR: DMAX HD
@@ -691,9 +572,7 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243222
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/243223
 #EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="TR: DISCOVERY SCIENCE FHD" tvg-logo="https://imagizer.imageshack.com/img923/8707/A5PJiA.png" group-title="TR | BELGESEL",TR: DISCOVERY SCIENCE FHD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/259820
-#EXTINF:-1 tvg-id="davinci.tr" tvg-name="TR: DA VINCI LEARNING RAW" tvg-logo="https://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/DA.VINCI.png" group-title="TR | BELGESEL",TR: DA VINCI LEARNING RAW
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/259822
-#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC TV" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="TR | BELGESEL",TR: TLC TV
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC TV HD" tvg-logo="https://imagizer.imageshack.com/img922/6721/W6gtLX.png" group-title="TR | BELGESEL",TR: TLC TV HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/374324
 #EXTINF:-1 tvg-id="animalplanet.tr" tvg-name="TR: Animal Planet HD" tvg-logo="https://imagizer.imageshack.com/img924/5792/w7Z43l.png" group-title="TR | BELGESEL",TR: Animal Planet HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/374325
@@ -707,7 +586,8 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/374329
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/374330
 #EXTINF:-1 tvg-id="" tvg-name="TR: ViASAT EXPLORER" tvg-logo="" group-title="TR | BELGESEL",TR: ViASAT EXPLORER
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/416422
-
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIH TV HD" tvg-logo="" group-title="TR | BELGESEL",TR: TARIH TV HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421982
 #EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪" tvg-logo="" group-title="TR | beIN & D-SMART",✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/97391
 #EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR | beIN SERIES VICE HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.VICE.png" group-title="TR | beIN & D-SMART",TR | beIN SERIES VICE HD
@@ -718,8 +598,6 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/92374
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/92375
 #EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR | beIN MOVIES TURK HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.TURK.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES TURK HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/92376
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR | beIN MOVIES STARS HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.STARS.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES STARS HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/92377
 #EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR | beIN MOVIES PREMIER HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.PREMIERE.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES PREMIER HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/92378
 #EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR | beIN MOVIES PREMIER 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.PREMIERE.2.png" group-title="TR | beIN & D-SMART",TR | beIN MOVIES PREMIER 2 HD
@@ -770,352 +648,560 @@ http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/92400
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411981
 #EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR | SINEMA TV 1002 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.1002.png" group-title="TR | beIN & D-SMART",TR | SINEMA TV 1002 HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/92402
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA YERLI 2" tvg-logo="" group-title="TR | beIN & D-SMART",TR: SINEMA YERLI 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421974
 #EXTINF:-1 tvg-id="" tvg-name="✪ TR | 24 /7 FILMLER ✪" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/BAYRAK.png" group-title="TR | 7/24 DİZİ",✪ TR | 24 /7 FILMLER ✪
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/287350
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠ Aksiyon 1" tvg-logo="" group-title="TR | 7/24 SINEMA",ICEFILM  ➠ Aksiyon 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415323
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Aksiyon 2" tvg-logo="" group-title="TR | 7/24 SINEMA",ICEFILM ➠ Aksiyon 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415241
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM-Netfilix" tvg-logo="" group-title="TR | 7/24 SINEMA",ICEFILM-Netfilix
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415251
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠ İCEBOX-2022" tvg-logo="" group-title="TR | 7/24 SINEMA",ICEFILM  ➠ İCEBOX-2022
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415324
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM- Marvel" tvg-logo="" group-title="TR | 7/24 SINEMA",ICEFILM- Marvel
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415252
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM-Yerli  Film" tvg-logo="" group-title="TR | 7/24 SINEMA",ICEFILM-Yerli  Film
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415250
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Netfilix 2" tvg-logo="" group-title="TR | 7/24 SINEMA",ICEFILM ➠ Netfilix 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415260
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Yabancı Filmler" tvg-logo="" group-title="TR | 7/24 SINEMA",ICEFILM ➠ Yabancı Filmler
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415261
-#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Netfilix 3" tvg-logo="" group-title="TR | 7/24 SINEMA",ICEFILM ➠ Netfilix 3
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415262
-#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Gülşen Bibikoğlu" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Gülşen Bibikoğlu
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415330
-#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Kartal Tibet" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Kartal Tibet
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415331
-#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Yeşilçam 1" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Yeşilçam 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415332
-#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Şafak Sezer" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEAKTOR ➠ Şafak Sezer
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415263
-#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Arnold Schwarzenegger" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEAKTOR ➠ Arnold Schwarzenegger
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415264
-#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Jason Statham" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEAKTOR ➠ Jason Statham
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415265
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI-Güldür Güldür 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI-Güldür Güldür 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415266
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI- Çekiç ve Gül" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI- Çekiç ve Gül
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415267
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI- Kurtlar Vadisi 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI- Kurtlar Vadisi 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415268
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI - Kurtlar Vadisi 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI - Kurtlar Vadisi 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415269
-#EXTINF:-1 tvg-id="" tvg-name="ICEACTOR - Jack Rayn" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEACTOR - Jack Rayn
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415270
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Gibi" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Gibi
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415271
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠  Leyla ile Mecun 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠  Leyla ile Mecun 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415272
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠  Ayak İşleri" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠  Ayak İşleri
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415273
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Muhtesem Yüzyıl" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Muhtesem Yüzyıl
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415274
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Survivor Cup" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Survivor Cup
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415275
-#EXTINF:-1 tvg-id="" tvg-name="ICEDOKU ➠  Escobar" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDOKU ➠  Escobar
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415311
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Leyla ile Mecnun 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Leyla ile Mecnun 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415325
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ İşler Güçler" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ İşler Güçler
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415239
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI-Güldür Güldür 3" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI-Güldür Güldür 3
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415242
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI- Karadayi" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI- Karadayi
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415243
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI- Karadayi-2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI- Karadayi-2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415244
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI-Kurtlar Vadisi" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI-Kurtlar Vadisi
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415245
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI-Kurtlar Vadisi 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI-Kurtlar Vadisi 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415246
-#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI- Konusanlar" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI- Konusanlar
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415247
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox KEMAL SUNAL 1 HD" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Blubox KEMAL SUNAL 1 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411312
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox KEMAL SUNAL 2 HD" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Blubox KEMAL SUNAL 2 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411313
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox KEMAL SUNAL 3 HD" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Blubox KEMAL SUNAL 3 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411314
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox KEMAL SUNAL 4 HD" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Blubox KEMAL SUNAL 4 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411315
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox KEMAL SUNAL 5 HD" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Blubox KEMAL SUNAL 5 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411316
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox Recep Ivedik HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: Blubox Recep Ivedik HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411317
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox YESILCAM 1 4K+" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Blubox YESILCAM 1 4K+
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411318
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox YESILCAM 2 4K+" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Blubox YESILCAM 2 4K+
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411319
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox YESILCAM 3 4K+" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Blubox YESILCAM 3 4K+
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411320
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox YESILCAM 4 4K+" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Blubox YESILCAM 4 4K+
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411321
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox YESILCAM 5 4K+" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Blubox YESILCAM 5 4K+
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411322
-#EXTINF:-1 tvg-id="" tvg-name="TR: Blubox YESILCAM 5 HD" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Blubox YESILCAM 5 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411323
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOLTV YESILCAM 1" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: SEMBOLTV YESILCAM 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411324
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOLTV YESILCAM 2" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: SEMBOLTV YESILCAM 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411325
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOLTV YESILCAM 3" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: SEMBOLTV YESILCAM 3
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411326
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOLTV YESILCAM 4" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: SEMBOLTV YESILCAM 4
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411327
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOLTV YESILCAM 5" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: SEMBOLTV YESILCAM 5
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411328
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOLTV YESILCAM 6" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: SEMBOLTV YESILCAM 6
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411329
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOLTV YESILCAM 7" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: SEMBOLTV YESILCAM 7
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411330
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABABAM SINIFI" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: HABABAM SINIFI
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411332
-#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM TV" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: YEŞİLÇAM TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411333
-#EXTINF:-1 tvg-id="" tvg-name="TR: Zeki & Metin TV" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: Zeki & Metin TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411334
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV KEMAL SUNAL 1" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: BONUSTV KEMAL SUNAL 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411335
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV KEMAL SUNAL 2" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: BONUSTV KEMAL SUNAL 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411336
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV KEMAL SUNAL 3" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: BONUSTV KEMAL SUNAL 3
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411337
-#EXTINF:-1 tvg-id="" tvg-name="TR: ŞENER ŞEN TV" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: ŞENER ŞEN TV
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411338
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOLTV KEMAL SUNAL 1" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: SEMBOLTV KEMAL SUNAL 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411339
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOLTV KEMAL SUNAL 2" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: SEMBOLTV KEMAL SUNAL 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411340
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOLTV KEMAL SUNAL 3" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: SEMBOLTV KEMAL SUNAL 3
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411341
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMBOLTV KEMAL SUNAL 4" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: SEMBOLTV KEMAL SUNAL 4
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411342
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV YESILCAM 1" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: BONUSTV YESILCAM 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411343
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV YESILCAM 2" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: BONUSTV YESILCAM 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411344
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV YESILCAM 3" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: BONUSTV YESILCAM 3
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411345
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV YESILCAM 4" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: BONUSTV YESILCAM 4
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411346
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 1 4K" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: TURKAsat KEMAL SUNAL 1 4K
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411347
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 2 4K" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: TURKAsat KEMAL SUNAL 2 4K
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411348
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 4 4K" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: TURKAsat KEMAL SUNAL 4 4K
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411349
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 5 4K" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: TURKAsat KEMAL SUNAL 5 4K
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411350
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 6 4K" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",TR: TURKAsat KEMAL SUNAL 6 4K
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411351
-#EXTINF:-1 tvg-id="" tvg-name="TR: NEXTBOX ACTION" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: NEXTBOX ACTION
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411352
-#EXTINF:-1 tvg-id="" tvg-name="TR: NEXTBOX DREAM" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: NEXTBOX DREAM
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411353
-#EXTINF:-1 tvg-id="" tvg-name="TR: NEXTBOX GOLD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: NEXTBOX GOLD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411354
-#EXTINF:-1 tvg-id="" tvg-name="TR: NEXTBOX TESLA" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: NEXTBOX TESLA
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411355
-#EXTINF:-1 tvg-id="" tvg-name="TR: NEXTBOX WALL" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: NEXTBOX WALL
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411356
-#EXTINF:-1 tvg-id="" tvg-name="TR: Nextbox Movie 1" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: Nextbox Movie 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411357
-#EXTINF:-1 tvg-id="" tvg-name="TR: Nextbox Movie 2" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: Nextbox Movie 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411358
-#EXTINF:-1 tvg-id="" tvg-name="TR: Nextbox Movie 3" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: Nextbox Movie 3
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411359
-#EXTINF:-1 tvg-id="" tvg-name="TR: Nextbox Movie 4" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: Nextbox Movie 4
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411360
-#EXTINF:-1 tvg-id="" tvg-name="TR: Nextbox Movie 5" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: Nextbox Movie 5
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411361
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 1 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 1 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411362
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 2 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 2 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411363
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 3 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 3 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411364
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 4 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 4 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411365
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 5 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 5 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411366
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 6 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 6 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411367
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 7 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 7 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411368
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 8 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 8 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411369
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 9 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 9 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411370
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 10 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 10 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411371
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 11 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 11 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411372
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 12 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 12 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411373
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 13 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 13 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411374
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 14 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 14 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411375
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 15 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 15 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411376
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 16 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 16 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411377
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 17 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 17 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411378
-#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 18 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: FİLMMODU SALON 18 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411379
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE 1" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: BOX OFFICE 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411384
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE 2" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: BOX OFFICE 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411385
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE 3" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: BOX OFFICE 3
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411386
-#EXTINF:-1 tvg-id="" tvg-name="TR: Max Aksiyon HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: Max Aksiyon HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411387
-#EXTINF:-1 tvg-id="" tvg-name="TR: Max Premier HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: Max Premier HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411388
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: MAX Vizyon HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411390
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: MAX Vizyon 2 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411391
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: MAX Vizyon 3 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411392
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 4 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: MAX Vizyon 4 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411393
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: MAX TURK HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411394
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: MAX GOLD HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411395
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: MAX 007 HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411397
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Hint Filimleri" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: MAX Hint Filimleri
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411398
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: MAX Orjinal HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411399
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: MAX STAR WARS HD
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411400
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSBOX TURK" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: BONUSBOX TURK
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411401
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV NETFLIX YERLI 1" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: BONUSTV NETFLIX YERLI 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411402
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV NETFLIX YERLI 2" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: BONUSTV NETFLIX YERLI 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411403
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV NETFLIX YERLI 3" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: BONUSTV NETFLIX YERLI 3
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411404
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV NETFLIX YERLI 4" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: BONUSTV NETFLIX YERLI 4
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411405
-#EXTINF:-1 tvg-id="" tvg-name="TR: BONUSTV NETFLIX YERLI 5" tvg-logo="" group-title="TR | 7/24 SINEMA",TR: BONUSTV NETFLIX YERLI 5
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411406
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423793
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423794
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 3
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423795
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 4" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 4
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423796
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Vizyon 5" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Vizyon 5
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423797
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠ Yerli Film 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠ Yerli Film 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423798
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Yerli  Film 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Yerli  Film 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423799
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Yabancı Filmler" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Yabancı Filmler
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423800
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠ İCEBOX-2022" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠ İCEBOX-2022
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423801
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Netfilix 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Netfilix 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423802
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Netfilix 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Netfilix 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423803
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Netfilix 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Netfilix 3
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423804
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠Amazon Prime" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠Amazon Prime
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423805
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Disney Plus 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Disney Plus 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423806
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Disney Plus 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Disney Plus 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423807
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Marvel" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Marvel
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423808
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠ Aksiyon 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠ Aksiyon 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423809
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM  ➠  Aksiyon 1 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM  ➠  Aksiyon 1 HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423810
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Aksiyon 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Aksiyon 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423811
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Polisiye-Savaş" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Polisiye-Savaş
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423812
+#EXTINF:-1 tvg-id="" tvg-name="ICEFILM ➠ Aile - Komedi" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEFILM ➠ Aile - Komedi
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423813
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠  Konuşanlar 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠  Konuşanlar 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423814
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠ Konuşanlar 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠ Konuşanlar 3
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423815
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠ Konuşanlar 4" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠ Konuşanlar 4
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423816
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠ Güldür Güldür 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠ Güldür Güldür 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423817
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠  Cem Yılmaz" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠  Cem Yılmaz
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423818
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠ Çok Güzel Hareketler Bunlar" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠ Çok Güzel Hareketler Bunlar
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423819
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠ Tolgshow Filtresiz" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW  ➠ Tolgshow Filtresiz
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423820
+#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠  Erşan Kuneri Sansürsüz" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICESHOW ➠  Erşan Kuneri Sansürsüz
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423821
+#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Şafak Sezer" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEAKTOR ➠ Şafak Sezer
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424001
+#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Arnold Schwarzenegger" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEAKTOR ➠ Arnold Schwarzenegger
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424002
+#EXTINF:-1 tvg-id="" tvg-name="ICEAKTOR ➠ Jason Statham" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEAKTOR ➠ Jason Statham
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424003
+#EXTINF:-1 tvg-id="" tvg-name="ICEACTOR - Jack Rayn" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",ICEACTOR - Jack Rayn
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424004
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TR: TV 100 HD" tvg-logo="https://imagizer.imageshack.com/img922/1266/FBSMZD.png" group-title="TR | ULUSAL",TR: TV 100 HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/248819
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN ERSAN KUNTERI" tvg-logo="" group-title="TR | 7/24 DİZİ",TR: EXXEN ERSAN KUNTERI
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/350976
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠ Konuşalar 4" tvg-logo="" group-title="TR | 7/24 SINEMA",ICESHOW ➠ Konuşalar 4
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415281
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠  Konuşanlar 2" tvg-logo="" group-title="TR | 7/24 SINEMA",ICESHOW ➠  Konuşanlar 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415282
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠ Konuşanlar 4" tvg-logo="" group-title="TR | 7/24 SINEMA",ICESHOW ➠ Konuşanlar 4
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415283
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠ Güldür Güldür" tvg-logo="" group-title="TR | 7/24 SINEMA",ICESHOW  ➠ Güldür Güldür
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415276
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠  Cem Yılmaz" tvg-logo="" group-title="TR | 7/24 SINEMA",ICESHOW  ➠  Cem Yılmaz
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415277
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW  ➠ Çok Güzel Hareketler Bunlar" tvg-logo="" group-title="TR | 7/24 SINEMA",ICESHOW  ➠ Çok Güzel Hareketler Bunlar
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415278
-#EXTINF:-1 tvg-id="" tvg-name="ICETVSHOW  ➠ Tolgshow Filtresiz" tvg-logo="" group-title="TR | 7/24 SINEMA",ICETVSHOW  ➠ Tolgshow Filtresiz
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415279
-#EXTINF:-1 tvg-id="" tvg-name="ICESHOW ➠  Erşan Kuneri Sansürsüz" tvg-logo="" group-title="TR | 7/24 SINEMA",ICESHOW ➠  Erşan Kuneri Sansürsüz
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415280
-#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK-Şömine Karışık Muzik" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK-Şömine Karışık Muzik
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415248
-#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK-Yıldız Tilbe- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK-Yıldız Tilbe- Şömine
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415253
-#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK-Sezen Aksu- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK-Sezen Aksu- Şömine
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415254
-#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK-İbiza- Remix" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK-İbiza- Remix
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415255
-#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK-Hakan- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK-Hakan- Şömine
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415256
-#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK-Slow Müzik" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK-Slow Müzik
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415257
-#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK-Cengiz- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK-Cengiz- Şömine
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415258
-#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCSM  ➠ Zeki & Metin" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCSM  ➠ Zeki & Metin
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415240
-#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Filiz Akın" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Filiz Akın
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415326
-#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Kemal Sunal" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Kemal Sunal
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415327
-#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Cuneyt Arkın" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Cuneyt Arkın
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415328
-#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Hababbam  Sınıfı" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Hababbam  Sınıfı
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415329
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK-Sevimli dostlar" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK-Sevimli dostlar
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415249
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Keloğlan Masalları" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Keloğlan Masalları
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415284
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Can Bebek" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Can Bebek
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415285
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Cailou" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Cailou
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415286
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Rafadan Tayfa" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Rafadan Tayfa
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415287
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Pocoyo" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Pocoyo
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415288
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Pırıl" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Pırıl
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415289
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Pijamaskeliler" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Pijamaskeliler
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415290
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSIYON 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX AKSIYON 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423711
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSIYON 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX AKSIYON 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423712
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSIYON 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX AKSIYON 3
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423713
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ANIMASYON 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX ANIMASYON 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423714
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ANIMASYON 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX ANIMASYON 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423715
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BELGESEL" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX BELGESEL
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423716
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BILIMKURGU 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX BILIMKURGU 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423717
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BILIMKURGU 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX BILIMKURGU 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423718
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 1 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 1 HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423658
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 2 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 2 HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423659
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 3 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 3 HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423660
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 4 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 4 HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423661
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 5 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 5 HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423662
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 6 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 6 HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423663
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 7 HD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",BOSS MOVIES 7 HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423664
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX 4K UHD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX 4K UHD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423665
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX 3D" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX 3D
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423666
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX VIZYON 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX VIZYON 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423667
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX VIZYON 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX VIZYON 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423668
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BOXSET" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX BOXSET
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423669
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BOXSET TURK" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX BOXSET TURK
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423670
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX TURK SINEMA 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX TURK SINEMA 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423672
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX TURK SINEMA 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX TURK SINEMA 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423673
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX TURK SINEMA 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX TURK SINEMA 3
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423674
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX DRAMA 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX DRAMA 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423675
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX DRAMA 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX DRAMA 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423676
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX DRAMA 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX DRAMA 3
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423677
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KOMEDI 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX KOMEDI 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423678
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KOMEDI 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX KOMEDI 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423679
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KOMEDI 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX KOMEDI 3
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423680
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KORKU 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX KORKU 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423681
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KORKU 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX KORKU 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423682
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KORKU 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX KORKU 3
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423683
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 1" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423684
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 2" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423685
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 3" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 3
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423686
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 4" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 4
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423687
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 5" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 5
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423688
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 6" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 6
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423689
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 7" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 7
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423690
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 8" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 8
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423691
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 9" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 9
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423692
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MIX 10" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MIX 10
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423693
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX 007___&gt;&gt;&gt;" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX 007___&gt;&gt;&gt;
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423719
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MARVEL" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX MARVEL
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423720
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX PREMIERE" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX PREMIERE
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423721
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KOVBOY" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX KOVBOY
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423722
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX STAR WARS" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX STAR WARS
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423723
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX GOLD" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX GOLD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423724
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX YESILCAM" tvg-logo="" group-title="TR | 7/24 SINEMA &  EGLENCE",REDBOX YESILCAM
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423725
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Behsat Ç. 1. Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Behsat Ç. 1. Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423894
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Behsat Ç 2.Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Behsat Ç 2.Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423895
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Behsat Ç 4.Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Behsat Ç 4.Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423896
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Behsat Ç 3.Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Behsat Ç 3.Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423897
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Çekiç ve Gül" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Çekiç ve Gül
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423898
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Ezel 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Ezel 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423899
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Ezel 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Ezel 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423900
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Kurtlar Vadisi 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Kurtlar Vadisi 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423901
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Kurtlar Vadisi 4" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Kurtlar Vadisi 4
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423902
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Kurtlar Vadisi 3" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Kurtlar Vadisi 3
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423903
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Kurtlar Vadisi 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Kurtlar Vadisi 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423904
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Diriliş Ertuğrul 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Diriliş Ertuğrul 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423905
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Diriliş Ertuğrul 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Diriliş Ertuğrul 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423906
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Karadayi" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Karadayi
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423907
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Karadayi-2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Karadayi-2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423908
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠  Çukur" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠  Çukur
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423909
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Kuzey - Güney" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Kuzey - Güney
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423910
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Bir Zamanlar Çukurova" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Bir Zamanlar Çukurova
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423911
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Muhtesem Yüzyıl" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Muhtesem Yüzyıl
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423912
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Aşk-ı Memnu" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Aşk-ı Memnu
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423913
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Gibi" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Gibi
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423914
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠  Leyla ile Mecun 1" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠  Leyla ile Mecun 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423915
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Leyla ile Mecnun 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Leyla ile Mecnun 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423916
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Aynen Aynen" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Aynen Aynen
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423917
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Ayak İşleri" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Ayak İşleri
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423918
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠  Ayak İşleri-2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠  Ayak İşleri-2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423919
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Survivor Cup" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Survivor Cup
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423920
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI   ➠  Dexter Blood" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI   ➠  Dexter Blood
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423921
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ İşler Güçler" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ İşler Güçler
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423922
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Kuzey - Güney 2" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Kuzey - Güney 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423923
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Camdaki Kız" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Camdaki Kız
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423924
+#EXTINF:-1 tvg-id="" tvg-name="ICESERI ➠ Andropoz" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERI ➠ Andropoz
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423925
+#EXTINF:-1 tvg-id="" tvg-name="ICESERI ➠ Terzi" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERI ➠ Terzi
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423926
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Pavyon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Pavyon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423927
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Alef" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Alef
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423928
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Kıyma" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Kıyma
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423929
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Saygı" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Saygı
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423930
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Hakan Muhafız" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Hakan Muhafız
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423931
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Atiye HD" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Atiye HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423932
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ 50 m²" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ 50 m²
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423933
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠ Zeytin Ağacı" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠ Zeytin Ağacı
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423934
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI ➠  Sahmaran" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI ➠  Sahmaran
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423935
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Bartu Ben" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Bartu Ben
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423936
+#EXTINF:-1 tvg-id="" tvg-name="ICESERI ➠ Black Mirror" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERI ➠ Black Mirror
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423937
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ La Case de Papel 1-2-3 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ La Case de Papel 1-2-3 Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423938
+#EXTINF:-1 tvg-id="" tvg-name="ICESERI ➠  La Casa de Papel 4-5 sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERI ➠  La Casa de Papel 4-5 sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423939
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Stranger Things 1-2.sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Stranger Things 1-2.sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423940
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Stranger Things 3-4 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Stranger Things 3-4 Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423941
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ The Umburella Acedmy" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ The Umburella Acedmy
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423942
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Breaking Bad 1-2 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Breaking Bad 1-2 Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423943
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Braking Bad 3-4-5 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Braking Bad 3-4-5 Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423944
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Viking 1-2-3 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Viking 1-2-3 Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423945
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Viking 4-5 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Viking 4-5 Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423946
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Viking 6 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Viking 6 Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423947
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Anne 1-2-3 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Anne 1-2-3 Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423948
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Peaky Blanders" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Peaky Blanders
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423949
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Lupin" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Lupin
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423950
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ You" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ You
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423951
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Manifest 1-2 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Manifest 1-2 Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423952
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠ Manifest 3-4 Sezon" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠ Manifest 3-4 Sezon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423953
+#EXTINF:-1 tvg-id="" tvg-name="ICESERIE ➠Sex Edication" tvg-logo="" group-title="TR | 7/24 DİZİ",ICESERIE ➠Sex Edication
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423954
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Squad Game" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Squad Game
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423955
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠ Emily Paris" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠ Emily Paris
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423956
+#EXTINF:-1 tvg-id="" tvg-name="ICEDIZI  ➠  You HD" tvg-logo="" group-title="TR | 7/24 DİZİ",ICEDIZI  ➠  You HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423957
 #EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Niloya" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Niloya
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415291
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Kral Şakir" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Kral Şakir
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415292
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Tom ve Jerry" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Tom ve Jerry
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415293
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Tatatam" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Tatatam
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415294
-#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Sungerbob" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Sungerbob
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415295
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423958
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Keloğlan Masalları" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Keloğlan Masalları
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423959
 #EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Şirinler" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Şirinler
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415296
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423960
 #EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Şirinler 2" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Şirinler 2
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415297
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423961
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Doru" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Doru
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423962
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Kral Şakir" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Kral Şakir
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423963
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Can Bebek" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Can Bebek
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423964
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Cailou" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Cailou
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423965
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Rafadan Tayfa" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Rafadan Tayfa
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423966
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Pocoyo" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Pocoyo
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423967
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Pijamaskeliler" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Pijamaskeliler
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423968
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Tom ve Jerry" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Tom ve Jerry
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423969
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Tatatam" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Tatatam
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423970
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK   ➠ Jonny Brova" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK   ➠ Jonny Brova
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423971
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Sungerbob" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Sungerbob
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423972
 #EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Sevimli Dostlar 1" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Sevimli Dostlar 1
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415298
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423973
 #EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Redkit" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Redkit
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415299
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423974
 #EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Robocar" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Robocar
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415300
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423975
 #EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠  Yade Yade" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠  Yade Yade
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415321
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423976
 #EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ 64 Kare  Ülkesi" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ 64 Kare  Ülkesi
-http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415322
-
-#EXTM3U
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423977
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Pırıl" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Pırıl
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423978
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Final Space" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Final Space
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423979
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Neşeli Tavşanlar" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Neşeli Tavşanlar
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423980
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Maymunlar Kralı" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Maymunlar Kralı
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423981
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Pokemon" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Pokemon
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423982
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Kaplan Daniel" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Kaplan Daniel
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423983
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Elif  ve Arkadaşları" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Elif  ve Arkadaşları
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423984
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Tarzan ve Jane" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Tarzan ve Jane
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423985
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Sonic Boom" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Sonic Boom
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423986
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Çılgın Çocuklar Kritik Görev" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Çılgın Çocuklar Kritik Görev
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423987
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK  ➠ Masal Kasabası" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK  ➠ Masal Kasabası
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423988
+#EXTINF:-1 tvg-id="" tvg-name="ICECOCUK-Sevimli dostlar" tvg-logo="" group-title="TR | 7/24 ÇOCUK",ICECOCUK-Sevimli dostlar
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423989
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Kemal Sunal" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Kemal Sunal
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423990
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Kemal Sunal 2" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Kemal Sunal 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423991
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM  ➠ Cüneyt Arkın" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM  ➠ Cüneyt Arkın
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423992
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Cüneyt Arkın 2" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Cüneyt Arkın 2
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423993
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Filiz Akın" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Filiz Akın
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423994
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Cuneyt Arkın" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Cuneyt Arkın
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423995
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Hababbam  Sınıfı" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Hababbam  Sınıfı
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423996
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Gülşen Bibikoğlu" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Gülşen Bibikoğlu
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423997
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Kartal Tibet" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Kartal Tibet
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423998
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCSM  ➠ Zeki & Metin" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCSM  ➠ Zeki & Metin
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423999
+#EXTINF:-1 tvg-id="" tvg-name="ICEYESILCAM ➠ Yeşilçam 1" tvg-logo="" group-title="TR | YEŞİLÇAM SİNEMA",ICEYESILCAM ➠ Yeşilçam 1
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424000
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT ÇOCUK HD" tvg-logo="" group-title="TR | ÇOCUK",TR: TRT ÇOCUK HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415478
-#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON" tvg-logo="" group-title="TR | ÇOCUK",TR: NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOONBUG KIDS TV" tvg-logo="" group-title="TR | ÇOCUK",TR: MOONBUG KIDS TV
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415479
 #EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK" tvg-logo="" group-title="TR | ÇOCUK",TR: MINIKA COCUK
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415480
-#EXTINF:-1 tvg-id="" tvg-name="TR: NICK JR HD" tvg-logo="" group-title="TR | ÇOCUK",TR: NICK JR HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICKTOONS HD" tvg-logo="" group-title="TR | ÇOCUK",TR: NICKTOONS HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415481
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY CHANNEL HD" tvg-logo="" group-title="TR | ÇOCUK",TR: DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY JR. HD" tvg-logo="" group-title="TR | ÇOCUK",TR: DISNEY JR. HD
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415482
 #EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK" tvg-logo="" group-title="TR | ÇOCUK",TR: CARTOON NETWORK
 http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/415483
+#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV" tvg-logo="" group-title="TR | ÇOCUK",TR: BABY TV
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421970
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG HD" tvg-logo="" group-title="TR | ÇOCUK",TR: BOOMERANG HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421971
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA GO" tvg-logo="" group-title="TR | ÇOCUK",TR: MINIKA GO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421972
+#EXTINF:-1 tvg-id="" tvg-name="TR: DUCK TV" tvg-logo="" group-title="TR | ÇOCUK",TR: DUCK TV
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421973
 #EXTINF:-1 tvg-id="" tvg-name="TR:SEMBOLTV ZAROK TV" tvg-logo="https://www.linkpicture.com/q/IVosjG_1.jpg" "group-title="TR | ÇOCUK",TR:ZAROK TV
 http://mdstream.net:8080/zid.maher_new/DWe4Now3hwhxq/1315
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX CIZGI FILM" tvg-logo="" group-title="TR | 7/24 ÇOCUK",REDBOX CIZGI FILM
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423726
+#EXTINF:-1 tvg-id="" tvg-name="REBDOX SCOOBY DOO" tvg-logo="" group-title="TR | 7/24 ÇOCUK",REBDOX SCOOBY DOO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423727
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX HAYALET CASPER" tvg-logo="" group-title="TR | 7/24 ÇOCUK",REDBOX HAYALET CASPER
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423728
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX WARNER BROS" tvg-logo="" group-title="TR | 7/24 ÇOCUK",REDBOX WARNER BROS
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423729
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX LiMON iLE ZEYTiN" tvg-logo="" group-title="TR | 7/24 ÇOCUK",REDBOX LiMON iLE ZEYTiN
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423730
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX RAFADAN TAYFA" tvg-logo="" group-title="TR | 7/24 ÇOCUK",REDBOX RAFADAN TAYFA
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423731
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX TAS DEVRI" tvg-logo="" group-title="TR | 7/24 ÇOCUK",REDBOX TAS DEVRI
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423732
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ARI MAYA" tvg-logo="" group-title="TR | 7/24 ÇOCUK",REDBOX ARI MAYA
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423733
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX HEIDI" tvg-logo="" group-title="TR | 7/24 ÇOCUK",REDBOX HEIDI
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423734
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX REDKIT" tvg-logo="" group-title="TR | 7/24 ÇOCUK",REDBOX REDKIT
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423735
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX SIRINLER" tvg-logo="" group-title="TR | 7/24 ÇOCUK",REDBOX SIRINLER
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423736
+#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ TURK MUZIK ✪✪✪✪✪" tvg-logo="" group-title="TR | MÜZİK",✪✪✪✪✪ TURK MUZIK ✪✪✪✪✪
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/97769
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK  ➠ 80-90 "lar" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK  ➠ 80-90 "lar
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424401
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK  ➠ Arabesk - Damar" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK  ➠ Arabesk - Damar
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424402
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Karadeniz Hareketli Kemence" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Karadeniz Hareketli Kemence
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424403
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Karadeniz Karışık" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Karadeniz Karışık
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424404
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Neşet Ertaş" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Neşet Ertaş
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424405
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Slow Karadeniz" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Slow Karadeniz
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424406
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠Ferdi Tayfur" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠Ferdi Tayfur
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424407
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Şömine Karışık Muzik" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Şömine Karışık Muzik
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424408
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Yıldız Tilbe- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Yıldız Tilbe- Şömine
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424409
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Sezen Aksu- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Sezen Aksu- Şömine
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424410
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ İbiza- Remix" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ İbiza- Remix
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424411
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Hakan Taşıyan- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Hakan Taşıyan- Şömine
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424412
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Slow Müzik" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Slow Müzik
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424413
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Cengiz- Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Cengiz- Şömine
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424414
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Gitar-Kanun -Şömine" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Gitar-Kanun -Şömine
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424415
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK ➠ Şömine 60-70" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK ➠ Şömine 60-70
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424416
+#EXTINF:-1 tvg-id="" tvg-name="ICEMUZIK  ➠ Emel Sayın" tvg-logo="" group-title="TR | MÜZİK",ICEMUZIK  ➠ Emel Sayın
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/424417
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akustik Şarkılar" tvg-logo="" group-title="TR | MÜZİK",TR: Akustik Şarkılar
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412958
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Ask FM" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Ask FM
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412965
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Baba FM" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Baba FM
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412966
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Damar FM" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Damar FM
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412967
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arabesk Radyo Efkar" tvg-logo="" group-title="TR | MÜZİK",TR: Arabesk Radyo Efkar
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412968
+#EXTINF:-1 tvg-id="" tvg-name="TR : Radyo Megasite" tvg-logo="" group-title="TR | MÜZİK",TR : Radyo Megasite
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412969
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Gebze FM" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Gebze FM
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412970
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo TRT TÜRKÜ" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo TRT TÜRKÜ
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412971
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Türkiyem" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Türkiyem
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412972
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Metropol" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Metropol
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412973
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR RADYO" tvg-logo="" group-title="TR | MÜZİK",TR: A SPOR RADYO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412976
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER RADYO" tvg-logo="" group-title="TR | MÜZİK",TR: A HABER RADYO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412977
+#EXTINF:-1 tvg-id="" tvg-name="TR: Radyo Arabesk FM" tvg-logo="" group-title="TR | MÜZİK",TR: Radyo Arabesk FM
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/412978
+#EXTINF:-1 tvg-id="" tvg-name="TR: IBRAHIM TATLISES TV" tvg-logo="" group-title="TR | MÜZİK",TR: IBRAHIM TATLISES TV
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/411331
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZİK ʜᴅ" tvg-logo="" group-title="TR | MÜZİK",TR: TRT MUZİK ʜᴅ
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/416380
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP ʜᴅ 1080" tvg-logo="" group-title="TR | MÜZİK",TR: KRAL POP ʜᴅ 1080
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/416381
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK  ʜᴅ 1080" tvg-logo="" group-title="TR | MÜZİK",TR: DREAM TURK  ʜᴅ 1080
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/416382
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWERTURK ʜᴅ 720" tvg-logo="" group-title="TR | MÜZİK",TR: POWERTURK ʜᴅ 720
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/416383
+#EXTINF:-1 tvg-id="" tvg-name="TR: NUMBER TURK ʜᴅ 720" tvg-logo="" group-title="TR | MÜZİK",TR: NUMBER TURK ʜᴅ 720
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/416384
+#EXTINF:-1 tvg-id="" tvg-name="TR: NUMBER 1 ʜᴅ 720" tvg-logo="" group-title="TR | MÜZİK",TR: NUMBER 1 ʜᴅ 720
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/416385
+#EXTINF:-1 tvg-id="" tvg-name="TR:DREAM TV ʜᴅ 1080" tvg-logo="" group-title="TR | MÜZİK",TR:DREAM TV ʜᴅ 1080
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/416386
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 ASK" tvg-logo="" group-title="TR | MÜZİK",TR: NR1 ASK
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421964
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 DAMAR" tvg-logo="" group-title="TR | MÜZİK",TR: NR1 DAMAR
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421965
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 DANCE" tvg-logo="" group-title="TR | MÜZİK",TR: NR1 DANCE
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421966
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 TURK HD" tvg-logo="" group-title="TR | MÜZİK",TR: NR1 TURK HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421967
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER HD" tvg-logo="" group-title="TR | MÜZİK",TR: POWER HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421968
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK HD" tvg-logo="" group-title="TR | MÜZİK",TR: POWER TURK HD
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/421969
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKUSTIK RADIO" tvg-logo="" group-title="TR | MÜZİK",REDBOX AKUSTIK RADIO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423694
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ESKI PLAK RADIO" tvg-logo="" group-title="TR | MÜZİK",REDBOX ESKI PLAK RADIO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423695
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ORHAN GENCEBAY RADIO" tvg-logo="" group-title="TR | MÜZİK",REDBOX ORHAN GENCEBAY RADIO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423696
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX SLOW RADIO" tvg-logo="" group-title="TR | MÜZİK",REDBOX SLOW RADIO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423697
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KORAY AVCI VODRADIO" tvg-logo="" group-title="TR | MÜZİK",REDBOX KORAY AVCI VODRADIO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423698
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ARABESK VOD RADIO" tvg-logo="" group-title="TR | MÜZİK",REDBOX ARABESK VOD RADIO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423699
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX TURKCE RAP RADIO" tvg-logo="" group-title="TR | MÜZİK",REDBOX TURKCE RAP RADIO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423700
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX FERDI TAYFUR RADIO" tvg-logo="" group-title="TR | MÜZİK",REDBOX FERDI TAYFUR RADIO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423701
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MUSLUM GURSES RADIO" tvg-logo="" group-title="TR | MÜZİK",REDBOX MUSLUM GURSES RADIO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423702
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX IBRAHIM TATLISES RADIO" tvg-logo="" group-title="TR | MÜZİK",REDBOX IBRAHIM TATLISES RADIO
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423703
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX TURKCE POP 7/24" tvg-logo="" group-title="TR | MÜZİK",REDBOX TURKCE POP 7/24
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423704
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ARABiC MUZiK" tvg-logo="" group-title="TR | MÜZİK",REDBOX ARABiC MUZiK
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423705
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ARABESK TV 7/24" tvg-logo="" group-title="TR | MÜZİK",REDBOX ARABESK TV 7/24
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423706
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX TURK RAP" tvg-logo="" group-title="TR | MÜZİK",REDBOX TURK RAP
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423707
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX ANKARA HAVASI" tvg-logo="" group-title="TR | MÜZİK",REDBOX ANKARA HAVASI
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423708
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX HIT TOP40" tvg-logo="" group-title="TR | MÜZİK",REDBOX HIT TOP40
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423709
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX OZGUN MUZIK" tvg-logo="" group-title="TR | MÜZİK",REDBOX OZGUN MUZIK
+http://amazingiptv.live:8080/Eyup7504/rzYqPuTBMkTQ/423710
 
 #EXTM3U
 #EXTINF:-1 group-title="TURK SINEMA KANALLAR", NTD YESILCAM SİNEMA 
